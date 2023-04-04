@@ -1,0 +1,755 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Птице — Википедия</title>
+<script>document.documentElement.className="client-js";(function(){var cookie=document.cookie.match(/(?:^|; )ruwikimwclientprefs=([^;]+)/);if(cookie){var featureName=cookie[1];document.documentElement.className=document.documentElement.className.replace(featureName+'-enabled',featureName+'-disabled');}}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"f058b460-c5fb-42f1-9d31-fb81c3f2f34e","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Птице","wgTitle":"Птице","wgCurRevisionId":119016038,"wgRevisionId":119016038,"wgArticleId":2882701,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":[
+"*"],"wgCategories":["Страницы с графиками","Википедия:Cite web (заменить webcitation-архив: deadlink no)","Страницы, использующие волшебные ссылки ISBN","Википедия:Статьи с источниками из Викиданных","ПРО:Города:Размер статьи: менее 1000 символов","ПРО:Города:Последняя правка: в позапрошлом году","Незавершённые статьи по географии Чехии","Википедия:Страницы с картами","Населённые пункты по алфавиту","Населённые пункты Среднечешского края"],"wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Птице","wgRelevantArticleId":2882701,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],
+"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":119016038,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":3000,"wgNoticeProject":"wikipedia","wgVector2022PreviewPages":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"русский","wgCoordinates":{"lat":50.05306,"lon":14.16556},"wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q1983266","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready",
+"user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.kartographer.style":"ready","ext.cite.styles":"ready","ext.graph.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.kartographer.link","ext.cite.ux-enhancements","ext.scribunto.logs","ext.graph.vega2","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.flaggedRevs.advanced","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents",
+"ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","oojs-ui.styles.icons-media","oojs-ui-core.icons","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.blpEditNotice","ext.gadget.wikibugs","ext.gadget.sidebarRelated","ext.gadget.navboxNavigation","ext.centralauth.centralautologin","ext.popups","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%2Cicons%7Cext.graph.styles%7Cext.kartographer.style%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"/></noscript>
+<meta name="generator" content="MediaWiki 1.40.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="max-image-preview:standard"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Ptice%2C_n%C3%A1ves.JPG/1200px-Ptice%2C_n%C3%A1ves.JPG"/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="900"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Ptice%2C_n%C3%A1ves.JPG/800px-Ptice%2C_n%C3%A1ves.JPG"/>
+<meta property="og:image:width" content="800"/>
+<meta property="og:image:height" content="600"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Ptice%2C_n%C3%A1ves.JPG/640px-Ptice%2C_n%C3%A1ves.JPG"/>
+<meta property="og:image:width" content="640"/>
+<meta property="og:image:height" content="480"/>
+<meta name="viewport" content="width=1000"/>
+<meta property="og:title" content="Птице — Википедия"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//ru.m.wikipedia.org/wiki/%D0%9F%D1%82%D0%B8%D1%86%D0%B5"/>
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%9F%D1%82%D0%B8%D1%86%D0%B5&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Википедия (ru)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%9F%D1%82%D0%B8%D1%86%D0%B5"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Птице rootpage-Птице skin-vector action-view"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	<div id="mw-indicator-0-coord" class="mw-indicator"><div class="mw-parser-output"><span class="coordinates plainlinks nourlexpansion" data-param="50_3_11_N_14_9_56_E_scale:100000_region:CZ_type:city"><span title="Показать карту"><a class="mw-kartographer-maplink" data-mw="interface" data-style="osm-intl" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:Map/12/50.05306/14.16556/ru" data-zoom="12" data-lat="50.05306" data-lon="14.16556" data-lang="ru" data-overlays="[&quot;_71361becf5f0324149d25046f6739cb97a99cdd4&quot;]">50°03′11″&#160;с.&#160;ш. 14°09′56″&#160;в.&#160;д.</a></span><sup class="geo-services noprint"><span class="geo-geohack" title="Карты и инструменты на GeoHack"><a class="external text" href="https://geohack.toolforge.org/geohack.php?language=ru&amp;pagename=%D0%9F%D1%82%D0%B8%D1%86%D0%B5&amp;params=50_3_11_N_14_9_56_E_scale:100000_region:CZ_type:city"><span>H</span></a></span><span class="geo-google" title="Это место на «Картах Google»"><a rel="nofollow" class="external text" href="//maps.google.com/maps?ll=50.05306,14.16556&amp;q=50.05306,14.16556&amp;spn=0.1,0.1&amp;t=h&amp;hl=ru"><span>G</span></a></span><span class="geo-yandex" title="Это место на «Яндекс.Картах»"><a rel="nofollow" class="external text" href="//yandex.ru/maps/?ll=14.16556,50.05306&amp;pt=14.16556,50.05306&amp;spn=0.1,0.1&amp;l=sat,skl"><span>Я</span></a></span><span class="geo-osm" title="Это место на карте OpenStreetMap"><a rel="nofollow" class="external text" href="https://www.openstreetmap.org/?mlat=50.05306&amp;mlon=14.16556&amp;zoom=12"><span>O</span></a></span></sup></span></div></div>
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Птице</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="ru" dir="ltr"><div class="mw-parser-output"><table class="infobox infobox-304742ab56f01529" style="" data-name="НП"><tbody><tr><td colspan="2" class="" style="text-align:center;">Община</td></tr><tr><th colspan="2" scope="colgroup" class="infobox-above" style="">Птице</th></tr><tr><td colspan="2" class="" style="text-align:center;"><span data-wikidata-property-id="P1705" class="no-wikidata"><span data-wikidata-property-id="P1448" class="no-wikidata">Ptice</span></span></td></tr><tr><td colspan="2" class="infobox-image" style=""> <span data-wikidata-claim-id="Q1983266$2B2EEB50-B3BD-4878-B699-7520FCCAB214" class="wikidata-claim" data-wikidata-property-id="P18"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Ptice,_n%C3%A1ves.JPG" class="image"><img alt="Ptice, náves.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Ptice%2C_n%C3%A1ves.JPG/290px-Ptice%2C_n%C3%A1ves.JPG" decoding="async" width="290" height="218" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Ptice%2C_n%C3%A1ves.JPG/435px-Ptice%2C_n%C3%A1ves.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Ptice%2C_n%C3%A1ves.JPG/580px-Ptice%2C_n%C3%A1ves.JPG 2x" data-file-width="2848" data-file-height="2136" /></a></span></span> </td></tr>
+<tr>
+<td colspan="2" class="plainlist" style="text-align:center;width:60%;padding:0;">
+<table role="presentation" style="background:inherit; border-collapse:collapse; width:100%; display:table; text-align:center;">
+<tbody><tr>
+<td style="vertical-align: middle"><span data-wikidata-claim-id="Q1983266$6E94AD8E-F799-4398-A9ED-A7144776F204" class="wikidata-claim" data-wikidata-property-id="P41"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Ptice_flag.jpg" class="image"><img alt="Флаг" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ptice_flag.jpg/160px-Ptice_flag.jpg" decoding="async" width="160" height="106" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ptice_flag.jpg/240px-Ptice_flag.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ptice_flag.jpg/320px-Ptice_flag.jpg 2x" data-file-width="756" data-file-height="500" /></a></span></span></td>
+<td style="vertical-align: middle"><span data-wikidata-claim-id="Q1983266$9754BD6F-002F-4DFF-B01F-990C1EF99906" class="wikidata-claim" data-wikidata-property-id="P94"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Ptice_CoA.jpg" class="image"><img alt="Герб" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ptice_CoA.jpg/90px-Ptice_CoA.jpg" decoding="async" width="90" height="97" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ptice_CoA.jpg/135px-Ptice_CoA.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ptice_CoA.jpg/180px-Ptice_CoA.jpg 2x" data-file-width="463" data-file-height="500" /></a></span></span></td>
+</tr>
+<tr>
+<td>Флаг</td>
+<td>Герб</td>
+</tr></tbody></table></td>
+</tr>
+<tr>
+<td colspan="2" class="plainlist" style="text-align:center;width:60%;text-align: center; padding-bottom:0.25em;">
+<span class="coordinates plainlinks nourlexpansion" data-param="50_3_11_N_14_9_56_E_scale:100000_region:CZ_type:city"><span title="Показать карту"><a class="mw-kartographer-maplink" data-mw="interface" data-style="osm-intl" href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:Map/12/50.05306/14.16556/ru" data-zoom="12" data-lat="50.05306" data-lon="14.16556" data-lang="ru" data-overlays="[&quot;_71361becf5f0324149d25046f6739cb97a99cdd4&quot;]">50°03′11″&#160;с.&#160;ш. 14°09′56″&#160;в.&#160;д.</a></span><sup class="geo-services noprint"><span class="geo-geohack" title="Карты и инструменты на GeoHack"><a class="external text" href="https://geohack.toolforge.org/geohack.php?language=ru&amp;pagename=%D0%9F%D1%82%D0%B8%D1%86%D0%B5&amp;params=50_3_11_N_14_9_56_E_scale:100000_region:CZ_type:city"><span>H</span></a></span><span class="geo-google" title="Это место на «Картах Google»"><a rel="nofollow" class="external text" href="//maps.google.com/maps?ll=50.05306,14.16556&amp;q=50.05306,14.16556&amp;spn=0.1,0.1&amp;t=h&amp;hl=ru"><span>G</span></a></span><span class="geo-yandex" title="Это место на «Яндекс.Картах»"><a rel="nofollow" class="external text" href="//yandex.ru/maps/?ll=14.16556,50.05306&amp;pt=14.16556,50.05306&amp;spn=0.1,0.1&amp;l=sat,skl"><span>Я</span></a></span><span class="geo-osm" title="Это место на карте OpenStreetMap"><a rel="nofollow" class="external text" href="https://www.openstreetmap.org/?mlat=50.05306&amp;mlon=14.16556&amp;zoom=12"><span>O</span></a></span></sup></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;">Страна</th>
+<td class="plainlist" style="width:60%;">
+<ul><li><span data-wikidata-claim-id="q1983266$BD8E52AC-06D5-421B-815A-2B251C82409B" class="wikidata-claim" data-wikidata-property-id="P17"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/20px-Flag_of_the_Czech_Republic.svg.png" decoding="async" width="20" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/30px-Flag_of_the_Czech_Republic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/40px-Flag_of_the_Czech_Republic.svg.png 2x" data-file-width="900" data-file-height="600" />&#160;<span class="country-name"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A7%D0%B5%D1%85%D0%B8%D1%8F" title="Чехия">Чехия</a></span></span></span></li></ul></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;"><a href="/wiki/%D0%9A%D1%80%D0%B0%D0%B9_(%D0%A7%D0%B5%D1%85%D0%B8%D1%8F)" class="mw-redirect" title="Край (Чехия)">Край</a></th>
+<td class="plainlist" style="width:60%;">
+<a href="/wiki/%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B5%D1%87%D0%B5%D1%88%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D1%80%D0%B0%D0%B9" title="Среднечешский край">Среднечешский край</a></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;"><a href="/wiki/%D0%A0%D0%B0%D0%B9%D0%BE%D0%BD" title="Район">Район</a></th>
+<td class="plainlist" style="width:60%;">
+<a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B3%D0%B0-%D0%B7%D0%B0%D0%BF%D0%B0%D0%B4" title="Прага-запад">Прага-запад</a></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;"><a href="/wiki/%D0%9E%D0%B1%D1%89%D0%B8%D0%BD%D0%B0_%D1%81_%D1%80%D0%B0%D1%81%D1%88%D0%B8%D1%80%D0%B5%D0%BD%D0%BD%D1%8B%D0%BC%D0%B8_%D0%BF%D0%BE%D0%BB%D0%BD%D0%BE%D0%BC%D0%BE%D1%87%D0%B8%D1%8F%D0%BC%D0%B8" class="mw-redirect" title="Община с расширенными полномочиями">ОРП</a></th>
+<td class="plainlist" style="width:60%;">
+<a href="/wiki/%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D1%88%D0%B8%D1%86%D0%B5" title="Черношице">Черношице</a></td>
+</tr>
+<tr>
+<th colspan="2" scope="colgroup" class="infobox-header" style="">История и география</th>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;">Первое упоминание</th>
+<td class="plainlist" style="width:60%;">
+<span data-wikidata-claim-id="Q1983266$A3318A1A-A772-4069-BAB1-05EC13750FAE" class="wikidata-claim" data-wikidata-property-id="P1249"><span class="wikidata-snak wikidata-main-snak"><span class="nowrap"><a href="/wiki/1328_%D0%B3%D0%BE%D0%B4" title="1328 год">1328</a></span></span><sup id="cite_ref-_3712ef739ef464be_1-0" class="reference"><a href="#cite_note-_3712ef739ef464be-1">&#91;1&#93;</a></sup></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;">Площадь</th>
+<td class="plainlist" style="width:60%;">
+<ul><li><span data-wikidata-claim-id="Q1983266$0BB9169A-6AF5-403E-97DD-2A1829DAEF3D" class="wikidata-claim" data-wikidata-property-id="P2046"><span class="wikidata-snak wikidata-main-snak">7,815399&#160;км²</span><sup id="cite_ref-_6f889930b246b377_2-0" class="reference"><a href="#cite_note-_6f889930b246b377-2">&#91;2&#93;</a></sup></span></li></ul></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;"><a href="/wiki/%D0%92%D1%8B%D1%81%D0%BE%D1%82%D0%B0_%D0%BD%D0%B0%D0%B4_%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D0%B5%D0%BC_%D0%BC%D0%BE%D1%80%D1%8F" title="Высота над уровнем моря">Высота центра</a></th>
+<td class="plainlist" style="width:60%;">
+<span data-wikidata-claim-id="Q1983266$36B3DB0B-DE9E-4BF0-91EA-887155BE1439" class="wikidata-claim" data-wikidata-property-id="P2044"><span class="wikidata-snak wikidata-main-snak">408&#160;м</span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;"><a href="/wiki/%D0%A7%D0%B0%D1%81%D0%BE%D0%B2%D0%BE%D0%B9_%D0%BF%D0%BE%D1%8F%D1%81" title="Часовой пояс">Часовой пояс</a></th>
+<td class="plainlist" style="width:60%;">
+<span data-wikidata-property-id="P421" class="no-wikidata"><a href="/wiki/UTC%2B1:00" title="UTC+1:00">UTC+1:00</a>, <a href="/wiki/%D0%9B%D0%B5%D1%82%D0%BD%D0%B5%D0%B5_%D0%B2%D1%80%D0%B5%D0%BC%D1%8F" title="Летнее время">летом</a> <a href="/wiki/UTC%2B2:00" title="UTC+2:00">UTC+2:00</a></span></td>
+</tr>
+<tr>
+<th colspan="2" scope="colgroup" class="infobox-header" style="">Население</th>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;">Население</th>
+<td class="plainlist" style="width:60%;">
+<ul><li><span style="color: red; font-size: larger;">▼</span><span class="wikidata-snak wikidata-main-snak">948&#160;чел.</span> (<span data-wikidata-hash="f9b7f4a2a4c7a80d24e8e3b43506284fc9607b91" class="wikidata-snak"><span class="nowrap"><a href="/wiki/1_%D1%8F%D0%BD%D0%B2%D0%B0%D1%80%D1%8F" title="1 января">1 января</a> <a href="/wiki/2022_%D0%B3%D0%BE%D0%B4" title="2022 год">2022</a></span></span>)<sup id="cite_ref-_30bec0b8734bc3c0_3-0" class="reference"><a href="#cite_note-_30bec0b8734bc3c0-3">&#91;3&#93;</a></sup></li></ul></td>
+</tr>
+<tr>
+<th colspan="2" scope="colgroup" class="infobox-header" style="">Цифровые идентификаторы</th>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;"><a href="/wiki/%D0%9F%D0%BE%D1%87%D1%82%D0%BE%D0%B2%D1%8B%D0%B9_%D0%B8%D0%BD%D0%B4%D0%B5%D0%BA%D1%81" title="Почтовый индекс">Почтовый индекс</a></th>
+<td class="plainlist" style="width:60%;">
+<span data-wikidata-claim-id="Q1983266$91A1BE0D-C922-4E9B-8202-550B63E88AF8" class="wikidata-claim" data-wikidata-property-id="P281"><span class="wikidata-snak wikidata-main-snak">252&#160;18</span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;"><a href="/wiki/%D0%90%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BD%D0%BE%D0%BC%D0%B5%D1%80" title="Автомобильный номер">Автомобильный код</a></th>
+<td class="plainlist" style="width:60%;">
+<span data-wikidata-claim-id="Q1983266$27122DF2-8D0A-4188-9C0F-9FF370C65AE5" class="wikidata-claim" data-wikidata-property-id="P395"><span class="wikidata-snak wikidata-main-snak">PZ</span></span></td>
+</tr>
+<tr>
+<th colspan="2" scope="colgroup" class="infobox-header" style="">Прочее</th>
+</tr>
+<tr>
+<th scope="row" class="plainlist" style="width:40%;">Карта района Прага-запад</th>
+<td class="plainlist" style="width:60%;">
+<a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Ptice_PZ_CZ.png" class="image"><img alt="Ptice PZ CZ.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Ptice_PZ_CZ.png/160px-Ptice_PZ_CZ.png" decoding="async" width="160" height="163" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Ptice_PZ_CZ.png/240px-Ptice_PZ_CZ.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Ptice_PZ_CZ.png/320px-Ptice_PZ_CZ.png 2x" data-file-width="947" data-file-height="962" /></a></td>
+</tr>
+<tr>
+<td colspan="2" class="plainlist" style="text-align:center;width:60%;">
+<span data-wikidata-claim-id="Q1983266$63CC443C-49A1-4EDF-BB1B-E7C5FBE3A8B2" class="wikidata-claim" data-wikidata-property-id="P856"><span class="wikidata-snak wikidata-main-snak"><a rel="nofollow" class="external text" href="http://www.obecptice.cz/">obecptice.cz</a></span></span></td>
+</tr>
+<tr>
+<th colspan="2" scope="colgroup" class="infobox-header mw-customtoggle-maps1 nomobile noprint" style="min-width: 297px; font-weight:normal;"><span style="border-bottom:1px dotted;">Показать/скрыть карты</span></th>
+</tr>
+<tr>
+<td colspan="2" class="plainlist" style="text-align:center;width:60%;padding: 0 1px 1px 0;">
+<div class="mw-collapsible mw-collapsed" id="mw-customcollapsible-maps1">
+<div class="mw-collapsible-content" style="margin-top: 2px;"><style data-mw-deduplicate="TemplateStyles:r117334243">.mw-parser-output .ts-ПозКарта-метка{font-size:88%;line-height:1.2em;position:absolute;z-index:2}.mw-parser-output .ts-ПозКарта-метка-точка{position:relative;float:left;line-height:0}.mw-parser-output .ts-ПозКарта-метка-ссылка{position:absolute;width:156px;top:-0.5em}</style><div class="location-map" style="width:290px; ;;margin:0 auto"><div class=""><div class="thumbimage" style="overflow:hidden;max-width:100%;width:290px;position:relative; ;"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Czech_Republic_adm_location_map.svg" class="image" title="Птице на карте"><img alt="Птице на карте" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Czech_Republic_adm_location_map.svg/290px-Czech_Republic_adm_location_map.svg.png" decoding="async" width="290" height="176" class="notpageimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/Czech_Republic_adm_location_map.svg/435px-Czech_Republic_adm_location_map.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/Czech_Republic_adm_location_map.svg/580px-Czech_Republic_adm_location_map.svg.png 2x" data-file-width="1004" data-file-height="611" /></a><div class="ts-ПозКарта-метка" style="left:31.97%; top:41.56%"><div class="ts-ПозКарта-метка-точка" style="left:-4px; top:-4px;"><img alt="Птице" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Red_pog.png/9px-Red_pog.png" decoding="async" title="Птице" width="9" height="9" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Red_pog.png/14px-Red_pog.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Red_pog.png/18px-Red_pog.png 2x" data-file-width="64" data-file-height="64" /></div><div class="ts-ПозКарта-метка-ссылка" style="text-align: left; left: 6.5px">Птице</div></div></div></div></div></div></div></td>
+</tr><tr><td colspan="2" class="infobox-below" style=";"><span data-wikidata-claim-id="q1983266$1758AC7F-8DDE-4DDA-8D91-F70CA107BE7B" class="wikidata-claim" data-wikidata-property-id="P373"><span class="wikidata-snak wikidata-main-snak"><a href="https://commons.wikimedia.org/wiki/Category:Ptice" title="commons:Category:Ptice"><img alt="Логотип Викисклада" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" decoding="async" width="15" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a>&#160;<a href="https://commons.wikimedia.org/wiki/Category:Ptice" class="extiw" title="commons:Category:Ptice">Медиафайлы на Викискладе</a></span></span></td></tr>
+</tbody></table>
+<p><b>Птице</b> (<a href="/wiki/%D0%A7%D0%B5%D1%88%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Чешский язык">чеш.</a> <span lang="cs" style="font-style:italic;">Ptice</span>) — община в <a href="/wiki/%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B5%D1%87%D0%B5%D1%88%D1%81%D0%BA%D0%B8%D0%B9_%D0%BA%D1%80%D0%B0%D0%B9" title="Среднечешский край">Среднечешском крае</a> <a href="/wiki/%D0%A7%D0%B5%D1%85%D0%B8%D1%8F" title="Чехия">Чехии</a>. Административно относится к <a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B3%D0%B0-%D0%B7%D0%B0%D0%BF%D0%B0%D0%B4_(%D1%80%D0%B0%D0%B9%D0%BE%D0%BD)" class="mw-redirect" title="Прага-запад (район)">району Прага-запад</a>. Площадь общины составляет 7,81 км². Население — 611 чел. (<a href="/wiki/2010" class="mw-redirect" title="2010">2010</a>)<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="ru" dir="ltr"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#История"><span class="tocnumber">1</span> <span class="toctext">История</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Население"><span class="tocnumber">2</span> <span class="toctext">Население</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Примечания"><span class="tocnumber">3</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Ссылки"><span class="tocnumber">4</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+
+<h2><span id=".D0.98.D1.81.D1.82.D0.BE.D1.80.D0.B8.D1.8F"></span><span class="mw-headline" id="История">История</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D1%82%D0%B8%D1%86%D0%B5&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Редактировать раздел «История»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D1%82%D0%B8%D1%86%D0%B5&amp;action=edit&amp;section=1" title="Редактировать раздел «История»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Первое упоминание об общине датируется <a href="/wiki/1328_%D0%B3%D0%BE%D0%B4" title="1328 год">1328 годом</a>.
+</p>
+<h2><span id=".D0.9D.D0.B0.D1.81.D0.B5.D0.BB.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Население">Население</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D1%82%D0%B8%D1%86%D0%B5&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Редактировать раздел «Население»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D1%82%D0%B8%D1%86%D0%B5&amp;action=edit&amp;section=2" title="Редактировать раздел «Население»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r128571364"></style><div class="center" style="width:auto; margin-left:auto; margin-right:auto;"><div style="display: inline-block; vertical-align: bottom;"><div class="mw-graph mw-graph-always mw-graph-nofallback" style="min-width:500px;min-height:250px" data-graph-id="66b08eeae8c04eda4ced8e17a4dc352255cc601e"></div></div></div>
+<style data-mw-deduplicate="TemplateStyles:r128593523">.mw-parser-output .ts-wikidata-population-table{padding-top:1em;column-width:11em;max-width:60em}.mw-parser-output .ts-wikidata-population-table table{display:block;margin-top:0;border:0;background:transparent}.mw-parser-output .ts-wikidata-population-table tbody,.mw-parser-output .ts-wikidata-population-table tr{display:block}.mw-parser-output .ts-wikidata-population-table tr{margin-bottom:-1px}.mw-parser-output .ts-wikidata-population-table tr:last-child{margin-bottom:0}.mw-parser-output .ts-wikidata-population-table tr,.mw-parser-output .ts-wikidata-population-table th,.mw-parser-output .ts-wikidata-population-table td{break-inside:avoid}.mw-parser-output .ts-wikidata-population-table th{width:3em}.mw-parser-output .ts-wikidata-population-table th+th{width:7em}.mw-parser-output .ts-wikidata-population-table td{width:6em;background:#f8f9fa}.mw-parser-output .ts-wikidata-population-table td+td{width:1em}</style><div class="ts-wikidata-population-table">
+<table class="wikitable">
+
+<tbody><tr>
+<th scope="col">Год</th>
+<th scope="colgroup" colspan="2">Численность
+</th></tr>
+
+<tr>
+<th scope="row"><span data-wikidata-hash="432cd5f5477c254948904e4dd1b0c52cf96b502a" class="wikidata-snak"><span class="nowrap"><a href="/wiki/1869_%D0%B3%D0%BE%D0%B4" title="1869 год">1869</a></span></span>
+</th>
+<td style="text-align: right; border-right: none; padding-right: 0;"><span class="wikidata-snak wikidata-main-snak">460</span>
+</td>
+<td style="text-align: left; border-left: none; padding-left: 0;"><sup id="cite_ref-_6cb4ccc318568d76_5-0" class="reference"><a href="#cite_note-_6cb4ccc318568d76-5">&#91;5&#93;</a></sup>
+</td></tr>
+<tr>
+<th scope="row"><span data-wikidata-hash="1f9655a62ed082892001244f6070bee08907b8e1" class="wikidata-snak"><span class="nowrap"><a href="/wiki/1880_%D0%B3%D0%BE%D0%B4" title="1880 год">1880</a></span></span>
+</th>
+<td style="text-align: right; border-right: none; padding-right: 0;"><span class="wikidata-snak wikidata-main-snak">502</span>
+</td>
+<td style="text-align: left; border-left: none; padding-left: 0;"><sup id="cite_ref-_6cb4ccc318568d76_5-1" class="reference"><a href="#cite_note-_6cb4ccc318568d76-5">&#91;5&#93;</a></sup>
+</td></tr>
+<tr>
+<th scope="row"><span data-wikidata-hash="e7df0d35148a3b17409b2ccd42abc4cba405789d" class="wikidata-snak"><span class="nowrap"><a href="/wiki/1890_%D0%B3%D0%BE%D0%B4" title="1890 год">1890</a></span></span>
+</th>
+<td style="text-align: right; border-right: none; padding-right: 0;"><span class="wikidata-snak wikidata-main-snak">538</span>
+</td>
+<td style="text-align: left; border-left: none; padding-left: 0;"><sup id="cite_ref-_6cb4ccc318568d76_5-2" class="reference"><a href="#cite_note-_6cb4ccc318568d76-5">&#91;5&#93;</a></sup>
+</td></tr>
+<tr>
+<th scope="row"><span data-wikidata-hash="5c0da2ebb5badd7869eee8e3cf1569eae0ba165e" class="wikidata-snak"><span class="nowrap"><a href="/wiki/1900_%D0%B3%D0%BE%D0%B4" title="1900 год">1900</a></span></span>
+</th>
+<td style="text-align: right; border-right: none; padding-right: 0;"><span class="wikidata-snak wikidata-main-snak">544</span>
+</td>
+<td style="text-align: left; border-left: none; padding-left: 0;"><sup id="cite_ref-_6cb4ccc318568d76_5-3" class="reference"><a href="#cite_note-_6cb4ccc318568d76-5">&#91;5&#93;</a></sup>
+</td></tr>
+<tr>
+<th scope="row"><span data-wikidata-hash="c89bb9c11f1ac318ea64c2600bb94a302192a516" class="wikidata-snak"><span class="nowrap"><a href="/wiki/1910_%D0%B3%D0%BE%D0%B4" title="1910 год">1910</a></span></span>
+</th>
+<td style="text-align: right; border-right: none; padding-right: 0;"><span class="wikidata-snak wikidata-main-snak">592</span>
+</td>
+<td style="text-align: left; border-left: none; padding-left: 0;"><sup id="cite_ref-_6cb4ccc318568d76_5-4" class="reference"><a href="#cite_note-_6cb4ccc318568d76-5">&#91;5&#93;</a></sup>
+</td></tr>
+<tr>
+<th scope="row"><span data-wikidata-hash="4d16e5918c56db6eb8fe36f794d10de6e84241b4" class="wikidata-snak"><span class="nowrap"><a href="/wiki/1921_%D0%B3%D0%BE%D0%B4" title="1921 год">1921</a></span></span>
+</th>
+<td style="text-align: right; border-right: none; padding-right: 0;"><span class="wikidata-snak wikidata-main-snak">568</span>
+</td>
+<td style="text-align: left; border-left: none; padding-left: 0;"><sup id="cite_ref-_6cb4ccc318568d76_5-5" class="reference"><a href="#cite_note-_6cb4ccc318568d76-5">&#91;5&#93;</a></sup>
+</td></tr>
+<tr>
+<th scope="row"><span data-wikidata-hash="da1f650d2db730cd8a8a6e5eef8d9a3d9745117b" class="wikidata-snak"><span class="nowrap"><a href="/wiki/1930_%D0%B3%D0%BE%D0%B4" title="1930 год">1930</a></span></span>
+</th>
+<td style="text-align: right; border-right: none; padding-right: 0;"><span class="wikidata-snak wikidata-main-snak">494</span>
+</td>
+<td style="text-align: left; border-left: none; padding-left: 0;"><sup id="cite_ref-_6cb4ccc318568d76_5-6" class="reference"><a href="#cite_note-_6cb4ccc318568d76-5">&#91;5&#93;</a></sup>
+</td></tr>
+<tr>
+<th scope="row"><span data-wikidata-hash="17dd67bcdcc36ccff7727d073c05ad81b0a91c9e" class="wikidata-snak"><span class="nowrap"><a href="/wiki/1950_%D0%B3%D0%BE%D0%B4" title="1950 год">1950</a></span></span>
+</th>
+<td style="text-align: right; border-right: none; padding-right: 0;"><span class="wikidata-snak wikidata-main-snak">438</span>
+</td>
+<td style="text-align: left; border-left: none; padding-left: 0;"><sup id="cite_ref-_6cb4ccc318568d76_5-7" class="reference"><a href="#cite_note-_6cb4ccc318568d76-5">&#91;5&#93;</a></sup>
+</td></tr>
+<tr>
+<th scope="row"><span data-wikidata-hash="47482ec5595511d899263f7ffc2f8f96f20842a5" class="wikidata-snak"><span class="nowrap"><a href="/wiki/1961_%D0%B3%D0%BE%D0%B4" title="1961 год">1961</a></span></span>
+</th>
+<td style="text-align: right; border-right: none; padding-right: 0;"><span class="wikidata-snak wikidata-main-snak">446</span>
+</td>
+<td style="text-align: left; border-left: none; padding-left: 0;"><sup id="cite_ref-_6cb4ccc318568d76_5-8" class="reference"><a href="#cite_note-_6cb4ccc318568d76-5">&#91;5&#93;</a></sup>
+</td></tr>
+<tr>
+<th scope="row"><span data-wikidata-hash="d9d9f81abb7d81e71be0a2b6be20ead732026732" class="wikidata-snak"><span class="nowrap"><a href="/wiki/1970_%D0%B3%D0%BE%D0%B4" title="1970 год">1970</a></span></span>
+</th>
+<td style="text-align: right; border-right: none; padding-right: 0;"><span class="wikidata-snak wikidata-main-snak">424</span>
+</td>
+<td style="text-align: left; border-left: none; padding-left: 0;"><sup id="cite_ref-_6cb4ccc318568d76_5-9" class="reference"><a href="#cite_note-_6cb4ccc318568d76-5">&#91;5&#93;</a></sup>
+</td></tr>
+<tr>
+<th scope="row"><span data-wikidata-hash="1be1baec1c98ab1b04d27ea0e4449c5393d611b2" class="wikidata-snak"><span class="nowrap"><a href="/wiki/1980_%D0%B3%D0%BE%D0%B4" title="1980 год">1980</a></span></span>
+</th>
+<td style="text-align: right; border-right: none; padding-right: 0;"><span class="wikidata-snak wikidata-main-snak">379</span>
+</td>
+<td style="text-align: left; border-left: none; padding-left: 0;"><sup id="cite_ref-_6cb4ccc318568d76_5-10" class="reference"><a href="#cite_note-_6cb4ccc318568d76-5">&#91;5&#93;</a></sup>
+</td></tr>
+<tr>
+<th scope="row"><span data-wikidata-hash="1014cb12fc31c9bc66e82f9e0720f4d8b7fd06d5" class="wikidata-snak"><span class="nowrap"><a href="/wiki/1991_%D0%B3%D0%BE%D0%B4" title="1991 год">1991</a></span></span>
+</th>
+<td style="text-align: right; border-right: none; padding-right: 0;"><span class="wikidata-snak wikidata-main-snak">346</span>
+</td>
+<td style="text-align: left; border-left: none; padding-left: 0;"><sup id="cite_ref-_6cb4ccc318568d76_5-11" class="reference"><a href="#cite_note-_6cb4ccc318568d76-5">&#91;5&#93;</a></sup>
+</td></tr>
+<tr>
+<th scope="row"><span data-wikidata-hash="016a1a6e205a0226d5970575e1d1b7a4cd6ed23c" class="wikidata-snak"><span class="nowrap"><a href="/wiki/2001_%D0%B3%D0%BE%D0%B4" title="2001 год">2001</a></span></span>
+</th>
+<td style="text-align: right; border-right: none; padding-right: 0;"><span class="wikidata-snak wikidata-main-snak">397</span>
+</td>
+<td style="text-align: left; border-left: none; padding-left: 0;"><sup id="cite_ref-_6cb4ccc318568d76_5-12" class="reference"><a href="#cite_note-_6cb4ccc318568d76-5">&#91;5&#93;</a></sup>
+</td></tr>
+<tr>
+<th scope="row"><span data-wikidata-hash="489481dca5f5660d9fe15875b4dc94a57389e4bd" class="wikidata-snak"><span class="nowrap"><a href="/wiki/2014_%D0%B3%D0%BE%D0%B4" title="2014 год">2014</a></span></span>
+</th>
+<td style="text-align: right; border-right: none; padding-right: 0;"><span class="wikidata-snak wikidata-main-snak">730</span>
+</td>
+<td style="text-align: left; border-left: none; padding-left: 0;"><sup id="cite_ref-_0967098bcf6418f2_6-0" class="reference"><a href="#cite_note-_0967098bcf6418f2-6">&#91;6&#93;</a></sup>
+</td></tr>
+<tr>
+<th scope="row"><span data-wikidata-hash="f8f70bcd7fd470168c41c50a7dcab5fb75414164" class="wikidata-snak"><span class="nowrap"><a href="/wiki/2016_%D0%B3%D0%BE%D0%B4" title="2016 год">2016</a></span></span>
+</th>
+<td style="text-align: right; border-right: none; padding-right: 0;"><span class="wikidata-snak wikidata-main-snak">782</span>
+</td>
+<td style="text-align: left; border-left: none; padding-left: 0;"><sup id="cite_ref-_521c0c7054e28b0e_7-0" class="reference"><a href="#cite_note-_521c0c7054e28b0e-7">&#91;7&#93;</a></sup>
+</td></tr>
+<tr>
+<th scope="row"><span data-wikidata-hash="c9843c0451eab35bdc526364b00abb66887fe269" class="wikidata-snak"><span class="nowrap"><a href="/wiki/2017_%D0%B3%D0%BE%D0%B4" title="2017 год">2017</a></span></span>
+</th>
+<td style="text-align: right; border-right: none; padding-right: 0;"><span class="wikidata-snak wikidata-main-snak">793</span>
+</td>
+<td style="text-align: left; border-left: none; padding-left: 0;"><sup id="cite_ref-_64247fd76f483fb2_8-0" class="reference"><a href="#cite_note-_64247fd76f483fb2-8">&#91;8&#93;</a></sup>
+</td></tr>
+<tr>
+<th scope="row"><span data-wikidata-hash="2ff9f2abd718876c309be62236757815728cb215" class="wikidata-snak"><span class="nowrap"><a href="/wiki/2018_%D0%B3%D0%BE%D0%B4" title="2018 год">2018</a></span></span>
+</th>
+<td style="text-align: right; border-right: none; padding-right: 0;"><span class="wikidata-snak wikidata-main-snak">842</span>
+</td>
+<td style="text-align: left; border-left: none; padding-left: 0;"><sup id="cite_ref-_4a0531aa0ce5798b_9-0" class="reference"><a href="#cite_note-_4a0531aa0ce5798b-9">&#91;9&#93;</a></sup>
+</td></tr>
+<tr>
+<th scope="row"><span data-wikidata-hash="d4fea230c3152c6f87518b45de0dd7c412beaf0b" class="wikidata-snak"><span class="nowrap"><a href="/wiki/2019_%D0%B3%D0%BE%D0%B4" title="2019 год">2019</a></span></span>
+</th>
+<td style="text-align: right; border-right: none; padding-right: 0;"><span class="wikidata-snak wikidata-main-snak">884</span>
+</td>
+<td style="text-align: left; border-left: none; padding-left: 0;"><sup id="cite_ref-_31a200ac1c5c0101_10-0" class="reference"><a href="#cite_note-_31a200ac1c5c0101-10">&#91;10&#93;</a></sup>
+</td></tr>
+<tr>
+<th scope="row"><span data-wikidata-hash="7c6da18586bcef654c28f338f249a87a6473c03b" class="wikidata-snak"><span class="nowrap"><a href="/wiki/2020_%D0%B3%D0%BE%D0%B4" title="2020 год">2020</a></span></span>
+</th>
+<td style="text-align: right; border-right: none; padding-right: 0;"><span class="wikidata-snak wikidata-main-snak">907</span>
+</td>
+<td style="text-align: left; border-left: none; padding-left: 0;"><sup id="cite_ref-_e1e6e5f94413b970_11-0" class="reference"><a href="#cite_note-_e1e6e5f94413b970-11">&#91;11&#93;</a></sup>
+</td></tr>
+<tr>
+<th scope="row"><span data-wikidata-hash="5e87034f0d28e51df907453fa46fe72e1480e65a" class="wikidata-snak"><span class="nowrap"><a href="/wiki/2021_%D0%B3%D0%BE%D0%B4" title="2021 год">2021</a></span></span>
+</th>
+<td style="text-align: right; border-right: none; padding-right: 0;"><span class="wikidata-snak wikidata-main-snak">935</span>
+</td>
+<td style="text-align: left; border-left: none; padding-left: 0;"><sup id="cite_ref-_a0365abc131519c6_12-0" class="reference"><a href="#cite_note-_a0365abc131519c6-12">&#91;12&#93;</a></sup>
+</td></tr>
+<tr>
+<th scope="row"><span data-wikidata-hash="f9b7f4a2a4c7a80d24e8e3b43506284fc9607b91" class="wikidata-snak"><span class="nowrap"><a href="/wiki/2022_%D0%B3%D0%BE%D0%B4" title="2022 год">2022</a></span></span>
+</th>
+<td style="text-align: right; border-right: none; padding-right: 0;"><span class="wikidata-snak wikidata-main-snak">948</span>
+</td>
+<td style="text-align: left; border-left: none; padding-left: 0;"><sup id="cite_ref-_30bec0b8734bc3c0_3-1" class="reference"><a href="#cite_note-_30bec0b8734bc3c0-3">&#91;3&#93;</a></sup>
+</td></tr></tbody></table>
+</div>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D1%82%D0%B8%D1%86%D0%B5&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Редактировать раздел «Примечания»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D1%82%D0%B8%D1%86%D0%B5&amp;action=edit&amp;section=3" title="Редактировать раздел «Примечания»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-_3712ef739ef464be-1"><span class="mw-cite-backlink"><a href="#cite_ref-_3712ef739ef464be_1-0">↑</a></span> <span class="reference-text"><span class="wikidata_cite citetype_Q3331189" data-entity-id="Q22696163"><a rel="nofollow" class="external text" href="https://www.czso.cz/documents/10180/20538302/13n106cd1.pdf/cf538eaa-7f70-49f6-8e76-dc88932650ef?version=1.0">Historický lexikon obcí České republiky 1869–2005</a>&#160;<span class="ref-info" style="cursor:help;" title="на чешском языке">(чеш.)</span>: 1. díl<span class="wef_low_priority_links"> / под ред. <a href="https://www.wikidata.org/wiki/Q22696171" class="extiw" title="d:Q22696171">J.&#160;Růžková</a>, <a href="https://www.wikidata.org/wiki/Q22696185" class="extiw" title="d:Q22696185">J.&#160;Škrabal</a> — <a href="https://cs.wikipedia.org/wiki/%C4%8Cesk%C3%BD_statistick%C3%BD_%C3%BA%C5%99ad" class="extiw" title="cs:Český statistický úřad">ČSÚ</a>, 2006. — 759&#160;с. — <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9788025013106" class="internal mw-magiclink-isbn">ISBN 978-80-250-1310-6</a></span></span></span>
+</li>
+<li id="cite_note-_6f889930b246b377-2"><span class="mw-cite-backlink"><a href="#cite_ref-_6f889930b246b377_2-0">↑</a></span> <span class="reference-text"><span class="wikidata_cite citetype_Q567357" data-entity-id="Q56284482"><i class="wef_low_priority_links"><a href="https://www.wikidata.org/wiki/Q3504917" class="extiw" title="d:Q3504917">Czech Statistical Office</a></i> <a rel="nofollow" class="external text" href="https://www.czso.cz/csu/czso/maly-lexikon-obci-ceske-republiky-2017">Malý lexikon obcí České republiky - 2017</a><span class="wef_low_priority_links"> — <a href="https://www.wikidata.org/wiki/Q3504917" class="extiw" title="d:Q3504917">Czech Statistical Office</a>, 2017.</span></span></span>
+</li>
+<li id="cite_note-_30bec0b8734bc3c0-3"><span class="mw-cite-backlink">↑ <a href="#cite_ref-_30bec0b8734bc3c0_3-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-_30bec0b8734bc3c0_3-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="wikidata_cite citetype_Q10870555" data-entity-id="Q111804439"><i class="wef_low_priority_links"><a href="https://cs.wikipedia.org/wiki/%C4%8Cesk%C3%BD_statistick%C3%BD_%C3%BA%C5%99ad" class="extiw" title="cs:Český statistický úřad">Český statistický úřad</a></i> <a rel="nofollow" class="external text" href="https://www.czso.cz/csu/czso/pocet-obyvatel-v-obcich-k-112022">Počet obyvatel v obcích - k 1. 1. 2022</a>&#160;<span class="ref-info" style="cursor:help;" title="на чешском языке">(чеш.)</span><span class="wef_low_priority_links"> — <a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B3%D0%B0" title="Прага">Praha</a>: <a href="https://cs.wikipedia.org/wiki/%C4%8Cesk%C3%BD_statistick%C3%BD_%C3%BA%C5%99ad" class="extiw" title="cs:Český statistický úřad">ČSÚ</a>, 2022.</span></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><span class="citation"><span lang="cs"><a rel="nofollow" class="external text" href="http://aplikace.mvcr.cz/adresa/">Adresy v České republice</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на чешском языке">(чеш.)</span>.&#32;Ministerstvo vnitra České republiky.&#32;<small>Дата обращения: 25 ноября 2010.</small>&#32;<small><a rel="nofollow" class="external text" href="https://www.webcitation.org/68vID1FgC?url=http://aplikace.mvcr.cz/adresa/">Архивировано</a> 5 июля 2012 года.</small></span></span>
+</li>
+<li id="cite_note-_6cb4ccc318568d76-5"><span class="mw-cite-backlink">↑ <a href="#cite_ref-_6cb4ccc318568d76_5-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-_6cb4ccc318568d76_5-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-_6cb4ccc318568d76_5-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-_6cb4ccc318568d76_5-3"><sup><i><b>4</b></i></sup></a> <a href="#cite_ref-_6cb4ccc318568d76_5-4"><sup><i><b>5</b></i></sup></a> <a href="#cite_ref-_6cb4ccc318568d76_5-5"><sup><i><b>6</b></i></sup></a> <a href="#cite_ref-_6cb4ccc318568d76_5-6"><sup><i><b>7</b></i></sup></a> <a href="#cite_ref-_6cb4ccc318568d76_5-7"><sup><i><b>8</b></i></sup></a> <a href="#cite_ref-_6cb4ccc318568d76_5-8"><sup><i><b>9</b></i></sup></a> <a href="#cite_ref-_6cb4ccc318568d76_5-9"><sup><i><b>10</b></i></sup></a> <a href="#cite_ref-_6cb4ccc318568d76_5-10"><sup><i><b>11</b></i></sup></a> <a href="#cite_ref-_6cb4ccc318568d76_5-11"><sup><i><b>12</b></i></sup></a> <a href="#cite_ref-_6cb4ccc318568d76_5-12"><sup><i><b>13</b></i></sup></a></span> <span class="reference-text"><span class="wikidata_cite citetype_Q3331189" data-entity-id="Q28708818"><a rel="nofollow" class="external text" href="https://www.czso.cz/csu/czso/historicky-lexikon-obci-1869-az-2015">Historický lexikon obcí České republiky – 1869–2011</a>&#160;<span class="ref-info" style="cursor:help;" title="на чешском языке">(чеш.)</span><span class="wef_low_priority_links"> — <a href="https://cs.wikipedia.org/wiki/%C4%8Cesk%C3%BD_statistick%C3%BD_%C3%BA%C5%99ad" class="extiw" title="cs:Český statistický úřad">ČSÚ</a>, 2015.</span></span></span>
+</li>
+<li id="cite_note-_0967098bcf6418f2-6"><span class="mw-cite-backlink"><a href="#cite_ref-_0967098bcf6418f2_6-0">↑</a></span> <span class="reference-text"><span class="wikidata_cite citetype_Q10870555" data-entity-id="Q56259648"><i class="wef_low_priority_links"><a href="https://cs.wikipedia.org/wiki/%C4%8Cesk%C3%BD_statistick%C3%BD_%C3%BA%C5%99ad" class="extiw" title="cs:Český statistický úřad">Český statistický úřad</a></i> <a rel="nofollow" class="external text" href="https://www.czso.cz/csu/czso/pocet-obyvatel-v-obcich-k-112014-aco9yecp09">Počet obyvatel v obcích - k 1.1.2014</a>&#160;<span class="ref-info" style="cursor:help;" title="на чешском языке">(чеш.)</span><span class="wef_low_priority_links"> — <a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B3%D0%B0" title="Прага">Praha</a>: 2014.</span></span></span>
+</li>
+<li id="cite_note-_521c0c7054e28b0e-7"><span class="mw-cite-backlink"><a href="#cite_ref-_521c0c7054e28b0e_7-0">↑</a></span> <span class="reference-text"><span class="wikidata_cite citetype_Q10870555" data-entity-id="Q24560797"><i class="wef_low_priority_links"><a href="https://cs.wikipedia.org/wiki/%C4%8Cesk%C3%BD_statistick%C3%BD_%C3%BA%C5%99ad" class="extiw" title="cs:Český statistický úřad">Český statistický úřad</a></i> <a rel="nofollow" class="external text" href="https://www.czso.cz/csu/czso/pocet-obyvatel-v-obcich">Počet obyvatel v obcích - k 1.1.2016</a>&#160;<span class="ref-info" style="cursor:help;" title="на чешском языке">(чеш.)</span><span class="wef_low_priority_links"> — <a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B3%D0%B0" title="Прага">Praha</a>: 2016.</span></span></span>
+</li>
+<li id="cite_note-_64247fd76f483fb2-8"><span class="mw-cite-backlink"><a href="#cite_ref-_64247fd76f483fb2_8-0">↑</a></span> <span class="reference-text"><span class="wikidata_cite citetype_Q10870555" data-entity-id="Q29678797"><i class="wef_low_priority_links"><a href="https://cs.wikipedia.org/wiki/%C4%8Cesk%C3%BD_statistick%C3%BD_%C3%BA%C5%99ad" class="extiw" title="cs:Český statistický úřad">Český statistický úřad</a></i> <a rel="nofollow" class="external text" href="https://www.czso.cz/csu/czso/pocet-obyvatel-v-obcich-k-112017">Počet obyvatel v obcích - k 1.1.2017</a>&#160;<span class="ref-info" style="cursor:help;" title="на чешском языке">(чеш.)</span><span class="wef_low_priority_links"> — <a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B3%D0%B0" title="Прага">Praha</a>: 2017. — <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9788025027707" class="internal mw-magiclink-isbn">ISBN 978-80-250-2770-7</a></span></span></span>
+</li>
+<li id="cite_note-_4a0531aa0ce5798b-9"><span class="mw-cite-backlink"><a href="#cite_ref-_4a0531aa0ce5798b_9-0">↑</a></span> <span class="reference-text"><span class="wikidata_cite citetype_Q10870555 citetype_Q1613416" data-entity-id="Q52417047"><i class="wef_low_priority_links"><a href="https://cs.wikipedia.org/wiki/%C4%8Cesk%C3%BD_statistick%C3%BD_%C3%BA%C5%99ad" class="extiw" title="cs:Český statistický úřad">Český statistický úřad</a></i> <a rel="nofollow" class="external text" href="https://www.czso.cz/csu/czso/pocet-obyvatel-v-obcich-see2a5tx8j">Počet obyvatel v obcích - k 1.1.2018</a>&#160;<span class="ref-info" style="cursor:help;" title="на чешском языке">(чеш.)</span><span class="wef_low_priority_links"> — <a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B3%D0%B0" title="Прага">Praha</a>: <a href="https://cs.wikipedia.org/wiki/%C4%8Cesk%C3%BD_statistick%C3%BD_%C3%BA%C5%99ad" class="extiw" title="cs:Český statistický úřad">ČSÚ</a>, 2018. — <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9788025028438" class="internal mw-magiclink-isbn">ISBN 978-80-250-2843-8</a></span></span></span>
+</li>
+<li id="cite_note-_31a200ac1c5c0101-10"><span class="mw-cite-backlink"><a href="#cite_ref-_31a200ac1c5c0101_10-0">↑</a></span> <span class="reference-text"><span class="wikidata_cite citetype_Q10870555 citetype_Q1613416" data-entity-id="Q63450605"><i class="wef_low_priority_links"><a href="https://cs.wikipedia.org/wiki/%C4%8Cesk%C3%BD_statistick%C3%BD_%C3%BA%C5%99ad" class="extiw" title="cs:Český statistický úřad">Český statistický úřad</a></i> <a rel="nofollow" class="external text" href="https://www.czso.cz/csu/czso/pocet-obyvatel-v-obcich-za0wri436p">Počet obyvatel v obcích - k 1.1.2019</a>&#160;<span class="ref-info" style="cursor:help;" title="на чешском языке">(чеш.)</span><span class="wef_low_priority_links"> — <a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B3%D0%B0" title="Прага">Praha</a>: <a href="https://cs.wikipedia.org/wiki/%C4%8Cesk%C3%BD_statistick%C3%BD_%C3%BA%C5%99ad" class="extiw" title="cs:Český statistický úřad">ČSÚ</a>, 2019. — <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9788025029145" class="internal mw-magiclink-isbn">ISBN 978-80-250-2914-5</a></span></span></span>
+</li>
+<li id="cite_note-_e1e6e5f94413b970-11"><span class="mw-cite-backlink"><a href="#cite_ref-_e1e6e5f94413b970_11-0">↑</a></span> <span class="reference-text"><span class="wikidata_cite citetype_Q10870555 citetype_Q1613416" data-entity-id="Q92748479"><i class="wef_low_priority_links"><a href="https://cs.wikipedia.org/wiki/%C4%8Cesk%C3%BD_statistick%C3%BD_%C3%BA%C5%99ad" class="extiw" title="cs:Český statistický úřad">Český statistický úřad</a></i> <a rel="nofollow" class="external text" href="https://www.czso.cz/csu/czso/pocet-obyvatel-v-obcich-k-112019">Počet obyvatel v obcích - k 1.1.2020</a>&#160;<span class="ref-info" style="cursor:help;" title="на чешском языке">(чеш.)</span><span class="wef_low_priority_links"> — <a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B3%D0%B0" title="Прага">Praha</a>: <a href="https://cs.wikipedia.org/wiki/%C4%8Cesk%C3%BD_statistick%C3%BD_%C3%BA%C5%99ad" class="extiw" title="cs:Český statistický úřad">ČSÚ</a>, 2020.</span></span></span>
+</li>
+<li id="cite_note-_a0365abc131519c6-12"><span class="mw-cite-backlink"><a href="#cite_ref-_a0365abc131519c6_12-0">↑</a></span> <span class="reference-text"><span class="wikidata_cite citetype_Q10870555 citetype_Q1613416" data-entity-id="Q106655495"><i class="wef_low_priority_links"><a href="https://cs.wikipedia.org/wiki/%C4%8Cesk%C3%BD_statistick%C3%BD_%C3%BA%C5%99ad" class="extiw" title="cs:Český statistický úřad">Český statistický úřad</a></i> <a rel="nofollow" class="external text" href="https://www.czso.cz/csu/czso/pocet-obyvatel-v-obcich-k-112021">Počet obyvatel v obcích - k 1.1.2021</a>&#160;<span class="ref-info" style="cursor:help;" title="на чешском языке">(чеш.)</span><span class="wef_low_priority_links"> — <a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B3%D0%B0" title="Прага">Praha</a>: <a href="https://cs.wikipedia.org/wiki/%C4%8Cesk%C3%BD_statistick%C3%BD_%C3%BA%C5%99ad" class="extiw" title="cs:Český statistický úřad">ČSÚ</a>, 2021.</span></span></span>
+</li>
+</ol></div></div>
+<h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9F%D1%82%D0%B8%D1%86%D0%B5&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Редактировать раздел «Ссылки»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9F%D1%82%D0%B8%D1%86%D0%B5&amp;action=edit&amp;section=4" title="Редактировать раздел «Ссылки»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.obecptice.cz/">Официальный сайт общины</a></li></ul>
+<table class="mbox-Stub-meta plainlinks metadata ambox ambox-style" role="presentation" style="border:0; background:none; margin:0; font-style:italic;"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Czech_Republic_stub.svg" class="image" title="Флаг Чехии"><img alt="Флаг Чехии" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Czech_Republic_stub.svg/40px-Czech_Republic_stub.svg.png" decoding="async" width="40" height="23" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Czech_Republic_stub.svg/60px-Czech_Republic_stub.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Czech_Republic_stub.svg/80px-Czech_Republic_stub.svg.png 2x" data-file-width="1883" data-file-height="1079" /></a></div></td><td class="mbox-text"><div class="mbox-text-div">Это <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%97%D0%B0%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Википедия:Заготовка статьи">статья-заготовка</a>&#32;по географии <a href="/wiki/%D0%A7%D0%B5%D1%85%D0%B8%D1%8F" title="Чехия">Чехии</a>. Помогите Википедии, дополнив эту статью, как и любую другую.</div><div class="mbox-textsmall-div hide-when-compact" style="font-size:85%"></div></td></tr></tbody></table>
+<div role="navigation" class="navbox" aria-label="Навигационный шаблон" data-name="External links"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group" style="width:1px"><div style="padding: 0 35px 0 0; width: 100%;"><div style="float: left;"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Перейти к шаблону «Внешние ссылки»"><img alt="Перейти к шаблону «Внешние ссылки»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="noprint" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a>&#160;&#160;<a href="https://www.wikidata.org/wiki/Q1983266#identifiers" title="Перейти к элементу Викиданных"><img alt="Перейти к элементу Викиданных" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/14px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="14" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/21px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/28px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></div>&#160;&#160;В&#160;библиографических каталогах</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%A7%D0%B5%D1%88%D1%81%D0%BA%D0%BE%D0%B9_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8" title="Национальная библиотека Чешской Республики">NKC</a>: <a rel="nofollow" class="external text" href="https://aleph.nkp.cz/F/?func=find-c&amp;local_base=aut&amp;ccl_term=ica=ge645161&amp;CON_LNG=ENG">ge645161</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Населённые_пункты_района_Прага-запад" data-name="Населённые пункты района Прага-запад"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9D%D0%B0%D1%81%D0%B5%D0%BB%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%83%D0%BD%D0%BA%D1%82%D1%8B_%D1%80%D0%B0%D0%B9%D0%BE%D0%BD%D0%B0_%D0%9F%D1%80%D0%B0%D0%B3%D0%B0-%D0%B7%D0%B0%D0%BF%D0%B0%D0%B4" title="Перейти к шаблону «Населённые пункты района Прага-запад»"><img alt="Перейти к шаблону «Населённые пункты района Прага-запад»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="noprint" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a>&#160;</span><div id="Населённые_пункты_района_Прага-запад" style="font-size:114%;margin:0 5em">Населённые пункты района <a href="/wiki/%D0%9F%D1%80%D0%B0%D0%B3%D0%B0-%D0%B7%D0%B0%D0%BF%D0%B0%D0%B4" title="Прага-запад">Прага-запад</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1px">Города</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%93%D0%BE%D1%81%D1%82%D0%B8%D0%B2%D0%B8%D1%86%D0%B5" title="Гостивице">Гостивице</a></li>
+<li><a href="/wiki/%D0%94%D0%BE%D0%B1%D1%80%D0%B6%D0%B8%D1%85%D0%BE%D0%B2%D0%B8%D1%86%D0%B5" title="Добржиховице">Добржиховице</a></li>
+<li><a href="/wiki/%D0%99%D0%B8%D0%BB%D0%BE%D0%B2%D0%B5-%D1%83-%D0%9F%D1%80%D0%B0%D0%B3%D0%B8" title="Йилове-у-Праги">Йилове-у-Праги</a></li>
+<li><a href="/wiki/%D0%9B%D0%B8%D0%B1%D1%87%D0%B8%D1%86%D0%B5-%D0%BD%D0%B0%D0%B4-%D0%92%D0%BB%D1%82%D0%B0%D0%B2%D0%BE%D1%83" title="Либчице-над-Влтавоу">Либчице-над-Влтавоу</a></li>
+<li><a href="/wiki/%D0%9C%D0%BD%D0%B8%D1%88%D0%B5%D0%BA-%D0%BF%D0%BE%D0%B4-%D0%91%D1%80%D0%B4%D0%B8" title="Мнишек-под-Брди">Мнишек-под-Брди</a></li>
+<li><a href="/wiki/%D0%A0%D0%BE%D0%B7%D1%82%D0%BE%D0%BA%D0%B8" title="Розтоки">Розтоки</a></li>
+<li><a href="/wiki/%D0%A0%D1%83%D0%B4%D0%BD%D0%B0" title="Рудна">Рудна</a></li>
+<li><a href="/wiki/%D0%A0%D0%B6%D0%B5%D0%B2%D0%BD%D0%B8%D1%86%D0%B5" title="Ржевнице">Ржевнице</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D1%88%D0%B8%D1%86%D0%B5" title="Черношице">Черношице</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Местечки</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%94%D0%B0%D0%B2%D0%BB%D0%B5" title="Давле">Давле</a></li>
+<li><a href="/wiki/%D0%A8%D1%82%D0%B5%D1%85%D0%BE%D0%B2%D0%B8%D1%86%D0%B5" title="Штеховице">Штеховице</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Общины</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=%D0%91%D0%BE%D1%8F%D0%BD%D0%BE%D0%B2%D0%B8%D1%86%D0%B5_(%D1%80%D0%B0%D0%B9%D0%BE%D0%BD_%D0%9F%D1%80%D0%B0%D0%B3%D0%B0-%D0%B7%D0%B0%D0%BF%D0%B0%D0%B4)&amp;action=edit&amp;redlink=1" class="new" title="Бояновице (район Прага-запад) (страница отсутствует)">Бояновице</a></li>
+<li><a href="/wiki/%D0%91%D1%80%D0%B0%D1%82%D1%80%D0%B6%D0%B8%D0%BD%D0%BE%D0%B2" class="mw-redirect" title="Братржинов">Братржинов</a></li>
+<li><a href="/wiki/%D0%91%D1%80%D0%B6%D0%B5%D0%B7%D0%BE%D0%B2%D0%B0-%D0%9E%D0%BB%D0%B5%D1%88%D0%BA%D0%BE" title="Бржезова-Олешко">Бржезова-Олешко</a></li>
+<li><a href="/w/index.php?title=%D0%91%D1%83%D1%88_(%D1%80%D0%B0%D0%B9%D0%BE%D0%BD_%D0%9F%D1%80%D0%B0%D0%B3%D0%B0-%D0%B7%D0%B0%D0%BF%D0%B0%D0%B4)&amp;action=edit&amp;redlink=1" class="new" title="Буш (район Прага-запад) (страница отсутствует)">Буш</a></li>
+<li><a href="/wiki/%D0%92%D0%B5%D0%BB%D0%BA%D0%B5-%D0%9F%D1%80%D0%B6%D0%B8%D0%BB%D0%B5%D0%BF%D0%B8" class="mw-redirect" title="Велке-Пржилепи">Велке-Пржилепи</a></li>
+<li><a href="/w/index.php?title=%D0%92%D0%B5%D1%81%D1%82%D0%B5%D1%86_(%D1%80%D0%B0%D0%B9%D0%BE%D0%BD_%D0%9F%D1%80%D0%B0%D0%B3%D0%B0-%D0%B7%D0%B0%D0%BF%D0%B0%D0%B4)&amp;action=edit&amp;redlink=1" class="new" title="Вестец (район Прага-запад) (страница отсутствует)">Вестец</a></li>
+<li><a href="/wiki/%D0%92%D0%BE%D0%BD%D0%BE%D0%BA%D0%BB%D0%B0%D1%81%D0%B8" title="Вонокласи">Вонокласи</a></li>
+<li><a href="/wiki/%D0%92%D1%80%D0%B0%D0%BD%D0%B5-%D0%BD%D0%B0%D0%B4-%D0%92%D0%BB%D1%82%D0%B0%D0%B2%D0%BE%D1%83" title="Вране-над-Влтавоу">Вране-над-Влтавоу</a></li>
+<li><a href="/wiki/%D0%92%D1%88%D0%B5%D0%BD%D0%BE%D1%80%D0%B8" title="Вшенори">Вшенори</a></li>
+<li><a href="/w/index.php?title=%D0%93%D0%B2%D0%BE%D0%B7%D0%B4%D0%BD%D0%B8%D1%86%D0%B5_(%D1%80%D0%B0%D0%B9%D0%BE%D0%BD_%D0%9F%D1%80%D0%B0%D0%B3%D0%B0-%D0%B7%D0%B0%D0%BF%D0%B0%D0%B4)&amp;action=edit&amp;redlink=1" class="new" title="Гвозднице (район Прага-запад) (страница отсутствует)">Гвозднице</a></li>
+<li><a href="/w/index.php?title=%D0%93%D0%BE%D0%BB%D1%83%D0%B1%D0%B8%D1%86%D0%B5_(%D1%80%D0%B0%D0%B9%D0%BE%D0%BD_%D0%9F%D1%80%D0%B0%D0%B3%D0%B0-%D0%B7%D0%B0%D0%BF%D0%B0%D0%B4)&amp;action=edit&amp;redlink=1" class="new" title="Голубице (район Прага-запад) (страница отсутствует)">Голубице</a></li>
+<li><a href="/wiki/%D0%93%D0%BE%D1%80%D0%BE%D0%BC%D0%B5%D1%80%D0%B6%D0%B8%D1%86%D0%B5" title="Горомержице">Горомержице</a></li>
+<li><a href="/w/index.php?title=%D0%93%D1%80%D0%B0%D0%B4%D0%B8%D1%88%D1%82%D0%BA%D0%BE_(%D1%80%D0%B0%D0%B9%D0%BE%D0%BD_%D0%9F%D1%80%D0%B0%D0%B3%D0%B0-%D0%B7%D0%B0%D0%BF%D0%B0%D0%B4)&amp;action=edit&amp;redlink=1" class="new" title="Градиштко (район Прага-запад) (страница отсутствует)">Градиштко</a></li>
+<li><a href="/wiki/%D0%94%D0%BE%D0%B1%D1%80%D0%BE%D0%B2%D0%B8%D0%B7" title="Добровиз">Добровиз</a></li>
+<li><a href="/w/index.php?title=%D0%94%D0%BE%D0%B1%D1%80%D0%B6%D0%B8%D1%87_(%D1%80%D0%B0%D0%B9%D0%BE%D0%BD_%D0%9F%D1%80%D0%B0%D0%B3%D0%B0-%D0%B7%D0%B0%D0%BF%D0%B0%D0%B4)&amp;action=edit&amp;redlink=1" class="new" title="Добржич (район Прага-запад) (страница отсутствует)">Добржич</a></li>
+<li><a href="/w/index.php?title=%D0%94%D0%BE%D0%BB%D0%BD%D0%B8-%D0%91%D1%80%D0%B6%D0%B5%D0%B6%D0%B0%D0%BD%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Долни-Бржежани (страница отсутствует)">Долни-Бржежани</a></li>
+<li><a href="/wiki/%D0%94%D1%80%D0%B0%D0%B3%D0%B5%D0%BB%D1%8C%D1%87%D0%B8%D1%86%D0%B5" title="Драгельчице">Драгельчице</a></li>
+<li><a href="/w/index.php?title=%D0%95%D0%B5%D0%BD%D0%B5%D1%87&amp;action=edit&amp;redlink=1" class="new" title="Еенеч (страница отсутствует)">Еенеч</a></li>
+<li><a href="/w/index.php?title=%D0%95%D1%81%D0%B5%D0%BD%D0%B8%D1%86%D0%B5_(%D1%80%D0%B0%D0%B9%D0%BE%D0%BD_%D0%9F%D1%80%D0%B0%D0%B3%D0%B0-%D0%B7%D0%B0%D0%BF%D0%B0%D0%B4)&amp;action=edit&amp;redlink=1" class="new" title="Есенице (район Прага-запад) (страница отсутствует)">Есенице</a></li>
+<li><a href="/w/index.php?title=%D0%97%D0%B0%D0%B3%D0%BE%D1%80%D0%B6%D0%B0%D0%BD%D0%B8_(%D1%80%D0%B0%D0%B9%D0%BE%D0%BD_%D0%9F%D1%80%D0%B0%D0%B3%D0%B0-%D0%B7%D0%B0%D0%BF%D0%B0%D0%B4)&amp;action=edit&amp;redlink=1" class="new" title="Загоржани (район Прага-запад) (страница отсутствует)">Загоржани</a></li>
+<li><a href="/wiki/%D0%97%D0%B1%D1%83%D0%B7%D0%B0%D0%BD%D0%B8" title="Збузани">Збузани</a></li>
+<li><a href="/w/index.php?title=%D0%97%D0%B2%D0%BE%D0%BB%D0%B5_(%D1%80%D0%B0%D0%B9%D0%BE%D0%BD_%D0%9F%D1%80%D0%B0%D0%B3%D0%B0-%D0%B7%D0%B0%D0%BF%D0%B0%D0%B4)&amp;action=edit&amp;redlink=1" class="new" title="Зволе (район Прага-запад) (страница отсутствует)">Зволе</a></li>
+<li><a href="/wiki/%D0%97%D0%BB%D0%B0%D1%82%D0%BD%D0%B8%D0%BA%D0%B8-%D0%93%D0%BE%D0%B4%D0%BA%D0%BE%D0%B2%D0%B8%D1%86%D0%B5" title="Златники-Годковице">Златники-Годковице</a></li>
+<li><a href="/wiki/%D0%99%D0%B8%D0%BB%D0%BE%D0%B2%D0%B8%D1%88%D1%82%D0%B5" title="Йиловиште">Йиловиште</a></li>
+<li><a href="/wiki/%D0%99%D0%B8%D0%BD%D0%BE%D1%87%D0%B0%D0%BD%D0%B8" title="Йиночани">Йиночани</a></li>
+<li><a href="/wiki/%D0%9A%D0%B0%D0%BC%D0%B5%D0%BD%D0%BD%D0%B8-%D0%9F%D1%80%D1%88%D0%B8%D0%B2%D0%BE%D0%B7" title="Каменни-Пршивоз">Каменни-Пршивоз</a></li>
+<li><a href="/w/index.php?title=%D0%9A%D0%B0%D1%80%D0%BB%D0%B8%D0%BA_(%D1%80%D0%B0%D0%B9%D0%BE%D0%BD_%D0%9F%D1%80%D0%B0%D0%B3%D0%B0-%D0%B7%D0%B0%D0%BF%D0%B0%D0%B4)&amp;action=edit&amp;redlink=1" class="new" title="Карлик (район Прага-запад) (страница отсутствует)">Карлик</a></li>
+<li><a href="/wiki/%D0%9A%D0%BB%D0%B8%D0%BD%D0%B5%D1%86_(%D0%BE%D0%B1%D1%89%D0%B8%D0%BD%D0%B0)" title="Клинец (община)">Клинец</a></li>
+<li><a href="/w/index.php?title=%D0%9A%D0%BD%D0%B5%D0%B6%D0%B5%D0%B2%D0%B5%D1%81_(%D1%80%D0%B0%D0%B9%D0%BE%D0%BD_%D0%9F%D1%80%D0%B0%D0%B3%D0%B0-%D0%B7%D0%B0%D0%BF%D0%B0%D0%B4)&amp;action=edit&amp;redlink=1" class="new" title="Кнежевес (район Прага-запад) (страница отсутствует)">Кнежевес</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D1%81%D0%BE%D1%80%D0%B6" title="Косорж">Косорж</a></li>
+<li><a href="/wiki/%D0%9A%D0%B8%D1%82%D0%B8%D0%BD_(%D0%A7%D0%B5%D1%85%D0%B8%D1%8F)" title="Китин (Чехия)">Китин</a></li>
+<li><a href="/w/index.php?title=%D0%9B%D0%B5%D1%82%D0%B8_(%D1%80%D0%B0%D0%B9%D0%BE%D0%BD_%D0%9F%D1%80%D0%B0%D0%B3%D0%B0-%D0%B7%D0%B0%D0%BF%D0%B0%D0%B4)&amp;action=edit&amp;redlink=1" class="new" title="Лети (район Прага-запад) (страница отсутствует)">Лети</a></li>
+<li><a href="/wiki/%D0%9B%D0%B8%D0%B1%D0%B5%D1%80%D0%B6" title="Либерж">Либерж</a></li>
+<li><a href="/wiki/%D0%9B%D0%B8%D1%85%D0%BE%D1%86%D0%B5%D0%B2%D0%B5%D1%81" title="Лихоцевес">Лихоцевес</a></li>
+<li><a href="/w/index.php?title=%D0%9B%D0%B8%D1%88%D0%BD%D0%B8%D1%86%D0%B5_(%D1%80%D0%B0%D0%B9%D0%BE%D0%BD_%D0%9F%D1%80%D0%B0%D0%B3%D0%B0-%D0%B7%D0%B0%D0%BF%D0%B0%D0%B4)&amp;action=edit&amp;redlink=1" class="new" title="Лишнице (район Прага-запад) (страница отсутствует)">Лишнице</a></li>
+<li><a href="/wiki/%D0%9C%D0%B5%D1%85%D0%B5%D0%BD%D0%B8%D1%86%D0%B5" title="Мехенице">Мехенице</a></li>
+<li><a href="/w/index.php?title=%D0%9D%D1%83%D1%87%D0%B8%D1%86%D0%B5_(%D1%80%D0%B0%D0%B9%D0%BE%D0%BD_%D0%9F%D1%80%D0%B0%D0%B3%D0%B0-%D0%B7%D0%B0%D0%BF%D0%B0%D0%B4)&amp;action=edit&amp;redlink=1" class="new" title="Нучице (район Прага-запад) (страница отсутствует)">Нучице</a></li>
+<li><a href="/wiki/%D0%9E%D0%B3%D1%80%D0%BE%D0%B1%D0%B5%D1%86" title="Огробец">Огробец</a></li>
+<li><a href="/w/index.php?title=%D0%9E%D0%BA%D0%BE%D1%80%D0%B6&amp;action=edit&amp;redlink=1" class="new" title="Окорж (страница отсутствует)">Окорж</a></li>
+<li><a href="/wiki/%D0%9E%D0%BA%D1%80%D0%BE%D1%83%D0%B3%D0%BB%D0%BE" title="Окроугло">Окроугло</a></li>
+<li><a href="/w/index.php?title=%D0%9E%D1%80%D0%B6%D0%B5%D1%85_(%D1%80%D0%B0%D0%B9%D0%BE%D0%BD_%D0%9F%D1%80%D0%B0%D0%B3%D0%B0-%D0%B7%D0%B0%D0%BF%D0%B0%D0%B4)&amp;action=edit&amp;redlink=1" class="new" title="Оржех (район Прага-запад) (страница отсутствует)">Оржех</a></li>
+<li><a href="/w/index.php?title=%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2_(%D1%80%D0%B0%D0%B9%D0%BE%D0%BD_%D0%9F%D1%80%D0%B0%D0%B3%D0%B0-%D0%B7%D0%B0%D0%BF%D0%B0%D0%B4)&amp;action=edit&amp;redlink=1" class="new" title="Петров (район Прага-запад) (страница отсутствует)">Петров</a></li>
+<li><a href="/w/index.php?title=%D0%9F%D0%BE%D0%B3%D0%BE%D1%80%D0%B6%D0%B8_(%D1%80%D0%B0%D0%B9%D0%BE%D0%BD_%D0%9F%D1%80%D0%B0%D0%B3%D0%B0-%D0%B7%D0%B0%D0%BF%D0%B0%D0%B4)&amp;action=edit&amp;redlink=1" class="new" title="Погоржи (район Прага-запад) (страница отсутствует)">Погоржи</a></li>
+<li><a href="/w/index.php?title=%D0%9F%D1%80%D1%83%D0%B3%D0%BE%D0%BD%D0%B8%D1%86%D0%B5&amp;action=edit&amp;redlink=1" class="new" title="Пругонице (страница отсутствует)">Пругонице</a></li>
+<li><a href="/wiki/%D0%9F%D1%81%D0%B0%D1%80%D0%B8" title="Псари">Псари</a></li>
+<li><a class="mw-selflink selflink">Птице</a></li>
+<li><a href="/wiki/%D0%A0%D0%B6%D0%B8%D1%82%D0%BA%D0%B0" title="Ржитка">Ржитка</a></li>
+<li><a href="/wiki/%D0%A0%D0%BE%D0%B1%D0%BB%D0%B8%D0%BD" title="Роблин">Роблин</a></li>
+<li><a href="/wiki/%D0%A1%D0%B2%D1%80%D0%BA%D0%B8%D0%BD%D0%B5" title="Свркине">Свркине</a></li>
+<li><a href="/wiki/%D0%A1%D0%BB%D0%B0%D0%BF%D0%B8" title="Слапи">Слапи</a></li>
+<li><a href="/wiki/%D0%A1%D1%82%D0%B0%D1%82%D0%B5%D0%BD%D0%B8%D1%86%D0%B5" title="Статенице">Статенице</a></li>
+<li><a href="/wiki/%D0%A1%D1%82%D1%80%D1%88%D0%B5%D0%B4%D0%BE%D0%BA%D0%BB%D1%83%D0%BA%D0%B8" title="Стршедоклуки">Стршедоклуки</a></li>
+<li><a href="/w/index.php?title=%D0%A2%D0%B0%D1%85%D0%BB%D0%BE%D0%B2%D0%B8%D1%86%D0%B5&amp;action=edit&amp;redlink=1" class="new" title="Тахловице (страница отсутствует)">Тахловице</a></li>
+<li><a href="/wiki/%D0%A2%D1%80%D1%88%D0%B5%D0%B1%D0%BE%D1%82%D0%BE%D0%B2" title="Тршеботов">Тршеботов</a></li>
+<li><a href="/w/index.php?title=%D0%A2%D1%80%D0%BD%D0%BE%D0%B2%D0%B0_(%D1%80%D0%B0%D0%B9%D0%BE%D0%BD_%D0%9F%D1%80%D0%B0%D0%B3%D0%B0-%D0%B7%D0%B0%D0%BF%D0%B0%D0%B4)&amp;action=edit&amp;redlink=1" class="new" title="Трнова (район Прага-запад) (страница отсутствует)">Трнова</a></li>
+<li><a href="/wiki/%D0%A2%D1%83%D1%85%D0%BE%D0%BC%D0%B5%D1%80%D0%B6%D0%B8%D1%86%D0%B5" title="Тухомержице">Тухомержице</a></li>
+<li><a href="/wiki/%D0%A2%D1%83%D1%80%D1%81%D0%BA%D0%BE" title="Турско">Турско</a></li>
+<li><a href="/w/index.php?title=%D0%A3%D0%B3%D0%BE%D0%BB%D0%B8%D1%87%D0%BA%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Уголички (страница отсутствует)">Уголички</a></li>
+<li><a href="/wiki/%D0%A3%D0%B3%D0%BE%D0%BD%D0%B8%D1%86%D0%B5" title="Угонице">Угонице</a></li>
+<li><a href="/w/index.php?title=%D0%A3%D0%BD%D0%B5%D1%82%D0%B8%D1%86%D0%B5_(%D1%80%D0%B0%D0%B9%D0%BE%D0%BD_%D0%9F%D1%80%D0%B0%D0%B3%D0%B0-%D0%B7%D0%B0%D0%BF%D0%B0%D0%B4)&amp;action=edit&amp;redlink=1" class="new" title="Унетице (район Прага-запад) (страница отсутствует)">Унетице</a></li>
+<li><a href="/wiki/%D0%A5%D0%B8%D0%BD%D0%B5" title="Хине">Хине</a></li>
+<li><a href="/wiki/%D0%A5%D0%B8%D0%BD%D0%B8%D1%86%D0%B5" title="Хинице">Хинице</a></li>
+<li><a href="/w/index.php?title=%D0%A5%D0%BE%D1%82%D0%B5%D1%87_(%D1%80%D0%B0%D0%B9%D0%BE%D0%BD_%D0%9F%D1%80%D0%B0%D0%B3%D0%B0-%D0%B7%D0%B0%D0%BF%D0%B0%D0%B4)&amp;action=edit&amp;redlink=1" class="new" title="Хотеч (район Прага-запад) (страница отсутствует)">Хотеч</a></li>
+<li><a href="/w/index.php?title=%D0%A5%D1%80%D0%B0%D1%88%D1%82%D0%B0%D0%BD%D0%B8_(%D1%80%D0%B0%D0%B9%D0%BE%D0%BD_%D0%9F%D1%80%D0%B0%D0%B3%D0%B0-%D0%B7%D0%B0%D0%BF%D0%B0%D0%B4)&amp;action=edit&amp;redlink=1" class="new" title="Храштани (район Прага-запад) (страница отсутствует)">Храштани</a></li>
+<li><a href="/w/index.php?title=%D0%A7%D0%B5%D1%80%D0%B2%D0%B5%D0%BD%D0%B8-%D0%A3%D0%B9%D0%B5%D0%B7%D0%B4_(%D1%80%D0%B0%D0%B9%D0%BE%D0%BD_%D0%9F%D1%80%D0%B0%D0%B3%D0%B0-%D0%B7%D0%B0%D0%BF%D0%B0%D0%B4)&amp;action=edit&amp;redlink=1" class="new" title="Червени-Уйезд (район Прага-запад) (страница отсутствует)">Червени-Уйезд</a></li>
+<li><a href="/wiki/%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%BB%D0%B8%D1%86%D0%B5" title="Чернолице">Чернолице</a></li>
+<li><a href="/wiki/%D0%A7%D0%B8%D1%81%D0%BE%D0%B2%D0%B8%D1%86%D0%B5" title="Чисовице">Чисовице</a></li>
+<li><a href="/w/index.php?title=%D0%A7%D0%B8%D1%87%D0%BE%D0%B2%D0%B8%D1%86%D0%B5&amp;action=edit&amp;redlink=1" class="new" title="Чичовице (страница отсутствует)">Чичовице</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1393
+Cached time: 20230222094543
+Cache expiry: 86400
+Reduced expiry: true
+Complications: [vary‐revision‐sha1, show‐toc]
+CPU time usage: 0.831 seconds
+Real time usage: 1.018 seconds
+Preprocessor visited node count: 3844/1000000
+Post‐expand include size: 107120/2097152 bytes
+Template argument size: 5912/2097152 bytes
+Highest expansion depth: 27/100
+Expensive parser function count: 27/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 15368/5000000 bytes
+Lua time usage: 0.681/10.000 seconds
+Lua memory usage: 20962584/52428800 bytes
+Number of Wikibase entities loaded: 24/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  943.850      1 -total
+ 57.39%  541.641      1 Шаблон:НП
+ 53.77%  507.514      1 Шаблон:Карточка
+ 29.44%  277.839      1 Шаблон:Wikidata/Population
+ 27.97%  263.953      1 Шаблон:Wikidata/Population/Table
+ 13.57%  128.098     38 Шаблон:Wikidata
+  6.21%   58.568      1 Шаблон:ВС
+  5.69%   53.670      2 Шаблон:Wikidata-coords
+  3.71%   35.053      1 Шаблон:Cz-geo-stub
+  3.58%   33.746      1 Шаблон:Stub-meta
+-->
+
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:2882701-0!canonical and timestamp 20230222094542 and revision id 119016038. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Птице&amp;oldid=119016038">https://ru.wikipedia.org/w/index.php?title=Птице&amp;oldid=119016038</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9D%D0%B0%D1%81%D0%B5%D0%BB%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%83%D0%BD%D0%BA%D1%82%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Населённые пункты по алфавиту">Населённые пункты по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9D%D0%B0%D1%81%D0%B5%D0%BB%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%83%D0%BD%D0%BA%D1%82%D1%8B_%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B5%D1%87%D0%B5%D1%88%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BA%D1%80%D0%B0%D1%8F" title="Категория:Населённые пункты Среднечешского края">Населённые пункты Среднечешского края</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D1%81_%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B0%D0%BC%D0%B8" title="Категория:Страницы с графиками">Страницы с графиками</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%B7%D0%B0%D0%BC%D0%B5%D0%BD%D0%B8%D1%82%D1%8C_webcitation-%D0%B0%D1%80%D1%85%D0%B8%D0%B2:_deadlink_no)" title="Категория:Википедия:Cite web (заменить webcitation-архив: deadlink no)">Википедия:Cite web (заменить webcitation-архив: deadlink no)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_ISBN" title="Категория:Страницы, использующие волшебные ссылки ISBN">Страницы, использующие волшебные ссылки ISBN</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%B8%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B0%D0%BC%D0%B8_%D0%B8%D0%B7_%D0%92%D0%B8%D0%BA%D0%B8%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85" title="Категория:Википедия:Статьи с источниками из Викиданных">Википедия:Статьи с источниками из Викиданных</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%A0%D0%9E:%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D0%B0:%D0%A0%D0%B0%D0%B7%D0%BC%D0%B5%D1%80_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8:_%D0%BC%D0%B5%D0%BD%D0%B5%D0%B5_1000_%D1%81%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB%D0%BE%D0%B2" title="Категория:ПРО:Города:Размер статьи: менее 1000 символов">ПРО:Города:Размер статьи: менее 1000 символов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%A0%D0%9E:%D0%93%D0%BE%D1%80%D0%BE%D0%B4%D0%B0:%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:_%D0%B2_%D0%BF%D0%BE%D0%B7%D0%B0%D0%BF%D1%80%D0%BE%D1%88%D0%BB%D0%BE%D0%BC_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:ПРО:Города:Последняя правка: в позапрошлом году">ПРО:Города:Последняя правка: в позапрошлом году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9D%D0%B5%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%BF%D0%BE_%D0%B3%D0%B5%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%B8_%D0%A7%D0%B5%D1%85%D0%B8%D0%B8" title="Категория:Незавершённые статьи по географии Чехии">Незавершённые статьи по географии Чехии</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_%D1%81_%D0%BA%D0%B0%D1%80%D1%82%D0%B0%D0%BC%D0%B8" title="Категория:Википедия:Страницы с картами">Википедия:Страницы с картами</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="vector-menu mw-portlet mw-portlet-personal vector-user-menu-legacy" aria-labelledby="p-personal-label" role="navigation"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9F%D1%82%D0%B8%D1%86%D0%B5" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9F%D1%82%D0%B8%D1%86%D0%B5" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-namespaces" class="vector-menu mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-namespaces-label" role="navigation"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Пространства имён</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/%D0%9F%D1%82%D0%B8%D1%86%D0%B5" title="Просмотр основной страницы [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="new mw-list-item"><a href="/w/index.php?title=%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%9F%D1%82%D0%B8%D1%86%D0%B5&amp;action=edit&amp;redlink=1" rel="discussion" title="Обсуждение основной страницы (страница отсутствует) [t]" accesskey="t"><span>Обсуждение</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	/>
+	<label
+		id="p-variants-label"
+		 aria-label="Изменить вариант языка"
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="vector-menu mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-views-label" role="navigation"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected mw-list-item"><a href="/wiki/%D0%9F%D1%82%D0%B8%D1%86%D0%B5"><span>Читать</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%9F%D1%82%D0%B8%D1%86%D0%B5&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%9F%D1%82%D0%B8%D1%86%D0%B5&amp;action=edit" title="Эту статью можно изменять. Перед сохранением изменений, пожалуйста, нажмите кнопку предварительного просмотра для визуальной проверки результата [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=%D0%9F%D1%82%D0%B8%D1%86%D0%B5&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	/>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="sentences" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Служебная:Поиск">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти">
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+<nav id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-participation" class="vector-menu mw-portlet mw-portlet-participation vector-menu-portal portal" aria-labelledby="p-participation-label" role="navigation"  >
+	<h3
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="vector-menu mw-portlet mw-portlet-tb vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%9F%D1%82%D0%B8%D1%86%D0%B5" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%9F%D1%82%D0%B8%D1%86%D0%B5" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%9F%D1%82%D0%B8%D1%86%D0%B5&amp;oldid=119016038" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%9F%D1%82%D0%B8%D1%86%D0%B5&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%9F%D1%82%D0%B8%D1%86%D0%B5&amp;id=119016038&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1983266" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3&amp;bookcmd=book_creator&amp;referer=%D0%9F%D1%82%D0%B8%D1%86%D0%B5" title="Создать книгу или коллекцию статей"><span>Создать книгу</span></a></li><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%9F%D1%82%D0%B8%D1%86%D0%B5&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%9F%D1%82%D0%B8%D1%86%D0%B5&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"  >
+	<h3
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">В других проектах</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Ptice" hreflang="en"><span>Викисклад</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="vector-menu mw-portlet mw-portlet-lang vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-azb mw-list-item"><a href="https://azb.wikipedia.org/wiki/%D9%BE%D8%AA%DB%8C%D8%AA%D8%B3%D9%87" title="پتیتسه — South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target"><span>تۆرکجه</span></a></li><li class="interlanguage-link interwiki-ce mw-list-item"><a href="https://ce.wikipedia.org/wiki/%D0%9F%D1%82%D0%B8%D1%86%D0%B5" title="Птице — чеченский" lang="ce" hreflang="ce" class="interlanguage-link-target"><span>Нохчийн</span></a></li><li class="interlanguage-link interwiki-ceb mw-list-item"><a href="https://ceb.wikipedia.org/wiki/Ptice" title="Ptice — себуано" lang="ceb" hreflang="ceb" class="interlanguage-link-target"><span>Cebuano</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Ptice" title="Ptice — чешский" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Ptice" title="Ptice — немецкий" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Ptice" title="Ptice — английский" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Ptice" title="Ptice — испанский" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Ptice" title="Ptice — баскский" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D9%BE%D8%AA%DB%8C%D8%AA%D8%B3%D9%87" title="پتیتسه — персидский" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Ptice" title="Ptice — французский" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Ptice" title="Ptice — венгерский" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Ptice" title="Ptice — итальянский" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-lmo mw-list-item"><a href="https://lmo.wikipedia.org/wiki/Ptice" title="Ptice — Lombard" lang="lmo" hreflang="lmo" class="interlanguage-link-target"><span>Lombard</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Ptice" title="Ptice — малайский" lang="ms" hreflang="ms" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Ptice" title="Ptice — нидерландский" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Ptice" title="Ptice — польский" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Ptice" title="Ptice — португальский" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Ptice" title="Ptice — словацкий" lang="sk" hreflang="sk" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/%D0%9F%D1%82%D0%B8%D1%86%D0%B5_(%D0%9F%D1%80%D0%B0%D0%B3-%D0%B7%D0%B0%D0%BF%D0%B0%D0%B4)" title="Птице (Праг-запад) — сербский" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Ptice" title="Ptice — шведский" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-tt mw-list-item"><a href="https://tt.wikipedia.org/wiki/%D0%9F%D1%82%D0%B8%D1%86%D0%B5" title="Птице — татарский" lang="tt" hreflang="tt" class="interlanguage-link-target"><span>Татарча / tatarça</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/Ptice" title="Ptice — вьетнамский" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-zh-min-nan mw-list-item"><a href="https://zh-min-nan.wikipedia.org/wiki/Ptice" title="Ptice — Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target"><span>Bân-lâm-gú</span></a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1983266#sitelinks-wikipedia" title="Править межъязыковые ссылки" class="wbc-editpage">Править ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 31 декабря 2021 в 23:09.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="license" href="//ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported">лицензии Creative Commons Attribution-ShareAlike</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org">Wikimedia Foundation, Inc.</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%9F%D1%82%D0%B8%D1%86%D0%B5&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Заявление о куки</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgGraphSpecs":{"66b08eeae8c04eda4ced8e17a4dc352255cc601e":{"version":2,"width":500,"height":250,"data":[{"name":"table","values":"year,month,day,population,formatted\n1869,07,01,460,460\n1880,07,01,502,502\n1890,07,01,538,538\n1900,07,01,544,544\n1910,07,01,592,592\n1921,07,01,568,568\n1930,07,01,494,494\n1950,07,01,438,438\n1961,07,01,446,446\n1970,07,01,424,424\n1980,07,01,379,379\n1991,07,01,346,346\n2001,07,01,397,397\n2014,01,01,730,730\n2016,01,01,782,782\n2017,01,01,793,793\n2018,01,01,842,842\n2019,01,01,884,884\n2020,01,01,907,907\n2021,01,01,935,935\n2022,01,01,948,948","format":{"parse":{"year":"integer","month":"integer","day":"integer","population":"integer","formatted":"string"},"type":"csv"},"transform":[{"type":"formula","field":"date","expr":"datetime(datum.year,datum.month-1,datum.day)"}]}],"scales":[{"name":"x","type":"time","range":"width","nice":"year","domain":{"data":"table","field":"date"}},{"name":"y","type":"linear","range":"height","domain":{"data":"table","field":"population"}}],"axes":[{"type":"x","scale":"x","ticks":10},{"type":"y","scale":"y","ticks":5,"grid":true,"orient":"right","format":"d"}],"marks":[{"type":"area","from":{"data":"table"},"properties":{"enter":{"x":{"scale":"x","field":"date"},"y":{"scale":"y","value":0},"y2":{"scale":"y","field":"population"},"fill":{"value":"#99B2CC"},"fillOpacity":{"value":0.35},"interpolate":{"value":"linear"}}}},{"type":"line","from":{"data":"table"},"properties":{"enter":{"x":{"scale":"x","field":"date"},"y":{"scale":"y","field":"population"},"stroke":{"value":"#99B2CC"},"strokeWidth":{"value":3},"interpolate":{"value":"linear"}}}},{"type":"symbol","from":{"data":"table"},"properties":{"enter":{"x":{"scale":"x","field":"date"},"y":{"scale":"y","field":"population"},"stroke":{"value":"#99B2CC"},"fill":{"value":"#fff"},"size":{"value":10}}}},{"type":"text","from":{"data":"table"},"properties":{"enter":{"x":{"scale":"x","field":"date","offset":-5},"y":{"scale":"y","field":"population","offset":-1},"align":{"value":"left"},"opacity":{"value":"0"},"fill":{"value":"#000000"},"size":{"value":4},"text":{"template":"{{datum.formatted}}  ({{datum.year}})"}},"hover":{"opacity":{"value":"1"}},"update":{"opacity":{"value":"0"}}}}]}},"wgPageParseReport":{"limitreport":{"cputime":"0.831","walltime":"1.018","ppvisitednodes":{"value":3844,"limit":1000000},"postexpandincludesize":{"value":107120,"limit":2097152},"templateargumentsize":{"value":5912,"limit":2097152},"expansiondepth":{"value":27,"limit":100},"expensivefunctioncount":{"value":27,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":15368,"limit":5000000},"entityaccesscount":{"value":24,"limit":400},"timingprofile":["100.00%  943.850      1 -total"," 57.39%  541.641      1 Шаблон:НП"," 53.77%  507.514      1 Шаблон:Карточка"," 29.44%  277.839      1 Шаблон:Wikidata/Population"," 27.97%  263.953      1 Шаблон:Wikidata/Population/Table"," 13.57%  128.098     38 Шаблон:Wikidata","  6.21%   58.568      1 Шаблон:ВС","  5.69%   53.670      2 Шаблон:Wikidata-coords","  3.71%   35.053      1 Шаблон:Cz-geo-stub","  3.58%   33.746      1 Шаблон:Stub-meta"]},"scribunto":{"limitreport-timeusage":{"value":"0.681","limit":"10.000"},"limitreport-memusage":{"value":20962584,"limit":52428800},"limitreport-logs":"Got person name of Q22696171 from label: «Jiřina Růžková»\ntokenizeName: «Jiřina Růžková»: have «Im (x1) Fa» match\nGot person name of Q22696185 from label: «Josef Škrabal»\ntokenizeName: «Josef Škrabal»: have «Im (x1) Fa» match\nGot title of Q3504917 from short name claim: «ČSÚ»\nGot person name of Q3504917 from label: «Czech Statistical Office»\nEntity Q3504917 is not a person\nGot title of Q3504917 from label: «Czech Statistical Office»\nLoaded datatype wikibase-item of P2564 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype time of P585 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nGot person name of Q3504917 from label: «Český statistický úřad»\nEntity Q3504917 is not a person\nGot title of Q1085 from label: «Praha»\nGot title of Q3504917 from short name claim: «ČSÚ»\nLoaded datatype external-id of P1397 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P7678 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nGot title of Q3504917 from short name claim: «ČSÚ»\nGot title of Q3504917 from short name claim: «ČSÚ»\nGot title of Q3504917 from short name claim: «ČSÚ»\nGot title of Q3504917 from short name claim: «ČSÚ»\nGot title of Q3504917 from short name claim: «ČSÚ»\nGot title of Q3504917 from short name claim: «ČSÚ»\nGot title of Q3504917 from short name claim: «ČSÚ»\nGot title of Q3504917 from short name claim: «ČSÚ»\nGot title of Q3504917 from short name claim: «ČSÚ»\nGot title of Q3504917 from short name claim: «ČSÚ»\nGot title of Q3504917 from short name claim: «ČSÚ»\nGot title of Q3504917 from short name claim: «ČSÚ»\nGot title of Q3504917 from short name claim: «ČSÚ»\nGot person name of Q3504917 from label: «Český statistický úřad»\nEntity Q3504917 is not a person\nGot title of Q1085 from label: «Praha»\nGot person name of Q3504917 from label: «Český statistický úřad»\nEntity Q3504917 is not a person\nGot title of Q1085 from label: «Praha»\nGot person name of Q3504917 from label: «Český statistický úřad»\nEntity Q3504917 is not a person\nGot title of Q1085 from label: «Praha»\nGot person name of Q3504917 from label: «Český statistický úřad»\nEntity Q3504917 is not a person\nGot title of Q1085 from label: «Praha»\nGot title of Q3504917 from short name claim: «ČSÚ»\nGot person name of Q3504917 from label: «Český statistický úřad»\nEntity Q3504917 is not a person\nGot title of Q1085 from label: «Praha»\nGot title of Q3504917 from short name claim: «ČSÚ»\nGot person name of Q3504917 from label: «Český statistický úřad»\nEntity Q3504917 is not a person\nGot title of Q1085 from label: «Praha»\nGot title of Q3504917 from short name claim: «ČSÚ»\nGot person name of Q3504917 from label: «Český statistický úřad»\nEntity Q3504917 is not a person\nGot title of Q1085 from label: «Praha»\nGot title of Q3504917 from short name claim: «ČSÚ»\nGot person name of Q3504917 from label: «Český statistický úřad»\nEntity Q3504917 is not a person\nGot title of Q1085 from label: «Praha»\nGot title of Q3504917 from short name claim: «ČSÚ»\n"},"cachereport":{"origin":"mw1393","timestamp":"20230222094543","ttl":86400,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u041f\u0442\u0438\u0446\u0435","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%9F%D1%82%D0%B8%D1%86%D0%B5","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1983266","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1983266","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2010-11-26T18:04:08Z","dateModified":"2021-12-31T23:09:28Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/c\/cb\/Ptice%2C_n%C3%A1ves.JPG"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u041f\u0442\u0438\u0446\u0435","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%9F%D1%82%D0%B8%D1%86%D0%B5","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1983266","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1983266","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2010-11-26T18:04:08Z","dateModified":"2021-12-31T23:09:28Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/c\/cb\/Ptice%2C_n%C3%A1ves.JPG"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":1130,"wgHostname":"mw1393"});});</script>
+</body>
+</html>

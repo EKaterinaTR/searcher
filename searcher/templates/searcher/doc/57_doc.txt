@@ -1,0 +1,1550 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Angry Birds в кино — Википедия</title>
+<script>document.documentElement.className="client-js";(function(){var cookie=document.cookie.match(/(?:^|; )ruwikimwclientprefs=([^;]+)/);if(cookie){var featureName=cookie[1];document.documentElement.className=document.documentElement.className.replace(featureName+'-enabled',featureName+'-disabled');}}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"ab3f0333-9a20-4065-a899-542804eddf8f","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Angry_Birds_в_кино","wgTitle":"Angry Birds в кино","wgCurRevisionId":127856252,"wgRevisionId":127856252,"wgArticleId":5911899,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view",
+"wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Википедия:Cite web (не указан язык)","Википедия:Статьи со ссылками на элементы Викиданных без русской подписи","Проект:Музыка:Последняя правка в 2023 году","Википедия:Статьи с ненаписанными разделами с октября 2022 года","Википедия:Статьи с шаблонами недостатков по алфавиту","Статьи со ссылками на Викицитатник","Мультфильмы на английском языке","Мультфильмы по алфавиту","Альбомы по алфавиту","Саундтреки 2016 года","Angry Birds","Мультфильмы США 2016 года","Мультфильмы США","Мультфильмы Финляндии","Фильмы США 2016 года","Фильмы США в 3D",
+"Фильмы 2016 года в 3D","Компьютерные анимационные фильмы","Полнометражные мультфильмы","Мультфильмы о животных","Экранизации компьютерных игр","Фильмы на английском языке","Мультфильмы Columbia Pictures","Фильмы по алфавиту"],"wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Angry_Birds_в_кино","wgRelevantArticleId":5911899,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":127496523,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":30000,
+"wgNoticeProject":"wikipedia","wgVector2022PreviewPages":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"русский","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q18703062","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":
+"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.flaggedRevs.advanced","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","oojs-ui.styles.icons-media","oojs-ui-core.icons","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.blpEditNotice","ext.gadget.wikibugs","ext.gadget.sidebarRelated","ext.gadget.navboxNavigation","ext.centralauth.centralautologin","ext.popups","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%2Cicons%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"/></noscript>
+<meta name="generator" content="MediaWiki 1.40.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="max-image-preview:standard"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/ru/0/00/AngryBirdsMovie.jpeg"/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="1802"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/ru/0/00/AngryBirdsMovie.jpeg"/>
+<meta property="og:image:width" content="800"/>
+<meta property="og:image:height" content="1201"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/ru/thumb/0/00/AngryBirdsMovie.jpeg/640px-AngryBirdsMovie.jpeg"/>
+<meta property="og:image:width" content="640"/>
+<meta property="og:image:height" content="961"/>
+<meta name="viewport" content="width=1000"/>
+<meta property="og:title" content="Angry Birds в кино — Википедия"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//ru.m.wikipedia.org/wiki/Angry_Birds_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE"/>
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=Angry_Birds_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Википедия (ru)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/Angry_Birds_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Angry_Birds_в_кино rootpage-Angry_Birds_в_кино skin-vector action-view"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Angry Birds в кино</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><div id="mw-content-subtitle"><div id='mw-fr-reviewnotice' class='plainlinks flaggedrevs_preview'>Текущая версия страницы пока <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">не проверялась</a> опытными участниками и может значительно отличаться от <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=Angry_Birds_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE&amp;stable=1">версии</a>, проверенной 26 декабря 2022 года; проверки требует <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=Angry_Birds_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE&amp;oldid=127496523&amp;diff=cur&amp;diffonly=0">1 правка</a>.</div><div id="mw-fr-revisiontag" class="flaggedrevs_short flaggedrevs_draft_notsynced plainlinks noprint"><div class="flaggedrevs_short_basic"><span title='Текущая версия' class='flaggedrevs-icon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-block oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget'></span><span id='mw-fr-revisiontoggle' title='показать/скрыть подробности' class='fr-toggle-arrow oo-ui-widget oo-ui-widget-enabled oo-ui-indicatorElement-indicator oo-ui-indicator-down oo-ui-indicatorElement oo-ui-labelElement-invisible oo-ui-indicatorWidget'></span></div>
+<div id="mw-fr-revisiondetails-wrapper" style="position:relative;"><div id="mw-fr-revisiondetails" class="flaggedrevs_short_details" style="display:none">Текущая версия страницы пока <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">не проверялась</a> опытными участниками и может значительно отличаться от <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=Angry_Birds_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE&amp;stable=1">версии</a>, проверенной 26 декабря 2022 года; проверки требует <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=Angry_Birds_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE&amp;oldid=127496523&amp;diff=cur&amp;diffonly=0">1 правка</a>.</div>
+</div>
+</div>
+</div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="ru" dir="ltr"><div class="mw-parser-output"><table class="infobox infobox-dc49e3c1ec72963f" style="" data-name="Мультфильм"><tbody><tr><th colspan="2" scope="colgroup" class="infobox-above" style="">Angry Birds в кино</th></tr><tr><td colspan="2" class="" style="text-align:center;"><span data-wikidata-property-id="P1476" class="no-wikidata"><a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">The Angry Birds Movie</span></span></td></tr><tr><td colspan="2" class="infobox-image" style=""> <span data-wikidata-property-id="P18" class="no-wikidata"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:AngryBirdsMovie.jpeg" class="image"><img alt="AngryBirdsMovie.jpeg" src="//upload.wikimedia.org/wikipedia/ru/thumb/0/00/AngryBirdsMovie.jpeg/266px-AngryBirdsMovie.jpeg" decoding="async" width="266" height="400" srcset="//upload.wikimedia.org/wikipedia/ru/thumb/0/00/AngryBirdsMovie.jpeg/399px-AngryBirdsMovie.jpeg 1.5x, //upload.wikimedia.org/wikipedia/ru/thumb/0/00/AngryBirdsMovie.jpeg/533px-AngryBirdsMovie.jpeg 2x" data-file-width="666" data-file-height="1000" /></a></span> </td></tr>
+<tr>
+<th scope="row" class="plainlist">Тип мультфильма</th>
+<td class="plainlist">
+<a href="/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D0%B0%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D1%8F" title="Компьютерная анимация">Компьютерная анимация</a></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Жанр</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P136" class="no-wikidata"><a href="/wiki/%D0%9A%D0%B8%D0%BD%D0%BE%D0%BA%D0%BE%D0%BC%D0%B5%D0%B4%D0%B8%D1%8F" title="Кинокомедия">комедия</a><br /><a href="/wiki/%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%BD%D0%B8%D1%8F" class="mw-redirect" title="Приключения">приключения</a><br /><a href="/wiki/%D0%A1%D0%B5%D0%BC%D0%B5%D0%B9%D0%BD%D1%8B%D0%B9_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC" title="Семейный фильм">семейный фильм</a><br /><a href="/wiki/%D0%91%D0%BE%D0%B5%D0%B2%D0%B8%D0%BA_(%D0%B6%D0%B0%D0%BD%D1%80)" title="Боевик (жанр)">боевик</a></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Режиссёр</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P57" class="no-wikidata"><a href="/wiki/%D0%9A%D0%B5%D0%B9%D1%82%D0%B8%D1%81,_%D0%9A%D0%BB%D0%B5%D0%B9" title="Кейтис, Клей">Клей Кейтис</a>, Фергал Рейли</span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Продюсер</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P162" class="no-wikidata">Джон Коэн<br />Катрин Уиндер<br />Дэвид Майсел</span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">На основе</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P144" class="no-wikidata">игры <i><a href="/wiki/Angry_Birds" title="Angry Birds">Angry Birds</a></i> студии <a href="/wiki/Rovio_Entertainment" title="Rovio Entertainment">Rovio Entertainment</a></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Автор сценария</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P58" class="no-wikidata">Джон Витти</span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Роли озвучивали</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P725" class="no-wikidata"><a href="/wiki/%D0%A1%D1%83%D0%B4%D0%B5%D0%B9%D0%BA%D0%B8%D1%81,_%D0%94%D0%B6%D0%B5%D0%B9%D1%81%D0%BE%D0%BD" title="Судейкис, Джейсон">Джейсон Судейкис</a><br /><a href="/wiki/%D0%93%D1%8D%D0%B4,_%D0%94%D0%B6%D0%BE%D1%88" title="Гэд, Джош">Джош Гэд</a><br /><a href="/wiki/%D0%A0%D1%83%D0%B4%D0%BE%D0%BB%D1%8C%D1%84,_%D0%9C%D0%B0%D0%B9%D1%8F" title="Рудольф, Майя">Майя Рудольф</a><br /><a href="/wiki/%D0%9C%D0%B0%D0%BA%D0%B1%D1%80%D0%B0%D0%B9%D0%B4,_%D0%94%D1%8D%D0%BD%D0%BD%D0%B8" title="Макбрайд, Дэнни">Дэнни Макбрайд</a></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Композитор</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P86" class="no-wikidata"><a href="/w/index.php?title=%D0%9F%D0%B5%D1%80%D0%B5%D0%B9%D1%80%D0%B0,_%D0%AD%D0%B9%D1%82%D0%BE%D1%80&amp;action=edit&amp;redlink=1" class="new" title="Перейра, Эйтор (страница отсутствует)">Эйтор Перейра</a></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Монтажёр</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q18703062$F60E2A15-1229-4B92-90E7-B107AE294AD5" class="wikidata-claim" data-wikidata-property-id="P1040"><span class="wikidata-snak wikidata-main-snak"><span class="plainlinks"><a class="external text" href="https://ru.wikipedia.org/w/index.php?title=Kent+Beyda&amp;action=edit&amp;editintro=T:Нет_статьи/editintro&amp;preload=T:Нет_статьи/preload&amp;preloadparams%5B%5D=Q6391622&amp;preloadparams%5B%5D=Kent+Beyda&amp;preloadparams%5B%5D=Персона"><span style="color: #ba0000; text-decoration: inherit; -moz-text-decoration-color: #ba0000; text-decoration-color: #ba0000;">Kent Beyda</span></a></span><sup><a href="https://www.wikidata.org/wiki/Q6391622" class="extiw" title="d:Q6391622">[d]</a></sup></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Студия</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P272" class="no-wikidata"><a href="/wiki/Columbia_Pictures" title="Columbia Pictures">Columbia Pictures</a><br />Rovio Animation</span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Страна</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P495" class="no-wikidata"><span class="nowrap" data-sort-value="США"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/22px-Flag_of_the_United_States.svg.png" decoding="async" width="22" height="12" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/33px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/44px-Flag_of_the_United_States.svg.png 2x" data-file-width="1235" data-file-height="650" /></span>&#160;<a href="/wiki/%D0%A1%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D0%A8%D1%82%D0%B0%D1%82%D1%8B_%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B8" title="Соединённые Штаты Америки"><span class="wrap">США</span></a></span><br /> <span class="nowrap" data-sort-value="Финляндия"><span class="flagicon"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/22px-Flag_of_Finland.svg.png" decoding="async" width="22" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/33px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/44px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></span>&#160;<a href="/wiki/%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F" title="Финляндия"><span class="wrap">Финляндия</span></a></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Дистрибьютор</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P750" class="no-wikidata"><a href="/wiki/Sony_Pictures_Entertainment" title="Sony Pictures Entertainment">Sony Pictures Releasing</a></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Язык</th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q18703062$B2498CE9-3D5C-457E-9CD1-6153D7ACD858" class="wikidata-claim" data-wikidata-property-id="P364"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">английский</a></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Длительность</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P2047" class="no-wikidata">97 мин.</span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Премьера</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P577" class="no-wikidata">2016</span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Бюджет</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P2130" class="no-wikidata">73 млн <a href="/wiki/%D0%94%D0%BE%D0%BB%D0%BB%D0%B0%D1%80_%D0%A1%D0%A8%D0%90" title="Доллар США">долл.</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Сборы</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P2142" class="no-wikidata"><span class="nowrap">352&#160;333&#160;929</span> <a href="/wiki/%D0%94%D0%BE%D0%BB%D0%BB%D0%B0%D1%80_%D0%A1%D0%A8%D0%90" title="Доллар США">долл.</a><sup id="cite_ref-mojo_2-0" class="reference"><a href="#cite_note-mojo-2">&#91;2&#93;</a></sup></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Следующий мультфильм</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P156" class="no-wikidata"><a href="/wiki/Angry_Birds_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE_2" title="Angry Birds в кино 2">Angry Birds в кино 2</a></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist"><a href="/wiki/Internet_Movie_Database" title="Internet Movie Database">IMDb</a></th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q18703062$43A260D8-E331-4F9F-A36B-0FBCBD0017D6" class="wikidata-claim" data-wikidata-property-id="P345"><span class="wikidata-snak wikidata-main-snak"><a href="https://www.imdb.com/title/tt1985949/" class="extiw" title="imdbtitle:1985949">ID&#160;1985949</a></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist"><a href="/wiki/AllMovie" title="AllMovie">AllMovie</a></th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q18703062$5946E68C-EB87-4876-BB4A-415DCF6EF6FB" class="wikidata-claim" data-wikidata-property-id="P1562"><span class="wikidata-snak wikidata-main-snak"><a rel="nofollow" class="external text" href="https://www.allmovie.com/movie/v575689">ID&#160;v575689</a></span></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist"><a href="/wiki/Rotten_Tomatoes" title="Rotten Tomatoes">Rotten Tomatoes</a></th>
+<td class="plainlist">
+<span data-wikidata-claim-id="Q18703062$beffefd9-464a-022d-5594-6fe3ff493fcb" class="wikidata-claim" data-wikidata-property-id="P1258"><span class="wikidata-snak wikidata-main-snak"><a rel="nofollow" class="external text" href="https://www.rottentomatoes.com/m/the_angry_birds_movie">подробнее</a></span></span></td>
+</tr>
+<tr>
+<th colspan="2" scope="colgroup" class="infobox-header" style=""><span data-wikidata-claim-id="Q18703062$1f0832c5-546c-4071-be51-5d41da96d916" class="wikidata-claim" data-wikidata-property-id="P856"><span class="wikidata-snak wikidata-main-snak"><a rel="nofollow" class="external text" href="https://www.sonypictures.com/movies/theangrybirdsmovie">Официальный сайт</a></span></span></th>
+</tr><tr><td colspan="2" class="infobox-below" style=";"><span data-wikidata-claim-id="Q18703062$6c8014c3-223f-4bba-b7bd-ec53b3b5d668" class="wikidata-claim" data-wikidata-property-id="P373"><span class="wikidata-snak wikidata-main-snak"><a href="https://commons.wikimedia.org/wiki/Category:The_Angry_Birds_Movie" title="commons:Category:The Angry Birds Movie"><img alt="Логотип Викисклада" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" decoding="async" width="15" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a>&#160;<a href="https://commons.wikimedia.org/wiki/Category:The_Angry_Birds_Movie" class="extiw" title="commons:Category:The Angry Birds Movie">Медиафайлы на Викискладе</a></span></span></td></tr>
+</tbody></table>
+<p><b>«Angry Birds в кино»</b> (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">The Angry Birds Movie</span>)&#160;— <a href="/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D0%B0%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D1%8F" title="Компьютерная анимация">компьютерный</a> анимационный фильм по мотивам популярной игры <i><a href="/wiki/Angry_Birds" title="Angry Birds">Angry Birds</a></i> компании <a href="/wiki/Rovio_Entertainment" title="Rovio Entertainment">Rovio</a>. В <a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">США</a> вышел 20 мая 2016 года<sup id="cite_ref-autogenerated1_3-0" class="reference"><a href="#cite_note-autogenerated1-3">&#91;3&#93;</a></sup>, в <a href="/wiki/%D0%A1%D0%9D%D0%93" class="mw-redirect" title="СНГ">СНГ</a>&#160;— 12 мая 2016 года.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="ru" dir="ltr"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Сюжет"><span class="tocnumber">1</span> <span class="toctext">Сюжет</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Роли_озвучивали"><span class="tocnumber">2</span> <span class="toctext">Роли озвучивали</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Музыка"><span class="tocnumber">3</span> <span class="toctext">Музыка</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Список_композиций"><span class="tocnumber">3.1</span> <span class="toctext">Список композиций</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Саундтрек"><span class="tocnumber">3.2</span> <span class="toctext">Саундтрек</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Производство"><span class="tocnumber">4</span> <span class="toctext">Производство</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Критика"><span class="tocnumber">5</span> <span class="toctext">Критика</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Продолжение"><span class="tocnumber">6</span> <span class="toctext">Продолжение</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Примечания"><span class="tocnumber">7</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Ссылки"><span class="tocnumber">8</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+
+<h2><span id=".D0.A1.D1.8E.D0.B6.D0.B5.D1.82"></span><span class="mw-headline" id="Сюжет">Сюжет</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angry_Birds_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Редактировать раздел «Сюжет»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Angry_Birds_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE&amp;action=edit&amp;section=1" title="Редактировать раздел «Сюжет»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>В центре сюжета история миролюбивых птиц, живущих на одиноком Острове Птиц. Птицы долгое время жили в изоляции от окружающего мира, считая, что кроме них, на свете никого нет.
+</p><p>Главный герой&#160;— красная птица Ред, <a href="/wiki/%D0%A1%D0%B8%D1%80%D0%BE%D1%82%D0%B0" title="Сирота">сирота</a> и <a href="/wiki/%D0%98%D0%B7%D0%B3%D0%BE%D0%B9" title="Изгой">изгой</a>. В детстве он постоянно терпел издёвки от своих сверстников, из-за чего с возрастом у него начали проявляться вспышки сильнейшего гнева, от которых страдают практически все жители острова. Мудрый лидер, <a href="/wiki/%D0%A4%D0%B8%D0%BB%D0%B8%D0%BD" title="Филин">птица</a> Судья, устраивает суд над Редом. В наказание за его деяния он приговаривает Реда к обязательному посещению занятий по устранению гнева, преподаваемых Матильдой.
+</p><p>В первый день занятий Ред знакомится с быстрым и весёлым Чаком, неуклюжим Бомбом, а также хмурым, злым и молчаливым Теренсом.
+</p><p>На утро следующего дня на остров прибывает таинственный корабль, из которого выходит свин по имени Леонард. Он рассказывает о своём народе и, представляясь птицам в лучшем свете, остаётся гостить вместе со своими многочисленными подданными. Долгое время свиньи нравились всем птицам, кроме Реда. Именно он заподозрил у них недобрые намерения и, заручившись помощью Чака и Бомба, решил забраться на самую высокую гору острова, чтобы найти легендарного героя&#160;— Могучего Орла, и попросить у него совета относительно свиней. Однако при встрече с троицей Могучий Орёл отказывается как-либо вмешиваться в дела, творящиеся внизу.
+</p><p>Отчаявшиеся Ред, Чак и Бомб поздно вечером возвращаются назад. Вместе они с ужасом обнаруживают, что, пока птицы находились на дискотеке, свиньи решили украсть все птичьи яйца, попутно уничтожив их деревню. На следующий день Судья просит у Реда прощения, а также совета по возвращению украденного потомства. Тогда Реду приходит в голову построить корабль и, ориентируясь по следу, оставленному свиньями, отправиться на далёкий Остров Свиней.
+</p><p>Причалив, птицы обнаруживают, свиней, живущих в обнесенном стеной городе, которым правит Леонард, полное имя которого, как оказалось, король Леонард Бородач. Решив, что украденные яйца в замке, птицы атакуют свиной город с помощью <a href="/wiki/%D0%A0%D0%BE%D0%B3%D0%B0%D1%82%D0%BA%D0%B0" title="Рогатка">катапульты</a>&#160;— «подарка», оставленного свиньями. Вместе птицы подвергают Хрякоград многочисленным разрушениям. Реду вместе с Чаком и Бомбом удаётся пробраться в замок, где свиньи пытались приготовить яйца, окунув их завёрнутыми в гигантскую сеть в чан с кипящей водой. В этот момент на помощь к птицам прилетает Могучий Орёл. Он успевает отобрать и вернуть все птичьи яйца; вместе с ним возвращаются Ред, Чак и Бомб. Однако одно голубое яйцо выпадает из сетки, и Ред решает его спасти.
+</p><p>Реда преследует Леонард и в результате погони они оказываются под Хрякоградом, в огромном хранилище <a href="/wiki/%D0%94%D0%B8%D0%BD%D0%B0%D0%BC%D0%B8%D1%82" title="Динамит">динамита</a>. При помощи хитрости Реду удаётся поджечь <a href="/wiki/%D0%94%D0%B8%D0%BD%D0%B0%D0%BC%D0%B8%D1%82" title="Динамит">динамит</a>, укрывшись в упавшем на него чане. Весь город уничтожается мощным взрывом, однако Реду с яйцом удаётся выжить. Он возвращается к птицам, которые провозглашают его своим героем. Ред приобрёл веру в себя.
+</p><p>Из голубого яйца, спасённого Редом, вылупляется синяя троица.
+</p><p>Радостные птицы возвращаются назад на остров и отстраивают свою деревню заново, кроме того, жители деревни совместными силами возводят дом Реда в центре.
+</p><p>Во время финальных титров имеется несколько намёков на продолжение&#160;— на самом деле Леонард уцелел и утверждает, что начал быть добрым.
+</p>
+<h2><span id=".D0.A0.D0.BE.D0.BB.D0.B8_.D0.BE.D0.B7.D0.B2.D1.83.D1.87.D0.B8.D0.B2.D0.B0.D0.BB.D0.B8"></span><span class="mw-headline" id="Роли_озвучивали">Роли озвучивали</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angry_Birds_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Редактировать раздел «Роли озвучивали»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Angry_Birds_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE&amp;action=edit&amp;section=2" title="Редактировать раздел «Роли озвучивали»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Действующее лицо
+</th>
+<th>Исполнитель
+</th>
+<th>Русский дубляж
+</th></tr>
+<tr>
+<td>Ред
+</td>
+<td><a href="/wiki/%D0%A1%D1%83%D0%B4%D0%B5%D0%B9%D0%BA%D0%B8%D1%81,_%D0%94%D0%B6%D0%B5%D0%B9%D1%81%D0%BE%D0%BD" title="Судейкис, Джейсон">Джейсон Судейкис</a><sup id="cite_ref-cast_4-0" class="reference"><a href="#cite_note-cast-4">&#91;4&#93;</a></sup>
+</td>
+<td><a href="/wiki/%D0%A6%D0%B5%D0%BA%D0%B0%D0%BB%D0%BE,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" title="Цекало, Александр Евгеньевич">Александр Цекало</a><sup id="cite_ref-ruscast_5-0" class="reference"><a href="#cite_note-ruscast-5">&#91;5&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Чак
+</td>
+<td><a href="/wiki/%D0%93%D1%8D%D0%B4,_%D0%94%D0%B6%D0%BE%D1%88" title="Гэд, Джош">Джош Гэд</a><sup id="cite_ref-cast_4-1" class="reference"><a href="#cite_note-cast-4">&#91;4&#93;</a></sup>
+</td>
+<td><a href="/wiki/%D0%A0%D0%BE%D0%B4%D1%80%D0%B8%D0%B3%D0%B5%D0%B7,_%D0%A2%D0%B8%D0%BC%D1%83%D1%80" title="Родригез, Тимур">Тимур Родригез</a><sup id="cite_ref-ruscast_5-1" class="reference"><a href="#cite_note-ruscast-5">&#91;5&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Бомб
+</td>
+<td><a href="/wiki/%D0%9C%D0%B0%D0%BA%D0%B1%D1%80%D0%B0%D0%B9%D0%B4,_%D0%94%D1%8D%D0%BD%D0%BD%D0%B8" title="Макбрайд, Дэнни">Дэнни Макбрайд</a><sup id="cite_ref-cast_4-2" class="reference"><a href="#cite_note-cast-4">&#91;4&#93;</a></sup>
+</td>
+<td><a href="/wiki/%D0%A1%D0%BB%D0%B5%D0%BF%D0%B0%D0%BA%D0%BE%D0%B2,_%D0%A1%D0%B5%D0%BC%D1%91%D0%BD_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%B8%D1%87" title="Слепаков, Семён Сергеевич">Семён Слепаков</a><sup id="cite_ref-ruscast_5-2" class="reference"><a href="#cite_note-ruscast-5">&#91;5&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Матильда
+</td>
+<td><a href="/wiki/%D0%A0%D1%83%D0%B4%D0%BE%D0%BB%D1%8C%D1%84,_%D0%9C%D0%B0%D0%B9%D1%8F" title="Рудольф, Майя">Майя Рудольф</a><sup id="cite_ref-cast_4-3" class="reference"><a href="#cite_note-cast-4">&#91;4&#93;</a></sup>
+</td>
+<td><a href="/w/index.php?title=%D0%A8%D1%83%D0%BB%D1%8C%D0%BC%D0%B0%D0%BD,_%D0%95%D0%BB%D0%B5%D0%BD%D0%B0_%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D1%8C%D0%B5%D0%B2%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Шульман, Елена Анатольевна (страница отсутствует)">Елена Шульман</a>
+</td></tr>
+<tr>
+<td>Леонард
+</td>
+<td><a href="/wiki/%D0%A5%D0%B5%D0%B9%D0%B4%D0%B5%D1%80,_%D0%91%D0%B8%D0%BB%D0%BB" title="Хейдер, Билл">Билл Хейдер</a><sup id="cite_ref-cast_4-4" class="reference"><a href="#cite_note-cast-4">&#91;4&#93;</a></sup>
+</td>
+<td><a href="/wiki/%D0%91%D1%83%D1%80%D1%83%D0%BD%D0%BE%D0%B2,_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Бурунов, Сергей Александрович">Сергей Бурунов</a><sup id="cite_ref-ruscast_5-3" class="reference"><a href="#cite_note-ruscast-5">&#91;5&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Могучий Орёл
+</td>
+<td><a href="/wiki/%D0%94%D0%B8%D0%BD%D0%BA%D0%BB%D1%8D%D0%B9%D0%B4%D0%B6,_%D0%9F%D0%B8%D1%82%D0%B5%D1%80" title="Динклэйдж, Питер">Питер Динклэйдж</a><sup id="cite_ref-cast_4-5" class="reference"><a href="#cite_note-cast-4">&#91;4&#93;</a></sup>
+</td>
+<td><a href="/wiki/%D0%A0%D0%B5%D0%B2%D0%B2%D0%B0,_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Ревва, Александр Владимирович">Александр Ревва</a><sup id="cite_ref-ruscast_5-4" class="reference"><a href="#cite_note-ruscast-5">&#91;5&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Стелла
+</td>
+<td><a href="/wiki/%D0%9C%D0%B0%D0%BA%D0%BA%D0%B8%D0%BD%D0%BD%D0%BE%D0%BD,_%D0%9A%D0%B5%D0%B9%D1%82" title="Маккиннон, Кейт">Кейт Маккиннон</a><sup id="cite_ref-cast_4-6" class="reference"><a href="#cite_note-cast-4">&#91;4&#93;</a></sup>
+</td>
+<td><a href="/w/index.php?title=%D0%A4%D0%B0%D0%BB%D0%B0%D0%BB%D0%B5%D0%B5%D0%B2%D0%B0,_%D0%90%D0%BB%D1%91%D0%BD%D0%B0_%D0%9E%D0%BB%D0%B5%D0%B3%D0%BE%D0%B2%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Фалалеева, Алёна Олеговна (страница отсутствует)">Алёна Фалалеева</a>
+</td></tr>
+<tr>
+<td>Росс
+</td>
+<td><a href="/wiki/%D0%A5%D0%B5%D0%B9%D0%BB,_%D0%A2%D0%BE%D0%BD%D0%B8" title="Хейл, Тони">Тони Хейл</a><sup id="cite_ref-cast_4-7" class="reference"><a href="#cite_note-cast-4">&#91;4&#93;</a></sup>
+</td>
+<td><a href="/wiki/%D0%A1%D1%8B%D0%B5%D0%BD%D0%B4%D1%83%D0%BA" title="Сыендук">Дмитрий Карпов (Сыендук)</a>
+</td></tr>
+<tr>
+<td>Судья Клюволап
+</td>
+<td><a href="/wiki/%D0%9A%D0%B5%D0%B9,_%D0%9A%D0%B8%D0%B3%D0%B0%D0%BD-%D0%9C%D0%B0%D0%B9%D0%BA%D0%BB" title="Кей, Киган-Майкл">Киган-Майкл Кей</a><sup id="cite_ref-cast_4-8" class="reference"><a href="#cite_note-cast-4">&#91;4&#93;</a></sup>
+</td>
+<td><a href="/wiki/%D0%A1%D0%B5%D0%BC%D1%91%D0%BD%D0%BE%D0%B2-%D0%9F%D1%80%D0%BE%D0%B7%D0%BE%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9,_%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D0%B0_%D0%AE%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" title="Семёнов-Прозоровский, Никита Юрьевич">Никита Прозоровский</a>
+</td></tr>
+<tr>
+<td>Эрл
+</td>
+<td><a href="/wiki/%D0%A8%D0%B5%D0%BB%D1%82%D0%BE%D0%BD,_%D0%91%D0%BB%D0%B5%D0%B9%D0%BA" title="Шелтон, Блейк">Блейк Шелтон</a><sup id="cite_ref-cast_4-9" class="reference"><a href="#cite_note-cast-4">&#91;4&#93;</a></sup>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>Теренс
+</td>
+<td><a href="/wiki/%D0%9F%D0%B5%D0%BD%D0%BD,_%D0%A8%D0%BE%D0%BD" title="Пенн, Шон">Шон Пенн</a><sup id="cite_ref-cast_4-10" class="reference"><a href="#cite_note-cast-4">&#91;4&#93;</a></sup>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>Усатый барон
+</td>
+<td><a href="/w/index.php?title=%D0%A0%D0%B5%D0%B9%D0%BB%D0%B8,_%D0%A4%D0%B5%D1%80%D0%B3%D0%B0%D0%BB&amp;action=edit&amp;redlink=1" class="new" title="Рейли, Фергал (страница отсутствует)">Фергал Рейли</a><sup id="cite_ref-cast_4-11" class="reference"><a href="#cite_note-cast-4">&#91;4&#93;</a></sup>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>Эдвард
+</td>
+<td>Хэннибал Бёресс<sup id="cite_ref-cast_4-12" class="reference"><a href="#cite_note-cast-4">&#91;4&#93;</a></sup>
+</td>
+<td><a href="/wiki/%D0%9D%D0%B5%D0%BA%D1%80%D0%B0%D1%81%D0%BE%D0%B2,_%D0%94%D0%B5%D0%BD%D0%B8%D1%81_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87" title="Некрасов, Денис Александрович">Денис Некрасов</a>
+</td></tr>
+<tr>
+<td>Ева
+</td>
+<td><a href="/wiki/%D0%9C%D0%B0%D0%BA%D0%BA%D0%B8%D0%BD%D0%BD%D0%BE%D0%BD,_%D0%9A%D0%B5%D0%B9%D1%82" title="Маккиннон, Кейт">Кейт Маккиннон</a><sup id="cite_ref-cast_4-13" class="reference"><a href="#cite_note-cast-4">&#91;4&#93;</a></sup>
+</td>
+<td>Наталия Колодяжная
+</td></tr>
+<tr>
+<td>Инструктор йоги
+</td>
+<td><a href="/wiki/%D0%91%D0%B5%D0%BB%D0%BB,_%D0%94%D0%B6%D0%B8%D0%BB%D0%BB%D0%B8%D0%B0%D0%BD" title="Белл, Джиллиан">Джиллиан Белл</a>
+</td>
+<td>Татьяна Пестрякова (Бригада У)
+</td></tr>
+<tr>
+<td>Хелен
+</td>
+<td>Джиллиан Белл<sup id="cite_ref-cast_4-14" class="reference"><a href="#cite_note-cast-4">&#91;4&#93;</a></sup>
+</td>
+<td>Виктория Казанцева
+</td></tr>
+<tr>
+<td>Ширли
+</td>
+<td><a href="/wiki/%D0%90%D0%BB%D0%BE%D0%BD%D1%81%D0%BE,_%D0%9A%D1%80%D0%B8%D1%81%D1%82%D0%B5%D0%BB%D0%B0" title="Алонсо, Кристела">Кристела Алонсо</a><sup id="cite_ref-cast_4-15" class="reference"><a href="#cite_note-cast-4">&#91;4&#93;</a></sup>
+</td>
+<td>Ирина Маликова
+</td></tr>
+<tr>
+<td>Моника (птица-регулировщица)
+</td>
+<td rowspan="2"><a href="/wiki/%D0%91%D1%80%D1%83%D0%BA%D1%81,_%D0%94%D0%B0%D0%BD%D0%B8%D1%8D%D0%BB%D1%8C" title="Брукс, Даниэль">Даниэль Брукс</a><sup id="cite_ref-cast_4-16" class="reference"><a href="#cite_note-cast-4">&#91;4&#93;</a></sup>
+</td>
+<td>Анастасия Лапина
+</td></tr>
+<tr>
+<td>Оливия
+</td>
+<td>
+</td></tr>
+<tr>
+<td>Грег
+</td>
+<td>Кевин Бигли<sup id="cite_ref-cast_4-17" class="reference"><a href="#cite_note-cast-4">&#91;4&#93;</a></sup>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>Ранняя пташка
+</td>
+<td><a href="/wiki/%D0%A1%D0%B0%D0%BD%D1%82%D0%BE%D1%81,_%D0%A0%D0%BE%D0%BC%D0%B5%D0%BE" title="Сантос, Ромео">Ромео Сантос</a><sup id="cite_ref-cast_4-18" class="reference"><a href="#cite_note-cast-4">&#91;4&#93;</a></sup>
+</td>
+<td>Илья Колесников (Бригада У)<sup id="cite_ref-ruscast2_6-0" class="reference"><a href="#cite_note-ruscast2-6">&#91;6&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Хэл
+</td>
+<td><a href="/wiki/Smosh" title="Smosh">Энтони Падилла</a><sup id="cite_ref-cast_4-19" class="reference"><a href="#cite_note-cast-4">&#91;4&#93;</a></sup>
+</td>
+<td><a href="/w/index.php?title=%D0%9F%D0%B5%D1%80%D0%B5%D0%BB%D1%8C,_%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%B8%D0%B9_%D0%98%D0%BE%D1%81%D0%B8%D1%84%D0%BE%D0%B2%D0%B8%D1%87&amp;action=edit&amp;redlink=1" class="new" title="Перель, Григорий Иосифович (страница отсутствует)">Григорий Перель</a>
+</td></tr>
+<tr>
+<td>Бабблз
+</td>
+<td><a href="/wiki/Smosh" title="Smosh">Ян Хикокс</a><sup id="cite_ref-cast_4-20" class="reference"><a href="#cite_note-cast-4">&#91;4&#93;</a></sup>
+</td>
+<td><a href="/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D1%81%D0%B8%D0%BA,_%D0%9A%D0%BE%D0%BD%D1%81%D1%82%D0%B0%D0%BD%D1%82%D0%B8%D0%BD_%D0%92%D0%B0%D0%BB%D0%B5%D1%80%D1%8C%D0%B5%D0%B2%D0%B8%D1%87" title="Карасик, Константин Валерьевич">Константин Карасик</a>
+</td></tr>
+<tr>
+<td>Таини
+</td>
+<td><a href="/wiki/%D0%91%D0%B0%D1%80%D0%B8%D0%BD%D1%85%D0%BE%D0%BB%D1%86,_%D0%90%D0%B9%D0%BA" title="Баринхолц, Айк">Айк Баринхолц</a><sup id="cite_ref-cast_4-21" class="reference"><a href="#cite_note-cast-4">&#91;4&#93;</a></sup>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>Уиллоу
+</td>
+<td><a href="/wiki/Charli_XCX" title="Charli XCX">Charli XCX</a><sup id="cite_ref-cast_4-22" class="reference"><a href="#cite_note-cast-4">&#91;4&#93;</a></sup>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>Свин-повар
+</td>
+<td><a href="/wiki/%D0%90%D0%B9%D0%BA%D0%BD%D0%B5%D1%80,_%D0%91%D0%B8%D0%BB%D0%BB%D0%B8" title="Айкнер, Билли">Билли Айкнер</a><sup id="cite_ref-cast_4-23" class="reference"><a href="#cite_note-cast-4">&#91;4&#93;</a></sup>
+</td>
+<td><a href="/w/index.php?title=%D0%92%D0%B8%D0%BD%D0%BE%D0%B3%D1%80%D0%B0%D0%B4%D0%BE%D0%B2,_%D0%94%D0%B8%D0%BE%D0%BC%D0%B8%D0%B4_%D0%9C%D0%B8%D1%85%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B8%D1%87&amp;action=edit&amp;redlink=1" class="new" title="Виноградов, Диомид Михайлович (страница отсутствует)">Диомид Виноградов</a>
+</td></tr>
+<tr>
+<td>Воспитатель
+</td>
+<td><a href="/wiki/%D0%90%D1%80%D0%B5%D0%BD%D0%B4,_%D0%94%D0%B6%D0%B5%D1%84%D1%84%D1%80%D0%B8" title="Аренд, Джеффри">Джеффри Аренд</a><sup id="cite_ref-cast_4-24" class="reference"><a href="#cite_note-cast-4">&#91;4&#93;</a></sup>
+</td>
+<td>Аркадий Джем (Бригада У)<sup id="cite_ref-ruscast2_6-1" class="reference"><a href="#cite_note-ruscast2-6">&#91;6&#93;</a></sup>
+</td></tr>
+<tr>
+<td>Тимоти
+</td>
+<td><a href="/w/index.php?title=%D0%90%D0%BA%D1%80%D0%B5%D1%81,_%D0%95%D0%B2%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Акрес, Ева (страница отсутствует)">Ева Акрес</a><sup id="cite_ref-cast_4-25" class="reference"><a href="#cite_note-cast-4">&#91;4&#93;</a></sup>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>Птица-мим
+</td>
+<td rowspan="2"><a href="/wiki/%D0%A5%D0%B5%D0%B9%D0%BB,_%D0%A2%D0%BE%D0%BD%D0%B8" title="Хейл, Тони">Тони Хейл</a><sup id="cite_ref-cast_4-26" class="reference"><a href="#cite_note-cast-4">&#91;4&#93;</a></sup>
+</td>
+<td><a href="/wiki/%D0%9F%D0%B0%D0%BD%D0%BA%D0%BE%D0%B2,_%D0%A0%D1%83%D0%B4%D0%BE%D0%BB%D1%8C%D1%84_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2%D0%B8%D1%87" title="Панков, Рудольф Николаевич">Рудольф Панков</a>
+</td></tr>
+<tr>
+<td>Кир
+</td>
+<td><a href="/wiki/%D0%A7%D0%B8%D1%85%D0%B0%D1%87%D1%91%D0%B2,_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B9_%D0%98%D0%B3%D0%BE%D1%80%D0%B5%D0%B2%D0%B8%D1%87" title="Чихачёв, Сергей Игоревич">Сергей Чихачёв</a>
+</td></tr>
+<tr>
+<td>Фотосвин
+</td>
+<td><a href="/wiki/%D0%91%D1%91%D1%80%D0%B4%D0%B6%D0%B5%D1%81%D1%81,_%D0%A2%D0%B8%D1%82%D1%83%D1%81%D1%81" title="Бёрджесс, Титусс">Титусс Берджесс</a><sup id="cite_ref-cast_4-27" class="reference"><a href="#cite_note-cast-4">&#91;4&#93;</a></sup>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>Ред в детстве
+</td>
+<td><a href="/w/index.php?title=%D0%9C%D0%B0%D0%BA%D0%B3%D1%80%D0%BE%D1%83,_%D0%AD%D0%B9%D0%B4%D0%B0%D0%BD&amp;action=edit&amp;redlink=1" class="new" title="Макгроу, Эйдан (страница отсутствует)">Эйдан Макгроу</a> и <a href="/w/index.php?title=%D0%A5%D0%BE%D0%BB%D0%BB%D0%B8,_%D0%9A%D0%B0%D0%BB%D0%B0%D0%BD&amp;action=edit&amp;redlink=1" class="new" title="Холли, Калан (страница отсутствует)">Калан Холли</a>
+</td>
+<td>Даниил Тикунов
+</td></tr>
+<tr>
+<td>Синяя троица
+</td>
+<td><a href="/wiki/%D0%93%D0%B0%D0%BD%D1%8C%D0%BE%D0%BD,_%D0%9F%D0%B8%D1%80%D1%81" title="Ганьон, Пирс">Пирс Ганьон</a>, <a href="/wiki/%D0%A8%D0%BD%D0%B0%D0%BF%D0%BF,_%D0%9D%D0%BE%D0%B0" title="Шнапп, Ноа">Ноа Шнапп</a> и <a href="/w/index.php?title=%D0%92%D0%B0%D0%BA%D0%BA%D0%B0%D1%80%D0%BE,_%D0%9E%D1%83%D1%8D%D0%BD_%D0%A3%D0%B8%D0%BB%D0%B4%D0%B5%D1%80&amp;action=edit&amp;redlink=1" class="new" title="Ваккаро, Оуэн Уилдер (страница отсутствует)">Оуэн Уилдер Ваккаро</a><sup id="cite_ref-cast_4-28" class="reference"><a href="#cite_note-cast-4">&#91;4&#93;</a></sup>
+</td>
+<td>
+</td></tr>
+<tr>
+<td>Клейтон-официант
+</td>
+<td><a href="/wiki/%D0%9A%D0%B5%D0%B9%D1%82%D0%B8%D1%81,_%D0%9A%D0%BB%D0%B5%D0%B9" title="Кейтис, Клей">Клей Кейтис</a><sup id="cite_ref-cast_4-29" class="reference"><a href="#cite_note-cast-4">&#91;4&#93;</a></sup>
+</td>
+<td>
+</td></tr></tbody></table>
+<ul><li>Дубляж при участии школы-студии «Sound Media Kids»<sup id="cite_ref-ruscast2_6-2" class="reference"><a href="#cite_note-ruscast2-6">&#91;6&#93;</a></sup></li></ul>
+<h2><span id=".D0.9C.D1.83.D0.B7.D1.8B.D0.BA.D0.B0"></span><span class="mw-headline" id="Музыка">Музыка</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angry_Birds_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Редактировать раздел «Музыка»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Angry_Birds_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE&amp;action=edit&amp;section=3" title="Редактировать раздел «Музыка»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Музыку к фильму написал Эйтор Перейра.
+</p>
+<style data-mw-deduplicate="TemplateStyles:r120768305/mw-parser-output/.infobox-6df355111e4fb739">body.skin-modern .mw-parser-output .infobox-6df355111e4fb739 .infobox-above,body.skin-modern .mw-parser-output .infobox-6df355111e4fb739 .infobox-header,body.skin-modern .mw-parser-output .infobox-6df355111e4fb739 .infobox-below,body.skin-monobook .mw-parser-output .infobox-6df355111e4fb739 .infobox-above,body.skin-monobook .mw-parser-output .infobox-6df355111e4fb739 .infobox-header,body.skin-monobook .mw-parser-output .infobox-6df355111e4fb739 .infobox-below,body.skin-timeless .mw-parser-output .infobox-6df355111e4fb739 .infobox-above,body.skin-timeless .mw-parser-output .infobox-6df355111e4fb739 .infobox-header,body.skin-timeless .mw-parser-output .infobox-6df355111e4fb739 .infobox-below,body.skin-vector .mw-parser-output .infobox-6df355111e4fb739 .infobox-above,body.skin-vector .mw-parser-output .infobox-6df355111e4fb739 .infobox-header,body.skin-vector .mw-parser-output .infobox-6df355111e4fb739 .infobox-below{background:#dcdcdc}</style><table class="infobox infobox-6df355111e4fb739" style="" data-name="Музыкальный альбом"><tbody><tr><th colspan="2" scope="colgroup" class="infobox-above" style=""><i>The Angry Birds Movie (Original Motion Picture Score)</i></th></tr><tr><td colspan="2" class="" style="text-align:center; font-style:italic;"><span data-wikidata-claim-id="Q18703062$e6edfbec-4ef2-e061-07d4-635b03e341ee" class="wikidata-claim" data-wikidata-property-id="P1476&#91;LANGUAGE!:RU&#93;&#91;LANGUAGE!:EN&#93;"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A0%D1%83%D0%BC%D1%8B%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Румынский язык">рум.</a> <span lang="ro" style="font-style:italic;">Angry Birds (film)</span></span></span></td></tr>
+<tr>
+<th colspan="2" scope="colgroup" class="infobox-header" style=""><span data-wikidata-property-id="P7937" class="no-wikidata"><a href="/wiki/%D0%A1%D0%B0%D1%83%D0%BD%D0%B4%D1%82%D1%80%D0%B5%D0%BA-%D0%B0%D0%BB%D1%8C%D0%B1%D0%BE%D0%BC" class="mw-redirect" title="Саундтрек-альбом">Саундтрек</a></span>&#32; <span data-wikidata-property-id="P175" class="no-wikidata"><a href="/w/index.php?title=%D0%9F%D0%B5%D1%80%D0%B5%D0%B9%D1%80%D0%B0,_%D0%AD%D0%B9%D1%82%D0%BE%D1%80&amp;action=edit&amp;redlink=1" class="new" title="Перейра, Эйтор (страница отсутствует)">Эйтора Перейры</a></span></th>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Дата выпуска</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P577" class="no-wikidata">12 мая 2016</span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist"><a href="/wiki/%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B6%D0%B0%D0%BD%D1%80" title="Музыкальный жанр">Жанр</a></th>
+<td class="plainlist">
+<span data-wikidata-property-id="P136" class="no-wikidata"><a href="/wiki/%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0_%D0%BA_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%83" title="Музыка к фильму">Музыка к фильму</a></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Длительность</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P2047" class="no-wikidata">1:19:00</span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Страна</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P291" class="no-wikidata"><a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">США</a></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist"><a href="/wiki/%D0%9B%D0%B5%D0%B9%D0%B1%D0%BB_%D0%B7%D0%B2%D1%83%D0%BA%D0%BE%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%B8" title="Лейбл звукозаписи">Лейбл</a></th>
+<td class="plainlist">
+<span data-wikidata-property-id="P264" class="no-wikidata"><a href="/w/index.php?title=Sony_Classical_Records&amp;action=edit&amp;redlink=1" class="new" title="Sony Classical Records (страница отсутствует)">Sony Classical Records</a></span></td>
+</tr>
+<tr>
+<th colspan="2" scope="colgroup" class="infobox-header" style="">Хронология <span data-wikidata-property-id="P175" class="no-wikidata"><a href="/w/index.php?title=%D0%9F%D0%B5%D1%80%D0%B5%D0%B9%D1%80%D0%B0,_%D0%AD%D0%B9%D1%82%D0%BE%D1%80&amp;action=edit&amp;redlink=1" class="new" title="Перейра, Эйтор (страница отсутствует)">Эйтора Перейры</a></span></th>
+</tr>
+<tr>
+<td colspan="2" class="infobox-table plainlist" style="text-align:center;">
+<table class="infobox-inherit">
+<tbody><tr>
+<td style="width:33%; padding-left:0; padding-right:0; line-height:1.4;"><span class="no-wikidata" data-wikidata-property-id="P155">«<span></span><a href="/wiki/%D0%9C%D0%B8%D0%BD%D1%8C%D0%BE%D0%BD%D1%8B" title="Миньоны">Миньоны</a>»</span><br />(2015)</td>
+<td style="width:33%; padding-left:0; padding-right:0; line-height:1.4;"><b><i>The Angry Birds Movie (Original Motion Picture Score)</i></b><br />(2016)</td>
+<td style="width:33%; padding-left:0; padding-right:0; line-height:1.4;"><span class="no-wikidata" data-wikidata-property-id="P156"></span></td>
+</tr>
+</tbody></table></td>
+</tr>
+</tbody></table>
+<h3><span id=".D0.A1.D0.BF.D0.B8.D1.81.D0.BE.D0.BA_.D0.BA.D0.BE.D0.BC.D0.BF.D0.BE.D0.B7.D0.B8.D1.86.D0.B8.D0.B9"></span><span class="mw-headline" id="Список_композиций">Список композиций</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angry_Birds_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Редактировать раздел «Список композиций»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Angry_Birds_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE&amp;action=edit&amp;section=4" title="Редактировать раздел «Список композиций»">править код</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="tracklist" style="max-width: 100%; border-width: 0px; border-collapse: collapse;">
+    
+    <tbody><tr>
+      <th scope="col" class="tlheader" style="width: 20px; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee;">№</th>
+      <th scope="col" class="tlheader" style="width: 100%; text-align: left; background-color: #eee;">Название</th>
+      <th scope="col" class="tlheader" style="width: 60px; padding-right: 10px; text-align: right; background-color: #eee;">Длительность</th>
+    </tr>
+        <tr class="tlrow&#123;&#123;&#123;row&#125;&#125;&#125;" style="background-color: #fff;">
+  <td style="padding-right: 10px; text-align: right;">1.</td>
+  <td style="text-align: left;">«Red on the Run» </td>
+  <td style="padding-right: 10px; text-align: right;">2:31</td>
+</tr>
+
+        <tr class="tlrow&#123;&#123;&#123;row&#125;&#125;&#125;" style="background-color: #f7f7f7;">
+  <td style="padding-right: 10px; text-align: right;">2.</td>
+  <td style="text-align: left;">«Birthday Party» </td>
+  <td style="padding-right: 10px; text-align: right;">2:32</td>
+</tr>
+
+        <tr class="tlrow&#123;&#123;&#123;row&#125;&#125;&#125;" style="background-color: #fff;">
+  <td style="padding-right: 10px; text-align: right;">3.</td>
+  <td style="text-align: left;">«Bird Court» </td>
+  <td style="padding-right: 10px; text-align: right;">4:32</td>
+</tr>
+
+        <tr class="tlrow&#123;&#123;&#123;row&#125;&#125;&#125;" style="background-color: #f7f7f7;">
+  <td style="padding-right: 10px; text-align: right;">4.</td>
+  <td style="text-align: left;">«Billy Fight» </td>
+  <td style="padding-right: 10px; text-align: right;">1:32</td>
+</tr>
+
+        <tr class="tlrow&#123;&#123;&#123;row&#125;&#125;&#125;" style="background-color: #fff;">
+  <td style="padding-right: 10px; text-align: right;">5.</td>
+  <td style="text-align: left;">«This is Going to be Awful» </td>
+  <td style="padding-right: 10px; text-align: right;">2:13</td>
+</tr>
+
+        <tr class="tlrow&#123;&#123;&#123;row&#125;&#125;&#125;" style="background-color: #f7f7f7;">
+  <td style="padding-right: 10px; text-align: right;">6.</td>
+  <td style="text-align: left;">«Terence and Bomb» </td>
+  <td style="padding-right: 10px; text-align: right;">3:58</td>
+</tr>
+
+        <tr class="tlrow&#123;&#123;&#123;row&#125;&#125;&#125;" style="background-color: #fff;">
+  <td style="padding-right: 10px; text-align: right;">7.</td>
+  <td style="text-align: left;">«Boat Approaches» </td>
+  <td style="padding-right: 10px; text-align: right;">1:51</td>
+</tr>
+
+        <tr class="tlrow&#123;&#123;&#123;row&#125;&#125;&#125;" style="background-color: #f7f7f7;">
+  <td style="padding-right: 10px; text-align: right;">8.</td>
+  <td style="text-align: left;">«Poetry Time» </td>
+  <td style="padding-right: 10px; text-align: right;">2:11</td>
+</tr>
+
+        <tr class="tlrow&#123;&#123;&#123;row&#125;&#125;&#125;" style="background-color: #fff;">
+  <td style="padding-right: 10px; text-align: right;">9.</td>
+  <td style="text-align: left;">«Leonard» </td>
+  <td style="padding-right: 10px; text-align: right;">2:15</td>
+</tr>
+
+        <tr class="tlrow&#123;&#123;&#123;row&#125;&#125;&#125;" style="background-color: #f7f7f7;">
+  <td style="padding-right: 10px; text-align: right;">10.</td>
+  <td style="text-align: left;">«The Trampoline» </td>
+  <td style="padding-right: 10px; text-align: right;">3:12</td>
+</tr>
+
+        <tr class="tlrow&#123;&#123;&#123;row&#125;&#125;&#125;" style="background-color: #fff;">
+  <td style="padding-right: 10px; text-align: right;">11.</td>
+  <td style="text-align: left;">«Who Are These Weirdos?» </td>
+  <td style="padding-right: 10px; text-align: right;">1:35</td>
+</tr>
+
+        <tr class="tlrow&#123;&#123;&#123;row&#125;&#125;&#125;" style="background-color: #f7f7f7;">
+  <td style="padding-right: 10px; text-align: right;">12.</td>
+  <td style="text-align: left;">«Look What I Found!» </td>
+  <td style="padding-right: 10px; text-align: right;">1:49</td>
+</tr>
+
+        <tr class="tlrow&#123;&#123;&#123;row&#125;&#125;&#125;" style="background-color: #fff;">
+  <td style="padding-right: 10px; text-align: right;">13.</td>
+  <td style="text-align: left;">«Paint Your Pain» </td>
+  <td style="padding-right: 10px; text-align: right;">2:02</td>
+</tr>
+
+        <tr class="tlrow&#123;&#123;&#123;row&#125;&#125;&#125;" style="background-color: #f7f7f7;">
+  <td style="padding-right: 10px; text-align: right;">14.</td>
+  <td style="text-align: left;">«Does None of This Seem Wrong?» </td>
+  <td style="padding-right: 10px; text-align: right;">1:11</td>
+</tr>
+
+        <tr class="tlrow&#123;&#123;&#123;row&#125;&#125;&#125;" style="background-color: #fff;">
+  <td style="padding-right: 10px; text-align: right;">15.</td>
+  <td style="text-align: left;">«I Need Your Help» </td>
+  <td style="padding-right: 10px; text-align: right;">2:26</td>
+</tr>
+
+        <tr class="tlrow&#123;&#123;&#123;row&#125;&#125;&#125;" style="background-color: #f7f7f7;">
+  <td style="padding-right: 10px; text-align: right;">16.</td>
+  <td style="text-align: left;">«Lake of Wisdom» </td>
+  <td style="padding-right: 10px; text-align: right;">1:27</td>
+</tr>
+
+        <tr class="tlrow&#123;&#123;&#123;row&#125;&#125;&#125;" style="background-color: #fff;">
+  <td style="padding-right: 10px; text-align: right;">17.</td>
+  <td style="text-align: left;">«I Think He Saw Us» </td>
+  <td style="padding-right: 10px; text-align: right;">1:59</td>
+</tr>
+
+        <tr class="tlrow&#123;&#123;&#123;row&#125;&#125;&#125;" style="background-color: #f7f7f7;">
+  <td style="padding-right: 10px; text-align: right;">18.</td>
+  <td style="text-align: left;">«Helium, It's a Gas» </td>
+  <td style="padding-right: 10px; text-align: right;">1:19</td>
+</tr>
+
+        <tr class="tlrow&#123;&#123;&#123;row&#125;&#125;&#125;" style="background-color: #fff;">
+  <td style="padding-right: 10px; text-align: right;">19.</td>
+  <td style="text-align: left;">«I Used to Believe in You» </td>
+  <td style="padding-right: 10px; text-align: right;">4:13</td>
+</tr>
+
+        <tr class="tlrow&#123;&#123;&#123;row&#125;&#125;&#125;" style="background-color: #f7f7f7;">
+  <td style="padding-right: 10px; text-align: right;">20.</td>
+  <td style="text-align: left;">«They're All Gone» </td>
+  <td style="padding-right: 10px; text-align: right;">1:27</td>
+</tr>
+
+        <tr class="tlrow&#123;&#123;&#123;row&#125;&#125;&#125;" style="background-color: #fff;">
+  <td style="padding-right: 10px; text-align: right;">21.</td>
+  <td style="text-align: left;">«Build a Boat» </td>
+  <td style="padding-right: 10px; text-align: right;">2:13</td>
+</tr>
+
+        <tr class="tlrow&#123;&#123;&#123;row&#125;&#125;&#125;" style="background-color: #f7f7f7;">
+  <td style="padding-right: 10px; text-align: right;">22.</td>
+  <td style="text-align: left;">«Arrive at Piggy Island» </td>
+  <td style="padding-right: 10px; text-align: right;">1:28</td>
+</tr>
+
+        <tr class="tlrow&#123;&#123;&#123;row&#125;&#125;&#125;" style="background-color: #fff;">
+  <td style="padding-right: 10px; text-align: right;">23.</td>
+  <td style="text-align: left;">«Ready, Aim, Fire!» </td>
+  <td style="padding-right: 10px; text-align: right;">3:39</td>
+</tr>
+
+        <tr class="tlrow&#123;&#123;&#123;row&#125;&#125;&#125;" style="background-color: #f7f7f7;">
+  <td style="padding-right: 10px; text-align: right;">24.</td>
+  <td style="text-align: left;">«Risky Idea» </td>
+  <td style="padding-right: 10px; text-align: right;">4:10</td>
+</tr>
+
+        <tr class="tlrow&#123;&#123;&#123;row&#125;&#125;&#125;" style="background-color: #fff;">
+  <td style="padding-right: 10px; text-align: right;">25.</td>
+  <td style="text-align: left;">«Chuck Time» </td>
+  <td style="padding-right: 10px; text-align: right;">0:46</td>
+</tr>
+
+        <tr class="tlrow&#123;&#123;&#123;row&#125;&#125;&#125;" style="background-color: #f7f7f7;">
+  <td style="padding-right: 10px; text-align: right;">26.</td>
+  <td style="text-align: left;">«We Want Eggs!» </td>
+  <td style="padding-right: 10px; text-align: right;">7:31</td>
+</tr>
+
+        <tr class="tlrow&#123;&#123;&#123;row&#125;&#125;&#125;" style="background-color: #fff;">
+  <td style="padding-right: 10px; text-align: right;">27.</td>
+  <td style="text-align: left;">«Nothing Like a Statue» </td>
+  <td style="padding-right: 10px; text-align: right;">4:14</td>
+</tr>
+
+        <tr class="tlrow&#123;&#123;&#123;row&#125;&#125;&#125;" style="background-color: #f7f7f7;">
+  <td style="padding-right: 10px; text-align: right;">28.</td>
+  <td style="text-align: left;">«Home Tweet Home» </td>
+  <td style="padding-right: 10px; text-align: right;">1:01</td>
+</tr>
+
+        <tr class="tlrow&#123;&#123;&#123;row&#125;&#125;&#125;" style="background-color: #fff;">
+  <td style="padding-right: 10px; text-align: right;">29.</td>
+  <td style="text-align: left;">«Mighty Red» </td>
+  <td style="padding-right: 10px; text-align: right;">0:47</td>
+</tr>
+
+        <tr class="tlrow&#123;&#123;&#123;row&#125;&#125;&#125;" style="background-color: #f7f7f7;">
+  <td style="padding-right: 10px; text-align: right;">30.</td>
+  <td style="text-align: left;">«Roomies» </td>
+  <td style="padding-right: 10px; text-align: right;">1:23</td>
+</tr>
+
+        <tr class="tlrow&#123;&#123;&#123;row&#125;&#125;&#125;" style="background-color: #fff;">
+  <td style="padding-right: 10px; text-align: right;">31.</td>
+  <td style="text-align: left;">«Red's Demo» </td>
+  <td style="padding-right: 10px; text-align: right;">2:08</td>
+</tr>
+
+        <tr class="tlrow&#123;&#123;&#123;row&#125;&#125;&#125;" style="background-color: #f7f7f7;">
+  <td style="padding-right: 10px; text-align: right;">32.</td>
+  <td style="text-align: left;">«Piggy Demo» </td>
+  <td style="padding-right: 10px; text-align: right;">3:08</td>
+</tr>
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+</tbody></table>
+<h3><span id=".D0.A1.D0.B0.D1.83.D0.BD.D0.B4.D1.82.D1.80.D0.B5.D0.BA"></span><span class="mw-headline" id="Саундтрек">Саундтрек</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angry_Birds_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Редактировать раздел «Саундтрек»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Angry_Birds_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE&amp;action=edit&amp;section=5" title="Редактировать раздел «Саундтрек»">править код</a><span class="mw-editsection-bracket">]</span></span></h3>
+<style data-mw-deduplicate="TemplateStyles:r120768305/mw-parser-output/.infobox-cf1ed463cf2661a7">body.skin-modern .mw-parser-output .infobox-cf1ed463cf2661a7 .infobox-above,body.skin-modern .mw-parser-output .infobox-cf1ed463cf2661a7 .infobox-header,body.skin-modern .mw-parser-output .infobox-cf1ed463cf2661a7 .infobox-below,body.skin-monobook .mw-parser-output .infobox-cf1ed463cf2661a7 .infobox-above,body.skin-monobook .mw-parser-output .infobox-cf1ed463cf2661a7 .infobox-header,body.skin-monobook .mw-parser-output .infobox-cf1ed463cf2661a7 .infobox-below,body.skin-timeless .mw-parser-output .infobox-cf1ed463cf2661a7 .infobox-above,body.skin-timeless .mw-parser-output .infobox-cf1ed463cf2661a7 .infobox-header,body.skin-timeless .mw-parser-output .infobox-cf1ed463cf2661a7 .infobox-below,body.skin-vector .mw-parser-output .infobox-cf1ed463cf2661a7 .infobox-above,body.skin-vector .mw-parser-output .infobox-cf1ed463cf2661a7 .infobox-header,body.skin-vector .mw-parser-output .infobox-cf1ed463cf2661a7 .infobox-below{background:#dcdcdc}</style><table class="infobox infobox-cf1ed463cf2661a7" style="" data-name="Музыкальный альбом"><tbody><tr><th colspan="2" scope="colgroup" class="infobox-above" style=""><i>The Angry Birds Movie (Original Motion Picture Soundtrack)</i></th></tr><tr><td colspan="2" class="" style="text-align:center; font-style:italic;"><span data-wikidata-claim-id="Q18703062$e6edfbec-4ef2-e061-07d4-635b03e341ee" class="wikidata-claim" data-wikidata-property-id="P1476&#91;LANGUAGE!:RU&#93;&#91;LANGUAGE!:EN&#93;"><span class="wikidata-snak wikidata-main-snak"><a href="/wiki/%D0%A0%D1%83%D0%BC%D1%8B%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Румынский язык">рум.</a> <span lang="ro" style="font-style:italic;">Angry Birds (film)</span></span></span></td></tr>
+<tr>
+<th colspan="2" scope="colgroup" class="infobox-header" style=""><span data-wikidata-property-id="P7937" class="no-wikidata"><a href="/wiki/%D0%A1%D0%B0%D1%83%D0%BD%D0%B4%D1%82%D1%80%D0%B5%D0%BA-%D0%B0%D0%BB%D1%8C%D0%B1%D0%BE%D0%BC" class="mw-redirect" title="Саундтрек-альбом">Саундтрек</a></span>&#32; <span data-wikidata-property-id="P175" class="no-wikidata">различных исполнителей</span></th>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Дата выпуска</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P577" class="no-wikidata">6 мая 2016<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Дата записи</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P10135" class="no-wikidata">2016</span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist"><a href="/wiki/%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B6%D0%B0%D0%BD%D1%80" title="Музыкальный жанр">Жанр</a></th>
+<td class="plainlist">
+<span data-wikidata-property-id="P136" class="no-wikidata"><a href="/wiki/%D0%9F%D0%BE%D0%BF-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0" title="Поп-музыка">Поп</a>, <a href="/wiki/%D0%A0%D0%BE%D0%BA-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0" title="Рок-музыка">рок</a>, <a href="/wiki/%D0%9A%D0%B0%D0%BD%D1%82%D1%80%D0%B8-%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0" class="mw-redirect" title="Кантри-музыка">кантри</a>, <a href="/wiki/%D0%A5%D0%B8%D0%BF-%D1%85%D0%BE%D0%BF_(%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%B6%D0%B0%D0%BD%D1%80)" class="mw-redirect" title="Хип-хоп (музыкальный жанр)">хип-хоп</a>, <a href="/wiki/%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D0%BC%D1%83%D0%B7%D1%8B%D0%BA%D0%B0" title="Электронная музыка">электронная музыка</a></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Длительность</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P2047" class="no-wikidata">48:43</span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist"><a href="/wiki/%D0%9B%D0%B5%D0%B9%D0%B1%D0%BB_%D0%B7%D0%B2%D1%83%D0%BA%D0%BE%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%B8" title="Лейбл звукозаписи">Лейбл</a></th>
+<td class="plainlist">
+<span data-wikidata-property-id="P264" class="no-wikidata"><a href="/wiki/Atlantic_Records" title="Atlantic Records">Atlantic Records</a></span></td>
+</tr>
+</tbody></table>
+<p>Альбом под названием <i>The Angry Birds Movie: Original Motion Picture Soundtrack</i> был выпущен 6 мая 2016 года<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup><sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>.
+</p>
+<table class="tracklist" style="max-width: 100%; border-width: 0px; border-collapse: collapse;">
+    
+    <tbody><tr>
+      <th scope="col" class="tlheader" style="width: 20px; padding-left: 10px; padding-right: 10px; text-align: right; background-color: #eee;">№</th>
+      <th scope="col" class="tlheader" style="width: 60%; text-align: left; background-color: #eee;">Название</th><th scope="col" style="width: 40%; text-align: left; background-color: #eee;">Исполнитель</th>
+      <th scope="col" class="tlheader" style="width: 60px; padding-right: 10px; text-align: right; background-color: #eee;">Длительность</th>
+    </tr>
+        <tr class="tlrow&#123;&#123;&#123;row&#125;&#125;&#125;" style="background-color: #fff;">
+  <td style="padding-right: 10px; text-align: right;">1.</td>
+  <td style="text-align: left;">«Friends» </td><td><a href="/wiki/%D0%A8%D0%B5%D0%BB%D1%82%D0%BE%D0%BD,_%D0%91%D0%BB%D0%B5%D0%B9%D0%BA" title="Шелтон, Блейк">Блейк Шелтон</a></td>
+  <td style="padding-right: 10px; text-align: right;">3:04</td>
+</tr>
+
+        <tr class="tlrow&#123;&#123;&#123;row&#125;&#125;&#125;" style="background-color: #f7f7f7;">
+  <td style="padding-right: 10px; text-align: right;">2.</td>
+  <td style="text-align: left;">«<a href="/wiki/I_Will_Survive" title="I Will Survive">I Will Survive</a>» </td><td><a href="/wiki/%D0%9B%D0%BE%D0%B2%D0%B0%D1%82%D0%BE,_%D0%94%D0%B5%D0%BC%D0%B8" title="Ловато, Деми">Деми Ловато</a></td>
+  <td style="padding-right: 10px; text-align: right;">4:05</td>
+</tr>
+
+        <tr class="tlrow&#123;&#123;&#123;row&#125;&#125;&#125;" style="background-color: #fff;">
+  <td style="padding-right: 10px; text-align: right;">3.</td>
+  <td style="text-align: left;">«Wonderful Life (Mi Oh My)» </td><td><a href="https://en.wikipedia.org/wiki/Matoma" class="extiw" title="en:Matoma">Matoma</a></td>
+  <td style="padding-right: 10px; text-align: right;">3:30</td>
+</tr>
+
+        <tr class="tlrow&#123;&#123;&#123;row&#125;&#125;&#125;" style="background-color: #f7f7f7;">
+  <td style="padding-right: 10px; text-align: right;">4.</td>
+  <td style="text-align: left;">«<a href="https://en.wikipedia.org/wiki/On_Top_of_the_World_(Imagine_Dragons_song)" class="extiw" title="en:On Top of the World (Imagine Dragons song)">On Top of the World</a>» </td><td><a href="/wiki/Imagine_Dragons" title="Imagine Dragons">Imagine Dragons</a></td>
+  <td style="padding-right: 10px; text-align: right;">3:12</td>
+</tr>
+
+        <tr class="tlrow&#123;&#123;&#123;row&#125;&#125;&#125;" style="background-color: #fff;">
+  <td style="padding-right: 10px; text-align: right;">5.</td>
+  <td style="text-align: left;">«Explode» </td><td><a href="/wiki/Charli_XCX" title="Charli XCX">Charli XCX</a></td>
+  <td style="padding-right: 10px; text-align: right;">3:45</td>
+</tr>
+
+        <tr class="tlrow&#123;&#123;&#123;row&#125;&#125;&#125;" style="background-color: #f7f7f7;">
+  <td style="padding-right: 10px; text-align: right;">6.</td>
+  <td style="text-align: left;">«<a href="/wiki/Never_Gonna_Give_You_Up" title="Never Gonna Give You Up">Never Gonna Give You Up</a>» </td><td><a href="/wiki/%D0%AD%D1%81%D1%82%D0%BB%D0%B8,_%D0%A0%D0%B8%D0%BA" title="Эстли, Рик">Рик Эстли</a></td>
+  <td style="padding-right: 10px; text-align: right;">3:34</td>
+</tr>
+
+        <tr class="tlrow&#123;&#123;&#123;row&#125;&#125;&#125;" style="background-color: #fff;">
+  <td style="padding-right: 10px; text-align: right;">7.</td>
+  <td style="text-align: left;">«<a href="/wiki/Rock_You_Like_a_Hurricane" title="Rock You Like a Hurricane">Rock You Like a Hurricane</a>» </td><td><a href="/wiki/Scorpions" title="Scorpions">Scorpions</a></td>
+  <td style="padding-right: 10px; text-align: right;">4:16</td>
+</tr>
+
+        <tr class="tlrow&#123;&#123;&#123;row&#125;&#125;&#125;" style="background-color: #f7f7f7;">
+  <td style="padding-right: 10px; text-align: right;">8.</td>
+  <td style="text-align: left;">«Fight» </td><td><a href="/wiki/%D0%90%D0%BE%D0%BA%D0%B8,_%D0%A1%D1%82%D0%B8%D0%B2" title="Аоки, Стив">Стив Аоки</a></td>
+  <td style="padding-right: 10px; text-align: right;">3:52</td>
+</tr>
+
+        <tr class="tlrow&#123;&#123;&#123;row&#125;&#125;&#125;" style="background-color: #fff;">
+  <td style="padding-right: 10px; text-align: right;">9.</td>
+  <td style="text-align: left;">«<a href="https://en.wikipedia.org/wiki/Wild_Thing_(Tone_L%C5%8Dc_song)" class="extiw" title="en:Wild Thing (Tone Lōc song)">Wild Thing</a>» </td><td>Тоун Лок</td>
+  <td style="padding-right: 10px; text-align: right;">4:25</td>
+</tr>
+
+        <tr class="tlrow&#123;&#123;&#123;row&#125;&#125;&#125;" style="background-color: #f7f7f7;">
+  <td style="padding-right: 10px; text-align: right;">10.</td>
+  <td style="text-align: left;">«<a href="https://en.wikipedia.org/wiki/Sound_of_da_Police" class="extiw" title="en:Sound of da Police">Sound of da Police</a>» </td><td><a href="/wiki/KRS-One" title="KRS-One">KRS-One</a></td>
+  <td style="padding-right: 10px; text-align: right;">4:18</td>
+</tr>
+
+        <tr class="tlrow&#123;&#123;&#123;row&#125;&#125;&#125;" style="background-color: #fff;">
+  <td style="padding-right: 10px; text-align: right;">11.</td>
+  <td style="text-align: left;">«<a href="/wiki/Behind_Blue_Eyes" title="Behind Blue Eyes">Behind Blue Eyes</a>» </td><td><a href="/wiki/Limp_Bizkit" title="Limp Bizkit">Limp Bizkit</a></td>
+  <td style="padding-right: 10px; text-align: right;">4:31</td>
+</tr>
+
+        <tr class="tlrow&#123;&#123;&#123;row&#125;&#125;&#125;" style="background-color: #f7f7f7;">
+  <td style="padding-right: 10px; text-align: right;">12.</td>
+  <td style="text-align: left;">«The Mighty Eagle Song» </td><td><a href="/wiki/%D0%94%D0%B8%D0%BD%D0%BA%D0%BB%D1%8D%D0%B9%D0%B4%D0%B6,_%D0%9F%D0%B8%D1%82%D0%B5%D1%80" title="Динклэйдж, Питер">Питер Динклэйдж</a></td>
+  <td style="padding-right: 10px; text-align: right;">2:06</td>
+</tr>
+
+        <tr class="tlrow&#123;&#123;&#123;row&#125;&#125;&#125;" style="background-color: #fff;">
+  <td style="padding-right: 10px; text-align: right;">13.</td>
+  <td style="text-align: left;">«The Mighty Red Song» </td><td>The Hatchlings</td>
+  <td style="padding-right: 10px; text-align: right;">0:47</td>
+</tr>
+
+        <tr class="tlrow&#123;&#123;&#123;row&#125;&#125;&#125;" style="background-color: #f7f7f7;">
+  <td style="padding-right: 10px; text-align: right;">14.</td>
+  <td style="text-align: left;">«Medley: Angry Birds Movie Score» </td><td>Эйтор Перейра</td>
+  <td style="padding-right: 10px; text-align: right;">3:18</td>
+</tr>
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+</tbody></table>
+<h2><span id=".D0.9F.D1.80.D0.BE.D0.B8.D0.B7.D0.B2.D0.BE.D0.B4.D1.81.D1.82.D0.B2.D0.BE"></span><span class="mw-headline" id="Производство">Производство</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angry_Birds_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Редактировать раздел «Производство»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Angry_Birds_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE&amp;action=edit&amp;section=6" title="Редактировать раздел «Производство»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>В начале 2012 года компания <a href="/wiki/Rovio" class="mw-redirect" title="Rovio">Rovio</a> заявила о начале съёмок полнометражного фильма по мотивам игры <i><a href="/wiki/Angry_Birds" title="Angry Birds">Angry Birds</a></i>. Rovio также наняла бывшего исполнительного продюсера фильмов <a href="/wiki/Marvel_Studios" title="Marvel Studios">Marvel Studios</a> Дэвида Майзеля, который будет возглавлять съёмки фильма<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>. Представители Rovio заявили, что фильм получит несколько <a href="/wiki/%D0%A1%D0%B8%D0%BA%D0%B2%D0%B5%D0%BB" title="Сиквел">сиквелов</a><sup id="cite_ref-:0_11-0" class="reference"><a href="#cite_note-:0-11">&#91;11&#93;</a></sup>.
+</p><p>28 сентября 2014 года Rovio опубликовала сообщение на своей странице в Facebook, где говорилось: «После того как это сообщение перешлют более миллиарда раз, мы опубликуем сюрприз»<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>. Уже через два дня условие было выполнено, и Rovio выложила плакат, на котором были изображены герои будущего фильма&#160;— Ред, Чак и Бомб.
+</p><p>Ранее было заявлено, что режиссёрами станут <a href="/wiki/%D0%9A%D0%B5%D0%B9%D1%82%D0%B8%D1%81,_%D0%9A%D0%BB%D0%B5%D0%B9" title="Кейтис, Клей">Клей Кейтис</a> и Фергал Рейли, сценаристом станет Джон Витти<sup id="cite_ref-autogenerated1_3-1" class="reference"><a href="#cite_note-autogenerated1-3">&#91;3&#93;</a></sup>, а официальным прокатчиком мультфильма&#160;— студия <a href="/wiki/Sony" title="Sony">Sony Pictures Imageworks</a>.
+</p><p>В России премьера мультфильма состоялась 29 апреля 2016 на фестивале телеканала <a href="/wiki/2x2" title="2x2">2x2</a> «НОЧЬ АНИМАЦИИ 2Х2 ЭНГРИ БЁРДЗДЭЙ» за две недели до начала показа в кинотеатрах<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup><sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>.
+</p><p>Создатели мультфильма многое позаимствовали из оригинальной игры сюжетные вехи, внешний вид главных героев, их способности и методы атаки (обстрел свиней птицами из рогаток). Однако некоторые детали пришлось доработать. У персонажей мультфильма в отличие от игровых появились имена. Кроме того, в игре образы героев двухмерные, они не разговаривают и не ходят.
+</p><p>Художники мультфильма провели большую работу по переносу образов в <a href="/wiki/%D0%A2%D1%80%D1%91%D1%85%D0%BC%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D0%BA%D0%B0" title="Трёхмерная графика">3D</a> и детализации персонажей. По словам художницы Франчески Натале, перед создателями мультфильма стояла задача сделать героев более интересными и сложными, сохранив их главные черты, чтобы птицы и свиньи из игры были узнаваемыми для зрителей<sup id="cite_ref-angry_birds_movie_shooting_15-0" class="reference"><a href="#cite_note-angry_birds_movie_shooting-15">&#91;15&#93;</a></sup>. Птицы стали <a href="/wiki/%D0%90%D0%BD%D1%82%D1%80%D0%BE%D0%BF%D0%BE%D0%BC%D0%BE%D1%80%D1%84%D0%B8%D0%B7%D0%BC" title="Антропоморфизм">антропоморфными</a>, в частности их крылья приобрели черты человеческих рук. Проработана мимика персонажей и мельчайшие детали их внешности. В итоге по качеству анимации и 3D-картинке мультфильм «Angry Birds в кино» превзошёл игры, выпущенные Rovio<sup id="cite_ref-angry-birds2_16-0" class="reference"><a href="#cite_note-angry-birds2-16">&#91;16&#93;</a></sup>.
+</p>
+<h2><span id=".D0.9A.D1.80.D0.B8.D1.82.D0.B8.D0.BA.D0.B0"></span><span class="mw-headline" id="Критика">Критика</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angry_Birds_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Редактировать раздел «Критика»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Angry_Birds_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE&amp;action=edit&amp;section=7" title="Редактировать раздел «Критика»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Мультфильм получил смешанные отзывы от кинокритиков<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup>.
+</p><p>На сайте <a href="/wiki/Rotten_Tomatoes" title="Rotten Tomatoes">Rotten Tomatoes</a> рейтинг фильма составил 44&#160;% на основе 149 рецензий со средним баллом 4,9 из 10<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>.
+</p><p>На сайте <a href="/wiki/Metacritic" title="Metacritic">Metacritic</a> фильм получил оценку 43 из 100 на основе 27 рецензий критиков, что соответствует статусу «смешанные или средние отзывы»<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup>.
+</p>
+<h2><span id=".D0.9F.D1.80.D0.BE.D0.B4.D0.BE.D0.BB.D0.B6.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Продолжение">Продолжение</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angry_Birds_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE&amp;veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Редактировать раздел «Продолжение»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Angry_Birds_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE&amp;action=edit&amp;section=8" title="Редактировать раздел «Продолжение»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable">Основная статья: <b><a href="/wiki/Angry_Birds_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE_2" title="Angry Birds в кино 2">Angry Birds в кино 2</a></b></div>
+<table class="mbox-В_планах plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Planned_section.svg" class="image"><img alt="Пазлинка и перо" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Planned_section.svg/40px-Planned_section.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Planned_section.svg/60px-Planned_section.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Planned_section.svg/80px-Planned_section.svg.png 2x" data-file-width="400" data-file-height="400" /></a></div></td><td class="mbox-text"><div class="mbox-text-div">Этот раздел статьи <b>ещё <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%97%D0%B0%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Википедия:Заготовка статьи">не написан</a></b>.</div><div class="mbox-textsmall-div hide-when-compact" style="font-size:85%"><span class="hide-when-compact"> Согласно замыслу одного или нескольких участников Википедии, на этом месте должен располагаться <span class="nowrap">специальный раздел.</span><br />Вы можете помочь проекту, написав этот раздел.</span>  <span class="mbox-date"><i>(<span class="date">22 октября 2022</span>)</i></span></div></td></tr></tbody></table>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angry_Birds_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE&amp;veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Редактировать раздел «Примечания»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Angry_Birds_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE&amp;action=edit&amp;section=9" title="Редактировать раздел «Примечания»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r113287796">.mw-parser-output .ts-Родственный_проект{background:#f8f9fa;border:1px solid #a2a9b1;clear:right;float:right;font-size:90%;margin:0 0 1em 1em;padding:.4em;max-width:19em;width:19em;line-height:1.5}.mw-parser-output .ts-Родственный_проект th,.mw-parser-output .ts-Родственный_проект td{padding:.2em 0;vertical-align:middle}.mw-parser-output .ts-Родственный_проект th+td{padding-left:.4em}@media(max-width:719px){.mw-parser-output .ts-Родственный_проект{width:auto;margin-left:0;margin-right:0}}</style>
+<table role="presentation" class="metadata plainlinks ts-Родственный_проект noprint ruwikiWikimediaNavigation">
+
+<tbody><tr>
+<th style="width:10%;"><img alt="Логотип Викицитатника" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Notification-icon-Wikiquote.svg/24px-Notification-icon-Wikiquote.svg.png" decoding="async" width="24" height="24" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Notification-icon-Wikiquote.svg/36px-Notification-icon-Wikiquote.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Notification-icon-Wikiquote.svg/48px-Notification-icon-Wikiquote.svg.png 2x" data-file-width="30" data-file-height="30" />
+</th>
+<td>В <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%BD%D0%B8%D0%BA" title="Викицитатник">Викицитатнике</a> есть страница по теме: <b><span class="wikiquote-ref"><a href="https://ru.wikiquote.org/wiki/Angry_Birds_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE" class="extiw" title="q:Angry Birds в кино">Angry Birds в кино</a></span></b>
+</td></tr></tbody></table>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><span class="citation"><i>Ryan Faughnder.</i>&#32;<span lang="en"><a rel="nofollow" class="external text" href="http://www.latimes.com/entertainment/envelope/cotown/la-et-ct-angry-birds-sony-20160517-snap-story.html">Sony and Rovio hope $400-million promotional blitz will help 'Angry Birds' soar</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/Los_Angeles_Times" title="Los Angeles Times">Los Angeles Times</a>&#32;(17 мая 2016).&#32;<small>Дата обращения: 28 июля 2016.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20180905140347/http://www.latimes.com/entertainment/envelope/cotown/la-et-ct-angry-birds-sony-20160517-snap-story.html">Архивировано</a> 5 сентября 2018 года.</small></span></span>
+</li>
+<li id="cite_note-mojo-2"><span class="mw-cite-backlink"><a href="#cite_ref-mojo_2-0">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.boxofficemojo.com/movies/?id=angrybirds.htm">«Angry Birds в кино»</a>&#160;<small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small> на сайте <a href="/wiki/Box_Office_Mojo" title="Box Office Mojo">Box Office Mojo</a></span>
+</li>
+<li id="cite_note-autogenerated1-3"><span class="mw-cite-backlink">↑ <a href="#cite_ref-autogenerated1_3-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-autogenerated1_3-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation"><i>Clay Kaytis, Fergal Reilly;&#32;Jason Sudeikis, Josh Gad, Danny McBride, Maya Rudolph.:&#32;</i>&#32;<span lang="und"><a rel="nofollow" class="external text" href="https://www.imdb.com/title/tt1985949/">The Angry Birds Movie</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>&#32;(20 мая 2016).&#32;<small>Дата обращения: 28 июля 2016.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160821022952/http://www.imdb.com/title/tt1985949/">Архивировано</a> 21 августа 2016 года.</small></span></span>
+</li>
+<li id="cite_note-cast-4"><span class="mw-cite-backlink">↑ <a href="#cite_ref-cast_4-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-cast_4-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-cast_4-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-cast_4-3"><sup><i><b>4</b></i></sup></a> <a href="#cite_ref-cast_4-4"><sup><i><b>5</b></i></sup></a> <a href="#cite_ref-cast_4-5"><sup><i><b>6</b></i></sup></a> <a href="#cite_ref-cast_4-6"><sup><i><b>7</b></i></sup></a> <a href="#cite_ref-cast_4-7"><sup><i><b>8</b></i></sup></a> <a href="#cite_ref-cast_4-8"><sup><i><b>9</b></i></sup></a> <a href="#cite_ref-cast_4-9"><sup><i><b>10</b></i></sup></a> <a href="#cite_ref-cast_4-10"><sup><i><b>11</b></i></sup></a> <a href="#cite_ref-cast_4-11"><sup><i><b>12</b></i></sup></a> <a href="#cite_ref-cast_4-12"><sup><i><b>13</b></i></sup></a> <a href="#cite_ref-cast_4-13"><sup><i><b>14</b></i></sup></a> <a href="#cite_ref-cast_4-14"><sup><i><b>15</b></i></sup></a> <a href="#cite_ref-cast_4-15"><sup><i><b>16</b></i></sup></a> <a href="#cite_ref-cast_4-16"><sup><i><b>17</b></i></sup></a> <a href="#cite_ref-cast_4-17"><sup><i><b>18</b></i></sup></a> <a href="#cite_ref-cast_4-18"><sup><i><b>19</b></i></sup></a> <a href="#cite_ref-cast_4-19"><sup><i><b>20</b></i></sup></a> <a href="#cite_ref-cast_4-20"><sup><i><b>21</b></i></sup></a> <a href="#cite_ref-cast_4-21"><sup><i><b>22</b></i></sup></a> <a href="#cite_ref-cast_4-22"><sup><i><b>23</b></i></sup></a> <a href="#cite_ref-cast_4-23"><sup><i><b>24</b></i></sup></a> <a href="#cite_ref-cast_4-24"><sup><i><b>25</b></i></sup></a> <a href="#cite_ref-cast_4-25"><sup><i><b>26</b></i></sup></a> <a href="#cite_ref-cast_4-26"><sup><i><b>27</b></i></sup></a> <a href="#cite_ref-cast_4-27"><sup><i><b>28</b></i></sup></a> <a href="#cite_ref-cast_4-28"><sup><i><b>29</b></i></sup></a> <a href="#cite_ref-cast_4-29"><sup><i><b>30</b></i></sup></a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://www.comingsoon.net/movies/news/123574-the-cast-and-first-image-from-the-angry-birds-movie-revealed#/slide/1">The Cast and First Image from the Angry Birds Movie Revealed!</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<i>ComingSoon.net</i>&#32;(1 октября 2014).&#32;<small>Дата обращения: 26 мая 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150619015048/http://www.comingsoon.net/movies/news/123574-the-cast-and-first-image-from-the-angry-birds-movie-revealed#/slide/1">Архивировано</a> 19 июня 2015 года.</small></span></span>
+</li>
+<li id="cite_note-ruscast-5"><span class="mw-cite-backlink">↑ <a href="#cite_ref-ruscast_5-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-ruscast_5-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-ruscast_5-2"><sup><i><b>3</b></i></sup></a> <a href="#cite_ref-ruscast_5-3"><sup><i><b>4</b></i></sup></a> <a href="#cite_ref-ruscast_5-4"><sup><i><b>5</b></i></sup></a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://www.proficinema.ru/news/detail.php?ID=198256">Angry Birds в кино заговорят страшно знакомыми голосами</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;<i>ПрофиСинема</i>&#32;(6 апреля 2016).&#32;<small>Дата обращения: 19 августа 2016.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160823031416/http://www.proficinema.ru/news/detail.php?ID=198256">Архивировано</a> 23 августа 2016 года.</small></span></span>
+</li>
+<li id="cite_note-ruscast2-6"><span class="mw-cite-backlink">↑ <a href="#cite_ref-ruscast2_6-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-ruscast2_6-1"><sup><i><b>2</b></i></sup></a> <a href="#cite_ref-ruscast2_6-2"><sup><i><b>3</b></i></sup></a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://dosug.passion.ru/timur-rodrigez-angry-birds-155628.htm">Тимур Родригез слетал с Angry Birds в Канны</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Passion.ru&#32;(11 мая 2016).&#32;<small>Дата обращения: 19 августа 2016.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20161230080616/http://dosug.passion.ru/timur-rodrigez-angry-birds-155628.htm">Архивировано</a> 30 декабря 2016 года.</small></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><span class="citation"><i>Michelle Lulic.</i>&#32;<span lang="en"><a rel="nofollow" class="external text" href="http://www.bustle.com/articles/151921-demi-lovatos-angry-birds-soundtrack-song-could-be-the-2016-song-of-the-summer">Demi Lovato's 'Angry Birds' Soundtrack Song Could Be The 2016 Song Of The Summer</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<i>Bustle</i>&#32;(4 апреля 2016).&#32;<small>Дата обращения: 28 июля 2016.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160407040244/http://www.bustle.com/articles/151921-demi-lovatos-angry-birds-soundtrack-song-could-be-the-2016-song-of-the-summer">Архивировано</a> 7 апреля 2016 года.</small></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><span class="citation"><i>Mike Wass.</i>&#32;<span lang="en"><a rel="nofollow" class="external text" href="http://www.idolator.com/7629314/angry-birds-movie-soundtrack-tracklist-demi-lovato-charli-xcx?chrome=1">‘The Angry Birds Movie’ Soundtrack Features Demi Lovato, Charli XCX &amp; Rick Astley</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<i>Idolator</i>&#32;(7 апреля 2016).&#32;<small>Дата обращения: 23 марта 2019.</small></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://itunes.apple.com/us/album/angry-birds-movie-original/id1098314780">The Angry Birds Movie (Original Motion Picture Soundtrack) by Various Artists on Apple Music</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;iTunes.&#32;<small>Дата обращения: 28 июля 2016.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20170228023033/https://itunes.apple.com/us/album/angry-birds-movie-original/id1098314780">Архивировано</a> 28 февраля 2017 года.</small></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://www.foxnews.com/tech/2011/10/19/angry-birds-aim-for-world-domination/">Angry Birds Aim for World Domination</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/Fox_News_Channel" class="mw-redirect" title="Fox News Channel">Fox News Channel</a>&#32;(19 октября 2011).&#32;<small>Дата обращения: 28 июля 2016.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150926020431/http://www.foxnews.com/tech/2011/10/19/angry-birds-aim-for-world-domination/">Архивировано</a> 26 сентября 2015 года.</small></span></span>
+</li>
+<li id="cite_note-:0-11"><span class="mw-cite-backlink"><a href="#cite_ref-:0_11-0">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://lenta.ru/news/2011/07/20/birds/">По Angry Birds снимут несколько фильмов</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;<i><a href="/wiki/Lenta.ru" title="Lenta.ru">Lenta.ru</a></i>&#32;(20 июля 2011).&#32;<small>Дата обращения: 28 июля 2016.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160530141918/https://lenta.ru/news/2011/07/20/birds/">Архивировано</a> 30 мая 2016 года.</small></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://vk.com/wall-120124210?own=1">Кино Angry Birds в кино 2016 в HD</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;vk.com.&#32;<small>Дата обращения: 28 ноября 2017.</small></span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://2x2tv.ru/na2016/">НОЧЬ АНИМАЦИИ 2Х2: ЭНГРИ БЁРДЗДЭЙ</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;<small>Дата обращения: 6 мая 2016.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160504113339/http://2x2tv.ru/na2016/">Архивировано</a> 4 мая 2016 года.</small></span></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://2x2tv.ru/blog/angry_birthday_postrelease/">Ночь Анимации 2х2: Энгри Бёрдздэй &#91;Как это было&#93;</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;<a href="/wiki/2x2" title="2x2">2x2</a>&#32;(11 мая 2016).&#32;<small>Дата обращения: 6 мая 2016.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160507141618/http://2x2tv.ru/blog/angry_birthday_postrelease/">Архивировано</a> 7 мая 2016 года.</small></span></span>
+</li>
+<li id="cite_note-angry_birds_movie_shooting-15"><span class="mw-cite-backlink"><a href="#cite_ref-angry_birds_movie_shooting_15-0">↑</a></span> <span class="reference-text"><span class="citation"><i>Константин Мееров.</i>&#32;<span lang="und"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20180517154932/http://www.kinometro.ru/technology/show/name/angry_birds_movie_shooting_9863">Как создавался мультфильм «Angry Birds в кино»</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Бюллетень кинопрокатчика&#32;(13 мая 2016).&#32;<small>Дата обращения: 1 июня 2018.</small>&#32;<small>Архивировано из <a rel="nofollow" class="external text" href="http://www.kinometro.ru/technology/show/name/angry_birds_movie_shooting_9863">оригинала</a> 17 мая 2018 года.</small></span></span>
+</li>
+<li id="cite_note-angry-birds2-16"><span class="mw-cite-backlink"><a href="#cite_ref-angry-birds2_16-0">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20180605180320/http://multoigri.ru/wiki/angry-birds">Angry Birds</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;<i>Multoigri.ru</i>.&#32;<small>Дата обращения: 1 июня 2018.</small>&#32;<small>Архивировано из <a rel="nofollow" class="external text" href="http://multoigri.ru/wiki/angry-birds">оригинала</a> 5 июня 2018 года.</small></span></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text"><span class="citation"><i>Brian Gallagher.</i>&#32;<span lang="en"><a rel="nofollow" class="external text" href="http://movieweb.com/angry-birds-captain-america-civil-war-box-office-predictions/">Can Angry Birds Take Down Captain America at the Box Office?</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<i>MovieWeb</i>&#32;(17 мая 2016).&#32;<small>Дата обращения: 28 июля 2016.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160723043540/http://movieweb.com/angry-birds-captain-america-civil-war-box-office-predictions/">Архивировано</a> 23 июля 2016 года.</small></span></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text">«<a rel="nofollow" class="external text" href="http://www.rottentomatoes.com/m/angry-birds/">Angry Birds в кино</a>»&#160;<small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small> на сайте <a href="/wiki/Rotten_Tomatoes" title="Rotten Tomatoes">Rotten Tomatoes</a></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://www.metacritic.com/movie/angry-birds">Angry Birds в кино</a>&#160;<small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small> на сайте <a href="/wiki/Metacritic" title="Metacritic">Metacritic</a></span>
+</li>
+</ol></div></div>
+<h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angry_Birds_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE&amp;veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Редактировать раздел «Ссылки»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Angry_Birds_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE&amp;action=edit&amp;section=10" title="Редактировать раздел «Ссылки»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.sonypictures.com/movies/theangrybirdsmovie/">Официальный сайт</a></li></ul>
+<div role="navigation" class="navbox" aria-label="Навигационный шаблон" data-name="External links"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group" style="width:1px"><div style="padding: 0 35px 0 0; width: 100%;"><div style="float: left;"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Перейти к шаблону «Внешние ссылки»"><img alt="Перейти к шаблону «Внешние ссылки»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="noprint" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a>&#160;&#160;<a href="https://www.wikidata.org/wiki/Q18703062#identifiers" title="Перейти к элементу Викиданных"><img alt="Перейти к элементу Викиданных" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/14px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="14" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/21px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/28px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></div>&#160;&#160;В социальных сетях</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="nofollow" class="external text" href="https://www.facebook.com/AngryBirdsMovie">Facebook</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Тематические сайты</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="nofollow" class="external text" href="https://www.allmovie.com/movie/v575689">AllMovie</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.allocine.fr/film/fichefilm_gen_cfilm=185056.html">AlloCiné</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.boxofficemojo.com/movies/?id=angrybirds.htm">Box Office Mojo</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.csfd.cz/film/322352">ČSFD</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.filmaffinity.com/en/film391877.html">FilmAffinity</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.imdb.com/title/tt1985949">Internet Movie Database</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.metacritic.com/movie/angry-birds">Metacritic</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.rottentomatoes.com/m/the_angry_birds_movie">Rotten Tomatoes</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Angry_Birds" data-name="Angry Birds"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:Angry_Birds" title="Перейти к шаблону «Angry Birds»"><img alt="Перейти к шаблону «Angry Birds»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="noprint" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a>&#160;</span><div id="Angry_Birds" style="font-size:114%;margin:0 5em"><a href="/wiki/Angry_Birds" title="Angry Birds">Angry Birds</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1px">Игры</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1px">С классическим геймплеем</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Angry_Birds_(%D0%B8%D0%B3%D1%80%D0%B0)" title="Angry Birds (игра)">Angry Birds</a></li>
+<li><a href="/wiki/Angry_Birds_Seasons" title="Angry Birds Seasons">Seasons</a></li>
+<li><a href="/wiki/Angry_Birds_Rio" title="Angry Birds Rio">Rio</a></li>
+<li><a href="/wiki/Angry_Birds_Friends" title="Angry Birds Friends">Friends</a></li>
+<li><a href="/wiki/Angry_Birds_Space" title="Angry Birds Space">Space</a></li>
+<li><a href="/wiki/Angry_Birds_Star_Wars" title="Angry Birds Star Wars">Star Wars</a></li>
+<li><a href="/wiki/Angry_Birds_Star_Wars_2" title="Angry Birds Star Wars 2">Star Wars II</a></li>
+<li><a href="/w/index.php?title=Angry_Birds_Stella&amp;action=edit&amp;redlink=1" class="new" title="Angry Birds Stella (страница отсутствует)">Stella</a></li>
+<li><a href="/wiki/Angry_Birds_2" title="Angry Birds 2">2</a></li>
+<li><a href="/wiki/Angry_Birds_Magic" title="Angry Birds Magic">Magic</a></li>
+<li><a href="/wiki/Angry_Birds_World_Tour" class="mw-redirect" title="Angry Birds World Tour">World Tour</a></li>
+<li><a href="/wiki/Angry_Birds_Champions" class="mw-redirect" title="Angry Birds Champions">Champions</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">С не классическим геймплеем</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bad_Piggies" title="Bad Piggies">Bad Piggies</a></li>
+<li><a href="/wiki/Angry_Birds_Go!" title="Angry Birds Go!">Go!</a></li>
+<li><a href="/wiki/Angry_Birds_Epic" title="Angry Birds Epic">Epic</a></li>
+<li><a href="/wiki/Angry_Birds_Transformers" title="Angry Birds Transformers">Transformers</a></li>
+<li><a href="/w/index.php?title=Angry_Birds_Action!&amp;action=edit&amp;redlink=1" class="new" title="Angry Birds Action! (страница отсутствует)">Action!</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">«Три в ряд»</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Angry_Birds_Pop!" title="Angry Birds Pop!">Pop!</a></li>
+<li><a href="/wiki/Angry_Birds_Fight!" title="Angry Birds Fight!">Fight!</a></li>
+<li><a href="/wiki/Angry_Birds_Blast" title="Angry Birds Blast">Blast</a></li>
+<li><a href="/w/index.php?title=Angry_Birds_Match_3&amp;action=edit&amp;redlink=1" class="new" title="Angry Birds Match 3 (страница отсутствует)">Match 3</a></li>
+<li><a href="/wiki/Angry_Birds_Island" class="mw-redirect" title="Angry Birds Island">Island</a></li>
+<li><a href="/wiki/Angry_Birds_Dream_Blast" class="mw-redirect" title="Angry Birds Dream Blast">Dream Blast</a></li>
+<li><a href="/w/index.php?title=Angry_Birds_Pop!_2&amp;action=edit&amp;redlink=1" class="new" title="Angry Birds Pop! 2 (страница отсутствует)">Pop! 2</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Мультсериалы и мультфильмы</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1px">Фильмы</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">Angry Birds в кино</a></li>
+<li><a href="/wiki/Angry_Birds_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE_2" title="Angry Birds в кино 2">Angry Birds в кино 2</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Сериалы</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%97%D0%BB%D1%8B%D0%B5_%D0%BF%D1%82%D0%B8%D1%87%D0%BA%D0%B8" title="Злые птички">Злые птички</a></li>
+<li><a href="/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8_%D1%81%D0%B2%D0%B8%D0%BD%D0%BE%D0%BA" class="mw-redirect" title="Истории свинок">Истории свинок</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D1%82%D0%B5%D0%BB%D0%BB%D0%B0_(%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)&amp;action=edit&amp;redlink=1" class="new" title="Стелла (мультсериал) (страница отсутствует)">Стелла</a></li>
+<li><a href="/w/index.php?title=Angry_Birds_Blues&amp;action=edit&amp;redlink=1" class="new" title="Angry Birds Blues (страница отсутствует)">Angry Birds Blues</a></li>
+<li><a href="/w/index.php?title=Angry_Birds_on_the_Run&amp;action=edit&amp;redlink=1" class="new" title="Angry Birds on the Run (страница отсутствует)">Angry Birds on the Run</a></li>
+<li><a href="/w/index.php?title=Angry_Birds_MakerSpace&amp;action=edit&amp;redlink=1" class="new" title="Angry Birds MakerSpace (страница отсутствует)">Angry Birds MakerSpace</a></li>
+<li><a href="/w/index.php?title=Angry_Birds:_%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8_%D1%80%D0%BE%D0%B3%D0%B0%D1%82%D0%BA%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Angry Birds: Истории рогатки (страница отсутствует)">Angry Birds: Истории рогатки</a></li>
+<li><a href="/w/index.php?title=Angry_Birds:_%D0%9B%D0%B5%D1%82%D0%BD%D0%B5%D0%B5_%D0%B1%D0%B5%D0%B7%D1%83%D0%BC%D0%B8%D0%B5&amp;action=edit&amp;redlink=1" class="new" title="Angry Birds: Летнее безумие (страница отсутствует)">Angry Birds: Летнее безумие</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1407
+Cached time: 20230221172824
+Cache expiry: 86400
+Reduced expiry: true
+Complications: [show‐toc]
+CPU time usage: 1.013 seconds
+Real time usage: 1.208 seconds
+Preprocessor visited node count: 13119/1000000
+Post‐expand include size: 166920/2097152 bytes
+Template argument size: 27647/2097152 bytes
+Highest expansion depth: 28/100
+Expensive parser function count: 33/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 25764/5000000 bytes
+Lua time usage: 0.628/10.000 seconds
+Lua memory usage: 14322992/52428800 bytes
+Number of Wikibase entities loaded: 30/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00% 1086.557      1 -total
+ 63.19%  686.560      3 Шаблон:Карточка
+ 39.55%  429.682      1 Шаблон:Мультфильм
+ 27.59%  299.753      2 Шаблон:Музыкальный_альбом
+ 16.26%  176.625     24 Шаблон:Wikidata
+  8.67%   94.219      1 Шаблон:Примечания
+  6.04%   65.647      1 Шаблон:ВС
+  5.49%   59.704      2 Шаблон:Tracklist
+  5.20%   56.529     16 Шаблон:Cite_web
+  3.81%   41.346      1 Шаблон:В_планах
+-->
+
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:5911899-0!canonical and timestamp 20230221172823 and revision id 127856252. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Angry_Birds_в_кино&amp;oldid=127856252">https://ru.wikipedia.org/w/index.php?title=Angry_Birds_в_кино&amp;oldid=127856252</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9C%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B_%D0%BD%D0%B0_%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%BC_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5" title="Категория:Мультфильмы на английском языке">Мультфильмы на английском языке</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9C%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Мультфильмы по алфавиту">Мультфильмы по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%BB%D1%8C%D0%B1%D0%BE%D0%BC%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Альбомы по алфавиту">Альбомы по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B0%D1%83%D0%BD%D0%B4%D1%82%D1%80%D0%B5%D0%BA%D0%B8_2016_%D0%B3%D0%BE%D0%B4%D0%B0" title="Категория:Саундтреки 2016 года">Саундтреки 2016 года</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:Angry_Birds" title="Категория:Angry Birds">Angry Birds</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9C%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B_%D0%A1%D0%A8%D0%90_2016_%D0%B3%D0%BE%D0%B4%D0%B0" title="Категория:Мультфильмы США 2016 года">Мультфильмы США 2016 года</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9C%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B_%D0%A1%D0%A8%D0%90" title="Категория:Мультфильмы США">Мультфильмы США</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9C%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B_%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D0%B8" title="Категория:Мультфильмы Финляндии">Мультфильмы Финляндии</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A4%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B_%D0%A1%D0%A8%D0%90_2016_%D0%B3%D0%BE%D0%B4%D0%B0" title="Категория:Фильмы США 2016 года">Фильмы США 2016 года</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A4%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B_%D0%A1%D0%A8%D0%90_%D0%B2_3D" title="Категория:Фильмы США в 3D">Фильмы США в 3D</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A4%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B_2016_%D0%B3%D0%BE%D0%B4%D0%B0_%D0%B2_3D" title="Категория:Фильмы 2016 года в 3D">Фильмы 2016 года в 3D</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D0%B5_%D0%B0%D0%BD%D0%B8%D0%BC%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B5_%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B" title="Категория:Компьютерные анимационные фильмы">Компьютерные анимационные фильмы</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%BE%D0%BB%D0%BD%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B0%D0%B6%D0%BD%D1%8B%D0%B5_%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B" title="Категория:Полнометражные мультфильмы">Полнометражные мультфильмы</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9C%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B_%D0%BE_%D0%B6%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D1%85" title="Категория:Мультфильмы о животных">Мультфильмы о животных</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%AD%D0%BA%D1%80%D0%B0%D0%BD%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D0%B8_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D1%85_%D0%B8%D0%B3%D1%80" title="Категория:Экранизации компьютерных игр">Экранизации компьютерных игр</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A4%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B_%D0%BD%D0%B0_%D0%B0%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%BC_%D1%8F%D0%B7%D1%8B%D0%BA%D0%B5" title="Категория:Фильмы на английском языке">Фильмы на английском языке</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9C%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B_Columbia_Pictures" title="Категория:Мультфильмы Columbia Pictures">Мультфильмы Columbia Pictures</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A4%D0%B8%D0%BB%D1%8C%D0%BC%D1%8B_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Фильмы по алфавиту">Фильмы по алфавиту</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%BD%D0%B5_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD_%D1%8F%D0%B7%D1%8B%D0%BA)" title="Категория:Википедия:Cite web (не указан язык)">Википедия:Cite web (не указан язык)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81%D0%BE_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B0_%D1%8D%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%82%D1%8B_%D0%92%D0%B8%D0%BA%D0%B8%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_%D0%B1%D0%B5%D0%B7_%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B9_%D0%BF%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%B8" title="Категория:Википедия:Статьи со ссылками на элементы Викиданных без русской подписи">Википедия:Статьи со ссылками на элементы Викиданных без русской подписи</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82:%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0:%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0_%D0%B2_2023_%D0%B3%D0%BE%D0%B4%D1%83" title="Категория:Проект:Музыка:Последняя правка в 2023 году">Проект:Музыка:Последняя правка в 2023 году</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%BD%D0%B5%D0%BD%D0%B0%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC%D0%B8_%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B0%D0%BC%D0%B8_%D1%81_%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8F_2022_%D0%B3%D0%BE%D0%B4%D0%B0" title="Категория:Википедия:Статьи с ненаписанными разделами с октября 2022 года">Википедия:Статьи с ненаписанными разделами с октября 2022 года</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D1%82%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Википедия:Статьи с шаблонами недостатков по алфавиту">Википедия:Статьи с шаблонами недостатков по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81%D0%BE_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D0%B8%D1%86%D0%B8%D1%82%D0%B0%D1%82%D0%BD%D0%B8%D0%BA" title="Категория:Статьи со ссылками на Викицитатник">Статьи со ссылками на Викицитатник</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="vector-menu mw-portlet mw-portlet-personal vector-user-menu-legacy" aria-labelledby="p-personal-label" role="navigation"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=Angry+Birds+%D0%B2+%D0%BA%D0%B8%D0%BD%D0%BE" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=Angry+Birds+%D0%B2+%D0%BA%D0%B8%D0%BD%D0%BE" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-namespaces" class="vector-menu mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-namespaces-label" role="navigation"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Пространства имён</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/Angry_Birds_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE" title="Просмотр основной страницы [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:Angry_Birds_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t"><span>Обсуждение</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	/>
+	<label
+		id="p-variants-label"
+		 aria-label="Изменить вариант языка"
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="vector-menu mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-views-label" role="navigation"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="mw-list-item"><a href="/w/index.php?title=Angry_Birds_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE&amp;stable=1"><span>Читать</span></a></li><li id="ca-current" class="collapsible selected mw-list-item"><a href="/w/index.php?title=Angry_Birds_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE&amp;stable=0&amp;redirect=no" title="Показать текущую версию этой страницы [v]" accesskey="v"><span>Текущая версия</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=Angry_Birds_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=Angry_Birds_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE&amp;action=edit" title="Эту статью можно изменять. Перед сохранением изменений, пожалуйста, нажмите кнопку предварительного просмотра для визуальной проверки результата [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=Angry_Birds_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	/>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="sentences" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Служебная:Поиск">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти">
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+<nav id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-participation" class="vector-menu mw-portlet mw-portlet-participation vector-menu-portal portal" aria-labelledby="p-participation-label" role="navigation"  >
+	<h3
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="vector-menu mw-portlet mw-portlet-tb vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/Angry_Birds_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/Angry_Birds_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Angry_Birds_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE&amp;oldid=127856252" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Angry_Birds_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=Angry_Birds_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE&amp;id=127856252&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q18703062" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3&amp;bookcmd=book_creator&amp;referer=Angry+Birds+%D0%B2+%D0%BA%D0%B8%D0%BD%D0%BE" title="Создать книгу или коллекцию статей"><span>Создать книгу</span></a></li><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=Angry_Birds_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Angry_Birds_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"  >
+	<h3
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">В других проектах</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:The_Angry_Birds_Movie" hreflang="en"><span>Викисклад</span></a></li><li class="wb-otherproject-link wb-otherproject-wikiquote mw-list-item"><a href="https://ru.wikiquote.org/wiki/Angry_Birds_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE" hreflang="ru"><span>Викицитатник</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="vector-menu mw-portlet mw-portlet-lang vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%A3%D9%86%D8%AC%D8%B1%D9%8A_%D8%A8%D9%8A%D8%B1%D8%AF%D8%B2_%D8%A7%D9%84%D9%81%D9%8A%D9%84%D9%85" title="أنجري بيردز الفيلم — арабский" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/Q%C9%99z%C9%99bli_qu%C5%9Flar_(film,_2016)" title="Qəzəbli quşlar (film, 2016) — азербайджанский" lang="az" hreflang="az" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/Angry_Birds:_%D0%A4%D0%B8%D0%BB%D0%BC%D1%8A%D1%82" title="Angry Birds: Филмът — болгарский" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Angry_Birds:_La_pel%C2%B7l%C3%ADcula" title="Angry Birds: La pel·lícula — каталанский" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-ceb mw-list-item"><a href="https://ceb.wikipedia.org/wiki/The_Angry_Birds_Movie" title="The Angry Birds Movie — себуано" lang="ceb" hreflang="ceb" class="interlanguage-link-target"><span>Cebuano</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Angry_Birds_ve_filmu" title="Angry Birds ve filmu — чешский" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Angry_Birds_Filmen" title="Angry Birds Filmen — датский" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Angry_Birds_%E2%80%93_Der_Film" title="Angry Birds – Der Film — немецкий" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/Angry_Birds:_%CE%97_%CE%A4%CE%B1%CE%B9%CE%BD%CE%AF%CE%B1" title="Angry Birds: Η Ταινία — греческий" lang="el" hreflang="el" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/The_Angry_Birds_Movie" title="The Angry Birds Movie — английский" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/The_Angry_Birds_Movie_(2016)" title="The Angry Birds Movie (2016) — эсперанто" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Angry_Birds:_la_pel%C3%ADcula" title="Angry Birds: la película — испанский" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/Angry_Birds:_Kurjad_linnud._Film" title="Angry Birds: Kurjad linnud. Film — эстонский" lang="et" hreflang="et" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D9%81%DB%8C%D9%84%D9%85_%D9%BE%D8%B1%D9%86%D8%AF%DA%AF%D8%A7%D9%86_%D8%AE%D8%B4%D9%85%DA%AF%DB%8C%D9%86" title="فیلم پرندگان خشمگین — персидский" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Angry_Birds_-elokuva" title="Angry Birds -elokuva — финский" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Angry_Birds,_le_film" title="Angry Birds, le film — французский" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-ga mw-list-item"><a href="https://ga.wikipedia.org/wiki/The_Angry_Birds_Movie" title="The Angry Birds Movie — ирландский" lang="ga" hreflang="ga" class="interlanguage-link-target"><span>Gaeilge</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%90%D7%A0%D7%92%D7%A8%D7%99_%D7%91%D7%99%D7%A8%D7%93%D7%A1_-_%D7%94%D7%A1%D7%A8%D7%98" title="אנגרי בירדס - הסרט — иврит" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a href="https://hi.wikipedia.org/wiki/%E0%A4%8F%E0%A4%82%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%80_%E0%A4%AC%E0%A4%B0%E0%A5%8D%E0%A4%A1%E0%A5%8D%E0%A4%B8_(%E0%A4%AB%E0%A4%BC%E0%A4%BF%E0%A4%B2%E0%A5%8D%E0%A4%AE)" title="एंग्री बर्ड्स (फ़िल्म) — хинди" lang="hi" hreflang="hi" class="interlanguage-link-target"><span>हिन्दी</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/Angry_Birds_Film" title="Angry Birds Film — хорватский" lang="hr" hreflang="hr" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Angry_Birds_%E2%80%93_A_film" title="Angry Birds – A film — венгерский" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/Angry_Birds_(%D5%B4%D5%B8%D6%82%D5%AC%D5%BF%D6%86%D5%AB%D5%AC%D5%B4)" title="Angry Birds (մուլտֆիլմ) — армянский" lang="hy" hreflang="hy" class="interlanguage-link-target"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/The_Angry_Birds_Movie" title="The Angry Birds Movie — индонезийский" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-is mw-list-item"><a href="https://is.wikipedia.org/wiki/The_Angry_Birds_Movie" title="The Angry Birds Movie — исландский" lang="is" hreflang="is" class="interlanguage-link-target"><span>Íslenska</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Angry_Birds_-_Il_film" title="Angry Birds - Il film — итальянский" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%89_(%E6%98%A0%E7%94%BB)" title="アングリーバード (映画) — японский" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ka mw-list-item"><a href="https://ka.wikipedia.org/wiki/%E1%83%91%E1%83%A0%E1%83%90%E1%83%96%E1%83%98%E1%83%90%E1%83%9C%E1%83%98_%E1%83%A9%E1%83%98%E1%83%A2%E1%83%94%E1%83%91%E1%83%98" title="ბრაზიანი ჩიტები — грузинский" lang="ka" hreflang="ka" class="interlanguage-link-target"><span>ქართული</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EC%95%B5%EA%B7%B8%EB%A6%AC%EB%B2%84%EB%93%9C_%EB%8D%94_%EB%AC%B4%EB%B9%84" title="앵그리버드 더 무비 — корейский" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-lv mw-list-item"><a href="https://lv.wikipedia.org/wiki/Dusm%C4%ABgie_putni._Filma" title="Dusmīgie putni. Filma — латышский" lang="lv" hreflang="lv" class="interlanguage-link-target"><span>Latviešu</span></a></li><li class="interlanguage-link interwiki-mk mw-list-item"><a href="https://mk.wikipedia.org/wiki/%D0%9D%D0%B0%D0%BB%D1%83%D1%82%D0%B5%D0%BD%D0%B8%D1%82%D0%B5_%D0%BF%D1%82%D0%B8%D1%86%D0%B8_(%D1%84%D0%B8%D0%BB%D0%BC_%D0%BE%D0%B4_2016)" title="Налутените птици (филм од 2016) — македонский" lang="mk" hreflang="mk" class="interlanguage-link-target"><span>Македонски</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/The_Angry_Birds_Movie" title="The Angry Birds Movie — малайский" lang="ms" hreflang="ms" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/The_Angry_Birds_Movie" title="The Angry Birds Movie — нидерландский" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Angry_Birds_Filmen" title="Angry Birds Filmen — норвежский букмол" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Angry_Birds_(film)" title="Angry Birds (film) — польский" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pnb mw-list-item"><a href="https://pnb.wikipedia.org/wiki/%D8%AF%DB%8C_%D8%A7%DB%8C%D9%86%DA%AF%D8%B1%DB%8C_%D8%A8%D8%B1%DA%88%D8%B2_%D9%85%D9%88%D9%88%DB%8C" title="دی اینگری برڈز مووی — Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target"><span>پنجابی</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Angry_Birds_-_O_Filme" title="Angry Birds - O Filme — португальский" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Angry_Birds_(film)" title="Angry Birds (film) — румынский" lang="ro" hreflang="ro" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/The_Angry_Birds_Movie" title="The Angry Birds Movie — Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sq mw-list-item"><a href="https://sq.wikipedia.org/wiki/The_Angry_Birds_Movie" title="The Angry Birds Movie — албанский" lang="sq" hreflang="sq" class="interlanguage-link-target"><span>Shqip</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/Angry_Birds_%D1%84%D0%B8%D0%BB%D0%BC" title="Angry Birds филм — сербский" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/The_Angry_Birds_Movie" title="The Angry Birds Movie — шведский" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-tg mw-list-item"><a href="https://tg.wikipedia.org/wiki/%D0%A4%D0%B8%D0%BB%D0%BC%D0%B8_Angry_Birds" title="Филми Angry Birds — таджикский" lang="tg" hreflang="tg" class="interlanguage-link-target"><span>Тоҷикӣ</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Angry_Birds_Film" title="Angry Birds Film — турецкий" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/Angry_Birds_%D1%83_%D0%BA%D1%96%D0%BD%D0%BE" title="Angry Birds у кіно — украинский" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-uz mw-list-item"><a href="https://uz.wikipedia.org/wiki/Jahldor_qushlar" title="Jahldor qushlar — узбекский" lang="uz" hreflang="uz" class="interlanguage-link-target"><span>Oʻzbekcha / ўзбекча</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/Angry_Birds_(phim)" title="Angry Birds (phim) — вьетнамский" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E6%84%A4%E6%80%92%E7%9A%84%E5%B0%8F%E9%B8%9F%E5%A4%A7%E7%94%B5%E5%BD%B1" title="愤怒的小鸟大电影 — китайский" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/%E6%86%A4%E6%80%92%E9%B3%A5%E5%A4%A7%E9%9B%BB%E5%BD%B1" title="憤怒鳥大電影 — Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target"><span>粵語</span></a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q18703062#sitelinks-wikipedia" title="Править межъязыковые ссылки" class="wbc-editpage">Править ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 13 января 2023 в 19:26.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="license" href="//ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported">лицензии Creative Commons Attribution-ShareAlike</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org">Wikimedia Foundation, Inc.</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=Angry_Birds_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Заявление о куки</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.013","walltime":"1.208","ppvisitednodes":{"value":13119,"limit":1000000},"postexpandincludesize":{"value":166920,"limit":2097152},"templateargumentsize":{"value":27647,"limit":2097152},"expansiondepth":{"value":28,"limit":100},"expensivefunctioncount":{"value":33,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":25764,"limit":5000000},"entityaccesscount":{"value":30,"limit":400},"timingprofile":["100.00% 1086.557      1 -total"," 63.19%  686.560      3 Шаблон:Карточка"," 39.55%  429.682      1 Шаблон:Мультфильм"," 27.59%  299.753      2 Шаблон:Музыкальный_альбом"," 16.26%  176.625     24 Шаблон:Wikidata","  8.67%   94.219      1 Шаблон:Примечания","  6.04%   65.647      1 Шаблон:ВС","  5.49%   59.704      2 Шаблон:Tracklist","  5.20%   56.529     16 Шаблон:Cite_web","  3.81%   41.346      1 Шаблон:В_планах"]},"scribunto":{"limitreport-timeusage":{"value":"0.628","limit":"10.000"},"limitreport-memusage":{"value":14322992,"limit":52428800},"limitreport-logs":"Loaded datatype wikibase-item of P725 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P1934 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P1562 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P1258 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P136 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P162 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P144 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P2554 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P344 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P1040 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P272 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P750 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P364 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype quantity of P2047 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype time of P577 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype quantity of P2130 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype quantity of P2142 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P155 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P156 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P345 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P275 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P7937 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P175 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P162 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P175 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype time of P577 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype time of P10135 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P483 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P136 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype quantity of P2047 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P162 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P291 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P264 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P7937 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P175 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P162 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype time of P577 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype time of P10135 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P483 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P136 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype quantity of P2047 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P162 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P291 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P264 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P1258 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\n"},"cachereport":{"origin":"mw1407","timestamp":"20230221172824","ttl":86400,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Angry Birds \u0432 \u043a\u0438\u043d\u043e","url":"https:\/\/ru.wikipedia.org\/wiki\/Angry_Birds_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE","sameAs":"http:\/\/www.wikidata.org\/entity\/Q18703062","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q18703062","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2015-07-31T08:49:19Z","dateModified":"2023-01-13T19:26:45Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/ru\/0\/00\/AngryBirdsMovie.jpeg","headline":"\u043c\u0443\u043b\u044c\u0442\u0438\u043f\u043b\u0438\u043a\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0439 \u0444\u0438\u043b\u044c\u043c"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Angry Birds \u0432 \u043a\u0438\u043d\u043e","url":"https:\/\/ru.wikipedia.org\/wiki\/Angry_Birds_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE","sameAs":"http:\/\/www.wikidata.org\/entity\/Q18703062","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q18703062","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2015-07-31T08:49:19Z","dateModified":"2023-01-13T19:26:45Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/ru\/0\/00\/AngryBirdsMovie.jpeg","headline":"\u043c\u0443\u043b\u044c\u0442\u0438\u043f\u043b\u0438\u043a\u0430\u0446\u0438\u043e\u043d\u043d\u044b\u0439 \u0444\u0438\u043b\u044c\u043c"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":103,"wgHostname":"mw1431"});});</script>
+</body>
+</html>

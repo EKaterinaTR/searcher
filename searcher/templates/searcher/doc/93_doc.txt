@@ -1,0 +1,1193 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Angry Birds — Википедия</title>
+<script>document.documentElement.className="client-js";(function(){var cookie=document.cookie.match(/(?:^|; )ruwikimwclientprefs=([^;]+)/);if(cookie){var featureName=cookie[1];document.documentElement.className=document.documentElement.className.replace(featureName+'-enabled',featureName+'-disabled');}}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"e29de041-5318-49f0-aab0-bad4b49c6544","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Angry_Birds","wgTitle":"Angry Birds","wgCurRevisionId":128666203,"wgRevisionId":128666203,"wgArticleId":3002550,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":[
+"*"],"wgCategories":["Страницы, использующие повторяющиеся аргументы в вызовах шаблонов","Википедия:Cite web (не указан язык)","Википедия:Статьи с нераспознанным языком (ref)","ПРО:КИ:Последняя правка: в текущем месяце","Википедия:Статьи с незавершёнными разделами","Википедия:Статьи с шаблонами недостатков по алфавиту","Статьи со ссылками на Викисклад","Серии компьютерных игр","Angry Birds","Компьютерные игры 2009 года","Игры для iOS","Игры для Windows","Игры для Android","Игры для Symbian OS","Игры для PlayStation Network","Игры для macOS","Компьютерные игры, разработанные в Финляндии",
+"Игры, использующие язык Lua","Вымышленные птицы","Казуальные игры","Игры для PlayStation Vita"],"wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Angry_Birds","wgRelevantArticleId":3002550,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":126614870,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":70000,"wgNoticeProject":"wikipedia","wgVector2022PreviewPages":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"русский","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,
+"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q165094","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready","jquery.makeCollapsible.styles":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site",
+"mediawiki.page.ready","jquery.tablesorter","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.flaggedRevs.advanced","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","oojs-ui.styles.icons-media","oojs-ui-core.icons","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.blpEditNotice","ext.gadget.wikibugs","ext.gadget.sidebarRelated","ext.gadget.navboxNavigation","ext.centralauth.centralautologin","ext.popups","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%2Cicons%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cjquery.tablesorter.styles%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"/></noscript>
+<meta name="generator" content="MediaWiki 1.40.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="max-image-preview:standard"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta name="viewport" content="width=1000"/>
+<meta property="og:title" content="Angry Birds — Википедия"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//ru.m.wikipedia.org/wiki/Angry_Birds"/>
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=Angry_Birds&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Википедия (ru)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/Angry_Birds"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Angry_Birds rootpage-Angry_Birds skin-vector action-view"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><i>Angry Birds</i></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><div id="mw-content-subtitle"><div id='mw-fr-reviewnotice' class='plainlinks flaggedrevs_preview'>Текущая версия страницы пока <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">не проверялась</a> опытными участниками и может значительно отличаться от <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=Angry_Birds&amp;stable=1">версии</a>, проверенной 12 ноября 2022 года; проверки требуют <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=Angry_Birds&amp;oldid=126614870&amp;diff=cur&amp;diffonly=0">10 правок</a>.</div><div id="mw-fr-revisiontag" class="flaggedrevs_short flaggedrevs_draft_notsynced plainlinks noprint"><div class="flaggedrevs_short_basic"><span title='Текущая версия' class='flaggedrevs-icon oo-ui-widget oo-ui-widget-enabled oo-ui-iconElement-icon oo-ui-icon-block oo-ui-iconElement oo-ui-labelElement-invisible oo-ui-iconWidget'></span><span id='mw-fr-revisiontoggle' title='показать/скрыть подробности' class='fr-toggle-arrow oo-ui-widget oo-ui-widget-enabled oo-ui-indicatorElement-indicator oo-ui-indicator-down oo-ui-indicatorElement oo-ui-labelElement-invisible oo-ui-indicatorWidget'></span></div>
+<div id="mw-fr-revisiondetails-wrapper" style="position:relative;"><div id="mw-fr-revisiondetails" class="flaggedrevs_short_details" style="display:none">Текущая версия страницы пока <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9/%D0%9F%D0%BE%D1%8F%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%BB%D1%8F_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9" title="Википедия:Проверка статей/Пояснение для читателей">не проверялась</a> опытными участниками и может значительно отличаться от <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=Angry_Birds&amp;stable=1">версии</a>, проверенной 12 ноября 2022 года; проверки требуют <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=Angry_Birds&amp;oldid=126614870&amp;diff=cur&amp;diffonly=0">10 правок</a>.</div>
+</div>
+</div>
+</div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="ru" dir="ltr"><div class="mw-parser-output"><table class="infobox infobox-280d3951e49a32f4" style="" data-name="Серия игр"><tbody><tr><th colspan="2" scope="colgroup" class="infobox-above" style=""><i>Angry Birds</i></th></tr><tr><td colspan="2" class="infobox-image" style=""> <span data-wikidata-property-id="P154" class="no-wikidata"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Angry_Birds_logo_2015.svg" class="image"><img alt="Изображение логотипа" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Angry_Birds_logo_2015.svg/274px-Angry_Birds_logo_2015.svg.png" decoding="async" width="274" height="62" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Angry_Birds_logo_2015.svg/411px-Angry_Birds_logo_2015.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/52/Angry_Birds_logo_2015.svg/548px-Angry_Birds_logo_2015.svg.png 2x" data-file-width="624" data-file-height="141" /></a></span> </td></tr>
+<tr>
+<th scope="row" class="plainlist"><a href="/wiki/%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%86%D0%B8%D1%8F_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D1%85_%D0%B8%D0%B3%D1%80" title="Классификация компьютерных игр">Жанр</a></th>
+<td class="plainlist">
+<span data-wikidata-property-id="P136" class="no-wikidata"><a href="/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BE%D0%BB%D0%BE%D0%BC%D0%BA%D0%B0_(%D0%B6%D0%B0%D0%BD%D1%80_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D1%85_%D0%B8%D0%B3%D1%80)" title="Головоломка (жанр компьютерных игр)">головоломка</a>, <a href="/wiki/%D0%90%D1%80%D1%82%D0%B8%D0%BB%D0%BB%D0%B5%D1%80%D0%B8%D1%8F_(%D0%B6%D0%B0%D0%BD%D1%80_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D1%85_%D0%B8%D0%B3%D1%80)" class="mw-redirect" title="Артиллерия (жанр компьютерных игр)">артиллерия</a></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Разработчик</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P178" class="no-wikidata"><span class="flagicon"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Finland.svg" class="image" title="Финляндия"><img alt="Финляндия" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/22px-Flag_of_Finland.svg.png" decoding="async" width="22" height="13" class="thumbborder" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/33px-Flag_of_Finland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Finland.svg/44px-Flag_of_Finland.svg.png 2x" data-file-width="1800" data-file-height="1100" /></a></span> <a href="/wiki/Rovio_Mobile" class="mw-redirect" title="Rovio Mobile">Rovio Mobile</a></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Издатель</th>
+<td class="plainlist">
+<div data-wikidata-property-id="P123" class="no-wikidata">
+<ul><li>Clickgamer Media</li>
+<li>Chillingo</li></ul></div></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Платформы</th>
+<td class="plainlist">
+<span data-wikidata-property-id="P400" class="no-wikidata"><a href="/wiki/MeeGo" title="MeeGo">MeeGo</a>, <a href="/wiki/Apple_iOS" class="mw-redirect" title="Apple iOS">iOS</a>, <a href="/wiki/Android" title="Android">Android</a>, <a href="/wiki/Maemo" title="Maemo">Maemo</a> (Nokia N900), <a href="/wiki/Palm_webOS" class="mw-redirect" title="Palm webOS">Palm webOS</a>, <a href="/wiki/Bada" title="Bada">Bada</a>, <a href="/wiki/Symbian_OS" title="Symbian OS">Symbian³</a>, <a href="/wiki/PlayStation_Portable" title="PlayStation Portable">PSP</a>/<a href="/wiki/PlayStation_3" title="PlayStation 3">PlayStation 3</a>, <a href="/wiki/PlayStation_4" title="PlayStation 4">PlayStation 4</a>, <a href="/wiki/Microsoft_Windows" class="mw-redirect" title="Microsoft Windows">Windows</a>, <a href="/wiki/MacOS" title="MacOS">macOS</a>, <a href="/wiki/WebGL" title="WebGL">WebGL</a>, <a href="/wiki/BlackBerry_OS" title="BlackBerry OS">BlackBerry OS</a>, <a href="/wiki/Xbox_360" title="Xbox 360">Xbox 360</a>, <a href="/wiki/J2ME" class="mw-redirect" title="J2ME">Java</a></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist"><a href="/wiki/%D0%98%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B9_%D0%B4%D0%B2%D0%B8%D0%B6%D0%BE%D0%BA" title="Игровой движок">Движок</a></th>
+<td class="plainlist">
+<span data-wikidata-property-id="P408" class="no-wikidata"><a href="/wiki/Box2D" title="Box2D">Box2D</a></span></td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Первая&#160;игра</th>
+<td class="plainlist">
+<i><i><a href="/wiki/Angry_Birds_(%D0%B8%D0%B3%D1%80%D0%B0)" title="Angry Birds (игра)">Angry Birds</a></i></i><br />(2009)</td>
+</tr>
+<tr>
+<th scope="row" class="plainlist">Последняя&#160;игра</th>
+<td class="plainlist">
+<i><i><a href="/wiki/Rovio_Classics:_Angry_Birds" class="mw-redirect" title="Rovio Classics: Angry Birds">Rovio Classics: Angry Birds</a></i></i><br />(2022)</td>
+</tr><tr><td colspan="2" class="infobox-below" style=";"><span data-wikidata-claim-id="Q165094$4FDD26C2-3BB9-496B-BF08-F73A77FE5FE8" class="wikidata-claim" data-wikidata-property-id="P856"><span class="wikidata-snak wikidata-main-snak"><a rel="nofollow" class="external text" href="https://www.angrybirds.com"><b>Официальный сайт</b></a>&#8203;&#160;<small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></span></span></td></tr><tr><td colspan="2" class="infobox-below" style=";"><span data-wikidata-claim-id="q165094$1A248E2A-AA08-4634-BA1B-E42ADAE34361" class="wikidata-claim" data-wikidata-property-id="P373"><span class="wikidata-snak wikidata-main-snak"><a href="https://commons.wikimedia.org/wiki/Category:Angry_Birds" title="commons:Category:Angry Birds"><img alt="Логотип Викисклада" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" decoding="async" width="15" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a>&#160;<a href="https://commons.wikimedia.org/wiki/Category:Angry_Birds" class="extiw" title="commons:Category:Angry Birds">Медиафайлы на Викискладе</a></span></span></td></tr>
+</tbody></table>
+<p><b>Angry Birds</b> (<i><span lang="en">angry</span></i>&#32;с&#160;<span style="font-style:normal"><a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a></span><span class="nowrap">&#8201;—</span>&#8201;«сердитый», «рассерженный», «злой», <i><span lang="en">birds</span></i>&#32;с&#160;<span style="font-style:normal"><a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a></span><span class="nowrap">&#8201;—</span>&#8201;«птицы», в русифицированной версии&#160;— «Злые птицы»)&#160;— комплексная <a href="/wiki/%D0%9C%D0%B5%D0%B4%D0%B8%D0%B0%D1%84%D1%80%D0%B0%D0%BD%D1%88%D0%B8%D0%B7%D0%B0" title="Медиафраншиза">медиафраншиза</a>, основанная на серии видеоигр от финской компании <a href="/wiki/Rovio" class="mw-redirect" title="Rovio">Rovio</a>, в которых (в основной линии) игрок с помощью <a href="/wiki/%D0%A0%D0%BE%D0%B3%D0%B0%D1%82%D0%BA%D0%B0" title="Рогатка">рогатки</a> должен выстреливать птицами по зелёным свиньям, расставленным на различных конструкциях. Первый выпуск игры для платформы <a href="/wiki/Apple_iOS" class="mw-redirect" title="Apple iOS">Apple iOS</a> состоялся 10 декабря 2009 года в <a href="/wiki/App_Store" title="App Store">App Store</a>. Позднее вышли версии игры для других платформ, включая <a href="/wiki/Maemo" title="Maemo">Maemo 5</a>, <a href="/wiki/MeeGo" title="MeeGo">MeeGo Harmattan</a>, <a href="/wiki/Android" title="Android">Android</a>, <a href="/wiki/Bada" title="Bada">Bada</a>, <a href="/wiki/Symbian_OS" title="Symbian OS">Symbian</a>, <a href="/wiki/J2ME" class="mw-redirect" title="J2ME">Java</a>, <a href="/wiki/WebOS" title="WebOS">WebOS</a>, <a href="/wiki/MacOS" title="MacOS">macOS</a> и <a href="/wiki/Microsoft_Windows" class="mw-redirect" title="Microsoft Windows">Microsoft Windows</a>, а также соцсетей. В дальнейшем франшиза разрослась до мультфильмов, тематических парков, игрушек и другой продукции.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="ru" dir="ltr"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Игровой_процесс"><span class="tocnumber">1</span> <span class="toctext">Игровой процесс</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Усиливающие_бонусы"><span class="tocnumber">1.1</span> <span class="toctext">Усиливающие бонусы</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Игры"><span class="tocnumber">2</span> <span class="toctext">Игры</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#История_создания"><span class="tocnumber">3</span> <span class="toctext">История создания</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Музыкальное_оформление"><span class="tocnumber">4</span> <span class="toctext">Музыкальное оформление</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Исполнения"><span class="tocnumber">4.1</span> <span class="toctext">Исполнения</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Список_композиций,_музыкальных_тем"><span class="tocnumber">4.2</span> <span class="toctext">Список композиций, музыкальных тем</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Альбомы"><span class="tocnumber">4.3</span> <span class="toctext">Альбомы</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Парки_и_аттракционы"><span class="tocnumber">5</span> <span class="toctext">Парки и аттракционы</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Angry_Birds_Land"><span class="tocnumber">5.1</span> <span class="toctext">Angry Birds Land</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Angry_Birds_Space_Encounter"><span class="tocnumber">5.2</span> <span class="toctext">Angry Birds Space Encounter</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Angry_Birds_Activity_Park"><span class="tocnumber">5.3</span> <span class="toctext">Angry Birds Activity Park</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Angry_Birds_World"><span class="tocnumber">5.4</span> <span class="toctext">Angry Birds World</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Angry_Birds_Not-So-Mini_Golf"><span class="tocnumber">5.5</span> <span class="toctext">Angry Birds Not-So-Mini Golf</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Наследие"><span class="tocnumber">6</span> <span class="toctext">Наследие</span></a>
+<ul>
+<li class="toclevel-2 tocsection-16"><a href="#Популярность"><span class="tocnumber">6.1</span> <span class="toctext">Популярность</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Экранизации"><span class="tocnumber">6.2</span> <span class="toctext">Экранизации</span></a>
+<ul>
+<li class="toclevel-3 tocsection-18"><a href="#Анимационные_сериалы"><span class="tocnumber">6.2.1</span> <span class="toctext">Анимационные сериалы</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-19"><a href="#Книги"><span class="tocnumber">6.3</span> <span class="toctext">Книги</span></a>
+<ul>
+<li class="toclevel-3 tocsection-20"><a href="#Кулинарные_книги"><span class="tocnumber">6.3.1</span> <span class="toctext">Кулинарные книги</span></a></li>
+<li class="toclevel-3 tocsection-21"><a href="#Документальные_книги"><span class="tocnumber">6.3.2</span> <span class="toctext">Документальные книги</span></a></li>
+<li class="toclevel-3 tocsection-22"><a href="#Книги_для_деятельности"><span class="tocnumber">6.3.3</span> <span class="toctext">Книги для деятельности</span></a></li>
+<li class="toclevel-3 tocsection-23"><a href="#Рассказы"><span class="tocnumber">6.3.4</span> <span class="toctext">Рассказы</span></a></li>
+<li class="toclevel-3 tocsection-24"><a href="#Книги_National_Geographic"><span class="tocnumber">6.3.5</span> <span class="toctext">Книги National Geographic</span></a></li>
+<li class="toclevel-3 tocsection-25"><a href="#Комиксы"><span class="tocnumber">6.3.6</span> <span class="toctext">Комиксы</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-26"><a href="#Глобальное_влияние"><span class="tocnumber">7</span> <span class="toctext">Глобальное влияние</span></a>
+<ul>
+<li class="toclevel-2 tocsection-27"><a href="#Спорт"><span class="tocnumber">7.1</span> <span class="toctext">Спорт</span></a></li>
+<li class="toclevel-2 tocsection-28"><a href="#Образование"><span class="tocnumber">7.2</span> <span class="toctext">Образование</span></a></li>
+<li class="toclevel-2 tocsection-29"><a href="#Видеоигры"><span class="tocnumber">7.3</span> <span class="toctext">Видеоигры</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-30"><a href="#Примечания"><span class="tocnumber">8</span> <span class="toctext">Примечания</span></a></li>
+<li class="toclevel-1 tocsection-31"><a href="#Ссылки"><span class="tocnumber">9</span> <span class="toctext">Ссылки</span></a></li>
+</ul>
+</div>
+
+<h2><span id=".D0.98.D0.B3.D1.80.D0.BE.D0.B2.D0.BE.D0.B9_.D0.BF.D1.80.D0.BE.D1.86.D0.B5.D1.81.D1.81"></span><span class="mw-headline" id="Игровой_процесс">Игровой процесс</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angry_Birds&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Редактировать раздел «Игровой процесс»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Angry_Birds&amp;action=edit&amp;section=1" title="Редактировать раздел «Игровой процесс»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>В оригинальной игре игрок использует рогатку для запуска птиц в свиней, размещённых на поверхности или внутри различных структур, с намерением уничтожить всех свиней на игровом поле. Когда игрок проходит текущий уровень (или эпизод), ему открываются новый уровень и новые птицы, также компания Rovio Mobile поддержала <i>Angry Birds</i> многочисленными бесплатными обновлениями и дополнениями. Также является известной программой-шпионом<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>.
+</p><p>Из внутриигровых роликов можно узнать, что зелёные свиньи крадут яйца у птиц с целью приготовления яичницы для завтрака короля. Разгневанные птицы решают им отомстить и вернуть свои яйца. В процессе игры свиньи скрываются в строениях, состоящих из блоков различных материалов&#160;— дерева, льда, камня, снега, облаков, песка. Также, для разнообразия, разработчики добавили в игру динамитные коробки, как бы защищающие свиней, но впоследствии используемые птицами для разрушения. Запуская птиц из рогатки, нужно уничтожить всех свиней на уровне. Уровень считается пройденным, если были уничтожены все свиньи. Они уничтожаются как прямым попаданием, так и при помощи блоков разрушаемых строений и падения с большой высоты. В эпизоде Red’s Mighty Feathers («Могучие перья Рeда») есть уровни с другим <a href="/wiki/%D0%93%D0%B5%D0%B9%D0%BC%D0%BF%D0%BB%D0%B5%D0%B9" title="Геймплей">геймплеем</a>&#160;— свиньи едут на конструкциях из <i>Bad Piggies</i> и пытаются украсть яйцо. Цель таких уровней&#160;— не дать увезти яйцо за край экрана. Способ получения звёзд тут тоже изменился&#160;— первая звезда даётся за сохранение яйца, вторая&#160;— если при этом ещё и победить всех свиней (они могут улететь или эвакуироваться при поломке машины), а третья&#160;— если при этом ещё и запустить не более определённого количества птиц (птицы в таких уровнях бесконечные). Кроме того, в игре есть бонусные уровни&#160;— золотые яйца, своего рода <a href="/wiki/%D0%9F%D0%B0%D1%81%D1%85%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D1%8F%D0%B9%D1%86%D0%BE_(%D0%B2%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5)" title="Пасхальное яйцо (виртуальное)">пасхалки</a>. В игре <i>Angry Birds Rio</i> вместо золотых яиц нужно собирать золотые фрукты. Всего их 36 (<i>Angry Birds</i>), 80 с лишним (<i>Angry Birds Seasons</i>) или 160 (<i>Angry Birds Rio</i>). За каждое найденное яйцо или фрукт открывается по одному бонусному уровню. В 8 уровне оригинальной игры для получения яйца нужно нажать на сундук.
+</p>
+<h3><span id=".D0.A3.D1.81.D0.B8.D0.BB.D0.B8.D0.B2.D0.B0.D1.8E.D1.89.D0.B8.D0.B5_.D0.B1.D0.BE.D0.BD.D1.83.D1.81.D1.8B"></span><span class="mw-headline" id="Усиливающие_бонусы">Усиливающие бонусы</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angry_Birds&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Редактировать раздел «Усиливающие бонусы»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Angry_Birds&amp;action=edit&amp;section=2" title="Редактировать раздел «Усиливающие бонусы»">править код</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Используются для облегчённого прохождения уровней. Платные, но можно получить в ежедневном бонусе, использование бонусного активатора на уровне даёт преимущество только на одну попытку&#160;— после перезапуска уровня действовать активатор уже не будет. В игре называются power-up.
+</p><p>В некоторых играх их можно купить за монетки (например, <i>Angry Birds Seasons</i>), которые даются за реальные деньги, а также за прохождение уровней в зависимости от количества звёзд.
+</p>
+<h2><span id=".D0.98.D0.B3.D1.80.D1.8B"></span><span class="mw-headline" id="Игры">Игры</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angry_Birds&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Редактировать раздел «Игры»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Angry_Birds&amp;action=edit&amp;section=3" title="Редактировать раздел «Игры»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable mw-collapsible" border="2" cellpadding="5" cellspacing="0" style="margin: 1em 1em 1em 0; background: #ffffff; border: 1px #DCDCDC solid; border-collapse: collapse; font-size: 100%;">
+<caption>Игры с классическим геймплеем
+</caption>
+<tbody><tr>
+<th>Название</th>
+<th>Описание</th>
+<th>Год выпуска
+</th></tr>
+<tr>
+<td><i><a href="/wiki/Angry_Birds_Classic" class="mw-redirect" title="Angry Birds Classic">Angry Birds Classic</a></i> (<i><a href="/wiki/Angry_Birds_Lite" class="mw-redirect" title="Angry Birds Lite">Angry Birds Lite</a></i>&#160;•&#160;<i><a href="/wiki/Angry_Birds_Mult" class="mw-redirect" title="Angry Birds Mult">Angry Birds Mult</a></i>)
+</td>
+<td>Игра, разработанная финской компанией&#160;Rovio Entertainment, начало одноимённой&#160;серии игр
+</td>
+<td>2009
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Angry_Birds_Seasons" title="Angry Birds Seasons">Angry Birds Seasons</a></i>
+</td>
+<td>Вторая игра серии&#160;<i>Angry Birds</i>, посвящённая праздникам и временам года
+</td>
+<td>2010
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Angry_Birds_Rio" title="Angry Birds Rio">Angry Birds Rio</a></i>
+</td>
+<td>Третья часть серии игр&#160;<i>Angry Birds</i>. Посвящена мультфильму&#160;«<a href="/wiki/%D0%A0%D0%B8%D0%BE_(%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Рио (мультфильм)">Рио</a>».
+</td>
+<td>2011
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Angry_Birds_Magic" title="Angry Birds Magic">Angry Birds Magic</a></i>
+</td>
+<td>Уникальная часть серии игр&#160;<i>Angry Birds</i>, доступная только на некоторых смартфонах на операционных системах Symbian³ (Nokia&#160;C7, Oro, Astound, 603, 700, 701, 808 PureView) и MeeGo (Nokia N9).
+</td>
+<td>2011
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Angry_Birds_Space" title="Angry Birds Space">Angry Birds Space</a></i>
+</td>
+<td>Пройдя через портал, созданный&#160;Ледяной птицей, птицы поменяли структуру своей ДНК и превратились в космических птиц, которые приобрели новые способности. Но они зашли в этот портал не просто так&#160;— свиньи&#160;снова похитили у них яйца, украв их через портал в космос.&#160;
+</td>
+<td rowspan="3">2012
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Angry_Birds_Friends" title="Angry Birds Friends">Angry Birds Friends</a></i>
+</td>
+<td>Ранее&#160;<i>Angry Birds Facebook</i>&#160;— четвёртая игра из серии игр&#160;Angry Birds. Предназначена для совместной игры и соревнований с друзьями, доступна в социальной сети&#160;<a href="/wiki/Facebook" title="Facebook">Facebook</a>.
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Angry_Birds_Star_Wars" title="Angry Birds Star Wars">Angry Birds Star Wars</a></i> •&#160;<i><a href="/wiki/Angry_Birds_Star_Wars_2" title="Angry Birds Star Wars 2">Angry Birds Star Wars 2</a></i>
+</td>
+<td>Первая игра основана на оригинальной трилогии «<a href="/wiki/%D0%97%D0%B2%D1%91%D0%B7%D0%B4%D0%BD%D1%8B%D0%B5_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B" title="Звёздные войны">Звёздные войны</a>». Вторая игра уже основана на <a href="/wiki/%D0%A2%D1%80%D0%B8%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F_%D0%BF%D1%80%D0%B8%D0%BA%D0%B2%D0%B5%D0%BB%D0%BE%D0%B2_%C2%AB%D0%97%D0%B2%D1%91%D0%B7%D0%B4%D0%BD%D1%8B%D1%85_%D0%B2%D0%BE%D0%B9%D0%BD%C2%BB" title="Трилогия приквелов «Звёздных войн»">Трилогии приквелов «Звёздных войн»</a>. Сюжет игр приблизительно повторяет сюжет фильмов.
+</td></tr>
+<tr>
+<td><i><a href="/w/index.php?title=Angry_Birds_Stella&amp;action=edit&amp;redlink=1" class="new" title="Angry Birds Stella (страница отсутствует)">Angry Birds Stella</a></i>
+</td>
+<td>Десятая игра из&#160;серии игр <i>Angry Birds</i>. Игра целиком посвящена&#160;Стелле&#160;и её друзьям, живущим на&#160;Золотом острове.
+</td>
+<td>2014
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Angry_Birds_2" title="Angry Birds 2">Angry Birds 2</a></i>
+</td>
+<td>Четырнадцатая игра из&#160;серии игр <i>Angry Birds</i>.
+</td>
+<td>2015
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Angry_Birds_World_Tour" class="mw-redirect" title="Angry Birds World Tour">Angry Birds World Tour</a></i>
+</td>
+<td>Игра, разработанная Rovio Entertainment совместно с Global Eagle Entertainment. Геймплей игры аналогичен классическому и никаких новых особенностей не имеет. Игра имеет 5 эпизодов из&#160;оригинальной игры&#160;и 30 специальных уровней. Каждый уровень имеет тематику той или иной страны.
+</td>
+<td>2016
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Angry_Birds_Champions" class="mw-redirect" title="Angry Birds Champions">Angry Birds Champions</a></i>
+</td>
+<td>Дополнение к приложению WorldWinner, вышедшее 21 февраля 2018 года в США и Канаде. Геймплей игры аналогичен классическому, но имеет ряд особенностей. Игра состоит из ежедневных турниров. Каждый турнир включает в себя три уровня. Уровни, в свою очередь, состоят из трёх раундов.
+</td>
+<td>2018
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Rovio_Classics:_Angry_Birds" class="mw-redirect" title="Rovio Classics: Angry Birds">Rovio Classics: Angry Birds</a></i>
+</td>
+<td><a href="/wiki/%D0%A0%D0%B5%D0%BC%D0%B5%D0%B9%D0%BA_(%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D0%B5_%D0%B8%D0%B3%D1%80%D1%8B)#Ремастер" title="Ремейк (компьютерные игры)">переиздание</a> <a href="/wiki/Angry_Birds_(%D0%B8%D0%B3%D1%80%D0%B0)" title="Angry Birds (игра)">оригинальной версии</a>, вышедшее 31 марта 2022 года<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>.
+</td>
+<td>2022
+</td></tr></tbody></table>
+<table class="wikitable mw-collapsible" border="2" cellpadding="5" cellspacing="0" style="margin: 1em 1em 1em 0; background: #ffffff; border: 1px #DCDCDC solid; border-collapse: collapse; font-size: 100%;">
+<caption>Игры с нетрадиционным геймплеем
+</caption>
+<tbody><tr>
+<th>Название</th>
+<th>Описание</th>
+<th>Год выпуска
+</th></tr>
+<tr>
+<td><i><a href="/wiki/Angry_Birds_Go!" title="Angry Birds Go!">Angry Birds Go!</a></i>
+</td>
+<td>Восьмая по счёту игра из&#160;серии игр <i>Angry Birds</i>, в жанре гонок.
+</td>
+<td>2013
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Angry_Birds_Epic" title="Angry Birds Epic">Angry Birds Epic</a></i>
+</td>
+<td>Девятая игра из&#160;серии игр <i>Angry Birds</i>, представляет собой пошаговую стратегию.
+</td>
+<td rowspan="2">2014
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Angry_Birds_Transformers" title="Angry Birds Transformers">Angry Birds Transformers</a></i>
+</td>
+<td>Игра создана по мотивам нескольких различных версий вселенной Трансформеров и носит жанр шутера от третьего лица.
+</td></tr>
+<tr>
+<td><i><a href="/w/index.php?title=Angry_Birds_Action!&amp;action=edit&amp;redlink=1" class="new" title="Angry Birds Action! (страница отсутствует)">Angry Birds Action!</a></i>
+</td>
+<td>Шестнадцатая игра из&#160;серии игр <i>Angry Birds</i>.
+</td>
+<td>2016
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Angry_Birds_Evolution" title="Angry Birds Evolution">Angry Birds Evolution</a></i>
+</td>
+<td>В основе геймплея лежат классические пошаговые <a href="/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0" title="Компьютерная ролевая игра">RPG</a>-бои. По геймплею игра схожа с&#160;<i>Angry Birds Action!</i>: игрок должен оттягивать&#160;птиц&#160;и запускать их в&#160;свиней, но не по воздуху, а по земле.
+</td>
+<td>2017
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Bad_Piggies" title="Bad Piggies">Bad Piggies</a></i>
+</td>
+<td>Спин-офф основной&#160;серии игр. Игроку предстоит играть на стороне свиней и строить различные хитроумные устройства и средства передвижения, чтобы добраться до&#160;яиц, фрагментов карт и других предметов. Главный персонаж игры&#160;— Росс, который помогает&#160;Королю свиней&#160;добраться до яиц.
+</td>
+<td>2012
+</td></tr></tbody></table>
+<table class="wikitable mw-collapsible" border="2" cellpadding="5" cellspacing="0" style="margin: 1em 1em 1em 0; background: #ffffff; border: 1px #DCDCDC solid; border-collapse: collapse; font-size: 100%;">
+<caption>Игры в жанре «Три в ряд»
+</caption>
+<tbody><tr>
+<th>Название</th>
+<th>Описание</th>
+<th>Год выпуска
+</th></tr>
+<tr>
+<td><i><a href="/wiki/Angry_Birds_Pop!" title="Angry Birds Pop!">Angry Birds Pop!</a></i>
+</td>
+<td>Двенадцатая игра из&#160;серии игр <i>Angry Birds</i>, являющаяся своего рода дополнением к&#160;<i>Angry Birds Stella</i>.&#160;Посвящена&#160;Стелле&#160;и её друзьям, живущим на&#160;Золотом&#160;и&#160;Свинском&#160;островах.
+</td>
+<td rowspan="2">2015
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Angry_Birds_Fight!" title="Angry Birds Fight!">Angry Birds Fight!</a></i>
+</td>
+<td>Игра имеет жанр «Три в ряд» с элементами боя. Главной целью игры будет являться победить врага, составляя вертикальные или горизонтальные рядов из трех или более одинаковых фишек в форме птиц.
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Angry_Birds_Blast!" class="mw-redirect" title="Angry Birds Blast!">Angry Birds Blast!</a></i>
+</td>
+<td>Восемнадцатая игра из серии <i>Angry Birds</i>, в ней уже нужно лопать воздушные шарики, чтобы лопнуть воздушные шарики необходимо чтобы минимум 2 шарика одинакового цвета находились рядом.
+</td>
+<td>2016
+</td></tr>
+<tr>
+<td><i><a href="/w/index.php?title=Angry_Birds_Match_3&amp;action=edit&amp;redlink=1" class="new" title="Angry Birds Match 3 (страница отсутствует)">Angry Birds Match 3</a></i>
+</td>
+<td>Двадцать третья игра из серии <i>Angry Birds</i>. Ранее называлась <i>Angry Birds Match</i>, но была переименована в 3-ю часть в 2020 году, несмотря на то, что второй части не было, и, скорее всего, цифра «3» означает жанр «Три в ряд».
+</td>
+<td>2017
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Angry_Birds_Island" class="mw-redirect" title="Angry Birds Island">Angry Birds Island</a></i>
+</td>
+<td>Двадцать четвёртая игра из серии&#160;<i>Angry Birds</i>, сиквел игры&#160;<i>Angry Birds Blast!</i>, геймплей игры во многом идентичен. Игрок должен восстановить сад и окрестности около дома Матильды, в этом ему помогают в основном белый птенец и Рэд.
+</td>
+<td>2018
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Angry_Birds_Dream_Blast" class="mw-redirect" title="Angry Birds Dream Blast">Angry Birds Dream Blast</a></i>
+</td>
+<td>Двадцать шестая игра из серии&#160;<i>Angry Birds</i>&#160;и третья по мотивам&#160;<i>Angry Birds Blast!</i>. Для прохождения уровней нужно выполнять определённые цели: от сбора определённого числа шариков и вылупления яиц до уничтожения специальных блоков и свиных шариков.
+</td>
+<td rowspan="2">2019
+</td></tr>
+<tr>
+<td><i><a href="/w/index.php?title=Angry_Birds_Pop!_2&amp;action=edit&amp;redlink=1" class="new" title="Angry Birds Pop! 2 (страница отсутствует)">Angry Birds Pop! 2</a></i>
+</td>
+<td>Двадцать седьмая игра из серии&#160;<i>Angry Birds</i>, сиквел игры&#160;<i>Angry Birds Pop!</i>.
+</td></tr></tbody></table>
+<table class="wikitable sortable mw-collapsible" border="2" cellpadding="5" cellspacing="0" style="margin: 1em 1em 1em 0; background: #ffffff; border: 1px #DCDCDC solid; border-collapse: collapse; font-size: 100%;">
+<caption>Игры на консоли
+</caption>
+<tbody><tr>
+<th>Название</th>
+<th>Описание</th>
+<th>Год выпуска
+</th></tr>
+<tr>
+<td><i><a href="/wiki/Angry_Birds_Trilogy" title="Angry Birds Trilogy">Angry Birds Trilogy</a></i>
+</td>
+<td>Переиздание&#160;<i>Angry Birds</i>,&#160;<i>Angry Birds Seasons</i>&#160;и&#160;<i>Angry Birds Rio</i>&#160;для консолей.
+</td>
+<td>2012
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Angry_Birds_PSP" class="mw-redirect" title="Angry Birds PSP">Angry Birds PSP</a></i>
+</td>
+<td>Версия игры для игровой приставки <a href="/wiki/PlayStation_Portable" title="PlayStation Portable">PlayStation Portable</a>. Содержит первые 4 эпизода оригинальной игры и бонусный эпизод&#160;Golden Eggs.
+</td>
+<td>2010
+</td></tr></tbody></table>
+<table class="wikitable mw-collapsible" border="2" cellpadding="5" cellspacing="0" style="margin: 1em 1em 1em 0; background: #ffffff; border: 1px #DCDCDC solid; border-collapse: collapse; font-size: 100%;">
+<caption>Игры для VR-, AR- и MR-реальностей
+</caption>
+<tbody><tr>
+<th>Название</th>
+<th>Описание</th>
+<th>Год выпуска
+</th></tr>
+<tr>
+<td><i><a href="/wiki/Angry_Birds_VR" class="mw-redirect" title="Angry Birds VR">Angry Birds VR</a></i>
+</td>
+<td>Аркада. Была анонсирована турниром Rock in Rio в&#160;<i>Angry Birds Friends</i>.
+</td>
+<td rowspan="2">2016
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Angry_Birds_Space_VR" class="mw-redirect" title="Angry Birds Space VR">Angry Birds Space VR</a></i>
+</td>
+<td>Аркада. Была выпущена специально на шлемы виртуальной реальности в феврале 2016 года без объявления даты мирового релиза.
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Angry_Birds_FPS:_First_Person_Slingshot" class="mw-redirect" title="Angry Birds FPS: First Person Slingshot">Angry Birds FPS: First Person Slingshot</a>&#160;</i>
+</td>
+<td>Аркада, выпущенная специально для шлемов дополнительной реальности Magic Leap One.
+</td>
+<td>2018
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Angry_Birds_VR:_Isle_of_Pigs" class="mw-redirect" title="Angry Birds VR: Isle of Pigs">Angry Birds VR: Isle of Pigs</a></i> •&#160;<i><a href="/wiki/Angry_Birds_AR:_Isle_of_Pigs" class="mw-redirect" title="Angry Birds AR: Isle of Pigs">Angry Birds AR: Isle of Pigs</a></i>
+</td>
+<td>VR: аркада, выпущенная специально на шлемы виртуальной реальности; AR: на окружающую обстановку, захватываемую объективом видеокамеры смартфона, накладываются дополнительные элементы геймплея игры.
+</td>
+<td rowspan="3">2019
+</td></tr>
+<tr>
+<td><i><a href="/wiki/The_Angry_Birds_Movie_2_VR:_Under_Pressure" class="mw-redirect" title="The Angry Birds Movie 2 VR: Under Pressure">The Angry Birds Movie 2 VR: Under Pressure</a></i>
+</td>
+<td>В данной игре принимают участие до четырёх игроков: один сидит в шлеме виртуальной реальности, а трое смотрят на телевизор, управление происходит с помощью геймпада <a href="/wiki/DualShock" title="DualShock">DualShock 4</a>. Действие игры происходит на жёлтой подлодке свиней, игроки управляют&#160;Рэдом,&#160;Чаком,&#160;Леонардом&#160;и&#160;Россом. Игрок, сидящий в шлеме виртуальной реальности, играет роль капитана Леонарда: он должен собирать сокровища в океане и управлять самой подлодкой, а все остальные обязаны любой ценой удержать подлодку на плаву.
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Angry_Birds_Explore" class="mw-redirect" title="Angry Birds Explore">Angry Birds Explore</a></i>
+</td>
+<td>Аркада, вышедшая 23 мая 2019 года и доступная для платформ iOS и Android. Геймплей аналогичен <i>Angry Birds AR: Isle of Pigs</i>.
+</td></tr></tbody></table>
+<table class="wikitable sortable mw-collapsible" border="2" cellpadding="5" cellspacing="0" style="margin: 1em 1em 1em 0; background: #ffffff; border: 1px #DCDCDC solid; border-collapse: collapse; font-size: 100%;">
+<caption>Флеш-игры
+</caption>
+<tbody><tr>
+<th>Название</th>
+<th>Описание</th>
+<th>Год выпуска
+</th></tr>
+<tr>
+<td><i><a href="/wiki/Angry_Birds_Friends" title="Angry Birds Friends">Angry Birds Friends</a></i>
+</td>
+<td>Ранее&#160;<i>Angry Birds Facebook</i>&#160;— четвёртая игра из серии <i>Angry Birds</i>. Предназначена для совместной игры и соревнований с друзьями, доступна в социальной сети&#160;Facebook.
+</td>
+<td>2012
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Angry_Birds_for_Messenger" class="mw-redirect" title="Angry Birds for Messenger">Angry Birds for Messenger</a></i>
+</td>
+<td>Двухпользовательская сетевая игра для Facebook Messenger, разрабатываемая Rovio Entertainment при содействии амстердамской компании Cool Games. О разработке было объявлено 7 декабря 2017 года. С 19 января 2018 года доступна бета-версия, в мае была выпущена финальная<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>. Игра создана на основе <i>Angry Birds 2</i>.
+</td>
+<td>2018
+</td></tr></tbody></table>
+<table class="wikitable mw-collapsible" border="2" cellpadding="5" cellspacing="0" style="margin: 1em 1em 1em 0; background: #ffffff; border: 1px #DCDCDC solid; border-collapse: collapse; font-size: 100%;">
+<caption>Закрытые флеш-игры
+</caption>
+<tbody><tr>
+<th>Название</th>
+<th>Описание</th>
+<th>Год выпуска
+</th></tr>
+<tr>
+<td><i><a href="/wiki/Angry_Birds:_Breakfast" class="mw-redirect" title="Angry Birds: Breakfast">Angry Birds: Breakfast</a></i>
+</td>
+<td>Рекламировала готовый завтрак известной швейцарской компании&#160;<a href="/wiki/Nestl%C3%A9" title="Nestlé">Nestlé S.A.</a>
+</td>
+<td>2014
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Angry_Birds_Vuela_Tazos" class="mw-redirect" title="Angry Birds Vuela Tazos">Angry Birds Vuela Tazos</a></i>
+</td>
+<td>Реклама компании по производству чипсов <a href="/wiki/Frito-Lay" title="Frito-Lay">Frito-Lay</a>.
+</td>
+<td>2013
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Angry_Birds_Heikki" class="mw-redirect" title="Angry Birds Heikki">Angry Birds Heikki</a></i>
+</td>
+<td>Специальная, ныне закрытая, часть&#160;серии игр <i>Angry Birds</i>, посвященная <a href="/wiki/%D0%A4%D0%BE%D1%80%D0%BC%D1%83%D0%BB%D0%B0-1" title="Формула-1">Формуле-1</a>. Игра продолжает идею игр с «традиционным геймплеем». Бета была открыта в конце 2011 года, релиз состоялся 25 июня 2012 года. Игра была закрыта в конце 2012 года.
+</td>
+<td>2011
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Angry_Birds_Lotus_F1_Team" class="mw-redirect" title="Angry Birds Lotus F1 Team">Angry Birds Lotus F1 Team</a></i>
+</td>
+<td>Реклама команды автогонщиков Lotus.
+</td>
+<td>2012
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Angry_Birds_Winter_Wonderland" class="mw-redirect" title="Angry Birds Winter Wonderland">Angry Birds Winter Wonderland</a></i>
+</td>
+<td>Реклама компании Samsung Note.
+</td>
+<td>2016
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Angry_Birds_Telepizza" class="mw-redirect" title="Angry Birds Telepizza">Angry Birds Telepizza</a></i>
+</td>
+<td>Рекламировала испанскую сеть пиццерий <a href="/w/index.php?title=Telepizza&amp;action=edit&amp;redlink=1" class="new" title="Telepizza (страница отсутствует)">Telepizza</a>. Являлась мини-игрой, состоявшей из шести уровней, обозначенных шестью кусками пиццы. Игра была полностью на испанском языке.
+</td>
+<td>2014
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Angry_Bitds_Wonderful_Pistachios" class="mw-redirect" title="Angry Bitds Wonderful Pistachios">Angry Bitds Wonderful Pistachios</a></i>
+</td>
+<td>Реклама американской фирмы фисташек <a href="/w/index.php?title=Wonderful_Pistachios&amp;action=edit&amp;redlink=1" class="new" title="Wonderful Pistachios (страница отсутствует)">Wonderful Pistachios</a>. Была доступна только в браузере <a href="/wiki/Google_Chrome" title="Google Chrome">Google Chrome</a>. Первые 2 уровня были обычными, а остальные 3 являлись конкурсом с ограниченным количеством попыток. Попытки можно было увеличить с помощью одноразовых промокодов на упаковках фисташек.
+</td>
+<td>2013
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Angry_Birds_Coca-Cola" class="mw-redirect" title="Angry Birds Coca-Cola">Angry Birds Coca-Cola</a></i>
+</td>
+<td>Рекламировала напиток <a href="/wiki/%D0%9A%D0%BE%D0%BA%D0%B0-%D0%BA%D0%BE%D0%BB%D0%B0" title="Кока-кола">Coca-Cola</a>.
+</td>
+<td>2010
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Angry_Birds_Philadelphia_Eagles" class="mw-redirect" title="Angry Birds Philadelphia Eagles">Angry Birds Philadelphia Eagles</a></i>
+</td>
+<td>Закрывшаяся специальная часть серии. Состояла из 17 уровней, каждый из которых открывался с каждым футбольным матчем команды «<a href="/wiki/%D0%A4%D0%B8%D0%BB%D0%B0%D0%B4%D0%B5%D0%BB%D1%8C%D1%84%D0%B8%D1%8F_%D0%98%D0%B3%D0%BB%D0%B7" title="Филадельфия Иглз">Филадельфия Иглз</a>».
+</td>
+<td>2012
+</td></tr>
+<tr>
+<td><i><a href="/w/index.php?title=Angry_Birds_McDonald%E2%80%99s&amp;action=edit&amp;redlink=1" class="new" title="Angry Birds McDonald’s (страница отсутствует)">Angry Birds McDonald’s</a></i>
+</td>
+<td>Реклама сети кафе <a href="/wiki/McDonald%E2%80%99s" title="McDonald’s">McDonald’s</a> в Китае. Мини-игра. Состояла из восьми уровней.
+</td>
+<td>2016
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Angry_Birds_Google%2B" class="mw-redirect" title="Angry Birds Google+">Angry Birds Google+</a>&#160;</i>
+</td>
+<td>Специальная часть&#160;серии, запускалась в социальной сети&#160;<a href="/wiki/Google%2B" title="Google+">Google+</a>.
+</td>
+<td rowspan="2">2011
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Angry_Birds_Space_Tazos" class="mw-redirect" title="Angry Birds Space Tazos">Angry Birds Space Tazos</a></i>
+</td>
+<td>Реклама компании по производству чипсов Frito-Lay.
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Angry_Birds_Fuji_TV" class="mw-redirect" title="Angry Birds Fuji TV">Angry Birds Fuji TV</a></i>
+</td>
+<td>Состояла из двух эпизодов. Совместный проект&#160;Rovio Entertainment&#160;и японского телеканала <a href="/wiki/Fuji_Television" title="Fuji Television">Fuji Television</a>.
+</td>
+<td>2017
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Angry_Birds_in_Ultrabook%E2%84%A2_Adventure" class="mw-redirect" title="Angry Birds in Ultrabook™ Adventure">Angry Birds in Ultrabook™ Adventure</a></i>
+</td>
+<td>Реклама компании ноутбуков <a href="/wiki/%D0%A3%D0%BB%D1%8C%D1%82%D1%80%D0%B0%D0%B1%D1%83%D0%BA" title="Ультрабук">Ultrabook</a> фирмы <a href="/wiki/Intel" title="Intel">Intel</a>. Была доступна в социальной сети Facebook. Являлась мини-игрой из 14 уровней.
+</td>
+<td>2018
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Angry_Birds_Cheetos" class="mw-redirect" title="Angry Birds Cheetos">Angry Birds Cheetos</a></i>
+</td>
+<td>Реклама снеков «<a href="/wiki/Cheetos" title="Cheetos">Cheetos</a>».
+</td>
+<td>2011
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Angry_Birds_Star_Wars_Facebook" class="mw-redirect" title="Angry Birds Star Wars Facebook">Angry Birds Star Wars Facebook</a></i>
+</td>
+<td>Закрытая версия&#160;<i>Angry Birds Star Wars</i>. Была доступна только в социальной сети Facebook.
+</td>
+<td>2014
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Angry_Birds_Chrome" class="mw-redirect" title="Angry Birds Chrome">Angry Birds Chrome</a></i>
+</td>
+<td>Закрывшаяся специальная версия&#160;серии игр <i>Angry Birds</i> для браузера Google Chrome, доступная для игры через Интернет. Была открыта 12 мая 2011 года.
+</td>
+<td>2011
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Angry_Birds_Volcano" class="mw-redirect" title="Angry Birds Volcano">Angry Birds Volcano</a></i>
+</td>
+<td>Закрывшаяся в июне 2015 года игра, рекламировавшая&#160;конфеты&#160;фирмы <a href="/wiki/Fazer" title="Fazer">Fazer</a> «Tyrkisk Peber Volcano».
+</td>
+<td>2015
+</td></tr>
+</tbody></table>
+<table class="wikitable mw-collapsible" border="2" cellpadding="5" cellspacing="0" style="margin: 1em 1em 1em 0; background: #ffffff; border: 1px #DCDCDC solid; border-collapse: collapse; font-size: 100%;">
+<caption>Невыпущенные игры
+</caption>
+<tbody><tr>
+<th>Название</th>
+<th>Описание</th>
+<th>Год выпуска
+</th></tr>
+<tr>
+<td><i><a href="/wiki/Angry_Birds_Holiday" class="mw-redirect" title="Angry Birds Holiday">Angry Birds Holiday</a></i>
+</td>
+<td>Семнадцатая игра серии. Вышла 31 мая 2016 года на Филиппинах. Действие этой игры происходит на Острове каникул. Цель игры: обслуживать свиней-миньонов с помощью разных построек и ресурсов.
+</td>
+<td rowspan="3">2016
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Angry_Birds_Football" class="mw-redirect" title="Angry Birds Football">Angry Birds Football</a></i>
+</td>
+<td>Пятнадцатая игра серии,&#160;задуманная как симулятор футбола.
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Angry_Birds_Ace_Fighter" class="mw-redirect" title="Angry Birds Ace Fighter">Angry Birds Ace Fighter</a></i>
+</td>
+<td>Девятнадцатая игра серии. Имела жанр shoot 'em up. Цель заключается в том, что игрок должен&#160;— в одиночку или с другим игроком&#160;— уничтожать свиней, не давая сбить свой самолёт. Игрок мог в процессе игры менять облик и вооружение самолёта.
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Angry_Birds_Dice" class="mw-redirect" title="Angry Birds Dice">Angry Birds Dice</a></i>
+</td>
+<td>Отменённая настольная мобильная игра, основанная на персонажах фильма&#160;«Angry Birds в кино». Двадцатая игра серии. Действие игры происходило на специальном поле, игроку нужно было бросать кубик, чтобы ходить по клеткам поля и атаковать врагов — свиней.
+</td>
+<td rowspan="3">2017
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Angry_Birds_Islands" class="mw-redirect" title="Angry Birds Islands">Angry Birds Islands</a></i>
+</td>
+<td>Закрытая двадцать первая игра серии. Геймплей игры состоит в постройке зданий, сборе ресурсов и выполнении заданий.
+</td></tr>
+<tr>
+<td><i><a href="/wiki/Angry_Birds_Heroes" class="mw-redirect" title="Angry Birds Heroes">Angry Birds Heroes</a></i>
+</td>
+<td>О геймплее ничего не известно.
+</td></tr></tbody></table>
+<p>Оригинальная <i>Angry Birds</i> была выпущена в 2009 году. Годом позже состоялся выход&#160;<i>Angry Birds Seasons</i>, посвящённая различным праздникам. В 2011 году вышла <i>Angry Birds Rio</i>, игра по мотивам <a href="/wiki/%D0%A0%D0%B8%D0%BE_(%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%84%D0%B8%D0%BB%D1%8C%D0%BC)" title="Рио (мультфильм)">одноимённого мультфильма</a> компании <a href="/wiki/20th_Century_Fox" class="mw-redirect" title="20th Century Fox">20th Century Fox</a>. В феврале 2012 года компания Rovio объявила о выпуске <i>Angry Birds Space</i>&#160;— новой игры в серии. Тематика игры связана с космосом; в частности, в конструкциях присутствуют планеты, гравитационное притяжение каждой по-своему влияет на траекторию птиц после запуска. До запуска игры Rovio публиковала её различные видеоанонсы. 8 марта 2012 года игра Angry Birds Space была представлена астронавтом NASA <a href="/wiki/%D0%9F%D0%B5%D1%82%D1%82%D0%B8%D1%82,_%D0%94%D0%BE%D0%BD%D0%B0%D0%BB%D0%B4_%D0%A0%D0%BE%D0%B9" title="Петтит, Доналд Рой">Доном Петтитом</a> на борту <a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BE%D1%81%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F" title="Международная космическая станция">Международной космической станции</a><sup id="cite_ref-YLE20120310_5-0" class="reference"><a href="#cite_note-YLE20120310-5">&#91;5&#93;</a></sup>. 22 марта игра вышла на Android, iOS, Mac OS X, PC. 24 апреля игра появилась на планшетах <a href="/wiki/BlackBerry" title="BlackBerry">BlackBerry</a> Playbook. Менее чем за три дня она успела набрать десять миллионов загрузок, и ещё десять миллионов к окончанию первой недели продаж. Также в 2012 году был выпущен спин-офф серии, посвящённый свиньям, под названием <i>Bad Piggies</i>. По своему геймплею она кардинально отличается от игр основной серии: играя за свиней, нужно конструировать транспортные средства из различных деталей, и с их помощью выполнять различные задачи, вроде сбора яиц или сладостей, достижения финиша и&#160;т.&#160;д. Игра была выпущена 27 сентября 2012 года на платформы Android, iOS, Windows и Mac OS X. Также в 2012 году вышла <i>Angry Birds Friends</i>&#160;— официальная игра для социальной сети <a href="/wiki/Facebook" title="Facebook">Facebook</a>.
+</p><p>Ещё одной игрой серии, выпущенной в 2012 году, стала <i>Angry Birds Star Wars</i>, которая посвящена циклу фильмов «<a href="/wiki/%D0%97%D0%B2%D1%91%D0%B7%D0%B4%D0%BD%D1%8B%D0%B5_%D0%B2%D0%BE%D0%B9%D0%BD%D1%8B" title="Звёздные войны">Звёздные войны</a>». Вышла 8 ноября 2012 года на iOS, Android, PC, Mac, <a href="/wiki/Windows_8" title="Windows 8">Windows 8</a>, <a href="/wiki/Windows_Phone" title="Windows Phone">Windows Phone</a> 7.5 и 8. Игровой процесс сочетает особенности как наземных, так и космической версии. В 2013 году вышла <i>Angry Birds Star Wars II</i>&#160;— приквел к <i>Angry Birds Star Wars</i>. Игра вышла 18 сентября 2013 года на iOS, Android и Windows Phone. На ПК игра вышла 24 октября 2013 года.
+</p><p>11 декабря 2013 года была выпущена первая игра серии в жанре гоночного симулятора, <i>Angry Birds Go!</i>. Является первой игрой в серии, использующей 3D-графику. В 2014 году вышла <i>Angry Birds Epic</i>, первая игра серии в жанре <a href="/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D0%B0%D1%8F_%D1%80%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0%D1%8F_%D0%B8%D0%B3%D1%80%D0%B0" title="Компьютерная ролевая игра">RPG</a>. Была выпущена 17 марта 2014 года на территории Канады, <a href="/wiki/%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B0%D0%BB%D0%B8%D1%8F" title="Австралия">Австралии</a> и Новой Зеландии и 12 июня во всём остальном мире. Также в 2014 году была выпущена&#160;<i>Angry Birds Stella</i>, очередной <a href="/wiki/%D0%A1%D0%BF%D0%B8%D0%BD-%D0%BE%D1%84%D1%84" title="Спин-офф">спин-офф</a> серии, посвящённый Стелле и её друзьям. Игра вышла 4 сентября 2014 на iOS, Android и BlackBerry 10; позднее также была выпущена на Windows Phone 8<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>. В этом же году вышла <i>Angry Birds Transformers</i>&#160;— игра в жанре <a href="/wiki/Shoot_%27em_up" class="mw-redirect" title="Shoot &#39;em up">shoot 'em up</a>, посвящённая франшизе «<a href="/wiki/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%BE%D1%80%D0%BC%D0%B5%D1%80%D1%8B" title="Трансформеры">Трансформеры</a>». Версия для iOS была выпущена 25 сентября 2014 года на территории Финляндии и Новой Зеландии и 15 октября во всём остальном мире. 30 октября вышло издание для Android-устройств<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>. Последней в 2014 году была выпущена <i>Angry Birds Pop!</i>, игра в жанре <a href="/wiki/%D0%A2%D1%80%D0%B8_%D0%B2_%D1%80%D1%8F%D0%B4" title="Три в ряд">три в ряд</a>. Версия для iOS была выпущена 22 декабря 2014 года на территории Канады<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>; в остальных странах игра вышла 12 марта 2015 года на iOS и Android<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>. В 2015 году была выпущена <i>Angry Birds Fight!</i>&#160;— ещё одна игра в жанре три в ряд. Версия для iOS была выпущена 20 января 2015 года на территории Таиланда; 7 мая того же года она вышла на территории всей Азии; выпуск игры в остальных странах состоялся 11 июня. 7 августа 2015 года игра достигла 10 миллионов скачиваний.
+</p><p>В 2015 году состоялся выпуск <i>Angry Birds 2</i>. Версия для iOS была выпущена 5 марта 2015 года в <a href="/wiki/%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D0%B0" title="Канада">Канаде</a> под названием <i>Angry Birds Under Pigstruction</i><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>; выход игры в остальных странах состоялся 30 июля того же года. При этом она была переименована в <i>Angry Birds 2</i><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>. Спустя 12 часов после старта продаж её скачали один миллион раз, а спустя 36 часов после выхода игра достигла 5 миллионов скачиваний. Спустя неделю после выхода <i>Angry Birds 2</i> стало известно, что её скачали 20 миллионов раз и что одну рогатку в игре все игроки использовали более 1,4 миллиарда раз. За 10 дней все игроки прошли в сумме 300 миллионов уровней. 13 августа пришла новость о скачивании этой игры 30 миллионов раз.
+</p><p><i>Angry Birds Action!</i> изначально вышла в Новой Зеландии на iOS 16 февраля 2016 года, мировой релиз состоялся 28 апреля того же года. 16 февраля 2016 года данная игра была выпущена для тестирования в Новой Зеландии, однако разработчики заявили о ней несколько ранее, в то же время появилось видео с геймплеем. Также стало известно, что над игрой совместно с Rovio Entertainment работает компания <a href="/wiki/Tag_Games" title="Tag Games">Tag Games</a>.
+</p><p><i>Angry Birds Ace Fighters!</i>, игра в жанре shoot 'em up, была выпущена 27 июля 2016 года в странах Восточной Азии. Для игры требовался доступ в интернет. 31 мая игра была выпущена в Китае для тестирования. В конце июля Rovio Entertainment выпустили игру в странах Восточной Азии, параллельно добавив в игру поддержку английского языкa, однако 5 сентября разработчики объявили о закрытии игры 8 октября того же года. На следующий день игра была удалена из App Store и Google Play. 10 октября сервера игры были закрыты.
+</p><p><i>Angry Birds Goal!</i> вышла 25 апреля 2016 года в Новой Зеландии, после мировой релиз был отменён и игра была закрыта в декабре. Фактически являлась симулятором футбольной игры. <i>Angry Birds Blast!</i> вышла в нескольких странах 15 июля 2016 года, мировой релиз состоялся 22 декабря того же года.
+</p>
+<h2><span id=".D0.98.D1.81.D1.82.D0.BE.D1.80.D0.B8.D1.8F_.D1.81.D0.BE.D0.B7.D0.B4.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="История_создания">История создания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angry_Birds&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Редактировать раздел «История создания»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Angry_Birds&amp;action=edit&amp;section=4" title="Редактировать раздел «История создания»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Финская компания <a href="/wiki/Rovio" class="mw-redirect" title="Rovio">Rovio</a> выпустила первую версию своей игры для телефонов <a href="/wiki/IPhone" title="IPhone">iPhone</a> в декабре 2009 года. Она стала их 52-й по счету игрой. Их издатель, британская компания Chillingo (также выпустившая <i><a href="/wiki/Cut_the_Rope" title="Cut the Rope">Cut the Rope</a></i>) описывает свой креативный вклад в продукт как «придание игре лоска» (<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык">англ.</a>&#160;<span lang="en" style="font-style:italic;">polish</span>). В частности, с их подачи появилось пунктирное изображение траекторий птичек, хрюканье свиней, «zoom out», кувыркание птичек при ударе о землю<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>.
+</p>
+<h2><span id=".D0.9C.D1.83.D0.B7.D1.8B.D0.BA.D0.B0.D0.BB.D1.8C.D0.BD.D0.BE.D0.B5_.D0.BE.D1.84.D0.BE.D1.80.D0.BC.D0.BB.D0.B5.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Музыкальное_оформление">Музыкальное оформление</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angry_Birds&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Редактировать раздел «Музыкальное оформление»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Angry_Birds&amp;action=edit&amp;section=5" title="Редактировать раздел «Музыкальное оформление»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-Заготовка_раздела plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Wiki_letter_w.svg/25px-Wiki_letter_w.svg.png" decoding="async" width="25" height="25" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Wiki_letter_w.svg/38px-Wiki_letter_w.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Wiki_letter_w.svg/50px-Wiki_letter_w.svg.png 2x" data-file-width="44" data-file-height="44" /></div></td><td class="mbox-text"><div class="mbox-text-div">Этот раздел <b><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%97%D0%B0%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Википедия:Заготовка статьи">не завершён</a></b>.</div><div class="mbox-textsmall-div hide-when-compact" style="font-size:85%"><span class="hide-when-compact"> Вы поможете проекту, <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0_%D0%B8_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD%D0%B8%D1%8F" class="mw-redirect" title="Википедия:Правила и указания">исправив и дополнив</a> его.<br /></span></div></td></tr></tbody></table>
+<h3><span id=".D0.98.D1.81.D0.BF.D0.BE.D0.BB.D0.BD.D0.B5.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Исполнения">Исполнения</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angry_Birds&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Редактировать раздел «Исполнения»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Angry_Birds&amp;action=edit&amp;section=6" title="Редактировать раздел «Исполнения»">править код</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>7 ноября 2011 года состоялся релиз альбома <i>Video Game Heroes</i>, который был записан Лондонским Филармоническим оркестром и включал в себя исполнение музыкальных тем из известных видеоигр. Четвёртым треком на этом альбоме была главная тема из <i>Angry Birds</i><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>.
+</p>
+<h3><span id=".D0.A1.D0.BF.D0.B8.D1.81.D0.BE.D0.BA_.D0.BA.D0.BE.D0.BC.D0.BF.D0.BE.D0.B7.D0.B8.D1.86.D0.B8.D0.B9.2C_.D0.BC.D1.83.D0.B7.D1.8B.D0.BA.D0.B0.D0.BB.D1.8C.D0.BD.D1.8B.D1.85_.D1.82.D0.B5.D0.BC"></span><span class="mw-headline" id="Список_композиций,_музыкальных_тем">Список композиций, музыкальных тем</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angry_Birds&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Редактировать раздел «Список композиций, музыкальных тем»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Angry_Birds&amp;action=edit&amp;section=7" title="Редактировать раздел «Список композиций, музыкальных тем»">править код</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>«Summer Pignic» (<a href="/wiki/%D0%9F%D1%83%D0%BB%D0%BA%D0%BA%D0%B8%D0%BD%D0%B5%D0%BD,_%D0%90%D1%80%D0%B8" title="Пулккинен, Ари">Ари Пулккинен</a>&#160;·&#160;2018&#160;г.)</li>
+<li>«Go Green, <a href="/wiki/Get_Lucky" title="Get Lucky">Get Lucky</a>» (Ари Пулккинен&#160;·&#160;2018&#160;г.)</li>
+<li>«Angry Birds: Main Theme» (Ари Пулккинен&#160;·&#160;2013&#160;г.)</li>
+<li>«Haunted Hogs» (Илмари Хаккола&#160;·&#160;2018&#160;г.)</li>
+<li>«Arctic Eggspedition» (Хенри Сорвали&#160;·&#160;2018&#160;г.)</li>
+<li>«South Hamerica» (Салла Хаккола&#160;·&#160;2018&#160;г.)</li>
+<li>«On Finn Ice» (<a href="/wiki/Apocalyptica" title="Apocalyptica">Apocalyptica</a>&#160;·&#160;2018&#160;г.)</li>
+<li>«Angry Birds Space Theme» (Салла Хаккола&#160;·&#160;2012&#160;г.)</li>
+<li>«The Angry Birds Movie Score Medley» (Эйтор Перейра&#160;·&#160;2016&#160;г.)</li>
+<li>«Ham Dunk» (Хенри Сорвали&#160;·&#160;2018&#160;г.)</li>
+<li>«Season’s Greedings» (Ари Пулккинен&#160;·&#160;2018&#160;г.)</li>
+<li>«Fairy Hogmother» (Ари Пулккинен&#160;·&#160;2018&#160;г.)</li>
+<li>«Piglantis» (Салла Хаккола&#160;·&#160;2018&#160;г.)</li>
+<li>«Ham’o’Ween» (Салла Хаккола&#160;·&#160;2018&#160;г.)</li>
+<li>«Angry Birds Transformers Main Theme» (Винс ДиКола и Керри Мэридет&#160;·&#160;2014&#160;г.)</li>
+<li>«Piggywood Studios» (Илмари Хаккола&#160;·&#160;2018&#160;г.)</li>
+<li>«Hogs and Kisses» (Ари Пулккинен&#160;·&#160;2018&#160;г.)</li>
+<li>«Angry Birds Trilogy Theme» (Ари Пулккинен&#160;·&#160;2018&#160;г.)</li>
+<li>«Marie Hamtoinette» (Салла Хаккола&#160;·&#160;2018&#160;г.)</li>
+<li>«Ragnahog» (Хенри Сорвали&#160;·&#160;2018&#160;г.)</li>
+<li>«Angry Birds Rap» (J.T. Machinima)</li>
+<li>«Hammier Things» (Илмари Хаккола&#160;·&#160;2018&#160;г.)</li>
+<li>«Angry Birds Space Main Theme» (Илмари Хаккола&#160;·&#160;2013&#160;г.)</li>
+<li>«Angry Birds: Main Theme» (Эндрю Скит и <a href="/wiki/%D0%9B%D0%BE%D0%BD%D0%B4%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%84%D0%B8%D0%BB%D0%B0%D1%80%D0%BC%D0%BE%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BE%D1%80%D0%BA%D0%B5%D1%81%D1%82%D1%80" title="Лондонский филармонический оркестр">Лондонский филармонический оркестр</a>)</li>
+<li>«Ski or Squeal» (Илмари Хаккола&#160;·&#160;2018&#160;г.)</li>
+<li>«Winter Wonderham» (<i>Angry Birds Seasons</i>)</li></ul>
+<h3><span id=".D0.90.D0.BB.D1.8C.D0.B1.D0.BE.D0.BC.D1.8B"></span><span class="mw-headline" id="Альбомы">Альбомы</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angry_Birds&amp;veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Редактировать раздел «Альбомы»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Angry_Birds&amp;action=edit&amp;section=8" title="Редактировать раздел «Альбомы»">править код</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><i>The Angry Birds Movie (Original Motion Picture Soundtrack)</i></li></ul>
+<h2><span id=".D0.9F.D0.B0.D1.80.D0.BA.D0.B8_.D0.B8_.D0.B0.D1.82.D1.82.D1.80.D0.B0.D0.BA.D1.86.D0.B8.D0.BE.D0.BD.D1.8B"></span><span class="mw-headline" id="Парки_и_аттракционы">Парки и аттракционы</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angry_Birds&amp;veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Редактировать раздел «Парки и аттракционы»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Angry_Birds&amp;action=edit&amp;section=9" title="Редактировать раздел «Парки и аттракционы»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h4><span class="mw-headline" id="Angry_Birds_Land">Angry Birds Land</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angry_Birds&amp;veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Редактировать раздел «Angry Birds Land»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Angry_Birds&amp;action=edit&amp;section=10" title="Редактировать раздел «Angry Birds Land»">править код</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Angry_Birds_Land3.jpg" class="image"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Angry_Birds_Land3.jpg/220px-Angry_Birds_Land3.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/63/Angry_Birds_Land3.jpg/330px-Angry_Birds_Land3.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/63/Angry_Birds_Land3.jpg/440px-Angry_Birds_Land3.jpg 2x" data-file-width="4032" data-file-height="3024" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Angry_Birds_Land3.jpg" class="internal" title="Увеличить"></a></div>Angry Birds Land в парке развлечений Сяркянниеми, Тампер</div></div></div>
+<p>Персонажи игры официально или неофициально использовались в аттракционах парка развлечений. В сентябре 2011 года в тематическом парке «Window of the World» в Чанше, Китай, открылся нелицензионный аттракцион Angry Birds<sup id="cite_ref-AB-China_14-0" class="reference"><a href="#cite_note-AB-China-14">&#91;14&#93;</a></sup>. Посетители парка должны использовать большую рогатку, чтобы запускать чучела персонажей птиц в зеленые воздушные шары, которые представляют свиней<sup id="cite_ref-AB-China_14-1" class="reference"><a href="#cite_note-AB-China-14">&#91;14&#93;</a></sup>.
+</p><p>Узнав об этом аттракционе, Rovio Entertainment сообщило, что рассматривает возможность сотрудничества с тематическим парком для получения официальной лицензии. В марте 2012 года Rovio объявила о планах официального открытия Angry Birds Land, который откроется 28 апреля 2012 года в парке приключений «Сяркянниеми» в Финляндии<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup><sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup><sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup>. Angry Birds Land открылся в мае 2014 года в центре города Джохор-Бару в Малайзии<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup>.
+</p><p>Первый тематический парк Angry Birds в Великобритании был открыт в Sundown Adventureland<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup>.
+</p><p>Британский тематический парк Thorpe Park открыл свою собственную тематическую зону Angry Birds Land в мае 2014 года.
+</p>
+<h4><span class="mw-headline" id="Angry_Birds_Space_Encounter">Angry Birds Space Encounter</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angry_Birds&amp;veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="Редактировать раздел «Angry Birds Space Encounter»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Angry_Birds&amp;action=edit&amp;section=11" title="Редактировать раздел «Angry Birds Space Encounter»">править код</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>В июне 2013 года Rovio и <a href="/wiki/%D0%9D%D0%90%D0%A1%D0%90" title="НАСА">НАСА</a> открыли тематический парк Angry Birds Space в Космическом центре Кеннеди под названием «Angry Birds Space Encounter»<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup>. В нём представлены различные возможности видеоигры <i>Angry Birds Space</i>, такие как создание персонажей и стрельба по свиньям. Аттракцион был открыт также в Космическом центре Хьюстона.
+</p>
+<h4><span class="mw-headline" id="Angry_Birds_Activity_Park">Angry Birds Activity Park</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angry_Birds&amp;veaction=edit&amp;section=12" class="mw-editsection-visualeditor" title="Редактировать раздел «Angry Birds Activity Park»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Angry_Birds&amp;action=edit&amp;section=12" title="Редактировать раздел «Angry Birds Activity Park»">править код</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Angry_Birds_Activity_Park.jpg" class="image"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Angry_Birds_Activity_Park.jpg/220px-Angry_Birds_Activity_Park.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/75/Angry_Birds_Activity_Park.jpg/330px-Angry_Birds_Activity_Park.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/75/Angry_Birds_Activity_Park.jpg/440px-Angry_Birds_Activity_Park.jpg 2x" data-file-width="2816" data-file-height="2112" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Angry_Birds_Activity_Park.jpg" class="internal" title="Увеличить"></a></div>Angry Birds Activity Park, в Джохор-Бару, Джохор, Малайзия</div></div></div>
+<p>Rovio также открыл несколько «Activity Park». Первый — в долине Лайтвотер с танцполами и игровыми площадками, с горками и огромными сенсорными экранами, чтобы посетители могли играть в <i>Angry Birds</i><sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;21&#93;</a></sup>. Аттракцион также открылся в Вуокатти.
+В России аттракцион работает в Санкт-Петербурге.
+</p>
+<h4><span class="mw-headline" id="Angry_Birds_World">Angry Birds World</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angry_Birds&amp;veaction=edit&amp;section=13" class="mw-editsection-visualeditor" title="Редактировать раздел «Angry Birds World»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Angry_Birds&amp;action=edit&amp;section=13" title="Редактировать раздел «Angry Birds World»">править код</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Было объявлено, что первый тематический парк Angry Birds World откроется в Doha Festival City<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;22&#93;</a></sup>. Первая очередь (которая включает внутреннюю часть) открылась 3 июня 2018 года<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup>.
+</p>
+<h4><span class="mw-headline" id="Angry_Birds_Not-So-Mini_Golf">Angry Birds Not-So-Mini Golf</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angry_Birds&amp;veaction=edit&amp;section=14" class="mw-editsection-visualeditor" title="Редактировать раздел «Angry Birds Not-So-Mini Golf»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Angry_Birds&amp;action=edit&amp;section=14" title="Редактировать раздел «Angry Birds Not-So-Mini Golf»">править код</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>23 мая 2019 года Rovio объявила, что построит миниатюрное поле для гольфа Angry Birds в American Dream Meadowlands в <a href="/wiki/%D0%98%D1%81%D1%82-%D0%A0%D0%B0%D1%82%D0%B5%D1%80%D1%84%D0%BE%D1%80%D0%B4" title="Ист-Ратерфорд">Ист-Ратерфорде</a>, штат <a href="/wiki/%D0%9D%D1%8C%D1%8E-%D0%94%D0%B6%D0%B5%D1%80%D1%81%D0%B8" title="Нью-Джерси">Нью-Джерси</a><sup id="cite_ref-patch.com_24-0" class="reference"><a href="#cite_note-patch.com-24">&#91;24&#93;</a></sup>. Поле для гольфа планировалось открыть в 2020 году<sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup>.
+</p>
+<h2><span id=".D0.9D.D0.B0.D1.81.D0.BB.D0.B5.D0.B4.D0.B8.D0.B5"></span><span class="mw-headline" id="Наследие">Наследие</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angry_Birds&amp;veaction=edit&amp;section=15" class="mw-editsection-visualeditor" title="Редактировать раздел «Наследие»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Angry_Birds&amp;action=edit&amp;section=15" title="Редактировать раздел «Наследие»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id=".D0.9F.D0.BE.D0.BF.D1.83.D0.BB.D1.8F.D1.80.D0.BD.D0.BE.D1.81.D1.82.D1.8C"></span><span class="mw-headline" id="Популярность">Популярность</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angry_Birds&amp;veaction=edit&amp;section=16" class="mw-editsection-visualeditor" title="Редактировать раздел «Популярность»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Angry_Birds&amp;action=edit&amp;section=16" title="Редактировать раздел «Популярность»">править код</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Donald_Pettit_Angry_Birds_ISS.jpg" class="image"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Donald_Pettit_Angry_Birds_ISS.jpg/220px-Donald_Pettit_Angry_Birds_ISS.jpg" decoding="async" width="220" height="127" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Donald_Pettit_Angry_Birds_ISS.jpg/330px-Donald_Pettit_Angry_Birds_ISS.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Donald_Pettit_Angry_Birds_ISS.jpg/440px-Donald_Pettit_Angry_Birds_ISS.jpg 2x" data-file-width="673" data-file-height="388" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Donald_Pettit_Angry_Birds_ISS.jpg" class="internal" title="Увеличить"></a></div>Дон Петтит демонстрирует микрогравитацию с помощью персонажа игры <i>Angry Birds</i></div></div></div>
+<p>В марте 2011 года студия Rovio заявила, что всего продукты <i>Angry Birds</i> принесли ей выручки на сумму около 56 миллионов евро при стартовых вложениях в 100 тысяч евро на этапе организации компании. Таким образом на тот момент <i>Angry Birds</i> стала самой популярной и прибыльной игрой в истории мобильных платформ<sup id="cite_ref-test_26-0" class="reference"><a href="#cite_note-test-26">&#91;26&#93;</a></sup>.
+</p><p>Менее чем за два года с момента выхода первой игры <i>Angry Birds</i> была скачана более 500 миллионов раз<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup><sup id="cite_ref-openspace_28-0" class="reference"><a href="#cite_note-openspace-28">&#91;28&#93;</a></sup>. 3 ноября 2011 года интернет-издание <a href="/wiki/OpenSpace.ru" title="OpenSpace.ru">OpenSpace.ru</a>, ссылаясь на видеозаявление, выпущенное компанией Rovio, сообщило, что в сумме все игроки прошли 266 миллиардов уровней, совершили выстрелы более чем 400 миллиардами птиц и собрали 44 миллиарда звездочек, проводя за игрой в сумме более 300 миллионов минут в день<sup id="cite_ref-openspace_28-1" class="reference"><a href="#cite_note-openspace-28">&#91;28&#93;</a></sup>. В мае 2012 года количество скачиваний игр серии <i>Angry Birds</i> достигло миллиарда, в феврале 2014 года&#160;— 2-х миллиардов<sup id="cite_ref-Forbes_29-0" class="reference"><a href="#cite_note-Forbes-29">&#91;29&#93;</a></sup><sup id="cite_ref-EDGE-2B_30-0" class="reference"><a href="#cite_note-EDGE-2B-30">&#91;30&#93;</a></sup>, а в июле 2015 года&#160;— 3-х миллиардов<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;31&#93;</a></sup>.
+</p><p>На экономическом форуме в <a href="/wiki/%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3" title="Санкт-Петербург">Санкт-Петербурге</a> президент России <a href="/wiki/%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9_%D0%9C%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D0%B5%D0%B2" class="mw-redirect" title="Дмитрий Медведев">Дмитрий Медведев</a> поблагодарил разработчиков из студии Rovio за создание игры <i>Angry Birds</i>. По словам президента, теперь у российских чиновников есть как минимум одно очень важное дело на работе<sup id="cite_ref-autogenerated1_32-0" class="reference"><a href="#cite_note-autogenerated1-32">&#91;32&#93;</a></sup>.
+</p><p>В 2013 году&#160;в Финляндии была выпущена серия почтовых марок, посвящённая <i>Angry Birds</i>.
+</p><p>В ноябре 2012 года «Король свиней» занял 40-е место в списке 50 самых классных злодеев видеоигр всех времён по версии юношеского журнала <i><span lang="en">Complex</span></i><sup id="cite_ref-33" class="reference"><a href="#cite_note-33">&#91;33&#93;</a></sup>.
+</p>
+<h3><span id=".D0.AD.D0.BA.D1.80.D0.B0.D0.BD.D0.B8.D0.B7.D0.B0.D1.86.D0.B8.D0.B8"></span><span class="mw-headline" id="Экранизации">Экранизации</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angry_Birds&amp;veaction=edit&amp;section=17" class="mw-editsection-visualeditor" title="Редактировать раздел «Экранизации»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Angry_Birds&amp;action=edit&amp;section=17" title="Редактировать раздел «Экранизации»">править код</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>В марте 2013 года компания Rovio выпустила мультсериал о Злых птицах&#160;— <i>Angry Birds Toons</i>, а в 2016 году&#160;— полнометражный мультфильм «<a href="/wiki/Angry_Birds_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE" title="Angry Birds в кино">Angry Birds в кино</a>», премьера которого в США состоялась 20 мая 2016, а в России — 12 мая 2016 года<sup id="cite_ref-34" class="reference"><a href="#cite_note-34">&#91;34&#93;</a></sup>.
+</p><p>В сентябре 2012 для образа новой птицы был использован образ покойного солиста группы <a href="/wiki/Queen" title="Queen">Queen</a> <a href="/wiki/%D0%A4%D1%80%D0%B5%D0%B4%D0%B4%D0%B8_%D0%9C%D0%B5%D1%80%D0%BA%D1%8C%D1%8E%D1%80%D0%B8" title="Фредди Меркьюри">Фредди Меркьюри</a>. Персонаж появился в коротком мультипликационном ролике, который компания Rovio подготовила ко дню рождения певца и благотворительной акции в честь этого дня<sup id="cite_ref-35" class="reference"><a href="#cite_note-35">&#91;35&#93;</a></sup>.
+Столь необычная идея почтить память великого артиста пришла в головы его коллегам по группе <a href="/wiki/%D0%9C%D1%8D%D0%B9,_%D0%91%D1%80%D0%B0%D0%B9%D0%B0%D0%BD" title="Мэй, Брайан">Брайану Мэю</a> и <a href="/wiki/%D0%A2%D0%B5%D0%B9%D0%BB%D0%BE%D1%80,_%D0%A0%D0%BE%D0%B4%D0%B6%D0%B5%D1%80" title="Тейлор, Роджер">Роджеру Тейлору</a>. Все средства, вырученные от превращения Фредди в компьютерного героя, были направлены в благотворительный фонд Mercury Phoenix Trust, занимающийся помощью людям, больным <a href="/wiki/%D0%A1%D0%9F%D0%98%D0%94" class="mw-redirect" title="СПИД">СПИДом</a><sup id="cite_ref-36" class="reference"><a href="#cite_note-36">&#91;36&#93;</a></sup>.
+</p><p>В 2019 году вышел второй полнометражный мультфильм «<a href="/wiki/Angry_Birds_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE_2" title="Angry Birds в кино 2">Angry Birds в кино 2</a>», премьера в США состоялась 13 августа 2019 года, в России&#160;— 15 августа 2019 года.
+</p>
+<h4><span id=".D0.90.D0.BD.D0.B8.D0.BC.D0.B0.D1.86.D0.B8.D0.BE.D0.BD.D0.BD.D1.8B.D0.B5_.D1.81.D0.B5.D1.80.D0.B8.D0.B0.D0.BB.D1.8B"></span><span class="mw-headline" id="Анимационные_сериалы">Анимационные сериалы</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angry_Birds&amp;veaction=edit&amp;section=18" class="mw-editsection-visualeditor" title="Редактировать раздел «Анимационные сериалы»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Angry_Birds&amp;action=edit&amp;section=18" title="Редактировать раздел «Анимационные сериалы»">править код</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li><i>Angry Birds Toons</i> (2013—2016)</li>
+<li><i>Piggy Tales</i> (2014—2019)</li>
+<li><i>Angry Birds Stella</i> (2014—2016)</li>
+<li><i>Angry Birds Blues</i> (2017)</li>
+<li><i>Angry Birds on the Run</i> (2018—2020)</li>
+<li><i>Angry Birds MakerSpace</i> (2019)</li>
+<li><i>Angry Birds Slingshot Stories</i> (2020)</li>
+<li>«Angry Birds: Летнее безумие» / <i>Angry Birds: Summer Madness</i> (2022)</li></ul>
+<h3><span id=".D0.9A.D0.BD.D0.B8.D0.B3.D0.B8"></span><span class="mw-headline" id="Книги">Книги</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angry_Birds&amp;veaction=edit&amp;section=19" class="mw-editsection-visualeditor" title="Редактировать раздел «Книги»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Angry_Birds&amp;action=edit&amp;section=19" title="Редактировать раздел «Книги»">править код</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span id=".D0.9A.D1.83.D0.BB.D0.B8.D0.BD.D0.B0.D1.80.D0.BD.D1.8B.D0.B5_.D0.BA.D0.BD.D0.B8.D0.B3.D0.B8"></span><span class="mw-headline" id="Кулинарные_книги">Кулинарные книги</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angry_Birds&amp;veaction=edit&amp;section=20" class="mw-editsection-visualeditor" title="Редактировать раздел «Кулинарные книги»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Angry_Birds&amp;action=edit&amp;section=20" title="Редактировать раздел «Кулинарные книги»">править код</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>Bad Piggies: Egg Recipes</li></ul>
+<h4><span id=".D0.94.D0.BE.D0.BA.D1.83.D0.BC.D0.B5.D0.BD.D1.82.D0.B0.D0.BB.D1.8C.D0.BD.D1.8B.D0.B5_.D0.BA.D0.BD.D0.B8.D0.B3.D0.B8"></span><span class="mw-headline" id="Документальные_книги">Документальные книги</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angry_Birds&amp;veaction=edit&amp;section=21" class="mw-editsection-visualeditor" title="Редактировать раздел «Документальные книги»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Angry_Birds&amp;action=edit&amp;section=21" title="Редактировать раздел «Документальные книги»">править код</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>Angry Birds: Hatching a Universe</li></ul>
+<h4><span id=".D0.9A.D0.BD.D0.B8.D0.B3.D0.B8_.D0.B4.D0.BB.D1.8F_.D0.B4.D0.B5.D1.8F.D1.82.D0.B5.D0.BB.D1.8C.D0.BD.D0.BE.D1.81.D1.82.D0.B8"></span><span class="mw-headline" id="Книги_для_деятельности">Книги для деятельности</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angry_Birds&amp;veaction=edit&amp;section=22" class="mw-editsection-visualeditor" title="Редактировать раздел «Книги для деятельности»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Angry_Birds&amp;action=edit&amp;section=22" title="Редактировать раздел «Книги для деятельности»">править код</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>Angry Birds: The Big Green Doodle Book</li>
+<li>Angry Birds: The Big Red Doodle Book</li>
+<li>Angry Birds Space: Sticker Book</li>
+<li>Angry Birds Space: Poster Book</li>
+<li>Angry Birds Space: Colors</li>
+<li>Angry Birds Space: Learn to Draw</li>
+<li>Learn to Draw Angry Birds</li>
+<li>Angry Birds Official Guide</li></ul>
+<h4><span id=".D0.A0.D0.B0.D1.81.D1.81.D0.BA.D0.B0.D0.B7.D1.8B"></span><span class="mw-headline" id="Рассказы">Рассказы</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angry_Birds&amp;veaction=edit&amp;section=23" class="mw-editsection-visualeditor" title="Редактировать раздел «Рассказы»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Angry_Birds&amp;action=edit&amp;section=23" title="Редактировать раздел «Рассказы»">править код</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>Angry Birds: Hunters of the Jade Egg</li>
+<li>Bad Piggies: Piggy Island Heroes</li></ul>
+<h4><span id=".D0.9A.D0.BD.D0.B8.D0.B3.D0.B8_National_Geographic"></span><span class="mw-headline" id="Книги_National_Geographic">Книги National Geographic</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angry_Birds&amp;veaction=edit&amp;section=24" class="mw-editsection-visualeditor" title="Редактировать раздел «Книги National Geographic»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Angry_Birds&amp;action=edit&amp;section=24" title="Редактировать раздел «Книги National Geographic»">править код</a><span class="mw-editsection-bracket">]</span></span></h4>
+<ul><li>Nat Geo Angry Birds Space: A Furious Flight into the Final Frontier</li>
+<li>Nat Geo Angry Birds: 50 True Stories of the Fed Up, Feathered, and Furious</li>
+<li>Nat Geo Angry Birds Star Wars: The Science behind the Saga</li>
+<li>Nat Geo Angry Birds: Furious Forces</li>
+<li>Nat Geo Angry Birds Seasons</li>
+<li>Nat Geo Angry Birds Playground Series</li></ul>
+<h4><span id=".D0.9A.D0.BE.D0.BC.D0.B8.D0.BA.D1.81.D1.8B"></span><span class="mw-headline" id="Комиксы">Комиксы</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angry_Birds&amp;veaction=edit&amp;section=25" class="mw-editsection-visualeditor" title="Редактировать раздел «Комиксы»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Angry_Birds&amp;action=edit&amp;section=25" title="Редактировать раздел «Комиксы»">править код</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Комиксы по мотивам игр создаются компанией Rovio и IDW. Также создаются журналы от EGMONT.
+</p><p>На данный момент существует несколько серий и отдельный комиксов по мотивам <i>Angry Birds</i>:
+</p>
+<ul><li><i>Angry Birds Comics</i>&#160;— серия книг-комиксов. Публиковалась издательством IDW Publishing совместно с Rovio Entertainment с июня 2014 года.</li>
+<li><i>Super Angry Birds</i>&#160;— комикс по мотивам комиксов <a href="/wiki/Marvel" class="mw-redirect" title="Marvel">Marvel</a>, в котором рассказываются истории про суперптиц и суперсвиней.</li>
+<li><i>Angry Birds: Flight School</i>&#160;— комикс по мотивам фильма «Angry Birds в кино».</li></ul>
+<h2><span id=".D0.93.D0.BB.D0.BE.D0.B1.D0.B0.D0.BB.D1.8C.D0.BD.D0.BE.D0.B5_.D0.B2.D0.BB.D0.B8.D1.8F.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Глобальное_влияние">Глобальное влияние</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angry_Birds&amp;veaction=edit&amp;section=26" class="mw-editsection-visualeditor" title="Редактировать раздел «Глобальное влияние»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Angry_Birds&amp;action=edit&amp;section=26" title="Редактировать раздел «Глобальное влияние»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id=".D0.A1.D0.BF.D0.BE.D1.80.D1.82"></span><span class="mw-headline" id="Спорт">Спорт</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angry_Birds&amp;veaction=edit&amp;section=27" class="mw-editsection-visualeditor" title="Редактировать раздел «Спорт»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Angry_Birds&amp;action=edit&amp;section=27" title="Редактировать раздел «Спорт»">править код</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Птица в стилистике Angry Birds стала официальным талисманом <a href="/wiki/%D0%A7%D0%B5%D0%BC%D0%BF%D0%B8%D0%BE%D0%BD%D0%B0%D1%82_%D0%BC%D0%B8%D1%80%D0%B0_%D0%BF%D0%BE_%D1%85%D0%BE%D0%BA%D0%BA%D0%B5%D1%8E_%D1%81_%D1%88%D0%B0%D0%B9%D0%B1%D0%BE%D0%B9_2012" title="Чемпионат мира по хоккею с шайбой 2012">Чемпионата мира по хоккею с шайбой 2012</a>. Его разработали Тони Кисениус и Rovio Entertainment<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">&#91;37&#93;</a></sup>.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:2012_Canadian_GP_-_Heikki_Kovalainen_Caterham_01.jpg" class="image"><img src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2012_Canadian_GP_-_Heikki_Kovalainen_Caterham_01.jpg/220px-2012_Canadian_GP_-_Heikki_Kovalainen_Caterham_01.jpg" decoding="async" width="220" height="136" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2012_Canadian_GP_-_Heikki_Kovalainen_Caterham_01.jpg/330px-2012_Canadian_GP_-_Heikki_Kovalainen_Caterham_01.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2012_Canadian_GP_-_Heikki_Kovalainen_Caterham_01.jpg/440px-2012_Canadian_GP_-_Heikki_Kovalainen_Caterham_01.jpg 2x" data-file-width="4329" data-file-height="2670" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:2012_Canadian_GP_-_Heikki_Kovalainen_Caterham_01.jpg" class="internal" title="Увеличить"></a></div>Ковалайнен в шлеме в стиле Angry Birds на Гран-при Малайзии 2012</div></div></div>
+<p>У финского пилота Формулы-1 <a href="/wiki/%D0%9A%D0%BE%D0%B2%D0%B0%D0%BB%D0%B0%D0%B9%D0%BD%D0%B5%D0%BD,_%D0%A5%D0%B5%D0%B9%D0%BA%D0%BA%D0%B8" title="Ковалайнен, Хейкки">Хейкки Ковалайнена</a> был шлем в стиле <i>Angry Birds</i> в сезоне 2012 года в рамках спонсорской сделки с Rovio. В том же году <i>Angry Birds</i> спонсировала и команду Lotus F1, автомобили команды (Lotus Renault F1) совершили заезд с логотипом <i>Angry Birds</i> на верхней части носа<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">&#91;38&#93;</a></sup>.
+</p><p>В 2017 году футбольный клуб <a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%9F%D1%80%D0%B5%D0%BC%D1%8C%D0%B5%D1%80-%D0%BB%D0%B8%D0%B3%D0%B0" title="Английская Премьер-лига">английской Премьер-лиги</a> «<a href="/wiki/%D0%AD%D0%B2%D0%B5%D1%80%D1%82%D0%BE%D0%BD_(%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BB%D1%83%D0%B1)" title="Эвертон (футбольный клуб)">Эвертон</a>» заключил с Rovio соглашение, в соответствии с которым логотип <i>Angry Birds</i> был размещён на левом рукаве клубной футболки<sup id="cite_ref-39" class="reference"><a href="#cite_note-39">&#91;39&#93;</a></sup>.
+</p>
+<h3><span id=".D0.9E.D0.B1.D1.80.D0.B0.D0.B7.D0.BE.D0.B2.D0.B0.D0.BD.D0.B8.D0.B5"></span><span class="mw-headline" id="Образование">Образование</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angry_Birds&amp;veaction=edit&amp;section=28" class="mw-editsection-visualeditor" title="Редактировать раздел «Образование»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Angry_Birds&amp;action=edit&amp;section=28" title="Редактировать раздел «Образование»">править код</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Rovio также запустила игровую площадку Angry Birds Playground в партнерстве с <a href="/wiki/%D0%A3%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%82%D0%B5%D1%82_%D0%A5%D0%B5%D0%BB%D1%8C%D1%81%D0%B8%D0%BD%D0%BA%D0%B8" title="Университет Хельсинки">Хельсинкским университетом</a>.
+</p>
+<h3><span id=".D0.92.D0.B8.D0.B4.D0.B5.D0.BE.D0.B8.D0.B3.D1.80.D1.8B"></span><span class="mw-headline" id="Видеоигры">Видеоигры</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angry_Birds&amp;veaction=edit&amp;section=29" class="mw-editsection-visualeditor" title="Редактировать раздел «Видеоигры»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Angry_Birds&amp;action=edit&amp;section=29" title="Редактировать раздел «Видеоигры»">править код</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Популярность игры привела к появлению подделок и пародийных игр, в которых используется та же базовая механика, что и в <i>Angry Birds</i>, таких, как <i>Angry Turds</i><sup id="cite_ref-40" class="reference"><a href="#cite_note-40">&#91;40&#93;</a></sup> и <i>Chicks’n’Vixens</i><sup id="cite_ref-41" class="reference"><a href="#cite_note-41">&#91;41&#93;</a></sup>.
+</p>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angry_Birds&amp;veaction=edit&amp;section=30" class="mw-editsection-visualeditor" title="Редактировать раздел «Примечания»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Angry_Birds&amp;action=edit&amp;section=30" title="Редактировать раздел «Примечания»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="https://www.theguardian.com/world/2014/jan/27/nsa-gchq-smartphone-app-angry-birds-personal-data">Angry Birds and ’leaky’ phone apps targeted by NSA and GCHQ for user data</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/The_Guardian" title="The Guardian">The Guardian</a>&#32;(28 января 2014).&#32;<small>Дата обращения: 2 мая 2016.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20140302173109/http://www.theguardian.com/world/2014/jan/27/nsa-gchq-smartphone-app-angry-birds-personal-data">Архивировано</a> 2 марта 2014 года.</small></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><span class="citation"><i>Derrick, Connor</i>&#32;<span lang="und"><a rel="nofollow" class="external text" href="https://www.pocketgamer.com/angry-birds/remaster-out-now-for-ios-android/">Angry Birds gets the remaster treatment courtesy of a re-release from developer Rovio, out today for iOS and Android</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;<i>www.pocketgamer.com</i>.</span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en-US"><a rel="nofollow" class="external text" href="https://www.xda-developers.com/rovio-classics-angry-birds">Angry Birds returns to iOS and Android with no in-app purchases</a></span>&#160;<small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small>.&#32;<i><a href="/wiki/XDA_Developers" title="XDA Developers">XDA Developers</a></i>&#32;(31 марта 2022).&#32;<small>Дата обращения: 4 апреля 2022.</small></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://www.polygon.com/2017/12/7/16747798/facebook-messenger-games-angry-birds-sonic-livestreaming">Angry Birds, Sonic coming to Facebook Messenger games&#160;— Polygon</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;<small>Дата обращения: 7 августа 2020.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20201109034813/https://www.polygon.com/2017/12/7/16747798/facebook-messenger-games-angry-birds-sonic-livestreaming">Архивировано</a> 9 ноября 2020 года.</small></span></span>
+</li>
+<li id="cite_note-YLE20120310-5"><span class="mw-cite-backlink"><a href="#cite_ref-YLE20120310_5-0">↑</a></span> <span class="reference-text"><span class="citation"><span lang="ru"><a rel="nofollow" class="external text" href="https://yle.fi/uutiset/osasto/novosti/3323103">Презентация новой версии игры «Злые птицы» состоялась в космосе</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<span class="ref-info" style="cursor:help;" title="на русском языке">(рус.)</span></span>.&#32;<i>yle.fi</i>.&#32;Служба новостей Yle&#32;(2012-3-10).&#32;<small>Дата обращения: 2012-3-12.</small></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><a href="#cite_ref-6">↑</a></span> <span class="reference-text"><span class="citation"><i>Farokhmanesh, Megan.</i>&#32;<span lang="en"><a rel="nofollow" class="external text" href="http://www.polygon.com/2014/6/4/5780408/angry-birds-stella-september-release">Angry Birds Stella coming in September</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/Polygon" title="Polygon">Polygon</a>&#32;(4 июня 2014).&#32;<small>Дата обращения: 26 июня 2014.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20140608170638/http://www.polygon.com/2014/6/4/5780408/angry-birds-stella-september-release">Архивировано</a> 8 июня 2014 года.</small></span></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150219052820/http://www.rovio.com/en/news/blog/549/the-angry-birds-transformers-roll-out-starts-with-finland-and-new-zealand">The Angry Birds Transformers roll out starts with Finland and New Zealand!</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/Rovio_Entertainment" title="Rovio Entertainment">Rovio Entertainment</a>&#32;(25 сентября 2014).&#32;<small>Дата обращения: 19 февраля 2015.</small>&#32;<small>Архивировано из <a rel="nofollow" class="external text" href="http://www.rovio.com/en/news/blog/549/the-angry-birds-transformers-roll-out-starts-with-finland-and-new-zealand">оригинала</a> 19 февраля 2015 года.</small></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20141226012230/http://www.rovio.com/en/news/blog/604/what-happened-to-stella%E2%80%99s-bubbles-angry-birds-stella-pop-soft-launches-in-canada">What happened to Stella’s bubbles? Angry Birds Stella POP! soft launches in Canada</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/Rovio_Entertainment" title="Rovio Entertainment">Rovio Entertainment</a>&#32;(22 декабря 2014).&#32;<small>Дата обращения: 19 февраля 2015.</small>&#32;<small>Архивировано из <a rel="nofollow" class="external text" href="http://www.rovio.com/en/news/blog/604/what-happened-to-stella%E2%80%99s-bubbles-angry-birds-stella-pop-soft-launches-in-canada">оригинала</a> 26 декабря 2014 года.</small></span></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150402163807/http://www.rovio.com/en/news/press-releases/626/stella-bursts-bubbles-with-global-launch-of-angry-birds-stella-pop">Stella bursts bubbles with global launch of Angry Birds Stella POP!</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/Rovio_Entertainment" title="Rovio Entertainment">Rovio Entertainment</a>&#32;(12 марта 2015).&#32;<small>Дата обращения: 13 марта 2015.</small>&#32;<small>Архивировано из <a rel="nofollow" class="external text" href="http://www.rovio.com/en/news/press-releases/626/stella-bursts-bubbles-with-global-launch-of-angry-birds-stella-pop">оригинала</a> 2 апреля 2015 года.</small></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150307042824/http://www.rovio.com/en/news/blog/625/new-angry-birds-game-soft-launches-in-canada/">New Angry Birds game soft launches in Canada</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/Rovio_Entertainment" title="Rovio Entertainment">Rovio Entertainment</a>&#32;(5 марта 2015).&#32;<small>Дата обращения: 11 марта 2015.</small>&#32;<small>Архивировано из <a rel="nofollow" class="external text" href="http://www.rovio.com/en/news/blog/625/new-angry-birds-game-soft-launches-in-canada">оригинала</a> 7 марта 2015 года.</small></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150718231458/http://www.rovio.com/en/news/blog/683/angry-birds-2-coming-july-30">Angry Birds 2 coming July 30!</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/Rovio_Entertainment" title="Rovio Entertainment">Rovio Entertainment</a>&#32;(16 июля 2015).&#32;<small>Дата обращения: 18 июля 2015.</small>&#32;<small>Архивировано из <a rel="nofollow" class="external text" href="http://www.rovio.com/en/news/blog/683/angry-birds-2-coming-july-30">оригинала</a> 18 июля 2015 года.</small></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.huffingtonpost.com/2011/10/23/chillingo-angry-birds-cut-the-rope-games-ipad-iphone_n_1024434.html">Chillingo, Angry Birds Publisher, On Their Favorite Games Ever And What’s Next</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20131025091330/http://www.huffingtonpost.com/2011/10/23/chillingo-angry-birds-cut-the-rope-games-ipad-iphone_n_1024434.html">Архивная копия</a> от 25 октября 2013 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> // The Huffington Post&#160;— 23 окт 2011</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://londonphilharmonic.wordpress.com/category/video-game-heroes/">Video Game Heroes.</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20210126113021/https://londonphilharmonic.wordpress.com/category/video-game-heroes/">Архивная копия</a> от 26 января 2021 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> London Philharmonic Orchestra News.</span>
+</li>
+<li id="cite_note-AB-China-14"><span class="mw-cite-backlink">↑ <a href="#cite_ref-AB-China_14-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-AB-China_14-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation"><i>Charles Cooper</i>.&#32;<a rel="nofollow" class="external text" href="https://www.cbsnews.com/stories/2011/09/16/scitech/main20107294.shtml">China steals "Angry Birds" for theme park</a>, <i>CBS News</i>&#160;(16&#160;сентября 2011).&#32;<small>Дата обращения: 17 августа 2020.</small></span></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><a href="#cite_ref-15">↑</a></span> <span class="reference-text"><span class="citation"><i>Andrew Wooden.</i>&#32;<span lang="und"><a rel="nofollow" class="external text" href="http://www.t3.com/news/angry-birds-land-to-hit-theme-park-in-finland">Angry Birds Land to hit theme park in Finland</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;T3&#32;(2 марта 2012).&#32;<small>Дата обращения: 24 апреля 2012.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120509124133/http://www.t3.com/news/angry-birds-land-to-hit-theme-park-in-finland">Архивировано</a> 9 мая 2012 года.</small></span></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><a href="#cite_ref-16">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://droider.ru/post/park-razvlecheniy-angry-birds-13-05-2012/">Droider: Развлекательный парк Angry Birds</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;<small>Дата обращения: 28 августа 2012.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20121023172949/http://droider.ru/post/park-razvlecheniy-angry-birds-13-05-2012/">Архивировано</a> 23 октября 2012 года.</small></span></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><a href="#cite_ref-17">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120920173056/http://planetiphone.ru/news/page26723.php">Planetiphone: В Финляндии открылся тематический парк Angry Birds</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;<small>Дата обращения: 28 августа 2012.</small>&#32;<small>Архивировано из <a rel="nofollow" class="external text" href="http://www.planetiphone.ru/news/page26723.php">оригинала</a> 20 сентября 2012 года.</small></span></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><a href="#cite_ref-18">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://scandasia.com/angry-birds-malaysia-theme-park-to-open-in-2014/">Angry Birds Malaysia Theme Park To Open In 2014 «&#160;Scandasia</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Scandasia.com&#32;(5 июня 2013).&#32;<small>Дата обращения: 28 августа 2013.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130613085557/http://scandasia.com/angry-birds-malaysia-theme-park-to-open-in-2014/">Архивировано</a> 13 июня 2013 года.</small></span></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><a href="#cite_ref-19">↑</a></span> <span class="reference-text"><span class="citation"><i>Saner, Emine</i>.&#32;<a rel="nofollow" class="external text" href="https://www.theguardian.com/travel/shortcuts/2012/aug/22/angry-birds-uk-theme-park">Angry Birds gets its own UK theme park</a>&#160;<small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small>, <i>The Guardian</i>&#160;(22&#160;August 2012).&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20170830154354/https://www.theguardian.com/travel/shortcuts/2012/aug/22/angry-birds-uk-theme-park">Архивировано</a> 30&#160;августа 2017&#160;года.</small>&#32;<small>Дата обращения: 17 августа 2020.</small></span></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><a href="#cite_ref-20">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://www.kennedyspacecenter.com/the-experience/angrybirds.aspx">The experience, Angry Birds</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Kennedy Space Center.&#32;<small>Дата обращения: 25 мая 2014.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20140514154231/https://www.kennedyspacecenter.com/the-experience/angrybirds.aspx">Архивировано</a> 14 мая 2014 года.</small></span></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><a href="#cite_ref-21">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://www.angrybirdsvuokatti.fi/en/Activity-Park/Angry-Birds-Arena">Angry Birds Arena</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Vuokatti.&#32;<small>Дата обращения: 25 мая 2014.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20140516183258/http://www.angrybirdsvuokatti.fi/en/Activity-Park/Angry-Birds-Arena">Архивировано</a> 16 мая 2014 года.</small></span></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><a href="#cite_ref-22">↑</a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="http://www.gulf-times.com/story/582338/In-a-global-first-Angry-Birds-World-theme-park-sla">In a global first, Angry Birds World theme park slated to open at DHFC</a>&#160;<small class="ref-info" style="cursor:help;" title="на арабском языке">(ар.)</small>, <i>Gulf-Times</i>&#160;(٢٠&#160;فبراير ٢٠١٨).&#32;<small>Дата обращения: 17 августа 2020.</small></span></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><a href="#cite_ref-23">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://thepeninsulaqatar.com/article/03/06/2018/Angry-Birds-World-park-opens-at-Doha-Festival-City">Angry Birds World park opens at Doha Festival City - The Peninsula Qatar</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;<i>thepeninsulaqatar.com</i>.&#32;<small>Дата обращения: 17 августа 2020.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20190708151521/https://thepeninsulaqatar.com/article/03/06/2018/Angry-Birds-World-park-opens-at-Doha-Festival-City">Архивировано</a> 8 июля 2019 года.</small></span></span>
+</li>
+<li id="cite_note-patch.com-24"><span class="mw-cite-backlink"><a href="#cite_ref-patch.com_24-0">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="https://patch.com/new-jersey/mahwah/angry-birds-miniature-golf-coming-american-dream-meadowlands">'Angry Birds' Miniature Golf Coming To American Dream</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<i>Mahwah, NJ Patch</i>&#32;(23 мая 2019).&#32;<small>Дата обращения: 24 мая 2019.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20190524061204/https://patch.com/new-jersey/mahwah/angry-birds-miniature-golf-coming-american-dream-meadowlands">Архивировано</a> 24 мая 2019 года.</small></span></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><a href="#cite_ref-25">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="https://www.northjersey.com/story/news/business/2019/09/23/american-dream-mall-nj-what-open-when/2418349001/">American Dream: Here's which attractions are opening when this fall</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<i>North Jersey</i>.&#32;<small>Дата обращения: 24 сентября 2019.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20190924131005/https://www.northjersey.com/story/news/business/2019/09/23/american-dream-mall-nj-what-open-when/2418349001/">Архивировано</a> 24 сентября 2019 года.</small></span></span>
+</li>
+<li id="cite_note-test-26"><span class="mw-cite-backlink"><a href="#cite_ref-test_26-0">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://lenta.ru/news/2011/05/19/angrybirds/">Количество загрузок Angry Birds превысило 200 миллионов</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20210412154023/https://lenta.ru/news/2011/05/19/angrybirds/">Архивная копия</a> от 12 апреля 2021 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>, lenta.ru.</span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><a href="#cite_ref-27">↑</a></span> <span class="reference-text"><span class="citation"><i>Dan Whitworth.</i>&#32;<span lang="en"><a rel="nofollow" class="external text" href="http://www.bbc.co.uk/newsbeat/article/15571065/angry-birds-sets-new-record-by-reaching-500m-downloads">Angry Birds sets new record by reaching 500m downloads</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<i>Newsbeat</i>.&#32;<a href="/wiki/BBC" class="mw-redirect" title="BBC">BBC</a>&#32;(11 марта 2011).&#32;<small>Дата обращения: 17 мая 2016.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160516052746/http://www.bbc.co.uk/newsbeat/article/15571065/angry-birds-sets-new-record-by-reaching-500m-downloads">Архивировано</a> 16 мая 2016 года.</small></span></span>
+</li>
+<li id="cite_note-openspace-28"><span class="mw-cite-backlink">↑ <a href="#cite_ref-openspace_28-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-openspace_28-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://os.colta.ru/news/details/31610/">Злые птицы установили рекорд загрузок&#160;— Медиа&#160;— OpenSpace.ru</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;<small>Дата обращения: 20 августа 2012.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20141216131714/http://os.colta.ru/news/details/31610/">Архивировано</a> 16 декабря 2014 года.</small></span></span>
+</li>
+<li id="cite_note-Forbes-29"><span class="mw-cite-backlink"><a href="#cite_ref-Forbes_29-0">↑</a></span> <span class="reference-text"><span class="citation"><i>Gaudiosi, John</i>&#32;<span lang="und"><a rel="nofollow" class="external text" href="https://www.forbes.com/sites/johngaudiosi/2013/03/11/rovio-execs-explain-what-angry-birds-toons-channel-opens-up-to-its-1-7-billion-gamers/">Rovio Execs Explain What Angry Birds Toons Channel Opens Up To Its 1.7 Billion Gamers</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;<i>Forbes.com</i>.&#32;Forbes.com LLC&#32;(11 марта 2012).&#32;<small>Дата обращения: 12 марта 2012.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20130313192720/http://www.forbes.com/sites/johngaudiosi/2013/03/11/rovio-execs-explain-what-angry-birds-toons-channel-opens-up-to-its-1-7-billion-gamers/">Архивировано</a> 13 марта 2013 года.</small></span></span>
+</li>
+<li id="cite_note-EDGE-2B-30"><span class="mw-cite-backlink"><a href="#cite_ref-EDGE-2B_30-0">↑</a></span> <span class="reference-text"><span class="citation"><i>Long, Neil</i>&#32;<span lang="und"><a rel="nofollow" class="external text" href="http://www.edge-online.com/features/two-billion-downloads-were-just-getting-started-says-angry-birds-creator-rovio/">Two billion downloads? We're just getting started, says Angry Birds creator Rovio</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;<i><a href="/wiki/Edge_(magazine)" class="mw-redirect" title="Edge (magazine)">Edge</a></i>.&#32;<a href="/wiki/Future_plc" title="Future plc">Future plc</a>&#32;(23 января 2014).&#32;<small>Дата обращения: 23 января 2014.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20140125020838/http://www.edge-online.com/features/two-billion-downloads-were-just-getting-started-says-angry-birds-creator-rovio/">Архивировано</a> 25 января 2014 года.</small></span></span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><a href="#cite_ref-31">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="https://www.forbes.com/sites/andyrobertson/2015/07/16/angry-birds-2/">'Angry Birds 2' Arrives 6 Years And 3 Billion Downloads After First Game</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Forbes&#32;(16 июля 2015).&#32;<small>Дата обращения: 16 июля 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20170729115436/https://www.forbes.com/sites/andyrobertson/2015/07/16/angry-birds-2/">Архивировано</a> 29 июля 2017 года.</small></span></span>
+</li>
+<li id="cite_note-autogenerated1-32"><span class="mw-cite-backlink"><a href="#cite_ref-autogenerated1_32-0">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://lenta.ru/articles/2011/06/22/birds//">Очень злые птицы. Российский президент похвалил студию Rovio за игру Angry birds</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20210505093035/https://lenta.ru/articles/2011/06/22/birds//">Архивная копия</a> от 5 мая 2021 на <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>, lenta.ru.</span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><a href="#cite_ref-33">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="http://www.complex.com/video-games/2012/11/coolest-video-game-villains-of-all-time/angry-birds">The 50 Coolest Video Game Villains of All Time: King Pig</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<span lang="en" style="font-style:italic;">Complex</span>&#32;(1 ноября 2012).&#32;<small>Дата обращения: 17 мая 2016.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20131220125535/http://www.complex.com/video-games/2012/11/coolest-video-game-villains-of-all-time/angry-birds">Архивировано</a> 20 декабря 2013 года.</small></span></span>
+</li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><a href="#cite_ref-34">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://life-star.ru/page/8322">В 2016 году выйдет мультфильм про Angry Birds</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Life-Star.&#32;<small>Дата обращения: 17 мая 2016.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160601102805/http://life-star.ru/page/8322">Архивировано</a> 1 июня 2016 года.</small></span></span>
+</li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><a href="#cite_ref-35">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://life-star.ru/page/7603">Фредди Меркьюри стал героем анимационного ролика</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Life-Star.&#32;<small>Дата обращения: 17 мая 2016.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160407173203/http://life-star.ru/page/7603">Архивировано</a> 7 апреля 2016 года.</small></span></span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><a href="#cite_ref-36">↑</a></span> <span class="reference-text"><span class="citation"><span lang="en"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160918235622/http://www.rovio.com/freddie-mercury-becomes-angry-bird-celebrate-freddie-day">Freddie Mercury Becomes Angry Bird To Celebrate Freddie For A Day</a></span>&#160;<span class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</span>.&#32;<a href="/wiki/Rovio_Entertainment" title="Rovio Entertainment">Rovio Entertainment</a>&#32;(3 сентября 2012).&#32;<small>Дата обращения: 17 мая 2016.</small>&#32;<small>Архивировано из <a rel="nofollow" class="external text" href="http://www.rovio.com/freddie-mercury-becomes-angry-bird-celebrate-freddie-day">оригинала</a> 18 сентября 2016 года.</small></span></span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><a href="#cite_ref-37">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://www.iihf.com/nc/home-of-hockey/news/news-singleview/article/born-hockey-bird.html">Born: Hockey Bird!</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>&#32;Iihf.com.&#32;<small>Дата обращения: 22 мая 2012.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120117144053/http://www.iihf.com/nc/home-of-hockey/news/news-singleview/article/born-hockey-bird.html">Архивировано</a> 17 января 2012 года.</small></span></span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><a href="#cite_ref-38">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.lotusf1team.com/Watch-Out-The-Birds-Have-Landed.html">Watch Out&#160;! The Birds Have Landed&#160;! 'Lotus F1 Team Angry Birds' Game Goes Live&#160;!</a> <small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20121001035222/http://www.lotusf1team.com/Watch-Out-The-Birds-Have-Landed.html">Архивировано</a> 1&#160;октября 2012&#160;года.</small>. Lotus F1 Team (23 May 2012). Retrieved on 2012-09-05.</span>
+</li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><a href="#cite_ref-39">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://www.evertonfc.com/news/2017/09/16/everton-sign-sleeve-deal-with-games-giant-rovio-entertainment">Everton Sign Sleeve Deal With Games Giant Rovio Entertainment</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;<i>Everton FC</i>.&#32;<small>Дата обращения: 17 сентября 2017.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20170919014136/http://www.evertonfc.com/news/2017/09/16/everton-sign-sleeve-deal-with-games-giant-rovio-entertainment">Архивировано</a> 19 сентября 2017 года.</small></span></span>
+</li>
+<li id="cite_note-40"><span class="mw-cite-backlink"><a href="#cite_ref-40">↑</a></span> <span class="reference-text"><span class="citation"><i>Marc Flores.</i>&#32;<span lang="und"><a rel="nofollow" class="external text" href="http://www.intomobile.com/2011/01/31/bored-with-angry-birds-try-angry-turds/">Bored with Angry Birds? Try Angry Turds</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;<i>IntoMobile.com</i>&#32;(31 января 2011).&#32;<small>Дата обращения: 5 февраля 2011.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20110204184608/http://www.intomobile.com/2011/01/31/bored-with-angry-birds-try-angry-turds/">Архивировано</a> 4 февраля 2011 года.</small></span></span>
+</li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><a href="#cite_ref-41">↑</a></span> <span class="reference-text"><span class="citation"><span lang="und"><a rel="nofollow" class="external text" href="http://www.gamezone.com/news/angry-birds-infiltrates-just-dance-2016-s-tracklist-3422776">Angry Birds infiltrates Just Dance 2016's tracklist</a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;Gamezone&#32;(5 августа 2015).&#32;<small>Дата обращения: 20 августа 2015.</small>&#32;<small><a rel="nofollow" class="external text" href="https://web.archive.org/web/20150809060110/http://www.gamezone.com/news/angry-birds-infiltrates-just-dance-2016-s-tracklist-3422776">Архивировано</a> 9 августа 2015 года.</small></span></span>
+</li>
+</ol></div></div>
+<h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Angry_Birds&amp;veaction=edit&amp;section=31" class="mw-editsection-visualeditor" title="Редактировать раздел «Ссылки»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=Angry_Birds&amp;action=edit&amp;section=31" title="Редактировать раздел «Ссылки»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r113275216">.mw-parser-output .ts-Родственные_проекты{width:19em;box-sizing:border-box;margin:0 0 .5em 1em;padding:.4em;background:#f8f9fa;border:1px solid #a2a9b1;font-size:90%}.mw-parser-output .ts-Родственные_проекты-header{margin-bottom:.2em;padding:.2em .6em;font-size:110%}.mw-parser-output .ts-Родственные_проекты-item{display:flex;padding:.2em .6em}.mw-parser-output .ts-Родственные_проекты-image{min-width:24px;display:inline-block;margin-right:.4em;flex:none;vertical-align:top;text-align:center}.mw-parser-output .ts-Родственные_проекты-image img{vertical-align:middle}.mw-parser-output .ts-Родственные_проекты-label{align-self:center}@media(max-width:719px){.mw-parser-output .ts-Родственные_проекты{width:auto;margin-left:0;margin-right:0}}</style><div class="ts-Родственные_проекты ruwikiWikimediaNavigation tright metadata plainlinks plainlist noprint" role="navigation" aria-label="В родственных проектах"><ul><li class="ts-Родственные_проекты-item"><span class="ts-Родственные_проекты-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/24px-Notification-icon-Commons-logo.svg.png" decoding="async" width="24" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/36px-Notification-icon-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/76/Notification-icon-Commons-logo.svg/48px-Notification-icon-Commons-logo.svg.png 2x" data-file-width="30" data-file-height="30" /></span><span class="ts-Родственные_проекты-label commons-ref"><a href="https://commons.wikimedia.org/wiki/Category:Angry_Birds" class="extiw" title="commons:Category:Angry Birds">Медиафайлы на&#160;Викискладе</a></span></li></ul></div>
+<ul><li><span data-wikidata-claim-id="Q165094$4FDD26C2-3BB9-496B-BF08-F73A77FE5FE8" class="wikidata-claim" data-wikidata-property-id="P856"><span class="wikidata-snak wikidata-main-snak"><a rel="nofollow" class="external text" href="https://www.angrybirds.com">angrybirds.com</a>&#8203;&#160;<small class="ref-info" style="cursor:help;" title="на английском языке">(англ.)</small></span></span>&#32;— официальный сайт Angry Birds</li>
+<li><a rel="nofollow" class="external text" href="http://www.3dnews.ru/offsyanka/630187/">Злые птички: победа без боя!</a></li></ul>
+<div role="navigation" class="navbox" aria-label="Навигационный шаблон" data-name="External links"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group" style="width:1px"><div style="padding: 0 35px 0 0; width: 100%;"><div style="float: left;"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%92%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8" title="Перейти к шаблону «Внешние ссылки»"><img alt="Перейти к шаблону «Внешние ссылки»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="noprint" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a>&#160;&#160;<a href="https://www.wikidata.org/wiki/Q165094#identifiers" title="Перейти к элементу Викиданных"><img alt="Перейти к элементу Викиданных" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/14px-OOjs_UI_icon_edit-ltr-progressive.svg.png" decoding="async" width="14" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/21px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/28px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></div>&#160;&#160;В социальных сетях</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="nofollow" class="external text" href="https://twitter.com/AngryBirds">Твиттер</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.facebook.com/angrybirds">Facebook</a></li>
+<li><a rel="nofollow" class="external text" href="https://www.instagram.com/angrybirds/">Instagram</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Фото, видео и аудио</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a rel="nofollow" class="external text" href="https://www.youtube.com/channel/UCYC2wjLop-S6Ld4raeoUVNA">YouTube</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">В&#160;библиографических каталогах</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D0%B1%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8F" title="Национальная библиотека Израиля">J9U</a>: <a rel="nofollow" class="external text" href="http://uli.nli.org.il/F/?func=find-b&amp;local_base=NLX10&amp;find_code=UID&amp;request=987007581446805171">987007581446805171</a></li>
+<li><a href="/wiki/%D0%9A%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BD%D0%BE%D0%BC%D0%B5%D1%80_%D0%91%D0%B8%D0%B1%D0%BB%D0%B8%D0%BE%D1%82%D0%B5%D0%BA%D0%B8_%D0%9A%D0%BE%D0%BD%D0%B3%D1%80%D0%B5%D1%81%D1%81%D0%B0" title="Контрольный номер Библиотеки Конгресса">LCCN</a>: <a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/sh2012000520">sh2012000520</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Angry_Birds" data-name="Angry Birds"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:Angry_Birds" title="Перейти к шаблону «Angry Birds»"><img alt="Перейти к шаблону «Angry Birds»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="noprint" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a>&#160;</span><div id="Angry_Birds" style="font-size:114%;margin:0 5em"><a class="mw-selflink selflink">Angry Birds</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1px">Игры</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1px">С классическим геймплеем</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Angry_Birds_(%D0%B8%D0%B3%D1%80%D0%B0)" title="Angry Birds (игра)">Angry Birds</a></li>
+<li><a href="/wiki/Angry_Birds_Seasons" title="Angry Birds Seasons">Seasons</a></li>
+<li><a href="/wiki/Angry_Birds_Rio" title="Angry Birds Rio">Rio</a></li>
+<li><a href="/wiki/Angry_Birds_Friends" title="Angry Birds Friends">Friends</a></li>
+<li><a href="/wiki/Angry_Birds_Space" title="Angry Birds Space">Space</a></li>
+<li><a href="/wiki/Angry_Birds_Star_Wars" title="Angry Birds Star Wars">Star Wars</a></li>
+<li><a href="/wiki/Angry_Birds_Star_Wars_2" title="Angry Birds Star Wars 2">Star Wars II</a></li>
+<li><a href="/w/index.php?title=Angry_Birds_Stella&amp;action=edit&amp;redlink=1" class="new" title="Angry Birds Stella (страница отсутствует)">Stella</a></li>
+<li><a href="/wiki/Angry_Birds_2" title="Angry Birds 2">2</a></li>
+<li><a href="/wiki/Angry_Birds_Magic" title="Angry Birds Magic">Magic</a></li>
+<li><a href="/wiki/Angry_Birds_World_Tour" class="mw-redirect" title="Angry Birds World Tour">World Tour</a></li>
+<li><a href="/wiki/Angry_Birds_Champions" class="mw-redirect" title="Angry Birds Champions">Champions</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">С не классическим геймплеем</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Bad_Piggies" title="Bad Piggies">Bad Piggies</a></li>
+<li><a href="/wiki/Angry_Birds_Go!" title="Angry Birds Go!">Go!</a></li>
+<li><a href="/wiki/Angry_Birds_Epic" title="Angry Birds Epic">Epic</a></li>
+<li><a href="/wiki/Angry_Birds_Transformers" title="Angry Birds Transformers">Transformers</a></li>
+<li><a href="/w/index.php?title=Angry_Birds_Action!&amp;action=edit&amp;redlink=1" class="new" title="Angry Birds Action! (страница отсутствует)">Action!</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">«Три в ряд»</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Angry_Birds_Pop!" title="Angry Birds Pop!">Pop!</a></li>
+<li><a href="/wiki/Angry_Birds_Fight!" title="Angry Birds Fight!">Fight!</a></li>
+<li><a href="/wiki/Angry_Birds_Blast" title="Angry Birds Blast">Blast</a></li>
+<li><a href="/w/index.php?title=Angry_Birds_Match_3&amp;action=edit&amp;redlink=1" class="new" title="Angry Birds Match 3 (страница отсутствует)">Match 3</a></li>
+<li><a href="/wiki/Angry_Birds_Island" class="mw-redirect" title="Angry Birds Island">Island</a></li>
+<li><a href="/wiki/Angry_Birds_Dream_Blast" class="mw-redirect" title="Angry Birds Dream Blast">Dream Blast</a></li>
+<li><a href="/w/index.php?title=Angry_Birds_Pop!_2&amp;action=edit&amp;redlink=1" class="new" title="Angry Birds Pop! 2 (страница отсутствует)">Pop! 2</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Мультсериалы и мультфильмы</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1px">Фильмы</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Angry_Birds_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE" title="Angry Birds в кино">Angry Birds в кино</a></li>
+<li><a href="/wiki/Angry_Birds_%D0%B2_%D0%BA%D0%B8%D0%BD%D0%BE_2" title="Angry Birds в кино 2">Angry Birds в кино 2</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Сериалы</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%97%D0%BB%D1%8B%D0%B5_%D0%BF%D1%82%D0%B8%D1%87%D0%BA%D0%B8" title="Злые птички">Злые птички</a></li>
+<li><a href="/wiki/%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8_%D1%81%D0%B2%D0%B8%D0%BD%D0%BE%D0%BA" class="mw-redirect" title="Истории свинок">Истории свинок</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D1%82%D0%B5%D0%BB%D0%BB%D0%B0_(%D0%BC%D1%83%D0%BB%D1%8C%D1%82%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB)&amp;action=edit&amp;redlink=1" class="new" title="Стелла (мультсериал) (страница отсутствует)">Стелла</a></li>
+<li><a href="/w/index.php?title=Angry_Birds_Blues&amp;action=edit&amp;redlink=1" class="new" title="Angry Birds Blues (страница отсутствует)">Angry Birds Blues</a></li>
+<li><a href="/w/index.php?title=Angry_Birds_on_the_Run&amp;action=edit&amp;redlink=1" class="new" title="Angry Birds on the Run (страница отсутствует)">Angry Birds on the Run</a></li>
+<li><a href="/w/index.php?title=Angry_Birds_MakerSpace&amp;action=edit&amp;redlink=1" class="new" title="Angry Birds MakerSpace (страница отсутствует)">Angry Birds MakerSpace</a></li>
+<li><a href="/w/index.php?title=Angry_Birds:_%D0%98%D1%81%D1%82%D0%BE%D1%80%D0%B8%D0%B8_%D1%80%D0%BE%D0%B3%D0%B0%D1%82%D0%BA%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Angry Birds: Истории рогатки (страница отсутствует)">Angry Birds: Истории рогатки</a></li>
+<li><a href="/w/index.php?title=Angry_Birds:_%D0%9B%D0%B5%D1%82%D0%BD%D0%B5%D0%B5_%D0%B1%D0%B5%D0%B7%D1%83%D0%BC%D0%B8%D0%B5&amp;action=edit&amp;redlink=1" class="new" title="Angry Birds: Летнее безумие (страница отсутствует)">Angry Birds: Летнее безумие</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1486
+Cached time: 20230222091412
+Cache expiry: 86400
+Reduced expiry: true
+Complications: [show‐toc]
+CPU time usage: 0.607 seconds
+Real time usage: 0.761 seconds
+Preprocessor visited node count: 7815/1000000
+Post‐expand include size: 118205/2097152 bytes
+Template argument size: 13845/2097152 bytes
+Highest expansion depth: 25/100
+Expensive parser function count: 10/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 39464/5000000 bytes
+Lua time usage: 0.349/10.000 seconds
+Lua memory usage: 12322913/52428800 bytes
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  661.986      1 -total
+ 45.48%  301.052      1 Шаблон:Серия_игр
+ 44.23%  292.815      1 Шаблон:Карточка
+ 24.84%  164.419      1 Шаблон:Примечания
+ 20.41%  135.084      7 Шаблон:Wikidata
+ 16.15%  106.934     33 Шаблон:Cite_web
+  9.03%   59.792      3 Шаблон:Курсив_или_нет
+  7.52%   49.750      1 Шаблон:Внешние_ссылки
+  6.42%   42.481      2 Шаблон:Br_separated_entries
+  5.93%   39.276      3 Шаблон:Курсив_или_нет/заголовок_курсивом
+-->
+
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:3002550-0!canonical and timestamp 20230222091416 and revision id 128666203. Rendering was triggered because: edit-page
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Angry_Birds&amp;oldid=128666203">https://ru.wikipedia.org/w/index.php?title=Angry_Birds&amp;oldid=128666203</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%B5%D1%80%D0%B8%D0%B8_%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D1%85_%D0%B8%D0%B3%D1%80" title="Категория:Серии компьютерных игр">Серии компьютерных игр</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:Angry_Birds" title="Категория:Angry Birds">Angry Birds</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D0%B5_%D0%B8%D0%B3%D1%80%D1%8B_2009_%D0%B3%D0%BE%D0%B4%D0%B0" title="Категория:Компьютерные игры 2009 года">Компьютерные игры 2009 года</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%B3%D1%80%D1%8B_%D0%B4%D0%BB%D1%8F_iOS" title="Категория:Игры для iOS">Игры для iOS</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%B3%D1%80%D1%8B_%D0%B4%D0%BB%D1%8F_Windows" title="Категория:Игры для Windows">Игры для Windows</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%B3%D1%80%D1%8B_%D0%B4%D0%BB%D1%8F_Android" title="Категория:Игры для Android">Игры для Android</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%B3%D1%80%D1%8B_%D0%B4%D0%BB%D1%8F_Symbian_OS" title="Категория:Игры для Symbian OS">Игры для Symbian OS</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%B3%D1%80%D1%8B_%D0%B4%D0%BB%D1%8F_PlayStation_Network" title="Категория:Игры для PlayStation Network">Игры для PlayStation Network</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%B3%D1%80%D1%8B_%D0%B4%D0%BB%D1%8F_macOS" title="Категория:Игры для macOS">Игры для macOS</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D0%B5_%D0%B8%D0%B3%D1%80%D1%8B,_%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B2_%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D0%B8" title="Категория:Компьютерные игры, разработанные в Финляндии">Компьютерные игры, разработанные в Финляндии</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%B3%D1%80%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D1%8F%D0%B7%D1%8B%D0%BA_Lua" title="Категория:Игры, использующие язык Lua">Игры, использующие язык Lua</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D1%8B%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%82%D0%B8%D1%86%D1%8B" title="Категория:Вымышленные птицы">Вымышленные птицы</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9A%D0%B0%D0%B7%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5_%D0%B8%D0%B3%D1%80%D1%8B" title="Категория:Казуальные игры">Казуальные игры</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%98%D0%B3%D1%80%D1%8B_%D0%B4%D0%BB%D1%8F_PlayStation_Vita" title="Категория:Игры для PlayStation Vita">Игры для PlayStation Vita</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%BF%D0%BE%D0%B2%D1%82%D0%BE%D1%80%D1%8F%D1%8E%D1%89%D0%B8%D0%B5%D1%81%D1%8F_%D0%B0%D1%80%D0%B3%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B_%D0%B2_%D0%B2%D1%8B%D0%B7%D0%BE%D0%B2%D0%B0%D1%85_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%BE%D0%B2" title="Категория:Страницы, использующие повторяющиеся аргументы в вызовах шаблонов">Страницы, использующие повторяющиеся аргументы в вызовах шаблонов</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%BD%D0%B5_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD_%D1%8F%D0%B7%D1%8B%D0%BA)" title="Категория:Википедия:Cite web (не указан язык)">Википедия:Cite web (не указан язык)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%BD%D0%B5%D1%80%D0%B0%D1%81%D0%BF%D0%BE%D0%B7%D0%BD%D0%B0%D0%BD%D0%BD%D1%8B%D0%BC_%D1%8F%D0%B7%D1%8B%D0%BA%D0%BE%D0%BC_(ref)" title="Категория:Википедия:Статьи с нераспознанным языком (ref)">Википедия:Статьи с нераспознанным языком (ref)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%A0%D0%9E:%D0%9A%D0%98:%D0%9F%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BD%D1%8F%D1%8F_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:_%D0%B2_%D1%82%D0%B5%D0%BA%D1%83%D1%89%D0%B5%D0%BC_%D0%BC%D0%B5%D1%81%D1%8F%D1%86%D0%B5" title="Категория:ПРО:КИ:Последняя правка: в текущем месяце">ПРО:КИ:Последняя правка: в текущем месяце</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D0%BD%D0%B5%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D1%91%D0%BD%D0%BD%D1%8B%D0%BC%D0%B8_%D1%80%D0%B0%D0%B7%D0%B4%D0%B5%D0%BB%D0%B0%D0%BC%D0%B8" title="Категория:Википедия:Статьи с незавершёнными разделами">Википедия:Статьи с незавершёнными разделами</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D1%82%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Википедия:Статьи с шаблонами недостатков по алфавиту">Википедия:Статьи с шаблонами недостатков по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81%D0%BE_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D0%B8%D1%81%D0%BA%D0%BB%D0%B0%D0%B4" title="Категория:Статьи со ссылками на Викисклад">Статьи со ссылками на Викисклад</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="vector-menu mw-portlet mw-portlet-personal vector-user-menu-legacy" aria-labelledby="p-personal-label" role="navigation"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=Angry+Birds" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=Angry+Birds" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-namespaces" class="vector-menu mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-namespaces-label" role="navigation"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Пространства имён</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/Angry_Birds" title="Просмотр основной страницы [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:Angry_Birds" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t"><span>Обсуждение</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	/>
+	<label
+		id="p-variants-label"
+		 aria-label="Изменить вариант языка"
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="vector-menu mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-views-label" role="navigation"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="mw-list-item"><a href="/w/index.php?title=Angry_Birds&amp;stable=1"><span>Читать</span></a></li><li id="ca-current" class="collapsible selected mw-list-item"><a href="/w/index.php?title=Angry_Birds&amp;stable=0&amp;redirect=no" title="Показать текущую версию этой страницы [v]" accesskey="v"><span>Текущая версия</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=Angry_Birds&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=Angry_Birds&amp;action=edit" title="Эту статью можно изменять. Перед сохранением изменений, пожалуйста, нажмите кнопку предварительного просмотра для визуальной проверки результата [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=Angry_Birds&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	/>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="sentences" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Служебная:Поиск">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти">
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+<nav id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-participation" class="vector-menu mw-portlet mw-portlet-participation vector-menu-portal portal" aria-labelledby="p-participation-label" role="navigation"  >
+	<h3
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="vector-menu mw-portlet mw-portlet-tb vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/Angry_Birds" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/Angry_Birds" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Angry_Birds&amp;oldid=128666203" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Angry_Birds&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=Angry_Birds&amp;id=128666203&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q165094" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3&amp;bookcmd=book_creator&amp;referer=Angry+Birds" title="Создать книгу или коллекцию статей"><span>Создать книгу</span></a></li><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=Angry_Birds&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Angry_Birds&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"  >
+	<h3
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">В других проектах</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Angry_Birds" hreflang="en"><span>Викисклад</span></a></li><li class="wb-otherproject-link wb-otherproject-wikinews mw-list-item"><a href="https://ru.wikinews.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:Angry_Birds" hreflang="ru"><span>Викиновости</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="vector-menu mw-portlet mw-portlet-lang vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-am mw-list-item"><a href="https://am.wikipedia.org/wiki/%E1%8A%A0%E1%8A%95%E1%8C%8D%E1%88%AA_%E1%89%A0%E1%88%AD%E1%8B%B5%E1%8B%9D" title="አንግሪ በርድዝ — амхарский" lang="am" hreflang="am" class="interlanguage-link-target"><span>አማርኛ</span></a></li><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%A3%D9%86%D8%BA%D8%B1%D9%8A_%D8%A8%D9%8A%D8%B1%D8%AF%D8%B2" title="أنغري بيردز — арабский" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/Angry_Birds" title="Angry Birds — азербайджанский" lang="az" hreflang="az" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wikipedia.org/wiki/Angry_Birds" title="Angry Birds — белорусский" lang="be" hreflang="be" class="interlanguage-link-target"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-bh mw-list-item"><a href="https://bh.wikipedia.org/wiki/%E0%A4%8F%E0%A4%82%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%80_%E0%A4%AC%E0%A4%B0%E0%A5%8D%E0%A4%A1%E0%A5%8D%E0%A4%B8" title="एंग्री बर्ड्स — Bhojpuri" lang="bh" hreflang="bh" class="interlanguage-link-target"><span>भोजपुरी</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Angry_Birds_(saga)" title="Angry Birds (saga) — каталанский" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-ceb mw-list-item"><a href="https://ceb.wikipedia.org/wiki/Angry_Birds" title="Angry Birds — себуано" lang="ceb" hreflang="ceb" class="interlanguage-link-target"><span>Cebuano</span></a></li><li class="interlanguage-link interwiki-ckb mw-list-item"><a href="https://ckb.wikipedia.org/wiki/%D8%A8%D8%A7%DA%B5%D9%86%D8%AF%DB%95_%D8%AA%D9%88%D9%88%DA%95%DB%95%DA%A9%D8%A7%D9%86" title="باڵندە تووڕەکان — сорани" lang="ckb" hreflang="ckb" class="interlanguage-link-target"><span>کوردی</span></a></li><li class="interlanguage-link interwiki-crh mw-list-item"><a href="https://crh.wikipedia.org/wiki/Angry_Birds" title="Angry Birds — крымско-татарский" lang="crh" hreflang="crh" class="interlanguage-link-target"><span>Qırımtatarca</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Angry_Birds" title="Angry Birds — чешский" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Angry_Birds" title="Angry Birds — английский" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Angry_Birds" title="Angry Birds — испанский" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Angry_Birds" title="Angry Birds — баскский" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D9%BE%D8%B1%D9%86%D8%AF%DA%AF%D8%A7%D9%86_%D8%AE%D8%B4%D9%85%DA%AF%DB%8C%D9%86" title="پرندگان خشمگین — персидский" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Angry_Birds" title="Angry Birds — финский" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Angry_Birds" title="Angry Birds — французский" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/Angry_Birds" title="Angry Birds — галисийский" lang="gl" hreflang="gl" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-gor mw-list-item"><a href="https://gor.wikipedia.org/wiki/Angry_Birds" title="Angry Birds — горонтало" lang="gor" hreflang="gor" class="interlanguage-link-target"><span>Bahasa Hulontalo</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%90%D7%A0%D7%92%D7%A8%D7%99_%D7%91%D7%99%D7%A8%D7%93%D7%A1_(%D7%96%D7%99%D7%9B%D7%99%D7%95%D7%9F)" title="אנגרי בירדס (זיכיון) — иврит" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a href="https://hi.wikipedia.org/wiki/%E0%A4%8F%E0%A4%82%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%80_%E0%A4%AC%E0%A4%B0%E0%A5%8D%E0%A4%A1%E0%A5%8D%E0%A4%B8" title="एंग्री बर्ड्स — хинди" lang="hi" hreflang="hi" class="interlanguage-link-target"><span>हिन्दी</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/Angry_Birds" title="Angry Birds — хорватский" lang="hr" hreflang="hr" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Angry_Birds" title="Angry Birds — венгерский" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-hy mw-list-item"><a href="https://hy.wikipedia.org/wiki/Angry_Birds" title="Angry Birds — армянский" lang="hy" hreflang="hy" class="interlanguage-link-target"><span>Հայերեն</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Angry_Birds" title="Angry Birds — индонезийский" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-ilo mw-list-item"><a href="https://ilo.wikipedia.org/wiki/Angry_Birds" title="Angry Birds — илоко" lang="ilo" hreflang="ilo" class="interlanguage-link-target"><span>Ilokano</span></a></li><li class="interlanguage-link interwiki-is mw-list-item"><a href="https://is.wikipedia.org/wiki/Angry_Birds" title="Angry Birds — исландский" lang="is" hreflang="is" class="interlanguage-link-target"><span>Íslenska</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%90%E3%83%BC%E3%83%89" title="アングリーバード — японский" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-jv mw-list-item"><a href="https://jv.wikipedia.org/wiki/Angry_Birds" title="Angry Birds — яванский" lang="jv" hreflang="jv" class="interlanguage-link-target"><span>Jawa</span></a></li><li class="interlanguage-link interwiki-km mw-list-item"><a href="https://km.wikipedia.org/wiki/%E1%9E%A2%E1%9F%8A%E1%9F%82%E1%9E%84%E2%80%8B%E1%9E%A0%E1%9F%92%E1%9E%82%E1%9F%92%E1%9E%9A%E1%9E%B8_%E1%9E%94%E1%9E%BA%E1%9E%8A" title="អ៊ែង​ហ្គ្រី បឺដ — кхмерский" lang="km" hreflang="km" class="interlanguage-link-target"><span>ភាសាខ្មែរ</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EC%95%B5%EA%B7%B8%EB%A6%AC%EB%B2%84%EB%93%9C" title="앵그리버드 — корейский" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-ky mw-list-item"><a href="https://ky.wikipedia.org/wiki/Angry_Birds" title="Angry Birds — киргизский" lang="ky" hreflang="ky" class="interlanguage-link-target"><span>Кыргызча</span></a></li><li class="interlanguage-link interwiki-la mw-list-item"><a href="https://la.wikipedia.org/wiki/Angry_Birds" title="Angry Birds — латинский" lang="la" hreflang="la" class="interlanguage-link-target"><span>Latina</span></a></li><li class="interlanguage-link interwiki-lv mw-list-item"><a href="https://lv.wikipedia.org/wiki/Angry_Birds_(s%C4%93rija)" title="Angry Birds (sērija) — латышский" lang="lv" hreflang="lv" class="interlanguage-link-target"><span>Latviešu</span></a></li><li class="interlanguage-link interwiki-map-bms mw-list-item"><a href="https://map-bms.wikipedia.org/wiki/Angry_Birds" title="Angry Birds — Basa Banyumasan" lang="jv-x-bms" hreflang="jv-x-bms" class="interlanguage-link-target"><span>Basa Banyumasan</span></a></li><li class="interlanguage-link interwiki-ml mw-list-item"><a href="https://ml.wikipedia.org/wiki/%E0%B4%86%E0%B4%82%E0%B4%97%E0%B5%8D%E0%B4%B0%E0%B4%BF_%E0%B4%AC%E0%B5%87%E0%B4%A1%E0%B5%8D%E0%B4%B8%E0%B5%8D" title="ആംഗ്രി ബേഡ്സ് — малаялам" lang="ml" hreflang="ml" class="interlanguage-link-target"><span>മലയാളം</span></a></li><li class="interlanguage-link interwiki-mr mw-list-item"><a href="https://mr.wikipedia.org/wiki/%E0%A4%85%E0%A4%81%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%80_%E0%A4%AC%E0%A4%B0%E0%A5%8D%E0%A4%A1%E0%A5%8D%E2%80%8C%E0%A4%B8" title="अँग्री बर्ड्‌स — маратхи" lang="mr" hreflang="mr" class="interlanguage-link-target"><span>मराठी</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Angry_Birds" title="Angry Birds — малайский" lang="ms" hreflang="ms" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-my mw-list-item"><a href="https://my.wikipedia.org/wiki/%E1%80%A1%E1%80%94%E1%80%BA%E1%80%B8%E1%80%82%E1%80%9B%E1%80%AE%E1%80%B8%E1%80%98%E1%80%90%E1%80%BA%E1%80%92%E1%80%BA" title="အန်းဂရီးဘတ်ဒ် — бирманский" lang="my" hreflang="my" class="interlanguage-link-target"><span>မြန်မာဘာသာ</span></a></li><li class="interlanguage-link interwiki-mzn mw-list-item"><a href="https://mzn.wikipedia.org/wiki/%D8%A7%D9%86%DA%AF%D8%B1%DB%8C_%D8%A8%DB%8C%D8%B1%D8%AF%D8%B2" title="انگری بیردز — мазандеранский" lang="mzn" hreflang="mzn" class="interlanguage-link-target"><span>مازِرونی</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Angry_Birds" title="Angry Birds — норвежский букмол" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pa mw-list-item"><a href="https://pa.wikipedia.org/wiki/%E0%A8%90%E0%A8%82%E0%A8%97%E0%A8%B0%E0%A9%80_%E0%A8%AC%E0%A8%B0%E0%A8%A1" title="ਐਂਗਰੀ ਬਰਡ — панджаби" lang="pa" hreflang="pa" class="interlanguage-link-target"><span>ਪੰਜਾਬੀ</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Angry_Birds" title="Angry Birds — польский" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Angry_Birds" title="Angry Birds — португальский" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Angry_Birds" title="Angry Birds — румынский" lang="ro" hreflang="ro" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-sco mw-list-item"><a href="https://sco.wikipedia.org/wiki/Angry_Birds" title="Angry Birds — шотландский" lang="sco" hreflang="sco" class="interlanguage-link-target"><span>Scots</span></a></li><li class="interlanguage-link interwiki-sd mw-list-item"><a href="https://sd.wikipedia.org/wiki/%D9%86%D8%A7%D8%B1%D8%A7%D8%B6_%D9%BE%DA%A9%D9%8A" title="ناراض پکي — синдхи" lang="sd" hreflang="sd" class="interlanguage-link-target"><span>سنڌي</span></a></li><li class="interlanguage-link interwiki-si mw-list-item"><a href="https://si.wikipedia.org/wiki/%E0%B6%87%E0%B6%82%E0%B6%9C%E0%B7%8A%E2%80%8D%E0%B6%BB%E0%B7%92_%E0%B6%B6%E0%B6%BB%E0%B7%8A%E0%B6%A9%E0%B7%8A%E0%B7%83%E0%B7%8A" title="ඇංග්‍රි බර්ඩ්ස් — сингальский" lang="si" hreflang="si" class="interlanguage-link-target"><span>සිංහල</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Angry_Birds" title="Angry Birds — Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Angry_Birds" title="Angry Birds — словацкий" lang="sk" hreflang="sk" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sl mw-list-item"><a href="https://sl.wikipedia.org/wiki/Angry_Birds" title="Angry Birds — словенский" lang="sl" hreflang="sl" class="interlanguage-link-target"><span>Slovenščina</span></a></li><li class="interlanguage-link interwiki-so mw-list-item"><a href="https://so.wikipedia.org/wiki/Angry_Birds" title="Angry Birds — сомали" lang="so" hreflang="so" class="interlanguage-link-target"><span>Soomaaliga</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/Angry_Birds" title="Angry Birds — сербский" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-su mw-list-item"><a href="https://su.wikipedia.org/wiki/Angry_Birds" title="Angry Birds — сунданский" lang="su" hreflang="su" class="interlanguage-link-target"><span>Sunda</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Angry_Birds" title="Angry Birds — шведский" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-te mw-list-item"><a href="https://te.wikipedia.org/wiki/%E0%B0%AF%E0%B0%BE%E0%B0%82%E0%B0%97%E0%B1%8D%E0%B0%B0%E0%B1%80_%E0%B0%AC%E0%B0%B0%E0%B1%8D%E0%B0%A1%E0%B1%8D%E0%B0%B8%E0%B1%8D" title="యాంగ్రీ బర్డ్స్ — телугу" lang="te" hreflang="te" class="interlanguage-link-target"><span>తెలుగు</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wikipedia.org/wiki/%E0%B9%81%E0%B8%AD%E0%B9%87%E0%B8%87%E0%B8%81%E0%B8%A3%E0%B8%B5%E0%B9%80%E0%B8%9A%E0%B8%B4%E0%B8%94%E0%B8%AA%E0%B9%8C" title="แอ็งกรีเบิดส์ — тайский" lang="th" hreflang="th" class="interlanguage-link-target"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-tk mw-list-item"><a href="https://tk.wikipedia.org/wiki/Angry_Birds" title="Angry Birds — туркменский" lang="tk" hreflang="tk" class="interlanguage-link-target"><span>Türkmençe</span></a></li><li class="interlanguage-link interwiki-tl mw-list-item"><a href="https://tl.wikipedia.org/wiki/Angry_Birds" title="Angry Birds — тагалог" lang="tl" hreflang="tl" class="interlanguage-link-target"><span>Tagalog</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Angry_Birds" title="Angry Birds — турецкий" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-tt mw-list-item"><a href="https://tt.wikipedia.org/wiki/%D0%A3%D1%81%D0%B0%D0%BB_%D0%BA%D0%BE%D1%88%D0%BB%D0%B0%D1%80" title="Усал кошлар — татарский" lang="tt" hreflang="tt" class="interlanguage-link-target"><span>Татарча / tatarça</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/Angry_Birds" title="Angry Birds — украинский" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-uz mw-list-item"><a href="https://uz.wikipedia.org/wiki/Angry_Birds" title="Angry Birds — узбекский" lang="uz" hreflang="uz" class="interlanguage-link-target"><span>Oʻzbekcha / ўзбекча</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/Angry_Birds" title="Angry Birds — вьетнамский" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-wuu mw-list-item"><a href="https://wuu.wikipedia.org/wiki/%E6%84%A4%E6%80%92%E4%B8%AA%E5%B0%8F%E9%B8%9F%E7%B3%BB%E5%88%97" title="愤怒个小鸟系列 — ву" lang="wuu" hreflang="wuu" class="interlanguage-link-target"><span>吴语</span></a></li><li class="interlanguage-link interwiki-yi mw-list-item"><a href="https://yi.wikipedia.org/wiki/%D7%A2%D7%A0%D7%92%D7%A8%D7%99_%D7%91%D7%A2%D7%A8%D7%93%D7%A1" title="ענגרי בערדס — идиш" lang="yi" hreflang="yi" class="interlanguage-link-target"><span>ייִדיש</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E6%84%A4%E6%80%92%E7%9A%84%E5%B0%8F%E9%B8%9F%E7%B3%BB%E5%88%97" title="愤怒的小鸟系列 — китайский" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/%E6%86%A4%E6%80%92%E9%B3%A5" title="憤怒鳥 — Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target"><span>粵語</span></a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q165094#sitelinks-wikipedia" title="Править межъязыковые ссылки" class="wbc-editpage">Править ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 22 февраля 2023 в 09:14.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="license" href="//ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported">лицензии Creative Commons Attribution-ShareAlike</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org">Wikimedia Foundation, Inc.</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=Angry_Birds&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Заявление о куки</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.607","walltime":"0.761","ppvisitednodes":{"value":7815,"limit":1000000},"postexpandincludesize":{"value":118205,"limit":2097152},"templateargumentsize":{"value":13845,"limit":2097152},"expansiondepth":{"value":25,"limit":100},"expensivefunctioncount":{"value":10,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":39464,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  661.986      1 -total"," 45.48%  301.052      1 Шаблон:Серия_игр"," 44.23%  292.815      1 Шаблон:Карточка"," 24.84%  164.419      1 Шаблон:Примечания"," 20.41%  135.084      7 Шаблон:Wikidata"," 16.15%  106.934     33 Шаблон:Cite_web","  9.03%   59.792      3 Шаблон:Курсив_или_нет","  7.52%   49.750      1 Шаблон:Внешние_ссылки","  6.42%   42.481      2 Шаблон:Br_separated_entries","  5.93%   39.276      3 Шаблон:Курсив_или_нет/заголовок_курсивом"]},"scribunto":{"limitreport-timeusage":{"value":"0.349","limit":"10.000"},"limitreport-memusage":{"value":12322913,"limit":52428800},"limitreport-logs":"Loaded datatype commonsMedia of P154 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P287 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P136 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P178 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P123 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P287 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P400 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype wikibase-item of P408 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\n"},"cachereport":{"origin":"mw1486","timestamp":"20230222091412","ttl":86400,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Angry Birds","url":"https:\/\/ru.wikipedia.org\/wiki\/Angry_Birds","sameAs":"http:\/\/www.wikidata.org\/entity\/Q165094","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q165094","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2011-01-18T07:53:59Z","dateModified":"2023-02-22T09:14:11Z","headline":"\u043c\u0435\u0434\u0438\u0430\u0444\u0440\u0430\u043d\u0448\u0438\u0437\u0430 \u043e\u0442 Rovio Entertainment Ltd."}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Angry Birds","url":"https:\/\/ru.wikipedia.org\/wiki\/Angry_Birds","sameAs":"http:\/\/www.wikidata.org\/entity\/Q165094","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q165094","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2011-01-18T07:53:59Z","dateModified":"2023-02-22T09:14:11Z","headline":"\u043c\u0435\u0434\u0438\u0430\u0444\u0440\u0430\u043d\u0448\u0438\u0437\u0430 \u043e\u0442 Rovio Entertainment Ltd."}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":140,"wgHostname":"mw1475"});});</script>
+</body>
+</html>

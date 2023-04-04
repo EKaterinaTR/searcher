@@ -1,0 +1,1051 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Список птиц, занесённых в Красную книгу России — Википедия</title>
+<script>document.documentElement.className="client-js";(function(){var cookie=document.cookie.match(/(?:^|; )ruwikimwclientprefs=([^;]+)/);if(cookie){var featureName=cookie[1];document.documentElement.className=document.documentElement.className.replace(featureName+'-enabled',featureName+'-disabled');}}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"99a40871-9cc2-49f4-a8bb-ce3c1b7e01be","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Список_птиц,_занесённых_в_Красную_книгу_России","wgTitle":"Список птиц, занесённых в Красную книгу России","wgCurRevisionId":
+118052894,"wgRevisionId":118052894,"wgArticleId":95389,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Википедия:Статьи для обновления","Википедия:Статьи с шаблонами недостатков по алфавиту","Списки статей для координации работ в основном пространстве имён","Списки видов, занесённых в Красную книгу России","Списки птиц России"],"wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Список_птиц,_занесённых_в_Красную_книгу_России","wgRelevantArticleId":95389,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":118052894,"wgVisualEditor":{
+"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":10000,"wgNoticeProject":"wikipedia","wgVector2022PreviewPages":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"русский","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q4436357","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready",
+"oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","skins.vector.styles.legacy":"ready","jquery.tablesorter.styles":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["site","mediawiki.page.ready","jquery.tablesorter","skins.vector.legacy.js","ext.flaggedRevs.advanced","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","oojs-ui.styles.icons-media","oojs-ui-core.icons","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.blpEditNotice","ext.gadget.wikibugs",
+"ext.gadget.sidebarRelated","ext.gadget.navboxNavigation","ext.centralauth.centralautologin","ext.popups","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.flaggedRevs.basic%2Cicons%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.tablesorter.styles%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"/></noscript>
+<meta name="generator" content="MediaWiki 1.40.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="max-image-preview:standard"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta name="viewport" content="width=1000"/>
+<meta property="og:title" content="Список птиц, занесённых в Красную книгу России — Википедия"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//ru.m.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8"/>
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Википедия (ru)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Список_птиц_занесённых_в_Красную_книгу_России rootpage-Список_птиц_занесённых_в_Красную_книгу_России skin-vector action-view"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	<div id="mw-indicator-list-coordination" class="mw-indicator"><div class="mw-parser-output"><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%BF%D0%B8%D1%81%D0%BA%D0%B8_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9_%D0%B4%D0%BB%D1%8F_%D0%BA%D0%BE%D0%BE%D1%80%D0%B4%D0%B8%D0%BD%D0%B0%D1%86%D0%B8%D0%B8_%D1%80%D0%B0%D0%B1%D0%BE%D1%82" title="Служебные списки"><img alt="Служебные списки" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/QSicon_Formatierung_Grey.svg/15px-QSicon_Formatierung_Grey.svg.png" decoding="async" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/QSicon_Formatierung_Grey.svg/23px-QSicon_Formatierung_Grey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/QSicon_Formatierung_Grey.svg/30px-QSicon_Formatierung_Grey.svg.png 2x" data-file-width="24" data-file-height="24" /></a></div></div>
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Список птиц, занесённых в Красную книгу России</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="ru" dir="ltr"><div class="mw-parser-output"><table class="mbox-Обновить plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ambox_outdated_serious.svg/40px-Ambox_outdated_serious.svg.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ambox_outdated_serious.svg/60px-Ambox_outdated_serious.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ambox_outdated_serious.svg/80px-Ambox_outdated_serious.svg.png 2x" data-file-width="620" data-file-height="620" /></div></td><td class="mbox-text"><div class="mbox-text-div">Информация в этой статье или некоторых её разделах <b>устарела</b>.</div><div class="mbox-textsmall-div hide-when-compact" style="font-size:85%"><span class="hide-when-compact"> Вы можете помочь проекту, <a class="external text" href="https://ru.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8&amp;action=edit">обновив её</a> и убрав после этого данный шаблон.</span>  <span class="mbox-date"><i><span class="error">(Строка «<a rel="nofollow" class="external free" href="http://publication.pravo.gov.ru/Document/View/0001202004020020»">http://publication.pravo.gov.ru/Document/View/0001202004020020»</a> не является верной датой, пожалуйста, укажите дату в формате <code>ГГГГ-ММ-ДД</code>)</span></i></span></div></td></tr></tbody></table>
+<style data-mw-deduplicate="TemplateStyles:r126375150">.mw-parser-output .ts-Неоднозначность{width:100%;margin:1em 0;padding:0.5em;background:none;border-top:3px double #c8ccd1;border-bottom:3px double #c8ccd1}.mw-parser-output .ts-Неоднозначность-image,.mw-parser-output .ts-Неоднозначность-text{vertical-align:middle}.mw-parser-output .ts-Неоднозначность-image{width:30px}.mw-parser-output .ts-Неоднозначность-small-image{text-align:right}.mw-parser-output .ts-Неоднозначность-text{padding-left:0.5em;font-style:italic}</style>
+<div class="metadata plainlinks">
+<table class="ts-Неоднозначность">
+<tbody><tr>
+<td class="ts-Неоднозначность-image"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:QSicon_Formatierung_Grey.svg" class="image"><img alt="QSicon Formatierung Grey.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/QSicon_Formatierung_Grey.svg/30px-QSicon_Formatierung_Grey.svg.png" decoding="async" width="30" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/QSicon_Formatierung_Grey.svg/45px-QSicon_Formatierung_Grey.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f4/QSicon_Formatierung_Grey.svg/60px-QSicon_Formatierung_Grey.svg.png 2x" data-file-width="24" data-file-height="24" /></a>
+</td>
+<td class="ts-Неоднозначность-text">Это&#160;— <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D0%B8%D1%81%D0%BA%D0%B8" title="Википедия:Списки">служебный список</a> статей, созданный для координации работ по развитию темы. Его необходимо преобразовать в информационный список или глоссарий, в противном случае перенести в один из <a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D1%8B" title="Википедия:Проекты">проектов</a>.<br /><small style="font-style: normal">Данный шаблон не устанавливается на информационные списки и глоссарии.</small>
+</td></tr></tbody></table></div>
+<table class="sortable wikitable" border="0" style="background:#ffffff" align="top">
+<caption align="center" style="background:#9BC4E2; color:white"><big><b>Список птиц, занесённых в Красную книгу России:</b></big>
+</caption>
+<tbody><tr>
+<th style="background:Linen; color:Black" width="300">Русское название
+</th>
+<th style="background:Linen; color:Black" width="250">Латинское название
+</th></tr>
+<tr>
+<td><a href="/wiki/%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%B7%D0%BE%D0%B1%D0%B0%D1%8F_%D0%B3%D0%B0%D0%B3%D0%B0%D1%80%D0%B0" title="Чернозобая гагара">Чернозобая гагара</a></td>
+<td><i><a href="/wiki/Gavia_arctica" class="mw-redirect" title="Gavia arctica">Gavia arctica</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%91%D0%B5%D0%BB%D0%BE%D0%BA%D0%BB%D1%8E%D0%B2%D0%B0%D1%8F_%D0%B3%D0%B0%D0%B3%D0%B0%D1%80%D0%B0" title="Белоклювая гагара">Белоклювая гагара</a></td>
+<td><i><a href="/wiki/Gavia_adamsii" class="mw-redirect" title="Gavia adamsii">Gavia adamsii</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D1%88%D0%B5%D0%B9%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BE%D0%B3%D0%B0%D0%BD%D0%BA%D0%B0" title="Красношейная поганка">Красношейная поганка</a></td>
+<td><i><a href="/wiki/Podiceps_auritus" class="mw-redirect" title="Podiceps auritus">Podiceps auritus</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%91%D0%B5%D0%BB%D0%BE%D1%81%D0%BF%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9_%D0%B0%D0%BB%D1%8C%D0%B1%D0%B0%D1%82%D1%80%D0%BE%D1%81" title="Белоспинный альбатрос">Белоспинный альбатрос</a></td>
+<td><i><a href="/wiki/Phoebastria_albatrus" class="mw-redirect" title="Phoebastria albatrus">Phoebastria albatrus</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9C%D0%B0%D0%BB%D0%B0%D1%8F_%D0%BA%D0%B0%D1%87%D1%83%D1%80%D0%BA%D0%B0" class="mw-redirect" title="Малая качурка">Малая качурка</a></td>
+<td><i><a href="/wiki/Oceanodroma_monorhis" class="mw-redirect" title="Oceanodroma monorhis">Oceanodroma monorhis</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A0%D0%BE%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BF%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD" title="Розовый пеликан">Розовый пеликан</a></td>
+<td><i><a href="/wiki/Pelecanus_onocrotalus" class="mw-redirect" title="Pelecanus onocrotalus">Pelecanus onocrotalus</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9A%D1%83%D0%B4%D1%80%D1%8F%D0%B2%D1%8B%D0%B9_%D0%BF%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD" title="Кудрявый пеликан">Кудрявый пеликан</a></td>
+<td><i><a href="/wiki/Pelecanus_crispus" class="mw-redirect" title="Pelecanus crispus">Pelecanus crispus</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A5%D0%BE%D1%85%D0%BB%D0%B0%D1%82%D1%8B%D0%B9_%D0%B1%D0%B0%D0%BA%D0%BB%D0%B0%D0%BD" title="Хохлатый баклан">Средиземноморский хохлатый баклан</a></td>
+<td><i><a href="/wiki/Phalacrocorax_aristotelis" class="mw-redirect" title="Phalacrocorax aristotelis">Phalacrocorax aristotelis</a> desmarestii</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9C%D0%B0%D0%BB%D1%8B%D0%B9_%D0%B1%D0%B0%D0%BA%D0%BB%D0%B0%D0%BD" title="Малый баклан">Малый баклан</a></td>
+<td><i><a href="/wiki/Phalacrocorax_pygmaeus" class="mw-redirect" title="Phalacrocorax pygmaeus">Phalacrocorax pygmaeus</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%96%D0%B5%D0%BB%D1%82%D0%BE%D0%BA%D0%BB%D1%8E%D0%B2%D0%B0%D1%8F_%D1%86%D0%B0%D0%BF%D0%BB%D1%8F" title="Желтоклювая цапля">Желтоклювая цапля</a></td>
+<td><i><a href="/wiki/Egretta_eulophotes" class="mw-redirect" title="Egretta eulophotes">Egretta eulophotes</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9A%D0%BE%D0%BB%D0%BF%D0%B8%D1%86%D0%B0" class="mw-redirect" title="Колпица">Колпица</a></td>
+<td><i><a href="/wiki/Platalea_leucorodia" class="mw-redirect" title="Platalea leucorodia">Platalea leucorodia</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9C%D0%B0%D0%BB%D0%B0%D1%8F_%D0%BA%D0%BE%D0%BB%D0%BF%D0%B8%D1%86%D0%B0" title="Малая колпица">Малая колпица</a></td>
+<td><i><a href="/wiki/Platalea_minor" class="mw-redirect" title="Platalea minor">Platalea minor</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9A%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D0%B9%D0%BA%D0%B0" title="Каравайка">Каравайка</a></td>
+<td><i><a href="/wiki/Plegadis_falcinellus" class="mw-redirect" title="Plegadis falcinellus">Plegadis falcinellus</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%BD%D0%BE%D0%B3%D0%B8%D0%B9_%D0%B8%D0%B1%D0%B8%D1%81" title="Красноногий ибис">Красноногий ибис</a></td>
+<td><i><a href="/wiki/Nipponia_nippon" class="mw-redirect" title="Nipponia nippon">Nipponia nippon</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%94%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_%D0%B0%D0%B8%D1%81%D1%82" title="Дальневосточный аист">Дальневосточный аист</a></td>
+<td><i><a href="/wiki/Ciconia_boyciana" class="mw-redirect" title="Ciconia boyciana">Ciconia boyciana</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A7%D1%91%D1%80%D0%BD%D1%8B%D0%B9_%D0%B0%D0%B8%D1%81%D1%82" title="Чёрный аист">Чёрный аист</a></td>
+<td><i><a href="/wiki/Ciconia_nigra" class="mw-redirect" title="Ciconia nigra">Ciconia nigra</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A0%D0%BE%D0%B7%D0%BE%D0%B2%D1%8B%D0%B9_%D1%84%D0%BB%D0%B0%D0%BC%D0%B8%D0%BD%D0%B3%D0%BE" title="Розовый фламинго">Розовый фламинго</a></td>
+<td><i><a href="/wiki/Phoenicopterus_roseus" class="mw-redirect" title="Phoenicopterus roseus">Phoenicopterus roseus</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%B0%D0%B7%D0%B0%D1%80%D0%BA%D0%B0" title="Канадская казарка">Канадская казарка</a> алеутская</td>
+<td><i><a href="/wiki/Branta_canadensis" class="mw-redirect" title="Branta canadensis">Branta canadensis</a> leucopareia</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A7%D1%91%D1%80%D0%BD%D0%B0%D1%8F_%D0%BA%D0%B0%D0%B7%D0%B0%D1%80%D0%BA%D0%B0" title="Чёрная казарка">Чёрная казарка</a> атлантическая</td>
+<td><i><a href="/wiki/Branta_bernicla" class="mw-redirect" title="Branta bernicla">Branta bernicla</a> hrota</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A2%D0%B8%D1%85%D0%BE%D0%BE%D0%BA%D0%B5%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D1%87%D1%91%D1%80%D0%BD%D0%B0%D1%8F_%D0%BA%D0%B0%D0%B7%D0%B0%D1%80%D0%BA%D0%B0" class="mw-redirect" title="Тихоокеанская чёрная казарка">Тихоокеанская чёрная казарка</a></td>
+<td><i><a href="/wiki/Branta_bernicla_nigricans" class="mw-redirect" title="Branta bernicla nigricans">Branta bernicla nigricans</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B7%D0%BE%D0%B1%D0%B0%D1%8F_%D0%BA%D0%B0%D0%B7%D0%B0%D1%80%D0%BA%D0%B0" title="Краснозобая казарка">Краснозобая казарка</a></td>
+<td><i><a href="/wiki/Branta_ruficollis" class="mw-redirect" title="Branta ruficollis">Branta ruficollis</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9F%D0%B8%D1%81%D0%BA%D1%83%D0%BB%D1%8C%D0%BA%D0%B0" title="Пискулька">Пискулька</a></td>
+<td><i><a href="/wiki/Anser_erythropus" class="mw-redirect" title="Anser erythropus">Anser erythropus</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%91%D0%B5%D0%BB%D0%BE%D1%88%D0%B5%D0%B9" class="mw-redirect" title="Белошей">Белошей</a></td>
+<td><i><a href="/wiki/Anser_canagicus" class="mw-redirect" title="Anser canagicus">Anser canagicus</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%93%D0%BE%D1%80%D0%BD%D1%8B%D0%B9_%D0%B3%D1%83%D1%81%D1%8C" title="Горный гусь">Горный гусь</a></td>
+<td><i><a href="/wiki/Anser_indicus" class="mw-redirect" title="Anser indicus">Anser indicus</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A1%D1%83%D1%85%D0%BE%D0%BD%D0%BE%D1%81" title="Сухонос">Сухонос</a></td>
+<td><i><a href="/wiki/Anser_cygnoides" class="mw-redirect" title="Anser cygnoides">Anser cygnoides</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A1%D0%B5%D1%80%D1%8B%D0%B9_%D0%B3%D1%83%D1%81%D1%8C" title="Серый гусь">Серый гусь</a> (выборочно)</td>
+<td><i><a href="/wiki/Anser_anser" class="mw-redirect" title="Anser anser">Anser anser</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%93%D1%83%D0%BC%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA" title="Гуменник">Гуменник</a> западный лесной (выборочно)</td>
+<td><i><a href="/wiki/Anser_fabalis" class="mw-redirect" title="Anser fabalis">Anser fabalis</a> fabalis</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%93%D1%83%D0%BC%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA" title="Гуменник">Гуменник</a> сибирский таежный (выборочно)</td>
+<td><i><a href="/wiki/Anser_anser" class="mw-redirect" title="Anser anser">Anser anser</a> middendorfii</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9C%D0%B0%D0%BB%D1%8B%D0%B9_%D0%BB%D0%B5%D0%B1%D0%B5%D0%B4%D1%8C" title="Малый лебедь">Малый лебедь</a></td>
+<td><i><a href="/wiki/Cygnus_bewickii" class="mw-redirect" title="Cygnus bewickii">Cygnus bewickii</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9A%D0%BB%D0%BE%D0%BA%D1%82%D1%83%D0%BD" class="mw-redirect" title="Клоктун">Клоктун</a></td>
+<td><i><a href="/wiki/Anas_formosa" class="mw-redirect" title="Anas formosa">Anas formosa</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9A%D0%BE%D1%81%D0%B0%D1%82%D0%BA%D0%B0_(%D0%BF%D1%82%D0%B8%D1%86%D0%B0)" title="Косатка (птица)">Касатка</a> (выборочно)</td>
+<td><i><a href="/wiki/Anas_falcata" class="mw-redirect" title="Anas falcata">Anas falcata</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9C%D1%80%D0%B0%D0%BC%D0%BE%D1%80%D0%BD%D1%8B%D0%B9_%D1%87%D0%B8%D1%80%D0%BE%D0%BA" title="Мраморный чирок">Мраморный чирок</a></td>
+<td><i><a href="/wiki/Marmaronetta_angustirostris" class="mw-redirect" title="Marmaronetta angustirostris">Marmaronetta angustirostris</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9C%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D0%B8%D0%BD%D0%BA%D0%B0_(%D0%BF%D1%82%D0%B8%D1%86%D0%B0)" title="Мандаринка (птица)">Мандаринка</a></td>
+<td><i><a href="/wiki/Aix_galericulata" class="mw-redirect" title="Aix galericulata">Aix galericulata</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%91%D0%B5%D0%BB%D0%BE%D0%B3%D0%BB%D0%B0%D0%B7%D1%8B%D0%B9_%D0%BD%D1%8B%D1%80%D0%BE%D0%BA" title="Белоглазый нырок">Белоглазый нырок</a></td>
+<td><i><a href="/wiki/Aythya_nyroca" class="mw-redirect" title="Aythya nyroca">Aythya nyroca</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9D%D1%8B%D1%80%D0%BE%D0%BA_%D0%91%D1%8D%D1%80%D0%B0" title="Нырок Бэра">Нырок Бэра</a></td>
+<td><i><a href="/wiki/Aythya_baeri" class="mw-redirect" title="Aythya baeri">Aythya baeri</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9E%D1%87%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D0%B3%D0%B0%D0%B3%D0%B0" title="Очковая гага">Очковая гага</a></td>
+<td><i><a href="/wiki/Somateria_fischeri" class="mw-redirect" title="Somateria fischeri">Somateria fischeri</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A1%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA%D0%B0%D1%8F_%D0%B3%D0%B0%D0%B3%D0%B0" title="Сибирская гага">Сибирская гага</a></td>
+<td><i><a href="/wiki/Polysticta_stelleri" class="mw-redirect" title="Polysticta stelleri">Polysticta stelleri</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A1%D0%B0%D0%B2%D0%BA%D0%B0" title="Савка">Савка</a></td>
+<td><i><a href="/wiki/Oxyura_leucocephala" class="mw-redirect" title="Oxyura leucocephala">Oxyura leucocephala</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A7%D0%B5%D1%88%D1%83%D0%B9%D1%87%D0%B0%D1%82%D1%8B%D0%B9_%D0%BA%D1%80%D0%BE%D1%85%D0%B0%D0%BB%D1%8C" title="Чешуйчатый крохаль">Чешуйчатый крохаль</a></td>
+<td><i><a href="/wiki/Mergus_squamatus" class="mw-redirect" title="Mergus squamatus">Mergus squamatus</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A1%D0%BA%D0%BE%D0%BF%D0%B0" title="Скопа">Скопа</a></td>
+<td><i><a href="/wiki/Pandion_haliaetus" class="mw-redirect" title="Pandion haliaetus">Pandion haliaetus</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D1%80%D1%88%D1%83%D0%BD" title="Красный коршун">Красный коршун</a></td>
+<td><i><a href="/wiki/Milvus_milvus" class="mw-redirect" title="Milvus milvus">Milvus milvus</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A1%D1%82%D0%B5%D0%BF%D0%BD%D0%BE%D0%B9_%D0%BB%D1%83%D0%BD%D1%8C" title="Степной лунь">Степной лунь</a></td>
+<td><i><a href="/wiki/Circus_macrourus" class="mw-redirect" title="Circus macrourus">Circus macrourus</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D1%8E%D0%B2%D0%B8%D0%BA" title="Европейский тювик">Европейский тювик</a></td>
+<td><i><a href="/wiki/Accipiter_brevipes" class="mw-redirect" title="Accipiter brevipes">Accipiter brevipes</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9A%D1%83%D1%80%D0%B3%D0%B0%D0%BD%D0%BD%D0%B8%D0%BA" title="Курганник">Курганник</a></td>
+<td><i><a href="/wiki/Buteo_rufinus" class="mw-redirect" title="Buteo rufinus">Buteo rufinus</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%AF%D1%81%D1%82%D1%80%D0%B5%D0%B1%D0%B8%D0%BD%D1%8B%D0%B9_%D1%81%D0%B0%D1%80%D1%8B%D1%87" class="mw-redirect" title="Ястребиный сарыч">Ястребиный сарыч</a></td>
+<td><i><a href="/wiki/Butastur_indicus" class="mw-redirect" title="Butastur indicus">Butastur indicus</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%97%D0%BC%D0%B5%D0%B5%D1%8F%D0%B4" title="Змееяд">Змееяд</a></td>
+<td><i><a href="/wiki/Circaetus_gallicus" class="mw-redirect" title="Circaetus gallicus">Circaetus gallicus</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A5%D0%BE%D1%85%D0%BB%D0%B0%D1%82%D1%8B%D0%B9_%D0%BE%D1%80%D0%B5%D0%BB" class="mw-redirect" title="Хохлатый орел">Хохлатый орел</a></td>
+<td><i><a href="/wiki/Spizaetus_nipalensis" class="mw-redirect" title="Spizaetus nipalensis">Spizaetus nipalensis</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A1%D1%82%D0%B5%D0%BF%D0%BD%D0%BE%D0%B9_%D0%BE%D1%80%D0%B5%D0%BB" class="mw-redirect" title="Степной орел">Степной орел</a></td>
+<td><i><a href="/wiki/Aquila_nipalensis" class="mw-redirect" title="Aquila nipalensis">Aquila nipalensis</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%BF%D0%BE%D0%B4%D0%BE%D1%80%D0%BB%D0%B8%D0%BA" title="Большой подорлик">Большой подорлик</a></td>
+<td><i><a href="/wiki/Aquila_clanga" class="mw-redirect" title="Aquila clanga">Aquila clanga</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9C%D0%B0%D0%BB%D1%8B%D0%B9_%D0%BF%D0%BE%D0%B4%D0%BE%D1%80%D0%BB%D0%B8%D0%BA" title="Малый подорлик">Малый подорлик</a></td>
+<td><i><a href="/wiki/Aquila_pomarina" class="mw-redirect" title="Aquila pomarina">Aquila pomarina</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9C%D0%BE%D0%B3%D0%B8%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA_(%D0%BF%D1%82%D0%B8%D1%86%D0%B0)" title="Могильник (птица)">Могильник</a></td>
+<td><i><a href="/wiki/Aquila_heliaca" class="mw-redirect" title="Aquila heliaca">Aquila heliaca</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%91%D0%B5%D1%80%D0%BA%D1%83%D1%82" title="Беркут">Беркут</a></td>
+<td><i><a href="/wiki/Aquila_chrysaetos" class="mw-redirect" title="Aquila chrysaetos">Aquila chrysaetos</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9E%D1%80%D0%BB%D0%B0%D0%BD-%D0%B4%D0%BE%D0%BB%D0%B3%D0%BE%D1%85%D0%B2%D0%BE%D1%81%D1%82" title="Орлан-долгохвост">Орлан-долгохвост</a></td>
+<td><i><a href="/wiki/Haliaeetus_leucoryphus" class="mw-redirect" title="Haliaeetus leucoryphus">Haliaeetus leucoryphus</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9E%D1%80%D0%BB%D0%B0%D0%BD-%D0%B1%D0%B5%D0%BB%D0%BE%D1%85%D0%B2%D0%BE%D1%81%D1%82" title="Орлан-белохвост">Орлан-белохвост</a></td>
+<td><i><a href="/wiki/Haliaeetus_albicilla" class="mw-redirect" title="Haliaeetus albicilla">Haliaeetus albicilla</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%91%D0%B5%D0%BB%D0%BE%D0%BF%D0%BB%D0%B5%D1%87%D0%B8%D0%B9_%D0%BE%D1%80%D0%BB%D0%B0%D0%BD" title="Белоплечий орлан">Белоплечий орлан</a></td>
+<td><i><a href="/wiki/Haliaeetus_pelagicus" class="mw-redirect" title="Haliaeetus pelagicus">Haliaeetus pelagicus</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A7%D1%91%D1%80%D0%BD%D1%8B%D0%B9_%D0%B3%D1%80%D0%B8%D1%84" title="Чёрный гриф">Чёрный гриф</a></td>
+<td><i><a href="/wiki/Aegypius_monachus" class="mw-redirect" title="Aegypius monachus">Aegypius monachus</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%91%D0%B5%D0%BB%D0%BE%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D1%8B%D0%B9_%D1%81%D0%B8%D0%BF" title="Белоголовый сип">Белоголовый сип</a></td>
+<td><i><a href="/wiki/Gyps_fulvus" class="mw-redirect" title="Gyps fulvus">Gyps fulvus</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%91%D0%BE%D1%80%D0%BE%D0%B4%D0%B0%D1%87" title="Бородач">Бородач</a></td>
+<td><i><a href="/wiki/Gypaetus_barbatus" class="mw-redirect" title="Gypaetus barbatus">Gypaetus barbatus</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A1%D1%82%D0%B5%D1%80%D0%B2%D1%8F%D1%82%D0%BD%D0%B8%D0%BA" class="mw-redirect" title="Стервятник">Стервятник</a></td>
+<td><i><a href="/wiki/Neophron_percnopterus" class="mw-redirect" title="Neophron percnopterus">Neophron percnopterus</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9A%D1%80%D0%B5%D1%87%D0%B5%D1%82" title="Кречет">Кречет</a></td>
+<td><i><a href="/wiki/Falco_rusticolus" class="mw-redirect" title="Falco rusticolus">Falco rusticolus</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%91%D0%B0%D0%BB%D0%BE%D0%B1%D0%B0%D0%BD" title="Балобан">Балобан</a></td>
+<td><i><a href="/wiki/Falco_cherrug" class="mw-redirect" title="Falco cherrug">Falco cherrug</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A1%D0%B0%D0%BF%D1%81%D0%B0%D0%BD" title="Сапсан">Сапсан</a></td>
+<td><i><a href="/wiki/Falco_peregrinus" class="mw-redirect" title="Falco peregrinus">Falco peregrinus</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9A%D0%BE%D0%B1%D1%87%D0%B8%D0%BA" title="Кобчик">Кобчик</a></td>
+<td><i><a href="/wiki/Falco_vespertinus" class="mw-redirect" title="Falco vespertinus">Falco vespertinus</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A1%D1%82%D0%B5%D0%BF%D0%BD%D0%B0%D1%8F_%D0%BF%D1%83%D1%81%D1%82%D0%B5%D0%BB%D1%8C%D0%B3%D0%B0" title="Степная пустельга">Степная пустельга</a></td>
+<td><i><a href="/wiki/Falco_naumanni" class="mw-redirect" title="Falco naumanni">Falco naumanni</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%91%D0%B5%D0%BB%D0%B0%D1%8F_%D0%BA%D1%83%D1%80%D0%BE%D0%BF%D0%B0%D1%82%D0%BA%D0%B0" title="Белая куропатка">Белая куропатка</a> среднерусская белая</td>
+<td><i><a href="/wiki/Lagopus_lagopus" class="mw-redirect" title="Lagopus lagopus">Lagopus lagopus</a> rossicus</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%91%D0%B5%D0%BB%D0%B0%D1%8F_%D0%BA%D1%83%D1%80%D0%BE%D0%BF%D0%B0%D1%82%D0%BA%D0%B0" title="Белая куропатка">Белая куропатка</a> большая белая</td>
+<td><i><a href="/wiki/Lagopus_lagopus" class="mw-redirect" title="Lagopus lagopus">Lagopus lagopus</a> major</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9A%D0%B0%D0%B2%D0%BA%D0%B0%D0%B7%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D0%B5%D1%82%D0%B5%D1%80%D0%B5%D0%B2" title="Кавказский тетерев">Кавказский тетерев</a></td>
+<td><i><a href="/wiki/Lyrurus_mlokosiewiczi" class="mw-redirect" title="Lyrurus mlokosiewiczi">Lyrurus mlokosiewiczi</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%94%D0%B8%D0%BA%D1%83%D1%88%D0%B0" title="Дикуша">Дикуша</a></td>
+<td><i><a href="/wiki/Falcipennis_falcipennis" class="mw-redirect" title="Falcipennis falcipennis">Falcipennis falcipennis</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%91%D0%BE%D1%80%D0%BE%D0%B4%D0%B0%D1%82%D0%B0%D1%8F_%D0%BA%D1%83%D1%80%D0%BE%D0%BF%D0%B0%D1%82%D0%BA%D0%B0" title="Бородатая куропатка">Бородатая куропатка</a> маньчжурская</td>
+<td><i><a href="/wiki/Perdix_dauurica" class="mw-redirect" title="Perdix dauurica">Perdix dauurica</a> suschkini</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%B6%D1%83%D1%80%D0%B0%D0%B2%D0%BB%D1%8C" title="Японский журавль">Японский журавль</a></td>
+<td><i><a href="/wiki/Grus_japonensis" class="mw-redirect" title="Grus japonensis">Grus japonensis</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A1%D1%82%D0%B5%D1%80%D1%85" title="Стерх">Стерх</a></td>
+<td><i><a href="/wiki/Grus_leucogeranus" class="mw-redirect" title="Grus leucogeranus">Grus leucogeranus</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%94%D0%B0%D1%83%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%B6%D1%83%D1%80%D0%B0%D0%B2%D0%BB%D1%8C" title="Даурский журавль">Даурский журавль</a></td>
+<td><i><a href="/wiki/Grus_vipio" class="mw-redirect" title="Grus vipio">Grus vipio</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A7%D1%91%D1%80%D0%BD%D1%8B%D0%B9_%D0%B6%D1%83%D1%80%D0%B0%D0%B2%D0%BB%D1%8C" title="Чёрный журавль">Чёрный журавль</a></td>
+<td><i><a href="/wiki/Grus_monacha" class="mw-redirect" title="Grus monacha">Grus monacha</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%B0%D0%B2%D0%BA%D0%B0_(%D0%B6%D1%83%D1%80%D0%B0%D0%B2%D0%BB%D1%8C)" class="mw-redirect" title="Красавка (журавль)">Журавль-красавка</a></td>
+<td><i><a href="/wiki/Anthropoides_virgo" class="mw-redirect" title="Anthropoides virgo">Anthropoides virgo</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%91%D0%B5%D0%BB%D0%BE%D0%BA%D1%80%D1%8B%D0%BB%D1%8B%D0%B9_%D0%BF%D0%BE%D0%B3%D0%BE%D0%BD%D1%8B%D1%88" title="Белокрылый погоныш">Белокрылый погоныш</a></td>
+<td><i><a href="/wiki/Coturnicops_exquisitus" class="mw-redirect" title="Coturnicops exquisitus">Coturnicops exquisitus</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A1%D1%83%D0%BB%D1%82%D0%B0%D0%BD%D0%BA%D0%B0" title="Султанка">Султанка</a></td>
+<td><i><a href="/wiki/Porphyrio_porphyrio" class="mw-redirect" title="Porphyrio porphyrio">Porphyrio porphyrio</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%94%D1%80%D0%BE%D1%84%D0%B0" title="Дрофа">Дрофа</a>, европейский подвид</td>
+<td><i><a href="/wiki/Otis_tarda" class="mw-redirect" title="Otis tarda">Otis tarda</a> tarda</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%94%D1%80%D0%BE%D1%84%D0%B0" title="Дрофа">Дрофа</a>, восточный подвид</td>
+<td><i><a href="/wiki/Otis_tarda" class="mw-redirect" title="Otis tarda">Otis tarda</a> dubowskii</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A1%D1%82%D1%80%D0%B5%D0%BF%D0%B5%D1%82" title="Стрепет">Стрепет</a></td>
+<td><i><a href="/wiki/Tetrax_tetrax" class="mw-redirect" title="Tetrax tetrax">Tetrax tetrax</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%94%D0%B6%D0%B5%D0%BA_(%D0%BF%D1%82%D0%B8%D1%86%D0%B0)" class="mw-redirect" title="Джек (птица)">Джек</a></td>
+<td><i><a href="/wiki/Chlamydotis_macqueenii" class="mw-redirect" title="Chlamydotis macqueenii">Chlamydotis macqueenii</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%90%D0%B2%D0%B4%D0%BE%D1%82%D0%BA%D0%B0" title="Авдотка">Авдотка</a></td>
+<td><i><a href="/wiki/Burhinus_oedicnemus" class="mw-redirect" title="Burhinus oedicnemus">Burhinus oedicnemus</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%B8%D1%81%D1%82%D0%B0%D1%8F_%D1%80%D0%B6%D0%B0%D0%BD%D0%BA%D0%B0" title="Золотистая ржанка">Золотистая ржанка</a> южная</td>
+<td><i><a href="/wiki/Pluvialis_apricaria" class="mw-redirect" title="Pluvialis apricaria">Pluvialis apricaria</a> apricaria</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A3%D1%81%D1%81%D1%83%D1%80%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%B7%D1%83%D1%91%D0%BA" title="Уссурийский зуёк">Уссурийский зуёк</a></td>
+<td><i><a href="/wiki/Charadrius_placidus" class="mw-redirect" title="Charadrius placidus">Charadrius placidus</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9C%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B9_%D0%B7%D1%83%D1%91%D0%BA" title="Морской зуёк">Морской зуёк</a></td>
+<td><i><a href="/wiki/Charadrius_alexandrinus" class="mw-redirect" title="Charadrius alexandrinus">Charadrius alexandrinus</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A5%D1%80%D1%83%D1%81%D1%82%D0%B0%D0%BD" title="Хрустан">Хрустан</a></td>
+<td><i><a href="/wiki/Eudromias_morinellus" class="mw-redirect" title="Eudromias morinellus">Eudromias morinellus</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9A%D1%80%D0%B5%D1%87%D1%91%D1%82%D0%BA%D0%B0" title="Кречётка">Кречётка</a></td>
+<td><i><a href="/wiki/Chettusia_gregaria" class="mw-redirect" title="Chettusia gregaria">Chettusia gregaria</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A8%D0%B8%D0%BB%D0%BE%D0%BA%D0%BB%D1%8E%D0%B2%D0%BA%D0%B0" title="Шилоклювка">Шилоклювка</a></td>
+<td><i><a href="/wiki/Recurvirostra_avosetta" class="mw-redirect" title="Recurvirostra avosetta">Recurvirostra avosetta</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9A%D1%83%D0%BB%D0%B8%D0%BA-%D1%81%D0%BE%D1%80%D0%BE%D0%BA%D0%B0" title="Кулик-сорока">Кулик-сорока</a>, материковый подвид</td>
+<td><i><a href="/wiki/Haematopus_ostralegus" class="mw-redirect" title="Haematopus ostralegus">Haematopus ostralegus</a> longipes</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9A%D1%83%D0%BB%D0%B8%D0%BA-%D1%81%D0%BE%D1%80%D0%BE%D0%BA%D0%B0" title="Кулик-сорока">Кулик-сорока</a>, дальневосточный подвид</td>
+<td><i><a href="/wiki/Haematopus_ostralegus" class="mw-redirect" title="Haematopus ostralegus">Haematopus ostralegus</a> osculans</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9E%D1%85%D0%BE%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D1%83%D0%BB%D0%B8%D1%82" title="Охотский улит">Охотский улит</a></td>
+<td><i><a href="/wiki/Tringa_guttifer" class="mw-redirect" title="Tringa guttifer">Tringa guttifer</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9B%D0%BE%D0%BF%D0%B0%D1%82%D0%B5%D0%BD%D1%8C" title="Лопатень">Лопатень</a></td>
+<td><i><a href="/wiki/Eurynorhynchus_pygmeus" class="mw-redirect" title="Eurynorhynchus pygmeus">Eurynorhynchus pygmeus</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%B7%D0%BE%D0%B1%D0%B8%D0%BA" title="Краснозобик">Краснозобик</a></td>
+<td><i><a href="/wiki/Calidris_ferruginea" class="mw-redirect" title="Calidris ferruginea">Calidris ferruginea</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%B7%D0%BE%D0%B1%D0%B8%D0%BA" title="Чернозобик">Чернозобик</a>, балтийский подвид</td>
+<td><i><a href="/wiki/Calidris_alpina" class="mw-redirect" title="Calidris alpina">Calidris alpina</a> schinzii</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%B7%D0%BE%D0%B1%D0%B8%D0%BA" title="Чернозобик">Чернозобик</a>, сахалинский подвид</td>
+<td><i><a href="/wiki/Calidris_alpina" class="mw-redirect" title="Calidris alpina">Calidris alpina</a> actites</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B5%D1%81%D0%BE%D1%87%D0%BD%D0%B8%D0%BA" title="Канадский песочник">Желтозобик</a></td>
+<td><i><a href="/wiki/Tryngites_subruficollis" class="mw-redirect" title="Tryngites subruficollis">Tryngites subruficollis</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%AE%D0%B6%D0%BD%D0%BE%D0%BA%D0%B0%D0%BC%D1%87%D0%B0%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%B1%D0%B5%D1%80%D0%B8%D0%BD%D0%B3%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B5%D1%81%D0%BE%D1%87%D0%BD%D0%B8%D0%BA" class="mw-redirect" title="Южнокамчатский берингийский песочник">Южнокамчатский берингийский песочник</a></td>
+<td><i><a href="/wiki/Calidris_ptilocnemis" class="mw-redirect" title="Calidris ptilocnemis">Calidris ptilocnemis</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%BF%D0%B5%D1%81%D0%BE%D1%87%D0%BD%D0%B8%D0%BA" title="Большой песочник">Большой песочник</a></td>
+<td><i><a href="/wiki/Calidris_tenuirostris" class="mw-redirect" title="Calidris tenuirostris">Calidris tenuirostris</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%98%D1%81%D0%BB%D0%B0%D0%BD%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B5%D1%81%D0%BE%D1%87%D0%BD%D0%B8%D0%BA" title="Исландский песочник">Исландский песочник</a> новосибирский подвид</td>
+<td><i><a href="/wiki/Calidris_canutus" class="mw-redirect" title="Calidris canutus">Calidris canutus</a> piersmai</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%98%D1%81%D0%BB%D0%B0%D0%BD%D0%B4%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B5%D1%81%D0%BE%D1%87%D0%BD%D0%B8%D0%BA" title="Исландский песочник">Исландский песочник</a> чукотский подвид</td>
+<td><i><a href="/wiki/Calidris_canutus" class="mw-redirect" title="Calidris canutus">Calidris canutus</a> rogersi</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A2%D0%BE%D0%BD%D0%BA%D0%BE%D0%BA%D0%BB%D1%8E%D0%B2%D1%8B%D0%B9_%D0%BA%D1%80%D0%BE%D0%BD%D1%88%D0%BD%D0%B5%D0%BF" title="Тонкоклювый кроншнеп">Тонкоклювый кроншнеп</a></td>
+<td><i><a href="/wiki/Numenius_tenuirostris" class="mw-redirect" title="Numenius tenuirostris">Numenius tenuirostris</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%BA%D1%80%D0%BE%D0%BD%D1%88%D0%BD%D0%B5%D0%BF" title="Большой кроншнеп">Большой кроншнеп</a></td>
+<td><i><a href="/wiki/Numenius_arquata" class="mw-redirect" title="Numenius arquata">Numenius arquata</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D0%BA%D1%80%D0%BE%D0%BD%D1%88%D0%BD%D0%B5%D0%BF" title="Большой кроншнеп">Большой кроншнеп</a> степной</td>
+<td><i><a href="/wiki/Numenius_arquata" class="mw-redirect" title="Numenius arquata">Numenius arquata</a> suschkini</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%94%D0%B0%D0%BB%D1%8C%D0%BD%D0%B5%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D1%8B%D0%B9_%D0%BA%D1%80%D0%BE%D0%BD%D1%88%D0%BD%D0%B5%D0%BF" title="Дальневосточный кроншнеп">Дальневосточный кроншнеп</a></td>
+<td><i><a href="/wiki/Numenius_madagascariensis" class="mw-redirect" title="Numenius madagascariensis">Numenius madagascariensis</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A1%D1%80%D0%B5%D0%B4%D0%BD%D0%B8%D0%B9_%D0%BA%D1%80%D0%BE%D0%BD%D1%88%D0%BD%D0%B5%D0%BF" title="Средний кроншнеп">Средний кроншнеп</a> степной</td>
+<td><i><a href="/wiki/Numenius_phaeopus" class="mw-redirect" title="Numenius phaeopus">Numenius phaeopus</a> alboaxillaris</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%90%D0%B7%D0%B8%D0%B0%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%B1%D0%B5%D0%BA%D0%B0%D1%81%D0%BE%D0%B2%D0%B8%D0%B4%D0%BD%D1%8B%D0%B9_%D0%B2%D0%B5%D1%80%D0%B5%D1%82%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA" title="Азиатский бекасовидный веретенник">Азиатский бекасовидный веретенник</a></td>
+<td><i><a href="/wiki/Limnodromus_semipalmatus" class="mw-redirect" title="Limnodromus semipalmatus">Limnodromus semipalmatus</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9C%D0%B0%D0%BB%D1%8B%D0%B9_%D0%B2%D0%B5%D1%80%D0%B5%D1%82%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA" title="Малый веретенник">Малый веретенник</a> восточно-сибирский</td>
+<td><i><a href="/wiki/Limosa_lapponica" class="mw-redirect" title="Limosa lapponica">Limosa lapponica</a> menzbieri</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9C%D0%B0%D0%BB%D1%8B%D0%B9_%D0%B2%D0%B5%D1%80%D0%B5%D1%82%D0%B5%D0%BD%D0%BD%D0%B8%D0%BA" title="Малый веретенник">Малый веретенник</a> анадырский</td>
+<td><i><a href="/wiki/Limosa_lapponica" class="mw-redirect" title="Limosa lapponica">Limosa lapponica</a> anadyrensis</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A1%D1%82%D0%B5%D0%BF%D0%BD%D0%B0%D1%8F_%D1%82%D0%B8%D1%80%D0%BA%D1%83%D1%88%D0%BA%D0%B0" title="Степная тиркушка">Степная тиркушка</a></td>
+<td><i><a href="/wiki/Glareola_nordmanni" class="mw-redirect" title="Glareola nordmanni">Glareola nordmanni</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D1%8B%D0%B9_%D1%85%D0%BE%D1%85%D0%BE%D1%82%D1%83%D0%BD" title="Черноголовый хохотун">Черноголовый хохотун</a></td>
+<td><i><a href="/wiki/Larus_ichthyaetus" class="mw-redirect" title="Larus ichthyaetus">Larus ichthyaetus</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A0%D0%B5%D0%BB%D0%B8%D0%BA%D1%82%D0%BE%D0%B2%D0%B0%D1%8F_%D1%87%D0%B0%D0%B9%D0%BA%D0%B0" title="Реликтовая чайка">Реликтовая чайка</a></td>
+<td><i><a href="/wiki/Larus_relictus" class="mw-redirect" title="Larus relictus">Larus relictus</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9A%D0%BB%D1%83%D1%88%D0%B0" title="Клуша">Клуша</a></td>
+<td><i><a href="/wiki/Larus_fuscus" class="mw-redirect" title="Larus fuscus">Larus fuscus</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D0%BD%D0%BE%D0%B3%D0%B0%D1%8F_%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D1%83%D1%88%D0%BA%D0%B0" class="mw-redirect" title="Красноногая говорушка">Красноногая говорушка</a></td>
+<td><i><a href="/wiki/Rissa_brevirostris" class="mw-redirect" title="Rissa brevirostris">Rissa brevirostris</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%91%D0%B5%D0%BB%D0%B0%D1%8F_%D1%87%D0%B0%D0%B9%D0%BA%D0%B0" title="Белая чайка">Белая чайка</a></td>
+<td><i><a href="/wiki/Pagophila_eburnea" class="mw-redirect" title="Pagophila eburnea">Pagophila eburnea</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A7%D0%B5%D0%B3%D1%80%D0%B0%D0%B2%D0%B0" title="Чеграва">Чеграва</a></td>
+<td><i><a href="/wiki/Hydroprogne_caspia" class="mw-redirect" title="Hydroprogne caspia">Hydroprogne caspia</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9C%D0%B0%D0%BB%D0%B0%D1%8F_%D0%BA%D1%80%D0%B0%D1%87%D0%BA%D0%B0" title="Малая крачка">Малая крачка</a></td>
+<td><i><a href="/wiki/Sterna_albifrons" class="mw-redirect" title="Sterna albifrons">Sterna albifrons</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A5%D0%BE%D1%85%D0%BB%D0%B0%D1%82%D1%8B%D0%B9_%D1%81%D1%82%D0%B0%D1%80%D0%B8%D0%BA" title="Хохлатый старик">Хохлатый старик</a></td>
+<td><i><a href="/wiki/Synthliboramphus_wumizusume" class="mw-redirect" title="Synthliboramphus wumizusume">Synthliboramphus wumizusume</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A2%D0%BE%D0%BD%D0%BA%D0%BE%D0%BA%D0%BB%D1%8E%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B0%D0%B9%D1%80%D0%B0" title="Тонкоклювая кайра">Северо-атлантическая тонкоклювая кайра</a></td>
+<td><i><a href="/wiki/Uria_aalge" class="mw-redirect" title="Uria aalge">Uria aalge</a> hyperborea</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9E%D0%B1%D1%8B%D0%BA%D0%BD%D0%BE%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%87%D0%B8%D1%81%D1%82%D0%B8%D0%BA" title="Обыкновенный чистик">Балтийский чистик</a></td>
+<td><i><a href="/wiki/Cepphus_grylle" class="mw-redirect" title="Cepphus grylle">Cepphus grylle</a> grylle</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A4%D0%B8%D0%BB%D0%B8%D0%BD" title="Филин">Филин</a></td>
+<td><i><a href="/wiki/Bubo_bubo" class="mw-redirect" title="Bubo bubo">Bubo bubo</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A0%D1%8B%D0%B1%D0%BD%D1%8B%D0%B9_%D1%84%D0%B8%D0%BB%D0%B8%D0%BD" title="Рыбный филин">Рыбный филин</a></td>
+<td><i><a href="/wiki/Ketupa_blakistoni" class="mw-redirect" title="Ketupa blakistoni">Ketupa blakistoni</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A1%D0%B8%D0%B7%D0%BE%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%BA%D0%B0" title="Сизоворонка">Сизоворонка</a></td>
+<td><i><a href="/wiki/Coracias_garrulus" class="mw-redirect" title="Coracias garrulus">Coracias garrulus</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%93%D0%BE%D1%80%D0%BB%D0%B8%D1%86%D1%8B" title="Горлицы">Обыкновенная горлица</a></td>
+<td><i><a href="/wiki/Streptopelia" class="mw-redirect" title="Streptopelia">Streptopelia</a> turtur</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9C%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9_%D0%B6%D0%B0%D0%B2%D0%BE%D1%80%D0%BE%D0%BD%D0%BE%D0%BA" title="Монгольский жаворонок">Монгольский жаворонок</a></td>
+<td><i><a href="/wiki/Melanocorypha_mongolica" class="mw-redirect" title="Melanocorypha mongolica">Melanocorypha mongolica</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BA%D0%B0%D0%BC%D1%8B%D1%88%D1%91%D0%B2%D0%BA%D0%B0" class="mw-redirect" title="Японская камышёвка">Японский сверчок (японская камышевка)</a></td>
+<td><i> Locustella pryeri (<a href="/wiki/Megalurus_pryeri" class="mw-redirect" title="Megalurus pryeri">Megalurus pryeri</a>)</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%92%D0%B5%D1%80%D1%82%D0%BB%D1%8F%D0%B2%D0%B0%D1%8F_%D0%BA%D0%B0%D0%BC%D1%8B%D1%88%D0%BE%D0%B2%D0%BA%D0%B0" title="Вертлявая камышовка">Вертлявая камышовка</a></td>
+<td><i><a href="/wiki/Acrocephalus_paludicola" class="mw-redirect" title="Acrocephalus paludicola">Acrocephalus paludicola</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A0%D0%B0%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D0%BC%D1%83%D1%85%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0" title="Райская мухоловка">Райская мухоловка</a></td>
+<td><i><a href="/wiki/Terpsiphone_paradisi" class="mw-redirect" title="Terpsiphone paradisi">Terpsiphone paradisi</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9_%D1%87%D0%B5%D0%BA%D0%B0%D0%BD" title="Большой чекан">Большой чекан</a></td>
+<td><i><a href="/wiki/Saxicola_insignis" class="mw-redirect" title="Saxicola insignis">Saxicola insignis</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%A2%D1%80%D0%BE%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D1%83%D1%82%D0%BE%D1%80%D0%B0" title="Тростниковая сутора">Тростниковая сутора</a></td>
+<td><i><a href="/wiki/Paradoxornis_polivanovi" class="mw-redirect" title="Paradoxornis polivanovi">Paradoxornis polivanovi</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%91%D0%B5%D0%BB%D0%B0%D1%8F_%D0%BB%D0%B0%D0%B7%D0%BE%D1%80%D0%B5%D0%B2%D0%BA%D0%B0" title="Белая лазоревка">Белая лазоревка</a> европейская</td>
+<td><i><a href="/wiki/Parus_cyanus" class="mw-redirect" title="Parus cyanus">Parus cyanus</a> cyanus</i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9A%D0%BE%D1%81%D0%BC%D0%B0%D1%82%D1%8B%D0%B9_%D0%BF%D0%BE%D0%BF%D0%BE%D0%BB%D0%B7%D0%B5%D0%BD%D1%8C" title="Косматый поползень">Косматый поползень</a></td>
+<td><i><a href="/wiki/Sitta_villosa" class="mw-redirect" title="Sitta villosa">Sitta villosa</a></i>
+</td></tr>
+<tr>
+<td><a href="/w/index.php?title=%D0%9C%D0%B0%D0%BB%D1%8B%D0%B9_%D1%87%D0%B5%D1%80%D0%BD%D0%BE%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D1%8B%D0%B9_%D0%B4%D1%83%D0%B1%D0%BE%D0%BD%D0%BE%D1%81&amp;action=edit&amp;redlink=1" class="new" title="Малый черноголовый дубонос (страница отсутствует)">Малый черноголовый дубонос</a></td>
+<td><i><a href="/w/index.php?title=Eophona_migratoria&amp;action=edit&amp;redlink=1" class="new" title="Eophona migratoria (страница отсутствует)">Eophona migratoria</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%94%D1%83%D0%B1%D1%80%D0%BE%D0%B2%D0%BD%D0%B8%D0%BA_(%D0%BF%D1%82%D0%B8%D1%86%D0%B0)" title="Дубровник (птица)">Дубровник</a></td>
+<td><i><a href="/wiki/Emberiza_aureola" class="mw-redirect" title="Emberiza aureola">Emberiza aureola</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9E%D0%B2%D1%81%D1%8F%D0%BD%D0%BA%D0%B0-%D1%80%D0%B5%D0%BC%D0%B5%D0%B7" title="Овсянка-ремез">Овсянка-ремез</a></td>
+<td><i><a href="/wiki/Emberiza_rustica" class="mw-redirect" title="Emberiza rustica">Emberiza rustica</a></i>
+</td></tr>
+<tr>
+<td><a href="/wiki/%D0%9E%D0%B2%D1%81%D1%8F%D0%BD%D0%BA%D0%B0_%D0%AF%D0%BD%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B3%D0%BE" title="Овсянка Янковского">Овсянка Янковского</a></td>
+<td><i><a href="/wiki/Emberiza_jankowskii" class="mw-redirect" title="Emberiza jankowskii">Emberiza jankowskii</a></i>
+</td></tr>
+</tbody></table>
+<h2><span id=".D0.A1.D0.BC._.D1.82.D0.B0.D0.BA.D0.B6.D0.B5"></span><span class="mw-headline" id="См._также">См. также</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Редактировать раздел «См. также»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8&amp;action=edit&amp;section=1" title="Редактировать раздел «См. также»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Список птиц России">Список птиц России</a></li></ul>
+<h2><span id=".D0.A1.D1.81.D1.8B.D0.BB.D0.BA.D0.B8"></span><span class="mw-headline" id="Ссылки">Ссылки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Редактировать раздел «Ссылки»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8&amp;action=edit&amp;section=2" title="Редактировать раздел «Ссылки»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080313153107/http://www.biodat.ru/db/rb/">Красная книга России (животные)</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Красная_книга_России" data-name="Красная книга России (списки)"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="3"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8_(%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8)" title="Перейти к шаблону «Красная книга России (списки)»"><img alt="Перейти к шаблону «Красная книга России (списки)»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="noprint" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a>&#160;</span><div id="Красная_книга_России" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D0%B0%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3%D0%B0_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Красная книга России">Красная книга России</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1px">Животные</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<dl><dt>беспозвоночные</dt>
+<dd><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BA%D0%BE%D0%BB%D1%8C%D1%87%D0%B0%D1%82%D1%8B%D1%85_%D1%87%D0%B5%D1%80%D0%B2%D0%B5%D0%B9,_%D0%BC%D1%88%D0%B0%D0%BD%D0%BE%D0%BA_%D0%B8_%D0%BF%D0%BB%D0%B5%D1%87%D0%B5%D0%BD%D0%BE%D0%B3%D0%B8%D1%85,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Список кольчатых червей, мшанок и плеченогих, занесённых в Красную книгу России">кольчатые черви, немертины, мшанки и плеченогие</a></dd>
+<dd><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%BE%D0%BB%D0%BB%D1%8E%D1%81%D0%BA%D0%BE%D0%B2,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Список моллюсков, занесённых в Красную книгу России">моллюски</a></dd>
+<dd><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%80%D0%B0%D0%BA%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D1%85,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Список ракообразных, занесённых в Красную книгу России">ракообразные и многоножки</a></dd>
+<dd><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BD%D0%B0%D1%81%D0%B5%D0%BA%D0%BE%D0%BC%D1%8B%D1%85,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Список насекомых, занесённых в Красную книгу России">насекомые</a></dd></dl>
+<dl><dt>позвоночные</dt>
+<dd><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D1%80%D1%8B%D0%B1_%D0%B8_%D0%BA%D1%80%D1%83%D0%B3%D0%BB%D0%BE%D1%80%D0%BE%D1%82%D1%8B%D1%85,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Список рыб и круглоротых, занесённых в Красную книгу России">миноги и рыбы</a></dd>
+<dd><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B7%D0%B5%D0%BC%D0%BD%D0%BE%D0%B2%D0%BE%D0%B4%D0%BD%D1%8B%D1%85,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Список земноводных, занесённых в Красную книгу России">земноводные</a></dd>
+<dd><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%80%D0%B5%D1%81%D0%BC%D1%8B%D0%BA%D0%B0%D1%8E%D1%89%D0%B8%D1%85%D1%81%D1%8F,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Список пресмыкающихся, занесённых в Красную книгу России">пресмыкающиеся</a></dd>
+<dd><a class="mw-selflink selflink">птицы</a></dd>
+<dd><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%BB%D0%B5%D0%BA%D0%BE%D0%BF%D0%B8%D1%82%D0%B0%D1%8E%D1%89%D0%B8%D1%85,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Список млекопитающих, занесённых в Красную книгу России">млекопитающие</a></dd></dl>
+</div></td><td class="navbox-image" rowspan="2" style="width:1px;padding:0px 0px 0px 7px"><div><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Book_icon_(closed)_-_Red_and_gold.svg" class="image"><img alt="Book icon (closed) - Red and gold.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/Book_icon_%28closed%29_-_Red_and_gold.svg/50px-Book_icon_%28closed%29_-_Red_and_gold.svg.png" decoding="async" width="50" height="88" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/Book_icon_%28closed%29_-_Red_and_gold.svg/75px-Book_icon_%28closed%29_-_Red_and_gold.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/25/Book_icon_%28closed%29_-_Red_and_gold.svg/100px-Book_icon_%28closed%29_-_Red_and_gold.svg.png 2x" data-file-width="40" data-file-height="70" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Растения и грибы</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D0%BE%D0%BA%D1%80%D1%8B%D1%82%D0%BE%D1%81%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D1%85_%D1%80%D0%B0%D1%81%D1%82%D0%B5%D0%BD%D0%B8%D0%B9,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Список покрытосеменных растений, занесённых в Красную книгу России">покрытосеменные</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B3%D0%BE%D0%BB%D0%BE%D1%81%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D1%85_%D1%80%D0%B0%D1%81%D1%82%D0%B5%D0%BD%D0%B8%D0%B9,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Список голосеменных растений, занесённых в Красную книгу России">голосеменные</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D0%B0%D0%BF%D0%BE%D1%80%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2%D0%B8%D0%B4%D0%BD%D1%8B%D1%85_%D1%80%D0%B0%D1%81%D1%82%D0%B5%D0%BD%D0%B8%D0%B9,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Список папоротниковидных растений, занесённых в Красную книгу России">папоротниковидные</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D0%BB%D0%B0%D1%83%D0%BD%D0%BE%D0%B2%D0%B8%D0%B4%D0%BD%D1%8B%D1%85_%D1%80%D0%B0%D1%81%D1%82%D0%B5%D0%BD%D0%B8%D0%B9,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Список плауновидных растений, занесённых в Красную книгу России">плауновидные</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BC%D0%BE%D1%85%D0%BE%D0%B2%D0%B8%D0%B4%D0%BD%D1%8B%D1%85_%D1%80%D0%B0%D1%81%D1%82%D0%B5%D0%BD%D0%B8%D0%B9,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Список моховидных растений, занесённых в Красную книгу России">моховидные</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B2%D0%BE%D0%B4%D0%BE%D1%80%D0%BE%D1%81%D0%BB%D0%B5%D0%B9,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список водорослей, занесённых в Красную книгу России (страница отсутствует)">водоросли</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BB%D0%B8%D1%88%D0%B0%D0%B9%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Список лишайников, занесённых в Красную книгу России">лишайники</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B3%D1%80%D0%B8%D0%B1%D0%BE%D0%B2,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Список грибов, занесённых в Красную книгу России">грибы</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Страны_Азии:_Красные_книги:_списки_птиц" data-name="Азия по темам"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%90%D0%B7%D0%B8%D1%8F_%D0%BF%D0%BE_%D1%82%D0%B5%D0%BC%D0%B0%D0%BC" title="Перейти к шаблону «Азия по темам»"><img alt="Перейти к шаблону «Азия по темам»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="noprint" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a>&#160;</span><div id="Страны_Азии:_Красные_книги:_списки_птиц" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2_%D0%B8_%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D0%B8%D0%BC%D1%8B%D1%85_%D1%82%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B9_%D0%90%D0%B7%D0%B8%D0%B8" title="Список государств и зависимых территорий Азии">Страны</a> <a href="/wiki/%D0%90%D0%B7%D0%B8%D1%8F" title="Азия">Азии</a>: Красные книги: списки птиц</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1px;white-space:normal;">Независимые<br />государства</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%90%D0%B7%D0%B5%D1%80%D0%B1%D0%B0%D0%B9%D0%B4%D0%B6%D0%B0%D0%BD%D0%B0" title="Список птиц, занесённых в Красную книгу Азербайджана">Азербайджан</a><sup>3</sup></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Армении (страница отсутствует)">Армения</a><sup>3</sup></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%90%D1%84%D0%B3%D0%B0%D0%BD%D0%B8%D1%81%D1%82%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Афганистана (страница отсутствует)">Афганистан</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%91%D0%B0%D0%BD%D0%B3%D0%BB%D0%B0%D0%B4%D0%B5%D1%88&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Бангладеш (страница отсутствует)">Бангладеш</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%91%D0%B0%D1%85%D1%80%D0%B5%D0%B9%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Бахрейна (страница отсутствует)">Бахрейн</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%91%D1%80%D1%83%D0%BD%D0%B5%D1%8F&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Брунея (страница отсутствует)">Бруней</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%91%D1%83%D1%82%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Бутана (страница отсутствует)">Бутан</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%92%D0%BE%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%BE%D0%B3%D0%BE_%D0%A2%D0%B8%D0%BC%D0%BE%D1%80%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Восточного Тимора (страница отсутствует)">Восточный Тимор</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%92%D1%8C%D0%B5%D1%82%D0%BD%D0%B0%D0%BC%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Вьетнама (страница отсутствует)">Вьетнам</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Грузии (страница отсутствует)">Грузия</a><sup>3</sup></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%95%D0%B3%D0%B8%D0%BF%D1%82%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Египта (страница отсутствует)">Египет</a><sup>1</sup></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%98%D0%B7%D1%80%D0%B0%D0%B8%D0%BB%D1%8F&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Израиля (страница отсутствует)">Израиль</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%98%D0%BD%D0%B4%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Индии (страница отсутствует)">Индия</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%98%D0%BD%D0%B4%D0%BE%D0%BD%D0%B5%D0%B7%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Индонезии (страница отсутствует)">Индонезия</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%98%D0%BE%D1%80%D0%B4%D0%B0%D0%BD%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Иордании (страница отсутствует)">Иордания</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%98%D1%80%D0%B0%D0%BA%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Ирака (страница отсутствует)">Ирак</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%98%D1%80%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Ирана (страница отсутствует)">Иран</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%99%D0%B5%D0%BC%D0%B5%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Йемена (страница отсутствует)">Йемен</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0" title="Список птиц, занесённых в Красную книгу Казахстана">Казахстан</a><sup>2</sup></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%9A%D0%B0%D0%BC%D0%B1%D0%BE%D0%B4%D0%B6%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Камбоджи (страница отсутствует)">Камбоджа</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%9A%D0%B0%D1%82%D0%B0%D1%80%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Катара (страница отсутствует)">Катар</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8_%D0%9A%D0%B8%D0%BF%D1%80&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Республики Кипр (страница отсутствует)">Кипр</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%9A%D0%B8%D1%80%D0%B3%D0%B8%D0%B7%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Киргизии (страница отсутствует)">Киргизия</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%9A%D0%B8%D1%82%D0%B0%D1%8F&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Китая (страница отсутствует)">Китай</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%9A%D0%9D%D0%94%D0%A0&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу КНДР (страница отсутствует)">КНДР</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8_%D0%9A%D0%BE%D1%80%D0%B5%D1%8F&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Республики Корея (страница отсутствует)">Республика Корея</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%9A%D1%83%D0%B2%D0%B5%D0%B9%D1%82%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Кувейта (страница отсутствует)">Кувейт</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%9B%D0%B0%D0%BE%D1%81%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Лаоса (страница отсутствует)">Лаос</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%9B%D0%B8%D0%B2%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Ливана (страница отсутствует)">Ливан</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%9C%D0%B0%D0%BB%D0%B0%D0%B9%D0%B7%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Малайзии (страница отсутствует)">Малайзия</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%9C%D0%B0%D0%BB%D1%8C%D0%B4%D0%B8%D0%B2&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Мальдив (страница отсутствует)">Мальдивы</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%9C%D0%BE%D0%BD%D0%B3%D0%BE%D0%BB%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Монголии (страница отсутствует)">Монголия</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%9C%D1%8C%D1%8F%D0%BD%D0%BC%D1%8B&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Мьянмы (страница отсутствует)">Мьянма</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%9D%D0%B5%D0%BF%D0%B0%D0%BB%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Непала (страница отсутствует)">Непал</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%9E%D0%B1%D1%8A%D0%B5%D0%B4%D0%B8%D0%BD%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%90%D1%80%D0%B0%D0%B1%D1%81%D0%BA%D0%B8%D1%85_%D0%AD%D0%BC%D0%B8%D1%80%D0%B0%D1%82%D0%BE%D0%B2&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Объединённых Арабских Эмиратов (страница отсутствует)">ОАЭ</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%9E%D0%BC%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Омана (страница отсутствует)">Оман</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%9F%D0%B0%D0%BA%D0%B8%D1%81%D1%82%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Пакистана (страница отсутствует)">Пакистан</a></li>
+<li><a class="mw-selflink selflink">Россия</a><sup>2</sup></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A1%D0%B0%D1%83%D0%B4%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B9_%D0%90%D1%80%D0%B0%D0%B2%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Саудовской Аравии (страница отсутствует)">Саудовская Аравия</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A1%D0%B8%D0%BD%D0%B3%D0%B0%D0%BF%D1%83%D1%80%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Сингапура (страница отсутствует)">Сингапур</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A1%D0%B8%D1%80%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Сирии (страница отсутствует)">Сирия</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A2%D0%B0%D0%B4%D0%B6%D0%B8%D0%BA%D0%B8%D1%81%D1%82%D0%B0%D0%BD%D0%B0" title="Список птиц, занесённых в Красную книгу Таджикистана">Таджикистан</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A2%D0%B0%D0%B8%D0%BB%D0%B0%D0%BD%D0%B4%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Таиланда (страница отсутствует)">Таиланд</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A2%D1%83%D1%80%D0%BA%D0%BC%D0%B5%D0%BD%D0%B8%D1%81%D1%82%D0%B0%D0%BD%D0%B0" title="Список птиц, занесённых в Красную книгу Туркменистана">Туркменистан</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A2%D1%83%D1%80%D1%86%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Турции (страница отсутствует)">Турция</a><sup>2</sup></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A3%D0%B7%D0%B1%D0%B5%D0%BA%D0%B8%D1%81%D1%82%D0%B0%D0%BD%D0%B0" title="Список птиц, занесённых в Красную книгу Узбекистана">Узбекистан</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF%D0%B8%D0%BD&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Филиппин (страница отсутствует)">Филиппины</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A8%D1%80%D0%B8-%D0%9B%D0%B0%D0%BD%D0%BA%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Шри-Ланки (страница отсутствует)">Шри-Ланка</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Японии (страница отсутствует)">Япония</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px;white-space:normal;">Зависимые территории</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<dl><dd><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%90%D0%BA%D1%80%D0%BE%D1%82%D0%B8%D1%80%D0%B8_%D0%B8_%D0%94%D0%B5%D0%BA%D0%B5%D0%BB%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Акротири и Декелии (страница отсутствует)">Акротири и Декелия</a></dd>
+<dd><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%91%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D0%A2%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B8_%D0%B2_%D0%98%D0%BD%D0%B4%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%BC_%D0%9E%D0%BA%D0%B5%D0%B0%D0%BD%D0%B5&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Британской Территории в Индийском Океане (страница отсутствует)">Британская Территория в Индийском Океане</a></dd>
+<dd><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%93%D0%BE%D0%BD%D0%BA%D0%BE%D0%BD%D0%B3%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Гонконга (страница отсутствует)">Гонконг</a></dd>
+<dd><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%9C%D0%B0%D0%BA%D0%B0%D0%BE&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Макао (страница отсутствует)">Макао</a></dd></dl>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px;white-space:normal;"><a href="/wiki/%D0%9D%D0%B5%D0%BF%D1%80%D0%B8%D0%B7%D0%BD%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B8_%D1%87%D0%B0%D1%81%D1%82%D0%B8%D1%87%D0%BD%D0%BE_%D0%BF%D1%80%D0%B8%D0%B7%D0%BD%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B0" title="Непризнанные и частично признанные государства">Непризнанные и частично<br />признанные государства</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8_%D0%90%D0%B1%D1%85%D0%B0%D0%B7%D0%B8%D1%8F&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Республики Абхазия (страница отсутствует)">Абхазия</a><sup>3</sup></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%9A%D0%B8%D1%82%D0%B0%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Китайской Республики (страница отсутствует)">Китайская Республика</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%9D%D0%B0%D0%B3%D0%BE%D1%80%D0%BD%D0%BE-%D0%9A%D0%B0%D1%80%D0%B0%D0%B1%D0%B0%D1%85%D1%81%D0%BA%D0%BE%D0%B9_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Нагорно-Карабахской Республики (страница отсутствует)">Нагорно-Карабахская Республика</a><sup>3</sup></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%93%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B0_%D0%9F%D0%B0%D0%BB%D0%B5%D1%81%D1%82%D0%B8%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Государства Палестина (страница отсутствует)">Государство Палестина</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A2%D1%83%D1%80%D0%B5%D1%86%D0%BA%D0%BE%D0%B9_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8_%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D0%B3%D0%BE_%D0%9A%D0%B8%D0%BF%D1%80%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Турецкой Республики Северного Кипра (страница отсутствует)">Турецкая Республика Северного Кипра</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%AE%D0%B6%D0%BD%D0%BE%D0%B9_%D0%9E%D1%81%D0%B5%D1%82%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Южной Осетии (страница отсутствует)">Южная Осетия</a><sup>3</sup></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2"><div>
+<ul><li><sup>1</sup> В основном в <a href="/wiki/%D0%90%D1%84%D1%80%D0%B8%D0%BA%D0%B0" title="Африка">Африке</a>.</li>
+<li><sup>2</sup> Частично в <a href="/wiki/%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B0" title="Европа">Европе</a>.</li>
+<li><sup>3</sup> В основном или полностью в Азии, в зависимости от проведения <a href="/wiki/%D0%93%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0_%D0%BC%D0%B5%D0%B6%D0%B4%D1%83_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%BE%D0%B9_%D0%B8_%D0%90%D0%B7%D0%B8%D0%B5%D0%B9" title="Граница между Европой и Азией">границы между Европой и Азией</a>.</li></ul>
+</div></td></tr></tbody></table></div> 
+<div role="navigation" class="navbox" aria-labelledby="Страны_Европы:_Красные_книги:_списки_птиц" data-name="Европа по темам"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="colgroup" class="navbox-title" colspan="2"><span class="navbox-gear" style="float:left;text-align:left;width:5em;margin-right:0.5em"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B0_%D0%BF%D0%BE_%D1%82%D0%B5%D0%BC%D0%B0%D0%BC" title="Перейти к шаблону «Европа по темам»"><img alt="Перейти к шаблону «Европа по темам»" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/14px-Wikipedia_interwiki_section_gear_icon.svg.png" decoding="async" width="14" height="14" class="noprint" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/21px-Wikipedia_interwiki_section_gear_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Wikipedia_interwiki_section_gear_icon.svg/28px-Wikipedia_interwiki_section_gear_icon.svg.png 2x" data-file-width="14" data-file-height="14" /></a>&#160;</span><div id="Страны_Европы:_Красные_книги:_списки_птиц" style="font-size:114%;margin:0 5em"><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2_%D0%B8_%D0%B7%D0%B0%D0%B2%D0%B8%D1%81%D0%B8%D0%BC%D1%8B%D1%85_%D1%82%D0%B5%D1%80%D1%80%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B9_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D1%8B" title="Список государств и зависимых территорий Европы">Страны</a> <a href="/wiki/%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%B0" title="Европа">Европы</a>: Красные книги: списки птиц</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1px">Независимые государства</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Австрии (страница отсутствует)">Австрия</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%90%D0%B7%D0%B5%D1%80%D0%B1%D0%B0%D0%B9%D0%B4%D0%B6%D0%B0%D0%BD%D0%B0" title="Список птиц, занесённых в Красную книгу Азербайджана">Азербайджан</a><sup>1</sup></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%90%D0%BB%D0%B1%D0%B0%D0%BD%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Албании (страница отсутствует)">Албания</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%90%D0%BD%D0%B4%D0%BE%D1%80%D1%80%D1%8B&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Андорры (страница отсутствует)">Андорра</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%90%D1%80%D0%BC%D0%B5%D0%BD%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Армении (страница отсутствует)">Армения</a><sup>1</sup></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%91%D0%B5%D0%BB%D0%BE%D1%80%D1%83%D1%81%D1%81%D0%B8%D0%B8" class="mw-redirect" title="Список птиц, занесённых в Красную книгу Белоруссии">Белоруссия</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%91%D0%B5%D0%BB%D1%8C%D0%B3%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Бельгии (страница отсутствует)">Бельгия</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D0%B8" title="Список птиц, занесённых в Красную книгу Болгарии">Болгария</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%91%D0%BE%D1%81%D0%BD%D0%B8%D0%B8_%D0%B8_%D0%93%D0%B5%D1%80%D1%86%D0%B5%D0%B3%D0%BE%D0%B2%D0%B8%D0%BD%D1%8B&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Боснии и Герцеговины (страница отсутствует)">Босния и Герцеговина</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%92%D0%B0%D1%82%D0%B8%D0%BA%D0%B0%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Ватикана (страница отсутствует)">Ватикан</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%BE%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Великобритании (страница отсутствует)">Великобритания</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%92%D0%B5%D0%BD%D0%B3%D1%80%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Венгрии (страница отсутствует)">Венгрия</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Германии (страница отсутствует)">Германия</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%93%D1%80%D0%B5%D1%86%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Греции (страница отсутствует)">Греция</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%93%D1%80%D1%83%D0%B7%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Грузии (страница отсутствует)">Грузия</a><sup>1</sup></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%94%D0%B0%D0%BD%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Дании (страница отсутствует)">Дания</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%98%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Ирландии (страница отсутствует)">Ирландия</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%98%D1%81%D0%BB%D0%B0%D0%BD%D0%B4%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Исландии (страница отсутствует)">Исландия</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Испании (страница отсутствует)">Испания</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Италии (страница отсутствует)">Италия</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%D0%B0" title="Список птиц, занесённых в Красную книгу Казахстана">Казахстан</a><sup>2</sup></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Латвии (страница отсутствует)">Латвия</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%9B%D0%B8%D1%82%D0%B2%D1%8B&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Литвы (страница отсутствует)">Литва</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%9B%D0%B8%D1%85%D1%82%D0%B5%D0%BD%D1%88%D1%82%D0%B5%D0%B9%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Лихтенштейна (страница отсутствует)">Лихтенштейн</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%9B%D1%8E%D0%BA%D1%81%D0%B5%D0%BC%D0%B1%D1%83%D1%80%D0%B3%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Люксембурга (страница отсутствует)">Люксембург</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%9C%D0%B0%D0%BB%D1%8C%D1%82%D1%8B&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Мальты (страница отсутствует)">Мальта</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8_%D0%9C%D0%BE%D0%BB%D0%B4%D0%BE%D0%B2%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Республики Молдова (страница отсутствует)">Молдавия</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%9C%D0%BE%D0%BD%D0%B0%D0%BA%D0%BE&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Монако (страница отсутствует)">Монако</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D0%BE%D0%B2&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Нидерландов (страница отсутствует)">Нидерланды</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Норвегии (страница отсутствует)">Норвегия</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Польши (страница отсутствует)">Польша</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%9F%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Португалии (страница отсутствует)">Португалия</a></li>
+<li><a class="mw-selflink selflink">Россия</a><sup>2</sup></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A0%D1%83%D0%BC%D1%8B%D0%BD%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Румынии (страница отсутствует)">Румыния</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A1%D0%B0%D0%BD-%D0%9C%D0%B0%D1%80%D0%B8%D0%BD%D0%BE&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Сан-Марино (страница отсутствует)">Сан-Марино</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D0%B9_%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Северной Македонии (страница отсутствует)">Северная Македония</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A1%D0%B5%D1%80%D0%B1%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Сербии (страница отсутствует)">Сербия</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A1%D0%BB%D0%BE%D0%B2%D0%B0%D0%BA%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Словакии (страница отсутствует)">Словакия</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A1%D0%BB%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Словении (страница отсутствует)">Словения</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A2%D1%83%D1%80%D1%86%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Турции (страница отсутствует)">Турция</a><sup>2</sup></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D1%8B" title="Список птиц, занесённых в Красную книгу Украины">Украина</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Финляндии (страница отсутствует)">Финляндия</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Франции (страница отсутствует)">Франция</a></li>
+<li><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A5%D0%BE%D1%80%D0%B2%D0%B0%D1%82%D0%B8%D0%B8" title="Список птиц, занесённых в Красную книгу Хорватии">Хорватия</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A7%D0%B5%D1%80%D0%BD%D0%BE%D0%B3%D0%BE%D1%80%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Черногории (страница отсутствует)">Черногория</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A7%D0%B5%D1%85%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Чехии (страница отсутствует)">Чехия</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A8%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Швейцарии (страница отсутствует)">Швейцария</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Швеции (страница отсутствует)">Швеция</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%AD%D1%81%D1%82%D0%BE%D0%BD%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Эстонии (страница отсутствует)">Эстония</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px">Зависимые территории</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%90%D0%BB%D0%B0%D0%BD%D0%B4%D1%81%D0%BA%D0%B8%D1%85_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%BE%D0%B2&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Аландских островов (страница отсутствует)">Аландские острова</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%93%D0%B5%D1%80%D0%BD%D1%81%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Гернси (страница отсутствует)">Гернси</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%93%D0%B8%D0%B1%D1%80%D0%B0%D0%BB%D1%82%D0%B0%D1%80%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Гибралтара (страница отсутствует)">Гибралтар</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%94%D0%B6%D0%B5%D1%80%D1%81%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Джерси (страница отсутствует)">Джерси</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%B0_%D0%9C%D1%8D%D0%BD&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу острова Мэн (страница отсутствует)">Остров Мэн</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A4%D0%B0%D1%80%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D1%85_%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B2%D0%BE%D0%B2&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Фарерских островов (страница отсутствует)">Фарерские острова</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A8%D0%BF%D0%B8%D1%86%D0%B1%D0%B5%D1%80%D0%B3%D0%B5%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Шпицбергена (страница отсутствует)">Шпицберген</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%AF%D0%BD-%D0%9C%D0%B0%D0%B9%D0%B5%D0%BD%D0%B0&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Ян-Майена (страница отсутствует)">Ян-Майен</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1px"><a href="/wiki/%D0%9D%D0%B5%D0%BF%D1%80%D0%B8%D0%B7%D0%BD%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B8_%D1%87%D0%B0%D1%81%D1%82%D0%B8%D1%87%D0%BD%D0%BE_%D0%BF%D1%80%D0%B8%D0%B7%D0%BD%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B3%D0%BE%D1%81%D1%83%D0%B4%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B0" title="Непризнанные и частично признанные государства">Непризнанные и частично<br />признанные государства</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%9D%D0%B0%D0%B3%D0%BE%D1%80%D0%BD%D0%BE-%D0%9A%D0%B0%D1%80%D0%B0%D0%B1%D0%B0%D1%85%D1%81%D0%BA%D0%BE%D0%B9_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Нагорно-Карабахской Республики (страница отсутствует)">Нагорно-Карабахская Республика</a><sup>1</sup></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%9F%D1%80%D0%B8%D0%B4%D0%BD%D0%B5%D1%81%D1%82%D1%80%D0%BE%D0%B2%D1%81%D0%BA%D0%BE%D0%B9_%D0%9C%D0%BE%D0%BB%D0%B4%D0%B0%D0%B2%D1%81%D0%BA%D0%BE%D0%B9_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Приднестровской Молдавской Республики (страница отсутствует)">Приднестровье</a></li>
+<li><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%AE%D0%B6%D0%BD%D0%BE%D0%B9_%D0%9E%D1%81%D0%B5%D1%82%D0%B8%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Список птиц, занесённых в Красную книгу Южной Осетии (страница отсутствует)">Южная Осетия</a><sup>1</sup></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div><sup>1</sup> В основном или полностью в Азии, в зависимости от проведения <a href="/wiki/%D0%93%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0_%D0%BC%D0%B5%D0%B6%D0%B4%D1%83_%D0%95%D0%B2%D1%80%D0%BE%D0%BF%D0%BE%D0%B9_%D0%B8_%D0%90%D0%B7%D0%B8%D0%B5%D0%B9" title="Граница между Европой и Азией">границы между Европой и Азией</a>. <sup>2</sup> В основном в Азии.</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1412
+Cached time: 20230217013650
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: []
+CPU time usage: 0.165 seconds
+Real time usage: 0.216 seconds
+Preprocessor visited node count: 2348/1000000
+Post‐expand include size: 108063/2097152 bytes
+Template argument size: 23049/2097152 bytes
+Highest expansion depth: 11/100
+Expensive parser function count: 5/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 661/5000000 bytes
+Lua time usage: 0.034/10.000 seconds
+Lua memory usage: 1761631/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  121.763      1 -total
+ 43.09%   52.463      1 Шаблон:Обновить
+ 37.97%   46.236      3 Шаблон:Навигационная_таблица
+ 30.77%   37.465      1 Шаблон:Mbox
+ 16.27%   19.815      1 Шаблон:Европа_по_темам
+ 15.52%   18.899      1 Шаблон:Азия_по_темам
+ 14.26%   17.368      1 Шаблон:Красная_книга_России_(списки)
+ 10.47%   12.747      1 Шаблон:Координационный_список
+  7.08%    8.619    119 Шаблон:Страна_по_темам
+  1.88%    2.293      1 Шаблон:Namespace_detect
+-->
+
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:95389-0!canonical and timestamp 20230217013649 and revision id 118052894. Rendering was triggered because: api-parse
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Список_птиц,_занесённых_в_Красную_книгу_России&amp;oldid=118052894">https://ru.wikipedia.org/w/index.php?title=Список_птиц,_занесённых_в_Красную_книгу_России&amp;oldid=118052894</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%BF%D0%B8%D1%81%D0%BA%D0%B8_%D0%B2%D0%B8%D0%B4%D0%BE%D0%B2,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Категория:Списки видов, занесённых в Красную книгу России">Списки видов, занесённых в Красную книгу России</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%BF%D0%B8%D1%81%D0%BA%D0%B8_%D0%BF%D1%82%D0%B8%D1%86_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Категория:Списки птиц России">Списки птиц России</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%B4%D0%BB%D1%8F_%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F" title="Категория:Википедия:Статьи для обновления">Википедия:Статьи для обновления</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D1%81_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D0%B0%D0%BC%D0%B8_%D0%BD%D0%B5%D0%B4%D0%BE%D1%81%D1%82%D0%B0%D1%82%D0%BA%D0%BE%D0%B2_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Википедия:Статьи с шаблонами недостатков по алфавиту">Википедия:Статьи с шаблонами недостатков по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D0%BF%D0%B8%D1%81%D0%BA%D0%B8_%D1%81%D1%82%D0%B0%D1%82%D0%B5%D0%B9_%D0%B4%D0%BB%D1%8F_%D0%BA%D0%BE%D0%BE%D1%80%D0%B4%D0%B8%D0%BD%D0%B0%D1%86%D0%B8%D0%B8_%D1%80%D0%B0%D0%B1%D0%BE%D1%82_%D0%B2_%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D0%BD%D0%BE%D0%BC_%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%B5_%D0%B8%D0%BC%D1%91%D0%BD" title="Категория:Списки статей для координации работ в основном пространстве имён">Списки статей для координации работ в основном пространстве имён</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="vector-menu mw-portlet mw-portlet-personal vector-user-menu-legacy" aria-labelledby="p-personal-label" role="navigation"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA+%D0%BF%D1%82%D0%B8%D1%86%2C+%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85+%D0%B2+%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E+%D0%BA%D0%BD%D0%B8%D0%B3%D1%83+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA+%D0%BF%D1%82%D0%B8%D1%86%2C+%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85+%D0%B2+%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E+%D0%BA%D0%BD%D0%B8%D0%B3%D1%83+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-namespaces" class="vector-menu mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-namespaces-label" role="navigation"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Пространства имён</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Просмотр основной страницы [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t"><span>Обсуждение</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	/>
+	<label
+		id="p-variants-label"
+		 aria-label="Изменить вариант языка"
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="vector-menu mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-views-label" role="navigation"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8"><span>Читать</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8&amp;action=edit" title="Эту статью можно изменять. Перед сохранением изменений, пожалуйста, нажмите кнопку предварительного просмотра для визуальной проверки результата [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	/>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="sentences" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Служебная:Поиск">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти">
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+<nav id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-participation" class="vector-menu mw-portlet mw-portlet-participation vector-menu-portal portal" aria-labelledby="p-participation-label" role="navigation"  >
+	<h3
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="vector-menu mw-portlet mw-portlet-tb vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8&amp;oldid=118052894" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86%2C_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8&amp;id=118052894&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4436357" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3&amp;bookcmd=book_creator&amp;referer=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA+%D0%BF%D1%82%D0%B8%D1%86%2C+%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85+%D0%B2+%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E+%D0%BA%D0%BD%D0%B8%D0%B3%D1%83+%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8" title="Создать книгу или коллекцию статей"><span>Создать книгу</span></a></li><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86%2C_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="vector-menu mw-portlet mw-portlet-lang vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		<div class="after-portlet after-portlet-lang"><span class="uls-after-portlet-link"></span><span class="wb-langlinks-add wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4436357#sitelinks-wikipedia" title="Добавить интервики-ссылки" class="wbc-editpage">Добавить ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 22 ноября 2021 в 13:30.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="license" href="//ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported">лицензии Creative Commons Attribution-ShareAlike</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org">Wikimedia Foundation, Inc.</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Заявление о куки</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.165","walltime":"0.216","ppvisitednodes":{"value":2348,"limit":1000000},"postexpandincludesize":{"value":108063,"limit":2097152},"templateargumentsize":{"value":23049,"limit":2097152},"expansiondepth":{"value":11,"limit":100},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":661,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  121.763      1 -total"," 43.09%   52.463      1 Шаблон:Обновить"," 37.97%   46.236      3 Шаблон:Навигационная_таблица"," 30.77%   37.465      1 Шаблон:Mbox"," 16.27%   19.815      1 Шаблон:Европа_по_темам"," 15.52%   18.899      1 Шаблон:Азия_по_темам"," 14.26%   17.368      1 Шаблон:Красная_книга_России_(списки)"," 10.47%   12.747      1 Шаблон:Координационный_список","  7.08%    8.619    119 Шаблон:Страна_по_темам","  1.88%    2.293      1 Шаблон:Namespace_detect"]},"scribunto":{"limitreport-timeusage":{"value":"0.034","limit":"10.000"},"limitreport-memusage":{"value":1761631,"limit":52428800}},"cachereport":{"origin":"mw1412","timestamp":"20230217013650","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0421\u043f\u0438\u0441\u043e\u043a \u043f\u0442\u0438\u0446, \u0437\u0430\u043d\u0435\u0441\u0451\u043d\u043d\u044b\u0445 \u0432 \u041a\u0440\u0430\u0441\u043d\u0443\u044e \u043a\u043d\u0438\u0433\u0443 \u0420\u043e\u0441\u0441\u0438\u0438","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8","sameAs":"http:\/\/www.wikidata.org\/entity\/Q4436357","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q4436357","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-10-31T05:35:42Z","dateModified":"2021-11-22T13:30:39Z","headline":"\u0441\u0442\u0430\u0442\u044c\u044f-\u0441\u043f\u0438\u0441\u043e\u043a \u0432 \u043f\u0440\u043e\u0435\u043a\u0442\u0435 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0421\u043f\u0438\u0441\u043e\u043a \u043f\u0442\u0438\u0446, \u0437\u0430\u043d\u0435\u0441\u0451\u043d\u043d\u044b\u0445 \u0432 \u041a\u0440\u0430\u0441\u043d\u0443\u044e \u043a\u043d\u0438\u0433\u0443 \u0420\u043e\u0441\u0441\u0438\u0438","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%A1%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%BF%D1%82%D0%B8%D1%86,_%D0%B7%D0%B0%D0%BD%D0%B5%D1%81%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B2_%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%83%D1%8E_%D0%BA%D0%BD%D0%B8%D0%B3%D1%83_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B8","sameAs":"http:\/\/www.wikidata.org\/entity\/Q4436357","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q4436357","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-10-31T05:35:42Z","dateModified":"2021-11-22T13:30:39Z","headline":"\u0441\u0442\u0430\u0442\u044c\u044f-\u0441\u043f\u0438\u0441\u043e\u043a \u0432 \u043f\u0440\u043e\u0435\u043a\u0442\u0435 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":147,"wgHostname":"mw1353"});});</script>
+</body>
+</html>

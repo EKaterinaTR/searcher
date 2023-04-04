@@ -1,0 +1,1111 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="ru" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Новонёбные — Википедия</title>
+<script>document.documentElement.className="client-js";(function(){var cookie=document.cookie.match(/(?:^|; )ruwikimwclientprefs=([^;]+)/);if(cookie){var featureName=cookie[1];document.documentElement.className=document.documentElement.className.replace(featureName+'-enabled',featureName+'-disabled');}}());RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgRequestId":"735ef808-e022-43d2-8642-fb9ce3c4ad93","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Новонёбные","wgTitle":"Новонёбные","wgCurRevisionId":125178062,"wgRevisionId":125178062,"wgArticleId":138078,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null
+,"wgUserGroups":["*"],"wgCategories":["Википедия:Cite web (не указан язык)","Страницы, использующие волшебные ссылки ISBN","Биологические статьи без ITIS","Животные по алфавиту","Новонёбные"],"wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgRelevantPageName":"Новонёбные","wgRelevantArticleId":138078,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":1}}},"wgStableRevisionId":125178062,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru"},"wgMFDisplayWikibaseDescriptions":{"search":true,"watchlist":true,"tagline":false,"nearby":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":10000,"wgNoticeProject":"wikipedia","wgVector2022PreviewPages":[],"wgMediaViewerOnClick":true,
+"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgULSCurrentAutonym":"русский","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgULSisLanguageSelectorEmpty":false,"wgWikibaseItemId":"Q19168","GEHomepageSuggestedEditsEnableTopics":true,"wgGETopicsMatchModeEnabled":false,"wgGEStructuredTaskRejectionReasonTextInputEnabled":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready",
+"ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.flaggedRevs.advanced","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","oojs-ui.styles.icons-media","oojs-ui-core.icons","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.gadget.collapserefs","ext.gadget.directLinkToCommons","ext.gadget.referenceTooltips","ext.gadget.logo","ext.gadget.edittop","ext.gadget.blpEditNotice","ext.gadget.wikibugs","ext.gadget.sidebarRelated","ext.gadget.navboxNavigation","ext.centralauth.centralautologin","ext.popups","ext.echo.centralauth","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@12s5i",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%2Cicons%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cjquery.makeCollapsible.styles%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=ru&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<noscript><link rel="stylesheet" href="/w/load.php?lang=ru&amp;modules=noscript&amp;only=styles&amp;skin=vector"/></noscript>
+<meta name="generator" content="MediaWiki 1.40.0-wmf.23"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="robots" content="max-image-preview:standard"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/f/f5/Neognathae.jpg"/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="1162"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Neognathae.jpg/800px-Neognathae.jpg"/>
+<meta property="og:image:width" content="800"/>
+<meta property="og:image:height" content="774"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Neognathae.jpg/640px-Neognathae.jpg"/>
+<meta property="og:image:width" content="640"/>
+<meta property="og:image:height" content="620"/>
+<meta name="viewport" content="width=1000"/>
+<meta property="og:title" content="Новонёбные — Википедия"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//ru.m.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%BE%D0%BD%D1%91%D0%B1%D0%BD%D1%8B%D0%B5"/>
+<link rel="alternate" type="application/x-wiki" title="Править" href="/w/index.php?title=%D0%9D%D0%BE%D0%B2%D0%BE%D0%BD%D1%91%D0%B1%D0%BD%D1%8B%D0%B5&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Википедия (ru)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//ru.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://ru.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%BE%D0%BD%D1%91%D0%B1%D0%BD%D1%8B%D0%B5"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="skin-vector-legacy mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Новонёбные rootpage-Новонёбные skin-vector action-view"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading mw-first-heading"><span class="mw-page-title-main">Новонёбные</span></h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">Материал из Википедии — свободной энциклопедии</div>
+		<div id="contentSub"><div id="mw-content-subtitle"></div></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти к навигации</a>
+		<a class="mw-jump-link" href="#searchInput">Перейти к поиску</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="ru" dir="ltr"><div class="mw-parser-output"><style data-mw-deduplicate="TemplateStyles:r125109415">.mw-parser-output .ts-Taxonomy-rang-row{display:table;text-align:left;width:100%;border-spacing:0}.mw-parser-output .ts-Taxonomy-rang-label{display:table-cell;text-align:right;vertical-align:top;padding-right:0.3em!important;white-space:nowrap}.mw-parser-output .ts-Taxonomy-rang-name{display:table-cell;text-align:left;vertical-align:bottom}.mw-parser-output .ts-Taxonomy-error{color:Dimgray;background-color:Gainsboro;font-size:85%}body.skin-minerva .mw-parser-output .ts-Taxonomy-rang-label{width:40%}@media(min-width:720px){.mw-parser-output .ts-Taxonomy-rang-label{width:40%!important}}</style>
+<table class="infobox infobox-2b59c6b65facc9a5" style="width: 22em; text-align: left; font-size: 88%; line-height: 1.5em; width:275px;" data-name="Таксон"><tbody><tr><th colspan="2" scope="colgroup" class="infobox-above" style="background:#ffc3cd;font-size:130%;">Новонёбные</th></tr><tr><td colspan="2" class="infobox-image" style=""> <span data-wikidata-property-id="P18" class="no-wikidata"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Neognathae.jpg" class="image"><img alt="Neognathae.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Neognathae.jpg/275px-Neognathae.jpg" decoding="async" width="275" height="266" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Neognathae.jpg/413px-Neognathae.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Neognathae.jpg/550px-Neognathae.jpg 2x" data-file-width="1000" data-file-height="968" /></a></span> </td></tr>
+<tr>
+<th colspan="2" scope="colgroup" class="infobox-header" style="background:#ffd1d9;font-size:110%;"><a href="/wiki/%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0" title="Биологическая систематика">Научная классификация</a></th>
+</tr>
+<tr>
+<td colspan="2" class="plainlist" style="text-align:center;font-size:110%;">
+<div data-expandtext="подробно" data-collapsetext="кратко" class="mw-collapsible mw-collapsed" style="font-size:95%; background-color: transparent; border:0;"><div class="ts-Taxonomy-rang-row"><div class="ts-Taxonomy-rang-label" style="color:inherit">Домен:</div><div class="ts-Taxonomy-rang-name"><a href="/wiki/Eukaryota" class="mw-redirect" title="Eukaryota">Эукариоты</a></div></div><div class="ts-Taxonomy-rang-row"><div class="ts-Taxonomy-rang-label" style="color:inherit">Царство:</div><div class="ts-Taxonomy-rang-name"><a href="/wiki/Animalia" class="mw-redirect" title="Animalia">Животные</a></div></div><div class="ts-Taxonomy-rang-row mw-collapsible-content"><div class="ts-Taxonomy-rang-label" style="color:#007878">Подцарство:</div><div class="ts-Taxonomy-rang-name"><a href="/wiki/Eumetazoa" class="mw-redirect" title="Eumetazoa">Эуметазои</a></div></div><div class="ts-Taxonomy-rang-row mw-collapsible-content"><div class="ts-Taxonomy-rang-label" style="color:#6F6F00">Без ранга:</div><div class="ts-Taxonomy-rang-name"><a href="/wiki/Bilateria" class="mw-redirect" title="Bilateria">Двусторонне-симметричные</a></div></div><div class="ts-Taxonomy-rang-row mw-collapsible-content"><div class="ts-Taxonomy-rang-label" style="color:#6F6F00">Без ранга:</div><div class="ts-Taxonomy-rang-name"><a href="/wiki/Deuterostomia" class="mw-redirect" title="Deuterostomia">Вторичноротые</a></div></div><div class="ts-Taxonomy-rang-row"><div class="ts-Taxonomy-rang-label" style="color:inherit">Тип:</div><div class="ts-Taxonomy-rang-name"><a href="/wiki/Chordata" class="mw-redirect" title="Chordata">Хордовые</a></div></div><div class="ts-Taxonomy-rang-row mw-collapsible-content"><div class="ts-Taxonomy-rang-label" style="color:#007878">Подтип:</div><div class="ts-Taxonomy-rang-name"><a href="/wiki/Vertebrata" class="mw-redirect" title="Vertebrata">Позвоночные</a></div></div><div class="ts-Taxonomy-rang-row mw-collapsible-content"><div class="ts-Taxonomy-rang-label" style="color:#007878">Инфратип:</div><div class="ts-Taxonomy-rang-name"><a href="/wiki/Gnathostomata" class="mw-redirect" title="Gnathostomata">Челюстноротые</a></div></div><div class="ts-Taxonomy-rang-row mw-collapsible-content"><div class="ts-Taxonomy-rang-label" style="color:#007878">Надкласс:</div><div class="ts-Taxonomy-rang-name"><a href="/wiki/Tetrapoda" class="mw-redirect" title="Tetrapoda">Четвероногие</a></div></div><div class="ts-Taxonomy-rang-row mw-collapsible-content"><div class="ts-Taxonomy-rang-label" style="color:#6F6F00">Клада:</div><div class="ts-Taxonomy-rang-name"><a href="/wiki/Amniota" class="mw-redirect" title="Amniota">Амниоты</a></div></div><div class="ts-Taxonomy-rang-row mw-collapsible-content"><div class="ts-Taxonomy-rang-label" style="color:#6F6F00">Клада:</div><div class="ts-Taxonomy-rang-name"><a href="/wiki/Sauropsida" class="mw-redirect" title="Sauropsida">Завропсиды</a></div></div><div class="ts-Taxonomy-rang-row"><div class="ts-Taxonomy-rang-label" style="color:inherit">Класс:</div><div class="ts-Taxonomy-rang-name"><a href="/wiki/Aves" class="mw-redirect" title="Aves">Птицы</a></div></div><div class="ts-Taxonomy-rang-row mw-collapsible-content"><div class="ts-Taxonomy-rang-label" style="color:#007878">Подкласс:</div><div class="ts-Taxonomy-rang-name"><a href="/wiki/Neornithes" class="mw-redirect" title="Neornithes">Веерохвостые птицы</a></div></div><div class="ts-Taxonomy-rang-row"><div class="ts-Taxonomy-rang-label" style="color:#007878">Инфракласс:</div><div class="ts-Taxonomy-rang-name"><b>Новонёбные</b></div></div></div></td>
+</tr>
+<tr>
+<th colspan="2" scope="colgroup" class="infobox-header" style="background:#ffd1d9;font-size:110%;">Международное научное название</th>
+</tr>
+<tr>
+<td colspan="2" class="plainlist" style="text-align:center;font-size:110%;">
+Neognathae <span style="font-variant:small-caps;"><a href="/w/index.php?title=Pycraft&amp;action=edit&amp;redlink=1" class="new" title="Pycraft (страница отсутствует)">Pycraft</a>, <a href="/wiki/1900_%D0%B3%D0%BE%D0%B4_%D0%B2_%D0%BD%D0%B0%D1%83%D0%BA%D0%B5" title="1900 год в науке">1900</a></span></td>
+</tr><tr><td colspan="2" class="infobox-below" style="background:#ffe0e5; font-size:90%; line-height:140%;;"><table role="presentation" width="100%" class="plainlinks" cellspacing="0" cellpadding="4"><tbody><tr><td style="vertical-align:middle"><a href="https://species.wikimedia.org/wiki/Neognathae?uselang=ru"><img alt="Логотип Викивидов" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/17px-Wikispecies-logo.svg.png" decoding="async" width="17" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/26px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/34px-Wikispecies-logo.svg.png 2x" data-file-width="941" data-file-height="1103" /></a><br /><a class="external text" href="https://species.wikimedia.org/wiki/Neognathae?uselang=ru">Систематика<br />в&#160;Викивидах</a></td><td style="vertical-align:middle"><a href="https://commons.wikimedia.org/wiki/Neognathae"><img alt="Логотип Викисклада" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/15px-Commons-logo.svg.png" decoding="async" width="15" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a><br /><a class="external text" href="https://commons.wikimedia.org/wiki/Neognathae">Изображения<br />на&#160;Викискладе</a></td><td><table width="100%" cellspacing="0" cellpadding="0" style="background:#ffe0e5; text-align:left">
+<tbody><tr><th scope="row" style="font-weight:normal; text-align:right" width="40%"><a href="/wiki/%D0%9D%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D1%86%D0%B5%D0%BD%D1%82%D1%80_%D0%B1%D0%B8%D0%BE%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9_%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D0%B8" title="Национальный центр биотехнологической информации">NCBI</a>&#160;&#160;</th><td class="plainlinks" style="vertical-align:middle"><span data-wikidata-claim-id="Q19168$1C6C43A4-94A1-42AC-A589-AD1C7B237CF1" class="wikidata-claim" data-wikidata-property-id="P685"><span class="wikidata-snak wikidata-main-snak"><a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&amp;id=8825">8825</a></span></span></td></tr><tr><th scope="row" style="font-weight:normal; text-align:right" width="40%"><a href="/wiki/%D0%AD%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8" title="Энциклопедия жизни">EOL</a>&#160;&#160;</th><td class="plainlinks" style="vertical-align:middle"><span data-wikidata-claim-id="Q19168$26E89BFA-E620-4834-9873-0232EE1D8435" class="wikidata-claim" data-wikidata-property-id="P830"><span class="wikidata-snak wikidata-main-snak"><a rel="nofollow" class="external text" href="https://eol.org/pages/4434461">4434461</a></span></span></td></tr><tr><th scope="row" style="font-weight:normal; text-align:right" width="40%"><a href="/wiki/Fossilworks" title="Fossilworks">FW</a>&#160;&#160;</th><td class="plainlinks" style="vertical-align:middle"><span data-wikidata-claim-id="Q19168$cbdffc97-404a-1f7b-3333-d6cfd3eed92b" class="wikidata-claim" data-wikidata-property-id="P842"><span class="wikidata-snak wikidata-main-snak"><a rel="nofollow" class="external text" href="http://www.fossilworks.org/cgi-bin/bridge.pl?a=taxonInfo&amp;taxon_no=98826">98826</a></span></span></td></tr></tbody></table></td></tr></tbody></table></td></tr>
+</tbody></table>
+<p><b>Новонёбные</b>, или <b>неогнаты</b> <span class="lang">(<a href="/wiki/%D0%9B%D0%B0%D1%82%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Латинский язык">лат.</a>&#160;<span dir="auto" lang="la">Neognathae</span>, от <a href="/wiki/%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D0%B3%D1%80%D0%B5%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Древнегреческий язык">др.-греч.</a> <span lang="grc"><span style="font-family: palatino linotype, new athena unicode, athena, gentium, code2000, serif; font-size: 105%;">νέος</span></span>&#160;— «новый», <a href="/wiki/%D0%94%D1%80%D0%B5%D0%B2%D0%BD%D0%B5%D0%B3%D1%80%D0%B5%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Древнегреческий язык">др.-греч.</a> <span lang="grc"><span style="font-family: palatino linotype, new athena unicode, athena, gentium, code2000, serif; font-size: 105%;">γνάθος</span></span>&#160;— «челюсть»)</span>,&#160;— клада <a href="/wiki/%D0%9F%D1%82%D0%B8%D1%86%D1%8B" title="Птицы">птиц</a>, охватывающая подавляющее большинство современных птиц (более 9000 видов), которой обычно придают ранг инфракласса. Противопоставлена кладе <a href="/wiki/%D0%91%D0%B5%D1%81%D0%BA%D0%B8%D0%BB%D0%B5%D0%B2%D1%8B%D0%B5" title="Бескилевые">бескилевых</a> (Palaeognathae).
+</p><p>Главной особенностью, отличающей новонёбных птиц от бескилевых, является структура <a href="/wiki/%D0%9D%D1%91%D0%B1%D0%BE" title="Нёбо">нёба</a>. Помимо этого, особых характеристик не существует: новонёбные включают как летающих, так и нелетающих птиц, например, <a href="/wiki/%D0%9F%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D0%BD%D1%8B" class="mw-redirect" title="Пингвины">пингвинов</a>. Наиболее крупным представителем новонёбных является <a href="/wiki/%D0%9A%D0%BE%D0%BD%D0%B4%D0%BE%D1%80" class="mw-redirect" title="Кондор">кондор</a> величиной до 1,3 метра и с размахом крыльев до 3,2 метра.
+</p><p>Первые ископаемые остатки новонёбных датируются <a href="/wiki/%D0%9C%D0%B5%D0%BB%D0%BE%D0%B2%D0%BE%D0%B9_%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4" title="Меловой период">меловым периодом</a> (около 70 миллионов лет назад). По некоторым версиям, новонёбные произошли от бескилевых и являются их дальнейшим эволюционным развитием. Согласно другой гипотезе, новонёбные существовали раньше бескилевых, и что последние всего лишь подгруппа, у которой заблокированы некоторые <a href="/wiki/%D0%93%D0%B5%D0%BD%D1%8B" class="mw-redirect" title="Гены">гены</a> новонёбных.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="ru" dir="ltr"><h2 id="mw-toc-heading">Содержание</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Классификация"><span class="tocnumber">1</span> <span class="toctext">Классификация</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Кладограмма"><span class="tocnumber">1.1</span> <span class="toctext">Кладограмма</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Ископаемые"><span class="tocnumber">1.2</span> <span class="toctext">Ископаемые</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Примечания"><span class="tocnumber">2</span> <span class="toctext">Примечания</span></a></li>
+</ul>
+</div>
+
+<h2><span id=".D0.9A.D0.BB.D0.B0.D1.81.D1.81.D0.B8.D1.84.D0.B8.D0.BA.D0.B0.D1.86.D0.B8.D1.8F"></span><span class="mw-headline" id="Классификация">Классификация</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9D%D0%BE%D0%B2%D0%BE%D0%BD%D1%91%D0%B1%D0%BD%D1%8B%D0%B5&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Редактировать раздел «Классификация»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9D%D0%BE%D0%B2%D0%BE%D0%BD%D1%91%D0%B1%D0%BD%D1%8B%D0%B5&amp;action=edit&amp;section=1" title="Редактировать раздел «Классификация»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Согласно данным <a href="/wiki/%D0%9C%D0%B5%D0%B6%D0%B4%D1%83%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D1%8B%D0%B9_%D1%81%D0%BE%D1%8E%D0%B7_%D0%BE%D1%80%D0%BD%D0%B8%D1%82%D0%BE%D0%BB%D0%BE%D0%B3%D0%BE%D0%B2" title="Международный союз орнитологов">Международного союза орнитологов</a>, на август 2020&#160;года таксон разделяют на 35 современных отрядов<sup id="cite_ref-IOC_1-0" class="reference"><a href="#cite_note-IOC-1">&#91;1&#93;</a></sup>:
+</p>
+<ul><li>Клада (надотряд) <a href="/wiki/Galloanseres" title="Galloanseres">Galloanseres</a>
+<ul><li><a href="/wiki/%D0%93%D1%83%D1%81%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%B5" title="Гусеобразные">Гусеобразные</a> (Anseriformes)</li>
+<li><a href="/wiki/%D0%9A%D1%83%D1%80%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%B5" title="Курообразные">Курообразные</a> (Galliformes)</li></ul></li>
+<li>Клада <a href="/wiki/Neoaves" title="Neoaves">Neoaves</a>
+<ul><li><a href="/wiki/Eurypygiformes" title="Eurypygiformes">Eurypygiformes</a></li>
+<li><a href="/wiki/%D0%90%D0%B8%D1%81%D1%82%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%B5" title="Аистообразные">Аистообразные</a>, или <a href="/wiki/%D0%93%D0%BE%D0%BB%D0%B5%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D0%B5" class="mw-redirect" title="Голенастые">голенастые</a> (Ciconiiformes)</li>
+<li><a href="/wiki/%D0%91%D1%83%D1%80%D0%B5%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%B5" title="Буревестникообразные">Буревестникообразные</a>, или <a href="/wiki/%D0%A2%D1%80%D1%83%D0%B1%D0%BA%D0%BE%D0%BD%D0%BE%D1%81%D1%8B%D0%B5" class="mw-redirect" title="Трубконосые">трубконосые</a> (Procellariiformes)</li>
+<li><a href="/wiki/%D0%92%D0%BE%D1%80%D0%BE%D0%B1%D1%8C%D0%B8%D0%BD%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%B5" title="Воробьинообразные">Воробьинообразные</a> (Passeriformes)</li>
+<li><a href="/wiki/%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%B5" class="mw-redirect" title="Гагарообразные">Гагарообразные</a> (Gaviiformes)</li>
+<li><a href="/wiki/%D0%93%D0%BE%D0%B0%D1%86%D0%B8%D0%BD%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%B5" class="mw-redirect" title="Гоацинообразные">Гоацинообразные</a> (Opisthocomiformes)</li>
+<li><a href="/wiki/%D0%93%D0%BE%D0%BB%D1%83%D0%B1%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%B5" title="Голубеобразные">Голубеобразные</a> (Columbiformes)</li>
+<li><a href="/wiki/%D0%94%D1%80%D0%BE%D1%84%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%B5" class="mw-redirect" title="Дрофообразные">Дрофообразные</a> (Otidiformes)</li>
+<li><a href="/wiki/%D0%94%D1%8F%D1%82%D0%BB%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%B5" title="Дятлообразные">Дятлообразные</a> (Piciformes)</li>
+<li><a href="/wiki/%D0%96%D1%83%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%B5" title="Журавлеобразные">Журавлеобразные</a> (Gruiformes)</li>
+<li><a href="/wiki/%D0%9A%D0%B0%D1%80%D0%B8%D0%B0%D0%BC%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%B5" class="mw-redirect" title="Кариамообразные">Кариамообразные</a> (Cariamiformes)</li>
+<li><a href="/wiki/%D0%9A%D0%BE%D0%B7%D0%BE%D0%B4%D0%BE%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%B5" title="Козодоеобразные">Козодоеобразные</a> (Caprimulgiformes)</li>
+<li><a href="/wiki/%D0%9A%D1%83%D0%BA%D1%83%D1%88%D0%BA%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%B5" title="Кукушкообразные">Кукушкообразные</a> (Cuculiformes)</li>
+<li><a href="/wiki/%D0%9A%D1%83%D1%80%D0%BE%D0%BB%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%B5" class="mw-redirect" title="Куролообразные">Куролообразные</a> (Leptosomiformes)</li>
+<li><a href="/wiki/%D0%9C%D0%B5%D0%B7%D0%B8%D1%82%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%B5" class="mw-redirect" title="Мезитообразные">Мезитообразные</a> (Mesitornithiformes)</li>
+<li><a href="/wiki/%D0%9E%D0%BB%D1%83%D1%88%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%B5" title="Олушеобразные">Олушеобразные</a> (Suliformes)</li>
+<li><a href="/wiki/%D0%9F%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0%D0%BD%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%B5" title="Пеликанообразные">Пеликанообразные</a>, или <a href="/wiki/%D0%92%D0%B5%D1%81%D0%BB%D0%BE%D0%BD%D0%BE%D0%B3%D0%B8%D0%B5_%D0%BF%D1%82%D0%B8%D1%86%D1%8B" class="mw-redirect" title="Веслоногие птицы">веслоногие</a> (Pelecaniformes)</li>
+<li><a href="/wiki/%D0%9F%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D0%BD%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%B5" class="mw-redirect" title="Пингвинообразные">Пингвинообразные</a> (Sphenisciformes)</li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%B3%D0%B0%D0%BD%D0%BA%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%B5" class="mw-redirect" title="Поганкообразные">Поганкообразные</a> (Podicipediformes)</li>
+<li><a href="/wiki/%D0%9F%D0%BE%D0%BF%D1%83%D0%B3%D0%B0%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%B5" title="Попугаеобразные">Попугаеобразные</a> (Psittaciformes)</li>
+<li><a href="/wiki/%D0%9F%D1%82%D0%B8%D1%86%D1%8B-%D0%BC%D1%8B%D1%88%D0%B8" title="Птицы-мыши">Птицы-мыши</a> (Coliiformes)</li>
+<li><a href="/wiki/%D0%9F%D1%82%D0%B8%D1%86%D1%8B-%D0%BD%D0%BE%D1%81%D0%BE%D1%80%D0%BE%D0%B3%D0%B8_(%D0%BE%D1%82%D1%80%D1%8F%D0%B4)" title="Птицы-носороги (отряд)">Птицы-носороги</a> (Bucerotiformes)</li>
+<li><a href="/wiki/%D0%A0%D0%B0%D0%BA%D1%88%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%B5" title="Ракшеобразные">Ракшеобразные</a> (Coraciiformes)</li>
+<li><a href="/wiki/%D0%A0%D0%B6%D0%B0%D0%BD%D0%BA%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%B5" title="Ржанкообразные">Ржанкообразные</a> (Charadriiformes)</li>
+<li><a href="/wiki/%D0%A0%D1%8F%D0%B1%D0%BA%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%B5" class="mw-redirect" title="Рябкообразные">Рябкообразные</a> (Pterocliformes)</li>
+<li><a href="/wiki/%D0%A1%D0%BE%D0%B2%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%B5" title="Совообразные">Совообразные</a> (Strigiformes)</li>
+<li><a href="/wiki/%D0%A1%D0%BE%D0%BA%D0%BE%D0%BB%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%B5" title="Соколообразные">Соколообразные</a> (Falconiformes)</li>
+<li><a href="/wiki/%D0%A1%D1%82%D1%80%D0%B8%D0%B6%D0%B5%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%B5" title="Стрижеобразные">Стрижеобразные</a> (Apodiformes)</li>
+<li><a href="/wiki/%D0%A2%D1%80%D0%BE%D0%B3%D0%BE%D0%BD%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%B5" class="mw-redirect" title="Трогонообразные">Трогонообразные</a> (Trogoniformes)</li>
+<li><a href="/wiki/%D0%A2%D1%83%D1%80%D0%B0%D0%BA%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%B5" class="mw-redirect" title="Туракообразные">Туракообразные</a> (Musophagiformes)</li>
+<li><a href="/wiki/%D0%A4%D0%B0%D1%8D%D1%82%D0%BE%D0%BD%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%B5" class="mw-redirect" title="Фаэтонообразные">Фаэтонообразные</a> (Phaethontiformes)</li>
+<li><a href="/wiki/%D0%A4%D0%BB%D0%B0%D0%BC%D0%B8%D0%BD%D0%B3%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%B5" title="Фламингообразные">Фламингообразные</a> (Phoenicopteriformes)</li>
+<li><a href="/wiki/%D0%AF%D1%81%D1%82%D1%80%D0%B5%D0%B1%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BD%D1%8B%D0%B5" title="Ястребообразные">Ястребообразные</a> (Accipitriformes)</li></ul></li></ul>
+<p>Отряд <a href="/wiki/%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%B3%D1%80%D0%B8%D1%84%D1%8B_(%D0%BE%D1%82%D1%80%D1%8F%D0%B4)" title="Американские грифы (отряд)">американских грифов</a> (Cathartiformes), выделяемый многими современными систематиками, Международным союзом орнитологов не признаётся, семейство <a href="/wiki/%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B5_%D0%B3%D1%80%D0%B8%D1%84%D1%8B" title="Американские грифы">американских грифов</a> (Cathartidae) включено в отряд ястребообразных<sup id="cite_ref-IOC_1-1" class="reference"><a href="#cite_note-IOC-1">&#91;1&#93;</a></sup>.
+</p>
+<h4><span id=".D0.9A.D0.BB.D0.B0.D0.B4.D0.BE.D0.B3.D1.80.D0.B0.D0.BC.D0.BC.D0.B0"></span><span class="mw-headline" id="Кладограмма">Кладограмма</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9D%D0%BE%D0%B2%D0%BE%D0%BD%D1%91%D0%B1%D0%BD%D1%8B%D0%B5&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Редактировать раздел «Кладограмма»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9D%D0%BE%D0%B2%D0%BE%D0%BD%D1%91%D0%B1%D0%BD%D1%8B%D0%B5&amp;action=edit&amp;section=2" title="Редактировать раздел «Кладограмма»">править код</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><a href="/wiki/%D0%9A%D0%BB%D0%B0%D0%B4%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0" title="Кладограмма">Кладограмма</a> новонёбных птиц основанная на работе Braun &amp; Kimball (2021)<sup id="cite_ref-Braun&amp;Kimball2021_2-0" class="reference"><a href="#cite_note-Braun&amp;Kimball2021-2">&#91;2&#93;</a></sup>
+</p>
+<style data-mw-deduplicate="TemplateStyles:r113274792">.mw-parser-output table.clade{border-spacing:0;margin:0;font-size:100%;line-height:100%;border-collapse:separate;width:auto}.mw-parser-output table.clade table.clade{width:100%;line-height:inherit}.mw-parser-output table.clade td.clade-label{width:0.7em;padding:0 0.15em;vertical-align:bottom;text-align:center;border-left:1px solid;border-bottom:1px solid;white-space:nowrap}.mw-parser-output table.clade td.clade-fixed-width{overflow:hidden;text-overflow:ellipsis}.mw-parser-output table.clade td.clade-fixed-width:hover{overflow:visible}.mw-parser-output table.clade td.clade-label.first{border-left:none;border-right:none}.mw-parser-output table.clade td.clade-label.reverse{border-left:none;border-right:1px solid}.mw-parser-output table.clade td.clade-slabel{padding:0 0.15em;vertical-align:top;text-align:center;border-left:1px solid;white-space:nowrap}.mw-parser-output table.clade td.clade-slabel:hover{overflow:visible}.mw-parser-output table.clade td.clade-slabel.last{border-left:none;border-right:none}.mw-parser-output table.clade td.clade-slabel.reverse{border-left:none;border-right:1px solid}.mw-parser-output table.clade td.clade-bar{vertical-align:middle;text-align:left;padding:0 0.5em;position:relative}.mw-parser-output table.clade td.clade-bar.reverse{text-align:right;position:relative}.mw-parser-output table.clade td.clade-leaf{border:0;padding:0;text-align:left}.mw-parser-output table.clade td.clade-leafR{border:0;padding:0;text-align:right}.mw-parser-output table.clade td.clade-leaf.reverse{text-align:right}.mw-parser-output table.clade:hover span.linkA{background-color:yellow}.mw-parser-output table.clade:hover span.linkB{background-color:green}</style>
+<table role="presentation" class="clade" style="font-size:80%;line-height:90%">
+
+
+<tbody><tr>
+<td class="clade-label first"><b>Neognathae</b>
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r113274792"/>
+<table role="presentation" class="clade">
+
+
+<tbody><tr>
+<td class="clade-label first"><a href="/wiki/Galloanserae" class="mw-redirect" title="Galloanserae">Galloanserae</a>
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r113274792"/>
+<table role="presentation" class="clade">
+
+
+<tbody><tr>
+<td class="clade-label first">&#8239;
+</td>
+<td rowspan="2" class="clade-leaf">
+<p><a href="/wiki/Galliformes" class="mw-redirect" title="Galliformes">Galliformes</a> <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Red_Junglefowl_by_George_Edward_Lodge_white_background.png" class="image"><img alt="Red Junglefowl by George Edward Lodge white background.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Red_Junglefowl_by_George_Edward_Lodge_white_background.png/60px-Red_Junglefowl_by_George_Edward_Lodge_white_background.png" decoding="async" width="60" height="45" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/Red_Junglefowl_by_George_Edward_Lodge_white_background.png/90px-Red_Junglefowl_by_George_Edward_Lodge_white_background.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/Red_Junglefowl_by_George_Edward_Lodge_white_background.png/120px-Red_Junglefowl_by_George_Edward_Lodge_white_background.png 2x" data-file-width="940" data-file-height="710" /></a>
+</p>
+</td></tr>
+<tr>
+<td class="clade-slabel">&#8239;
+</td></tr>
+<tr>
+<td class="clade-label">&#8239;
+</td>
+<td rowspan="2" class="clade-leaf">
+<p><a href="/wiki/Anseriformes" class="mw-redirect" title="Anseriformes">Anseriformes</a> <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Cuvier-97-Canard_colvert.jpg" class="image"><img alt="Cuvier-97-Canard colvert.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Cuvier-97-Canard_colvert.jpg/60px-Cuvier-97-Canard_colvert.jpg" decoding="async" width="60" height="33" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Cuvier-97-Canard_colvert.jpg/90px-Cuvier-97-Canard_colvert.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Cuvier-97-Canard_colvert.jpg/120px-Cuvier-97-Canard_colvert.jpg 2x" data-file-width="625" data-file-height="346" /></a>
+</p>
+</td></tr>
+<tr>
+<td class="clade-slabel last">&#8239;
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td class="clade-slabel">&#8239;
+</td></tr>
+<tr>
+<td class="clade-label"><a href="/wiki/Neoaves" title="Neoaves">Neoaves</a>
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r113274792"/>
+<table role="presentation" class="clade">
+
+
+<tbody><tr>
+<td class="clade-label first"><a href="/wiki/Mirandornithes" title="Mirandornithes">Mirandornithes</a>
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r113274792"/>
+<table role="presentation" class="clade">
+
+
+<tbody><tr>
+<td class="clade-label first">&#8239;
+</td>
+<td rowspan="2" class="clade-leaf">
+<p><a href="/wiki/Phoenicopteriformes" class="mw-redirect" title="Phoenicopteriformes">Phoenicopteriformes</a> <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Cuvier-87-Flamant_rouge.jpg" class="image"><img alt="Cuvier-87-Flamant rouge.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Cuvier-87-Flamant_rouge.jpg/50px-Cuvier-87-Flamant_rouge.jpg" decoding="async" width="50" height="65" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Cuvier-87-Flamant_rouge.jpg/75px-Cuvier-87-Flamant_rouge.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Cuvier-87-Flamant_rouge.jpg/100px-Cuvier-87-Flamant_rouge.jpg 2x" data-file-width="844" data-file-height="1098" /></a>
+</p>
+</td></tr>
+<tr>
+<td class="clade-slabel">&#8239;
+</td></tr>
+<tr>
+<td class="clade-label">&#8239;
+</td>
+<td rowspan="2" class="clade-leaf">
+<p><a href="/wiki/Podicipediformes" class="mw-redirect" title="Podicipediformes">Podicipediformes</a> <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Podiceps_cristatus_Naumann_white_background.jpg" class="image"><img alt="Podiceps cristatus Naumann white background.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Podiceps_cristatus_Naumann_white_background.jpg/50px-Podiceps_cristatus_Naumann_white_background.jpg" decoding="async" width="50" height="54" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/17/Podiceps_cristatus_Naumann_white_background.jpg/75px-Podiceps_cristatus_Naumann_white_background.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/17/Podiceps_cristatus_Naumann_white_background.jpg/100px-Podiceps_cristatus_Naumann_white_background.jpg 2x" data-file-width="710" data-file-height="772" /></a>
+</p>
+</td></tr>
+<tr>
+<td class="clade-slabel last">&#8239;
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td class="clade-slabel">&#8239;
+</td></tr>
+<tr>
+<td class="clade-label"><a href="/w/index.php?title=Columbimorphae&amp;action=edit&amp;redlink=1" class="new" title="Columbimorphae (страница отсутствует)">Columbimorphae</a>
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r113274792"/>
+<table role="presentation" class="clade">
+
+
+<tbody><tr>
+<td class="clade-label first">&#8239;
+</td>
+<td rowspan="2" class="clade-leaf">
+<p><a href="/wiki/Columbiformes" class="mw-redirect" title="Columbiformes">Columbiformes</a>
+</p>
+</td></tr>
+<tr>
+<td class="clade-slabel">&#8239;
+</td></tr>
+<tr>
+<td class="clade-label">&#8239;
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r113274792"/>
+<table role="presentation" class="clade">
+
+
+<tbody><tr>
+<td class="clade-label first">&#8239;
+</td>
+<td rowspan="2" class="clade-leaf">
+<p><a href="/wiki/Mesitornithiformes" class="mw-redirect" title="Mesitornithiformes">Mesitornithiformes</a><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Monias_benschi_1912_white_background.jpg" class="image"><img alt="Monias benschi 1912 white background.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Monias_benschi_1912_white_background.jpg/50px-Monias_benschi_1912_white_background.jpg" decoding="async" width="50" height="19" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Monias_benschi_1912_white_background.jpg/75px-Monias_benschi_1912_white_background.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Monias_benschi_1912_white_background.jpg/100px-Monias_benschi_1912_white_background.jpg 2x" data-file-width="1010" data-file-height="375" /></a>
+</p>
+</td></tr>
+<tr>
+<td class="clade-slabel">&#8239;
+</td></tr>
+<tr>
+<td class="clade-label">&#8239;
+</td>
+<td rowspan="2" class="clade-leaf">
+<p><a href="/wiki/Pterocliformes" class="mw-redirect" title="Pterocliformes">Pterocliformes</a><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Pterocles_quadricinctus_white_background.jpg" class="image"><img alt="Pterocles quadricinctus white background.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Pterocles_quadricinctus_white_background.jpg/50px-Pterocles_quadricinctus_white_background.jpg" decoding="async" width="50" height="52" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Pterocles_quadricinctus_white_background.jpg/75px-Pterocles_quadricinctus_white_background.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/Pterocles_quadricinctus_white_background.jpg/100px-Pterocles_quadricinctus_white_background.jpg 2x" data-file-width="482" data-file-height="500" /></a>
+</p>
+</td></tr>
+<tr>
+<td class="clade-slabel last">&#8239;
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td class="clade-slabel last">&#8239;
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td class="clade-slabel">&#8239;
+</td></tr>
+<tr>
+<td class="clade-label"><a href="/wiki/Passerea" title="Passerea">Passerea</a>
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r113274792"/>
+<table role="presentation" class="clade">
+
+
+<tbody><tr>
+<td class="clade-label first">&#8239;
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r113274792"/>
+<table role="presentation" class="clade">
+
+
+<tbody><tr>
+<td class="clade-label first">&#8239;
+</td>
+<td rowspan="2" class="clade-leaf">
+<p><a href="/wiki/Otidiformes" class="mw-redirect" title="Otidiformes">Otidiformes</a> <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Cayley_Ardeotis_australis_flipped.jpg" class="image"><img alt="Cayley Ardeotis australis flipped.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Cayley_Ardeotis_australis_flipped.jpg/50px-Cayley_Ardeotis_australis_flipped.jpg" decoding="async" width="50" height="60" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Cayley_Ardeotis_australis_flipped.jpg/75px-Cayley_Ardeotis_australis_flipped.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/29/Cayley_Ardeotis_australis_flipped.jpg/100px-Cayley_Ardeotis_australis_flipped.jpg 2x" data-file-width="1423" data-file-height="1708" /></a>
+</p>
+</td></tr>
+<tr>
+<td class="clade-slabel">&#8239;
+</td></tr>
+<tr>
+<td class="clade-label">&#8239;
+</td>
+<td rowspan="2" class="clade-leaf">
+<p><a href="/wiki/Cuculiformes" class="mw-redirect" title="Cuculiformes">Cuculiformes</a><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:British_birds_in_their_haunts_(Cuculus_canorus).jpg" class="image"><img alt="British birds in their haunts (Cuculus canorus).jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/British_birds_in_their_haunts_%28Cuculus_canorus%29.jpg/50px-British_birds_in_their_haunts_%28Cuculus_canorus%29.jpg" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/10/British_birds_in_their_haunts_%28Cuculus_canorus%29.jpg/75px-British_birds_in_their_haunts_%28Cuculus_canorus%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/10/British_birds_in_their_haunts_%28Cuculus_canorus%29.jpg/100px-British_birds_in_their_haunts_%28Cuculus_canorus%29.jpg 2x" data-file-width="680" data-file-height="528" /></a>
+</p>
+</td></tr>
+<tr>
+<td class="clade-slabel last">&#8239;
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td class="clade-slabel">&#8239;
+</td></tr>
+<tr>
+<td class="clade-label">&#8239;
+</td>
+<td rowspan="2" class="clade-leaf">
+<p><a href="/wiki/Musophagiformes" class="mw-redirect" title="Musophagiformes">Musophagiformes</a><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Planches_enlumin%C3%A9es_d%27histoire_naturelle_(1765)_(Tauraco_persa).jpg" class="image"><img alt="Planches enluminées d&#39;histoire naturelle (1765) (Tauraco persa).jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Planches_enlumin%C3%A9es_d%27histoire_naturelle_%281765%29_%28Tauraco_persa%29.jpg/50px-Planches_enlumin%C3%A9es_d%27histoire_naturelle_%281765%29_%28Tauraco_persa%29.jpg" decoding="async" width="50" height="63" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Planches_enlumin%C3%A9es_d%27histoire_naturelle_%281765%29_%28Tauraco_persa%29.jpg/75px-Planches_enlumin%C3%A9es_d%27histoire_naturelle_%281765%29_%28Tauraco_persa%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Planches_enlumin%C3%A9es_d%27histoire_naturelle_%281765%29_%28Tauraco_persa%29.jpg/100px-Planches_enlumin%C3%A9es_d%27histoire_naturelle_%281765%29_%28Tauraco_persa%29.jpg 2x" data-file-width="592" data-file-height="744" /></a>
+</p>
+</td></tr>
+<tr>
+<td class="clade-slabel">&#8239;
+</td></tr>
+<tr>
+<td class="clade-label">&#8239;
+</td>
+<td rowspan="2" class="clade-leaf">
+<p><a href="/wiki/Gruiformes" class="mw-redirect" title="Gruiformes">Gruiformes</a> <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Cuvier-72-Grue_cendr%C3%A9e.jpg" class="image"><img alt="Cuvier-72-Grue cendrée.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Cuvier-72-Grue_cendr%C3%A9e.jpg/50px-Cuvier-72-Grue_cendr%C3%A9e.jpg" decoding="async" width="50" height="71" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Cuvier-72-Grue_cendr%C3%A9e.jpg/75px-Cuvier-72-Grue_cendr%C3%A9e.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Cuvier-72-Grue_cendr%C3%A9e.jpg/100px-Cuvier-72-Grue_cendr%C3%A9e.jpg 2x" data-file-width="576" data-file-height="820" /></a>
+</p>
+</td></tr>
+<tr>
+<td class="clade-slabel">&#8239;
+</td></tr>
+<tr>
+<td class="clade-label">&#8239;
+</td>
+<td rowspan="2" class="clade-leaf">
+<p><a href="/wiki/Charadriiformes" class="mw-redirect" title="Charadriiformes">Charadriiformes</a> <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:D%27Orbigny-Mouette_rieuse_et_Bec-en-ciseaux_white_background.jpg" class="image"><img alt="D&#39;Orbigny-Mouette rieuse et Bec-en-ciseaux white background.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/D%27Orbigny-Mouette_rieuse_et_Bec-en-ciseaux_white_background.jpg/50px-D%27Orbigny-Mouette_rieuse_et_Bec-en-ciseaux_white_background.jpg" decoding="async" width="50" height="33" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/20/D%27Orbigny-Mouette_rieuse_et_Bec-en-ciseaux_white_background.jpg/75px-D%27Orbigny-Mouette_rieuse_et_Bec-en-ciseaux_white_background.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/20/D%27Orbigny-Mouette_rieuse_et_Bec-en-ciseaux_white_background.jpg/100px-D%27Orbigny-Mouette_rieuse_et_Bec-en-ciseaux_white_background.jpg 2x" data-file-width="834" data-file-height="552" /></a>
+</p>
+</td></tr>
+<tr>
+<td class="clade-slabel">&#8239;
+</td></tr>
+<tr>
+<td class="clade-label">&#8239;
+</td>
+<td rowspan="2" class="clade-leaf">
+<p><a href="/wiki/Opisthocomiformes" class="mw-redirect" title="Opisthocomiformes">Opisthocomiformes</a><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Cuvier-59-Hoazin_hupp%C3%A9.jpg" class="image"><img alt="Cuvier-59-Hoazin huppé.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Cuvier-59-Hoazin_hupp%C3%A9.jpg/60px-Cuvier-59-Hoazin_hupp%C3%A9.jpg" decoding="async" width="60" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Cuvier-59-Hoazin_hupp%C3%A9.jpg/90px-Cuvier-59-Hoazin_hupp%C3%A9.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/94/Cuvier-59-Hoazin_hupp%C3%A9.jpg/120px-Cuvier-59-Hoazin_hupp%C3%A9.jpg 2x" data-file-width="850" data-file-height="603" /></a>
+</p>
+</td></tr>
+<tr>
+<td class="clade-slabel">&#8239;
+</td></tr>
+<tr>
+<td class="clade-label">&#8239;
+</td>
+<td rowspan="2" class="clade-leaf">
+<p><a href="/w/index.php?title=Strisores&amp;action=edit&amp;redlink=1" class="new" title="Strisores (страница отсутствует)">Strisores</a>
+</p>
+</td></tr>
+<tr>
+<td class="clade-slabel">&#8239;
+</td></tr>
+<tr>
+<td class="clade-label"><a href="/w/index.php?title=Ardeae&amp;action=edit&amp;redlink=1" class="new" title="Ardeae (страница отсутствует)">Ardeae</a>
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r113274792"/>
+<table role="presentation" class="clade">
+
+
+<tbody><tr>
+<td class="clade-label first"><a href="/w/index.php?title=Eurypygimorphae&amp;action=edit&amp;redlink=1" class="new" title="Eurypygimorphae (страница отсутствует)">Eurypygimorphae</a>
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r113274792"/>
+<table role="presentation" class="clade">
+
+
+<tbody><tr>
+<td class="clade-label first">&#8239;
+</td>
+<td rowspan="2" class="clade-leaf">
+<p><a href="/wiki/Phaethontiformes" class="mw-redirect" title="Phaethontiformes">Phaethontiformes</a> <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Cuvier-95-Phaeton_%C3%A0_bec_rouge.jpg" class="image"><img alt="Cuvier-95-Phaeton à bec rouge.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Cuvier-95-Phaeton_%C3%A0_bec_rouge.jpg/90px-Cuvier-95-Phaeton_%C3%A0_bec_rouge.jpg" decoding="async" width="90" height="17" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Cuvier-95-Phaeton_%C3%A0_bec_rouge.jpg/135px-Cuvier-95-Phaeton_%C3%A0_bec_rouge.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Cuvier-95-Phaeton_%C3%A0_bec_rouge.jpg/180px-Cuvier-95-Phaeton_%C3%A0_bec_rouge.jpg 2x" data-file-width="1350" data-file-height="260" /></a>
+</p>
+</td></tr>
+<tr>
+<td class="clade-slabel">&#8239;
+</td></tr>
+<tr>
+<td class="clade-label">&#8239;
+</td>
+<td rowspan="2" class="clade-leaf">
+<p><a href="/wiki/Eurypygiformes" title="Eurypygiformes">Eurypygiformes</a> <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Cuvier-72-Caurale_soleil.jpg" class="image"><img alt="Cuvier-72-Caurale soleil.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cuvier-72-Caurale_soleil.jpg/50px-Cuvier-72-Caurale_soleil.jpg" decoding="async" width="50" height="45" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cuvier-72-Caurale_soleil.jpg/75px-Cuvier-72-Caurale_soleil.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cuvier-72-Caurale_soleil.jpg/100px-Cuvier-72-Caurale_soleil.jpg 2x" data-file-width="758" data-file-height="677" /></a>
+</p>
+</td></tr>
+<tr>
+<td class="clade-slabel last">&#8239;
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td class="clade-slabel">&#8239;
+</td></tr>
+<tr>
+<td class="clade-label"><a href="/w/index.php?title=Aequornithes&amp;action=edit&amp;redlink=1" class="new" title="Aequornithes (страница отсутствует)">Aequornithes</a>
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r113274792"/>
+<table role="presentation" class="clade">
+
+
+<tbody><tr>
+<td class="clade-label first">&#8239;
+</td>
+<td rowspan="2" class="clade-leaf">
+<p><a href="/wiki/Gaviiformes" class="mw-redirect" title="Gaviiformes">Gaviiformes</a><sup id="cite_ref-Boyd_3-0" class="reference"><a href="#cite_note-Boyd-3">&#91;3&#93;</a></sup>
+</p>
+</td></tr>
+<tr>
+<td class="clade-slabel">&#8239;
+</td></tr>
+<tr>
+<td class="clade-label">&#8239;
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r113274792"/>
+<table role="presentation" class="clade">
+
+
+<tbody><tr>
+<td class="clade-label first"><a href="/w/index.php?title=Austrodyptornithes&amp;action=edit&amp;redlink=1" class="new" title="Austrodyptornithes (страница отсутствует)">Austrodyptornithes</a>
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r113274792"/>
+<table role="presentation" class="clade">
+
+
+<tbody><tr>
+<td class="clade-label first">&#8239;
+</td>
+<td rowspan="2" class="clade-leaf">
+<p><a href="/wiki/Procellariiformes" class="mw-redirect" title="Procellariiformes">Procellariiformes</a> <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Thalassarche_chlororhynchos_1838.jpg" class="image"><img alt="Thalassarche chlororhynchos 1838.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Thalassarche_chlororhynchos_1838.jpg/40px-Thalassarche_chlororhynchos_1838.jpg" decoding="async" width="40" height="51" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Thalassarche_chlororhynchos_1838.jpg/60px-Thalassarche_chlororhynchos_1838.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Thalassarche_chlororhynchos_1838.jpg/80px-Thalassarche_chlororhynchos_1838.jpg 2x" data-file-width="3426" data-file-height="4406" /></a>
+</p>
+</td></tr>
+<tr>
+<td class="clade-slabel">&#8239;
+</td></tr>
+<tr>
+<td class="clade-label">&#8239;
+</td>
+<td rowspan="2" class="clade-leaf">
+<p><a href="/wiki/Sphenisciformes" class="mw-redirect" title="Sphenisciformes">Sphenisciformes</a> <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chinstrap_Penguin_white_background.jpg" class="image"><img alt="Chinstrap Penguin white background.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Chinstrap_Penguin_white_background.jpg/40px-Chinstrap_Penguin_white_background.jpg" decoding="async" width="40" height="62" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Chinstrap_Penguin_white_background.jpg/60px-Chinstrap_Penguin_white_background.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/78/Chinstrap_Penguin_white_background.jpg/80px-Chinstrap_Penguin_white_background.jpg 2x" data-file-width="257" data-file-height="396" /></a>
+</p>
+</td></tr>
+<tr>
+<td class="clade-slabel last">&#8239;
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td class="clade-slabel">&#8239;
+</td></tr>
+<tr>
+<td class="clade-label">&#8239;
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r113274792"/>
+<table role="presentation" class="clade">
+
+
+<tbody><tr>
+<td class="clade-label first">&#8239;
+</td>
+<td rowspan="2" class="clade-leaf">
+<p><a href="/wiki/Ciconiiformes" class="mw-redirect" title="Ciconiiformes">Ciconiiformes</a> <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Wei%C3%9Fstorch_(Ciconia_ciconia)_white_background.jpg" class="image"><img alt="Weißstorch (Ciconia ciconia) white background.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Wei%C3%9Fstorch_%28Ciconia_ciconia%29_white_background.jpg/50px-Wei%C3%9Fstorch_%28Ciconia_ciconia%29_white_background.jpg" decoding="async" width="50" height="71" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Wei%C3%9Fstorch_%28Ciconia_ciconia%29_white_background.jpg/75px-Wei%C3%9Fstorch_%28Ciconia_ciconia%29_white_background.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Wei%C3%9Fstorch_%28Ciconia_ciconia%29_white_background.jpg/100px-Wei%C3%9Fstorch_%28Ciconia_ciconia%29_white_background.jpg 2x" data-file-width="407" data-file-height="574" /></a>
+</p>
+</td></tr>
+<tr>
+<td class="clade-slabel">&#8239;
+</td></tr>
+<tr>
+<td class="clade-label">&#8239;
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r113274792"/>
+<table role="presentation" class="clade">
+
+
+<tbody><tr>
+<td class="clade-label first">&#8239;
+</td>
+<td rowspan="2" class="clade-leaf">
+<p><a href="/wiki/Suliformes" class="mw-redirect" title="Suliformes">Suliformes</a> <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Cormorant_in_Strunjan,_white_background.png" class="image"><img alt="Cormorant in Strunjan, white background.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Cormorant_in_Strunjan%2C_white_background.png/70px-Cormorant_in_Strunjan%2C_white_background.png" decoding="async" width="70" height="55" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Cormorant_in_Strunjan%2C_white_background.png/105px-Cormorant_in_Strunjan%2C_white_background.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Cormorant_in_Strunjan%2C_white_background.png/140px-Cormorant_in_Strunjan%2C_white_background.png 2x" data-file-width="832" data-file-height="649" /></a>
+</p>
+</td></tr>
+<tr>
+<td class="clade-slabel">&#8239;
+</td></tr>
+<tr>
+<td class="clade-label">&#8239;
+</td>
+<td rowspan="2" class="clade-leaf">
+<p><a href="/wiki/Pelecaniformes" class="mw-redirect" title="Pelecaniformes">Pelecaniformes</a><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Spot-billed_pelican_takeoff_white_background.jpg" class="image"><img alt="Spot-billed pelican takeoff white background.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Spot-billed_pelican_takeoff_white_background.jpg/70px-Spot-billed_pelican_takeoff_white_background.jpg" decoding="async" width="70" height="72" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/53/Spot-billed_pelican_takeoff_white_background.jpg/105px-Spot-billed_pelican_takeoff_white_background.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/53/Spot-billed_pelican_takeoff_white_background.jpg/140px-Spot-billed_pelican_takeoff_white_background.jpg 2x" data-file-width="830" data-file-height="858" /></a>
+</p>
+</td></tr>
+<tr>
+<td class="clade-slabel last">&#8239;
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td class="clade-slabel last">&#8239;
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td class="clade-slabel last">&#8239;
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td class="clade-slabel last">&#8239;
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td class="clade-slabel last">&#8239;
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td class="clade-slabel">&#8239;
+</td></tr>
+<tr>
+<td class="clade-label"><a href="/w/index.php?title=Telluraves&amp;action=edit&amp;redlink=1" class="new" title="Telluraves (страница отсутствует)">Telluraves</a>
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r113274792"/>
+<table role="presentation" class="clade">
+
+
+<tbody><tr>
+<td class="clade-label first"><a href="/w/index.php?title=Accipitrimorphae&amp;action=edit&amp;redlink=1" class="new" title="Accipitrimorphae (страница отсутствует)">Accipitrimorphae</a>
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r113274792"/>
+<table role="presentation" class="clade">
+
+
+<tbody><tr>
+<td class="clade-label first">&#8239;
+</td>
+<td rowspan="2" class="clade-leaf">
+<p><a href="/wiki/Cathartiformes" class="mw-redirect" title="Cathartiformes">Cathartiformes</a> <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Vintage_Vulture_Drawing_white_background.jpg" class="image"><img alt="Vintage Vulture Drawing white background.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Vintage_Vulture_Drawing_white_background.jpg/30px-Vintage_Vulture_Drawing_white_background.jpg" decoding="async" width="30" height="60" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Vintage_Vulture_Drawing_white_background.jpg/45px-Vintage_Vulture_Drawing_white_background.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/42/Vintage_Vulture_Drawing_white_background.jpg/60px-Vintage_Vulture_Drawing_white_background.jpg 2x" data-file-width="205" data-file-height="410" /></a>
+</p>
+</td></tr>
+<tr>
+<td class="clade-slabel">&#8239;
+</td></tr>
+<tr>
+<td class="clade-label">&#8239;
+</td>
+<td rowspan="2" class="clade-leaf">
+<p><a href="/wiki/Accipitriformes" class="mw-redirect" title="Accipitriformes">Accipitriformes</a> <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Golden_Eagle_Illustration_white_background.jpg" class="image"><img alt="Golden Eagle Illustration white background.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Golden_Eagle_Illustration_white_background.jpg/40px-Golden_Eagle_Illustration_white_background.jpg" decoding="async" width="40" height="53" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Golden_Eagle_Illustration_white_background.jpg/60px-Golden_Eagle_Illustration_white_background.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Golden_Eagle_Illustration_white_background.jpg/80px-Golden_Eagle_Illustration_white_background.jpg 2x" data-file-width="362" data-file-height="481" /></a>
+</p>
+</td></tr>
+<tr>
+<td class="clade-slabel last">&#8239;
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td class="clade-slabel">&#8239;
+</td></tr>
+<tr>
+<td class="clade-label">&#8239;
+</td>
+<td rowspan="2" class="clade-leaf">
+<p><a href="/wiki/Strigiformes" class="mw-redirect" title="Strigiformes">Strigiformes</a> <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Cuvier-12-Hibou_%C3%A0_huppe_courte.jpg" class="image"><img alt="Cuvier-12-Hibou à huppe courte.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cuvier-12-Hibou_%C3%A0_huppe_courte.jpg/40px-Cuvier-12-Hibou_%C3%A0_huppe_courte.jpg" decoding="async" width="40" height="52" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cuvier-12-Hibou_%C3%A0_huppe_courte.jpg/60px-Cuvier-12-Hibou_%C3%A0_huppe_courte.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Cuvier-12-Hibou_%C3%A0_huppe_courte.jpg/80px-Cuvier-12-Hibou_%C3%A0_huppe_courte.jpg 2x" data-file-width="514" data-file-height="670" /></a>
+</p>
+</td></tr>
+<tr>
+<td class="clade-slabel">&#8239;
+</td></tr>
+<tr>
+<td class="clade-label"><a href="/w/index.php?title=Coraciimorphae&amp;action=edit&amp;redlink=1" class="new" title="Coraciimorphae (страница отсутствует)">Coraciimorphae</a>
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r113274792"/>
+<table role="presentation" class="clade">
+
+
+<tbody><tr>
+<td class="clade-label first">&#8239;
+</td>
+<td rowspan="2" class="clade-leaf">
+<p><a href="/wiki/Coliiformes" class="mw-redirect" title="Coliiformes">Coliiformes</a>
+</p>
+</td></tr>
+<tr>
+<td class="clade-slabel">&#8239;
+</td></tr>
+<tr>
+<td class="clade-label"><a href="/w/index.php?title=Cavitaves&amp;action=edit&amp;redlink=1" class="new" title="Cavitaves (страница отсутствует)">Cavitaves</a>
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r113274792"/>
+<table role="presentation" class="clade">
+
+
+<tbody><tr>
+<td class="clade-label first">&#8239;
+</td>
+<td rowspan="2" class="clade-leaf">
+<p><a href="/wiki/Leptosomiformes" class="mw-redirect" title="Leptosomiformes">Leptosomiformes</a>
+</p>
+</td></tr>
+<tr>
+<td class="clade-slabel">&#8239;
+</td></tr>
+<tr>
+<td class="clade-label">&#8239;
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r113274792"/>
+<table role="presentation" class="clade">
+
+
+<tbody><tr>
+<td class="clade-label first">&#8239;
+</td>
+<td rowspan="2" class="clade-leaf">
+<p><a href="/wiki/Trogoniformes" class="mw-redirect" title="Trogoniformes">Trogoniformes</a> <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Harpactes_fasciatus_1838_white_background.jpg" class="image"><img alt="Harpactes fasciatus 1838 white background.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Harpactes_fasciatus_1838_white_background.jpg/40px-Harpactes_fasciatus_1838_white_background.jpg" decoding="async" width="40" height="47" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Harpactes_fasciatus_1838_white_background.jpg/60px-Harpactes_fasciatus_1838_white_background.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Harpactes_fasciatus_1838_white_background.jpg/80px-Harpactes_fasciatus_1838_white_background.jpg 2x" data-file-width="598" data-file-height="708" /></a>
+</p>
+</td></tr>
+<tr>
+<td class="clade-slabel">&#8239;
+</td></tr>
+<tr>
+<td class="clade-label"><a href="/w/index.php?title=Picocoraciae&amp;action=edit&amp;redlink=1" class="new" title="Picocoraciae (страница отсутствует)">Picocoraciae</a>
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r113274792"/>
+<table role="presentation" class="clade">
+
+
+<tbody><tr>
+<td class="clade-label first">&#8239;
+</td>
+<td rowspan="2" class="clade-leaf">
+<p><a href="/wiki/Bucerotiformes" class="mw-redirect" title="Bucerotiformes">Bucerotiformes</a>
+</p>
+</td></tr>
+<tr>
+<td class="clade-slabel">&#8239;
+</td></tr>
+<tr>
+<td class="clade-label"><a href="/w/index.php?title=Picodynastornithes&amp;action=edit&amp;redlink=1" class="new" title="Picodynastornithes (страница отсутствует)">Picodynastornithes</a>
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r113274792"/>
+<table role="presentation" class="clade">
+
+
+<tbody><tr>
+<td class="clade-label first">&#8239;
+</td>
+<td rowspan="2" class="clade-leaf">
+<p><a href="/wiki/Coraciiformes" class="mw-redirect" title="Coraciiformes">Coraciiformes</a> <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Cuvier-46-Martin-p%C3%AAcheur_d%27Europe.jpg" class="image"><img alt="Cuvier-46-Martin-pêcheur d&#39;Europe.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Cuvier-46-Martin-p%C3%AAcheur_d%27Europe.jpg/50px-Cuvier-46-Martin-p%C3%AAcheur_d%27Europe.jpg" decoding="async" width="50" height="43" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Cuvier-46-Martin-p%C3%AAcheur_d%27Europe.jpg/75px-Cuvier-46-Martin-p%C3%AAcheur_d%27Europe.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Cuvier-46-Martin-p%C3%AAcheur_d%27Europe.jpg/100px-Cuvier-46-Martin-p%C3%AAcheur_d%27Europe.jpg 2x" data-file-width="478" data-file-height="409" /></a>
+</p>
+</td></tr>
+<tr>
+<td class="clade-slabel">&#8239;
+</td></tr>
+<tr>
+<td class="clade-label">&#8239;
+</td>
+<td rowspan="2" class="clade-leaf">
+<p><a href="/wiki/Piciformes" class="mw-redirect" title="Piciformes">Piciformes</a>
+</p>
+</td></tr>
+<tr>
+<td class="clade-slabel last">&#8239;
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td class="clade-slabel last">&#8239;
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td class="clade-slabel last">&#8239;
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td class="clade-slabel last">&#8239;
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td class="clade-slabel last">&#8239;
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td class="clade-slabel">&#8239;
+</td></tr>
+<tr>
+<td class="clade-label"><a href="/w/index.php?title=Australaves&amp;action=edit&amp;redlink=1" class="new" title="Australaves (страница отсутствует)">Australaves</a>
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r113274792"/>
+<table role="presentation" class="clade">
+
+
+<tbody><tr>
+<td class="clade-label first">&#8239;
+</td>
+<td rowspan="2" class="clade-leaf">
+<p><a href="/wiki/Cariamiformes" class="mw-redirect" title="Cariamiformes">Cariamiformes</a> <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Cariama_cristata_1838_white_background.jpg" class="image"><img alt="Cariama cristata 1838 white background.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Cariama_cristata_1838_white_background.jpg/50px-Cariama_cristata_1838_white_background.jpg" decoding="async" width="50" height="64" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Cariama_cristata_1838_white_background.jpg/75px-Cariama_cristata_1838_white_background.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Cariama_cristata_1838_white_background.jpg/100px-Cariama_cristata_1838_white_background.jpg 2x" data-file-width="3369" data-file-height="4291" /></a>
+</p>
+</td></tr>
+<tr>
+<td class="clade-slabel">&#8239;
+</td></tr>
+<tr>
+<td class="clade-label"><a href="/wiki/Eufalconimorphae" title="Eufalconimorphae">Eufalconimorphae</a>
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r113274792"/>
+<table role="presentation" class="clade">
+
+
+<tbody><tr>
+<td class="clade-label first">&#8239;
+</td>
+<td rowspan="2" class="clade-leaf">
+<p><a href="/wiki/Falconiformes" class="mw-redirect" title="Falconiformes">Falconiformes</a><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:NewZealandFalconBuller_white_background.jpg" class="image"><img alt="NewZealandFalconBuller white background.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/NewZealandFalconBuller_white_background.jpg/35px-NewZealandFalconBuller_white_background.jpg" decoding="async" width="35" height="71" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/NewZealandFalconBuller_white_background.jpg/53px-NewZealandFalconBuller_white_background.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/NewZealandFalconBuller_white_background.jpg/70px-NewZealandFalconBuller_white_background.jpg 2x" data-file-width="263" data-file-height="530" /></a>
+</p>
+</td></tr>
+<tr>
+<td class="clade-slabel">&#8239;
+</td></tr>
+<tr>
+<td class="clade-label"><a href="/w/index.php?title=Psittacopasserae&amp;action=edit&amp;redlink=1" class="new" title="Psittacopasserae (страница отсутствует)">Psittacopasserae</a>
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r113274792"/>
+<table role="presentation" class="clade">
+
+
+<tbody><tr>
+<td class="clade-label first">&#8239;
+</td>
+<td rowspan="2" class="clade-leaf">
+<p><a href="/wiki/Psittaciformes" class="mw-redirect" title="Psittaciformes">Psittaciformes</a> <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Pyrrhura_lucianii_-_Castelnau_2.jpg" class="image"><img alt="Pyrrhura lucianii - Castelnau 2.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Pyrrhura_lucianii_-_Castelnau_2.jpg/60px-Pyrrhura_lucianii_-_Castelnau_2.jpg" decoding="async" width="60" height="58" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Pyrrhura_lucianii_-_Castelnau_2.jpg/90px-Pyrrhura_lucianii_-_Castelnau_2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Pyrrhura_lucianii_-_Castelnau_2.jpg/120px-Pyrrhura_lucianii_-_Castelnau_2.jpg 2x" data-file-width="1680" data-file-height="1624" /></a>
+</p>
+</td></tr>
+<tr>
+<td class="clade-slabel">&#8239;
+</td></tr>
+<tr>
+<td class="clade-label">&#8239;
+</td>
+<td rowspan="2" class="clade-leaf">
+<p><a href="/wiki/Passeriformes" class="mw-redirect" title="Passeriformes">Passeriformes</a> <a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Cuvier-33-Moineau_domestique.jpg" class="image"><img alt="Cuvier-33-Moineau domestique.jpg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Cuvier-33-Moineau_domestique.jpg/50px-Cuvier-33-Moineau_domestique.jpg" decoding="async" width="50" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Cuvier-33-Moineau_domestique.jpg/75px-Cuvier-33-Moineau_domestique.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/50/Cuvier-33-Moineau_domestique.jpg/100px-Cuvier-33-Moineau_domestique.jpg 2x" data-file-width="614" data-file-height="371" /></a>
+</p>
+</td></tr>
+<tr>
+<td class="clade-slabel last">&#8239;
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td class="clade-slabel last">&#8239;
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td class="clade-slabel last">&#8239;
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td class="clade-slabel last">&#8239;
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td class="clade-slabel last">&#8239;
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td class="clade-slabel last">&#8239;
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td class="clade-slabel last">&#8239;
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td class="clade-slabel last">&#8239;
+</td></tr></tbody></table>
+<h3><span id=".D0.98.D1.81.D0.BA.D0.BE.D0.BF.D0.B0.D0.B5.D0.BC.D1.8B.D0.B5"></span><span class="mw-headline" id="Ископаемые">Ископаемые</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9D%D0%BE%D0%B2%D0%BE%D0%BD%D1%91%D0%B1%D0%BD%D1%8B%D0%B5&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Редактировать раздел «Ископаемые»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9D%D0%BE%D0%B2%D0%BE%D0%BD%D1%91%D0%B1%D0%BD%D1%8B%D0%B5&amp;action=edit&amp;section=3" title="Редактировать раздел «Ископаемые»">править код</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li>Отряд Odontopterygiformes с единственным семейством <a href="/wiki/Pelagornithidae" title="Pelagornithidae">Pelagornithidae</a>&#160;— ископаемые большие морские птицы, остатки которых известны из отложений всех континентов, начиная с позднего <a href="/wiki/%D0%9F%D0%B0%D0%BB%D0%B5%D0%BE%D1%86%D0%B5%D0%BD" title="Палеоцен">палеоцена</a> и заканчивая поздним <a href="/wiki/%D0%9F%D0%BB%D0%B8%D0%BE%D1%86%D0%B5%D0%BD" title="Плиоцен">плиоценом</a><sup id="cite_ref-Mayr_2011_4-0" class="reference"><a href="#cite_note-Mayr_2011-4">&#91;4&#93;</a></sup><sup id="cite_ref-Mayr_2017_5-0" class="reference"><a href="#cite_note-Mayr_2017-5">&#91;5&#93;</a></sup>.</li></ul>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D0.B5.D1.87.D0.B0.D0.BD.D0.B8.D1.8F"></span><span class="mw-headline" id="Примечания">Примечания</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%9D%D0%BE%D0%B2%D0%BE%D0%BD%D1%91%D0%B1%D0%BD%D1%8B%D0%B5&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Редактировать раздел «Примечания»">править</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%9D%D0%BE%D0%B2%D0%BE%D0%BD%D1%91%D0%B1%D0%BD%D1%8B%D0%B5&amp;action=edit&amp;section=4" title="Редактировать раздел «Примечания»">править код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-IOC-1"><span class="mw-cite-backlink">↑ <a href="#cite_ref-IOC_1-0"><sup><i><b>1</b></i></sup></a> <a href="#cite_ref-IOC_1-1"><sup><i><b>2</b></i></sup></a></span> <span class="reference-text"><span class="citation"><a rel="nofollow" class="external text" href="https://www.worldbirdnames.org/ioc-lists/master-list-2">Master Lists</a>&#160;: <span style="font-style:normal"><a href="/wiki/">&#32;</a>&#91;<a href="/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA" title="Английский язык"><span style="color:#252525; cursor:help; text-decoration:inherit; -moz-text-decoration-color:#252525; text-decoration-color:#252525;" title="язык: английский">англ.</span></a>&#93;</span>&#160;/ Gill F., Donsker D. &amp; Rasmussen P. (Eds.)&#160;// IOC World Bird List (v 10.2).&#160;—&#32;2020.&#160;— <a href="/wiki/%D0%98%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82%D0%BE%D1%80_%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE_%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82%D0%B0" class="mw-redirect" title="Идентификатор цифрового объекта">doi</a>:<a rel="nofollow" class="external text" href="https://dx.doi.org/10.14344/IOC.ML.10.2">10.14344/IOC.ML.10.2</a>.</span>&#160;<small class="ref-info" style="cursor:help;" title="Дата последней проверки этой ссылки">(Дата обращения: 25&#160;сентября&#160;2020)</small>.</span>
+</li>
+<li id="cite_note-Braun&amp;Kimball2021-2"><span class="mw-cite-backlink"><a href="#cite_ref-Braun&amp;Kimball2021_2-0">↑</a></span> <span class="reference-text">Braun, E.L. &amp; Kimball, R.T. (2021) Data types and the phylogeny of Neoaves. <i>Birds</i>, 2(1), 1-22; <a rel="nofollow" class="external free" href="https://doi.org/10.3390/birds2010001">https://doi.org/10.3390/birds2010001</a></span>
+</li>
+<li id="cite_note-Boyd-3"><span class="mw-cite-backlink"><a href="#cite_ref-Boyd_3-0">↑</a></span> <span class="reference-text"><span class="citation"><i>Boyd, John</i>&#32;<span lang="und"><a rel="nofollow" class="external text" href="http://jboyd.net/Taxo/Orders.pdf"><i>NEORNITHES: 46 Orders</i></a></span><span class="hidden-ref" style="display:none;">&#160;&#160;<small class="ref-info" style="cursor:help;" title="на неопределённом языке">(неопр.)</small></span>.&#32;<i>John Boyd's website</i>&#32;(2007).&#32;<small>Дата обращения: 30 декабря 2017.</small></span></span>
+</li>
+<li id="cite_note-Mayr_2011-4"><span class="mw-cite-backlink"><a href="#cite_ref-Mayr_2011_4-0">↑</a></span> <span class="reference-text"><span class="citation"><i>Mayr G.</i>&#32;Cenozoic mystery birds – on the phylogenetic affinities of bony-toothed birds (Pelagornithidae)&#160;// Zoologica Scripta.&#160;— 2011.&#160;— Vol.&#160;40, <span class="nowrap">№ 5</span>.&#160;— P.&#160;448—467.&#160;— <a href="/wiki/Doi" class="mw-redirect" title="Doi">doi</a>:<a rel="nofollow" class="external text" href="https://dx.doi.org/10.1111%2Fj.1463-6409.2011.00484.x">10.1111/j.1463-6409.2011.00484.x</a>.</span></span>
+</li>
+<li id="cite_note-Mayr_2017-5"><span class="mw-cite-backlink"><a href="#cite_ref-Mayr_2017_5-0">↑</a></span> <span class="reference-text"><span class="citation no-wikidata" data-wikidata-property-id="P1343"><i>Mayr G.</i>&#32;<span data-wikidata-qualifier-id="P248"><a rel="nofollow" class="external text" href="http://books.google.com/books?id=k_68jwEACAAJ&amp;pg=PA121">7. Galloanseres: “Fowl” and Kin</a></span>&#32;&#47;&#47;&#32;Avian Evolution. The Fossil Record of Birds and Its Paleobiological Significance.&#160;— Chichester: John Wiley &amp; Sons, 2017.&#160;— P.&#160;121—124.&#160;— 306&#160;p.&#160;— (Topics in Paleobiology).&#160;— <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9781119020769" class="internal mw-magiclink-isbn">ISBN 978-1-119-02076-9</a>.&#160;— <a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%98%D1%81%D1%82%D0%BE%D1%87%D0%BD%D0%B8%D0%BA%D0%B8_%D0%BA%D0%BD%D0%B8%D0%B3/9781119020677" class="internal mw-magiclink-isbn">ISBN 978-1-119-02067-7</a>.&#160;— <a href="/wiki/Doi" class="mw-redirect" title="Doi">doi</a>:<a rel="nofollow" class="external text" href="https://dx.doi.org/10.1002%2F9781119020677.ch7">10.1002/9781119020677.ch7</a>.</span></span>
+</li>
+</ol></div></div>
+<!-- 
+NewPP limit report
+Parsed by mw1397
+Cached time: 20230218141329
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [show‐toc]
+CPU time usage: 0.424 seconds
+Real time usage: 0.533 seconds
+Preprocessor visited node count: 6168/1000000
+Post‐expand include size: 176062/2097152 bytes
+Template argument size: 15574/2097152 bytes
+Highest expansion depth: 22/100
+Expensive parser function count: 10/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 51717/5000000 bytes
+Lua time usage: 0.232/10.000 seconds
+Lua memory usage: 5693843/52428800 bytes
+Number of Wikibase entities loaded: 8/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  438.859      1 -total
+ 76.33%  334.974     26 Шаблон:Clade
+ 58.12%  255.053      1 Шаблон:Таксон
+ 50.45%  221.388      1 Шаблон:Карточка
+ 35.36%  155.177     26 Шаблон:Wikidata
+ 19.18%   84.182      1 Шаблон:Примечания
+ 15.82%   69.419      8 Шаблон:If-wikidata
+  6.74%   29.569      1 Шаблон:Статья
+  3.91%   17.143      1 Шаблон:Бсокр
+  3.55%   15.596      1 Шаблон:L6e
+-->
+
+<!-- Saved in parser cache with key ruwiki:pcache:idhash:138078-0!canonical and timestamp 20230218141329 and revision id 125178062. Rendering was triggered because: page-view
+ -->
+</div><!--esi <esi:include src="/esitest-fa8a495983347898/content" /> --><noscript><img src="//ru.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter" data-nosnippet="">Источник — <a dir="ltr" href="https://ru.wikipedia.org/w/index.php?title=Новонёбные&amp;oldid=125178062">https://ru.wikipedia.org/w/index.php?title=Новонёбные&amp;oldid=125178062</a></div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8" title="Служебная:Категории">Категории</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%96%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D0%B5_%D0%BF%D0%BE_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D0%B8%D1%82%D1%83" title="Категория:Животные по алфавиту">Животные по алфавиту</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9D%D0%BE%D0%B2%D0%BE%D0%BD%D1%91%D0%B1%D0%BD%D1%8B%D0%B5" title="Категория:Новонёбные">Новонёбные</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Скрытые категории: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:Cite_web_(%D0%BD%D0%B5_%D1%83%D0%BA%D0%B0%D0%B7%D0%B0%D0%BD_%D1%8F%D0%B7%D1%8B%D0%BA)" title="Категория:Википедия:Cite web (не указан язык)">Википедия:Cite web (не указан язык)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B,_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%D1%89%D0%B8%D0%B5_%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D0%BD%D1%8B%D0%B5_%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_ISBN" title="Категория:Страницы, использующие волшебные ссылки ISBN">Страницы, использующие волшебные ссылки ISBN</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%91%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8_%D0%B1%D0%B5%D0%B7_ITIS" title="Категория:Биологические статьи без ITIS">Биологические статьи без ITIS</a></li></ul></div></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Навигация</h2>
+	<div id="mw-head">
+		
+<nav id="p-personal" class="vector-menu mw-portlet mw-portlet-personal vector-user-menu-legacy" aria-labelledby="p-personal-label" role="navigation"  >
+	<h3
+		id="p-personal-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Персональные инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span title="Страница участника для моего IP">Вы не представились системе</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D1%91_%D0%BE%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5" title="Страница обсуждений для моего IP [n]" accesskey="n"><span>Обсуждение</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9C%D0%BE%D0%B9_%D0%B2%D0%BA%D0%BB%D0%B0%D0%B4" title="Список правок, сделанных с этого IP-адреса [y]" accesskey="y"><span>Вклад</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D1%82%D1%8C_%D1%83%D1%87%D1%91%D1%82%D0%BD%D1%83%D1%8E_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D1%8C&amp;returnto=%D0%9D%D0%BE%D0%B2%D0%BE%D0%BD%D1%91%D0%B1%D0%BD%D1%8B%D0%B5" title="Мы предлагаем вам создать учётную запись и войти в систему, хотя это и не обязательно."><span>Создать учётную запись</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D1%85%D0%BE%D0%B4&amp;returnto=%D0%9D%D0%BE%D0%B2%D0%BE%D0%BD%D1%91%D0%B1%D0%BD%D1%8B%D0%B5" title="Здесь можно зарегистрироваться в системе, но это необязательно. [o]" accesskey="o"><span>Войти</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			
+<nav id="p-namespaces" class="vector-menu mw-portlet mw-portlet-namespaces vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-namespaces-label" role="navigation"  >
+	<h3
+		id="p-namespaces-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Пространства имён</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/%D0%9D%D0%BE%D0%B2%D0%BE%D0%BD%D1%91%D0%B1%D0%BD%D1%8B%D0%B5" title="Просмотр основной страницы [c]" accesskey="c"><span>Статья</span></a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%9D%D0%BE%D0%B2%D0%BE%D0%BD%D1%91%D0%B1%D0%BD%D1%8B%D0%B5" rel="discussion" title="Обсуждение основной страницы [t]" accesskey="t"><span>Обсуждение</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-variants" class="vector-menu mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation"  >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-variants-label"
+	/>
+	<label
+		id="p-variants-label"
+		 aria-label="Изменить вариант языка"
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">русский</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			
+<nav id="p-views" class="vector-menu mw-portlet mw-portlet-views vector-menu-tabs vector-menu-tabs-legacy" aria-labelledby="p-views-label" role="navigation"  >
+	<h3
+		id="p-views-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Просмотры</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected mw-list-item"><a href="/wiki/%D0%9D%D0%BE%D0%B2%D0%BE%D0%BD%D1%91%D0%B1%D0%BD%D1%8B%D0%B5"><span>Читать</span></a></li><li id="ca-ve-edit" class="mw-list-item"><a href="/w/index.php?title=%D0%9D%D0%BE%D0%B2%D0%BE%D0%BD%D1%91%D0%B1%D0%BD%D1%8B%D0%B5&amp;veaction=edit" title="Редактировать данную страницу [v]" accesskey="v"><span>Править</span></a></li><li id="ca-edit" class="collapsible mw-list-item"><a href="/w/index.php?title=%D0%9D%D0%BE%D0%B2%D0%BE%D0%BD%D1%91%D0%B1%D0%BD%D1%8B%D0%B5&amp;action=edit" title="Эту статью можно изменять. Перед сохранением изменений, пожалуйста, нажмите кнопку предварительного просмотра для визуальной проверки результата [e]" accesskey="e"><span>Править код</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=%D0%9D%D0%BE%D0%B2%D0%BE%D0%BD%D1%91%D0%B1%D0%BD%D1%8B%D0%B5&amp;action=history" title="Журнал изменений страницы [h]" accesskey="h"><span>История</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			
+<nav id="p-cactions" class="vector-menu mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="Больше возможностей" >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox"
+		aria-labelledby="p-cactions-label"
+	/>
+	<label
+		id="p-cactions-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Ещё</span>
+	</label>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			
+<div id="p-search" role="search" class="vector-search-box-vue  vector-search-box-show-thumbnail vector-search-box-auto-expand-width vector-search-box">
+	<div>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Искать в Википедии" aria-label="Искать в Википедии" autocapitalize="sentences" title="Искать в Википедии [f]" accesskey="f" id="searchInput"
+				>
+				<input type="hidden" name="title" value="Служебная:Поиск">
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Найти страницы, содержащие указанный текст" value="Найти">
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Перейти к странице, имеющей в точности такое название" value="Перейти">
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel" class="vector-legacy-sidebar">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0"
+			title="Перейти на заглавную страницу"></a>
+	</div>
+	
+<nav id="p-navigation" class="vector-menu mw-portlet mw-portlet-navigation vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation"  >
+	<h3
+		id="p-navigation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Навигация</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Перейти на заглавную страницу [z]" accesskey="z"><span>Заглавная страница</span></a></li><li id="n-content" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5"><span>Содержание</span></a></li><li id="n-featured" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%98%D0%B7%D0%B1%D1%80%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D1%8C%D0%B8" title="Статьи, считающиеся лучшими статьями проекта"><span>Избранные статьи</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BB%D1%83%D1%87%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0" title="Посмотреть случайно выбранную страницу [x]" accesskey="x"><span>Случайная статья</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%A2%D0%B5%D0%BA%D1%83%D1%89%D0%B8%D0%B5_%D1%81%D0%BE%D0%B1%D1%8B%D1%82%D0%B8%D1%8F" title="Статьи о текущих событиях в мире"><span>Текущие события</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_ru.wikipedia.org&amp;uselang=ru" title="Поддержите нас"><span>Пожертвовать</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-participation" class="vector-menu mw-portlet mw-portlet-participation vector-menu-portal portal" aria-labelledby="p-participation-label" role="navigation"  >
+	<h3
+		id="p-participation-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Участие</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D1%8F_%D0%BE%D0%B1_%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%D1%85" title="Сообщить об ошибке в этой статье"><span>Сообщить об ошибке</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0:%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5"><span>Как править статьи</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BE%D0%BE%D0%B1%D1%89%D0%B5%D1%81%D1%82%D0%B2%D0%BE" title="О проекте, о том, чем здесь можно заниматься, а также — где что находится"><span>Сообщество</span></a></li><li id="n-forum" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A4%D0%BE%D1%80%D1%83%D0%BC" title="Форум участников Википедии"><span>Форум</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8" title="Список последних изменений [r]" accesskey="r"><span>Свежие правки</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9D%D0%BE%D0%B2%D1%8B%D0%B5_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список недавно созданных страниц"><span>Новые страницы</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%A1%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B0" title="Место расположения Справки"><span>Справка</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-tb" class="vector-menu mw-portlet mw-portlet-tb vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation"  >
+	<h3
+		id="p-tb-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Инструменты</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D1%81%D1%8B%D0%BB%D0%BA%D0%B8_%D1%81%D1%8E%D0%B4%D0%B0/%D0%9D%D0%BE%D0%B2%D0%BE%D0%BD%D1%91%D0%B1%D0%BD%D1%8B%D0%B5" title="Список всех страниц, ссылающихся на данную [j]" accesskey="j"><span>Ссылки сюда</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%B2%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BA%D0%B8/%D0%9D%D0%BE%D0%B2%D0%BE%D0%BD%D1%91%D0%B1%D0%BD%D1%8B%D0%B5" rel="nofollow" title="Последние изменения в страницах, на которые ссылается эта страница [k]" accesskey="k"><span>Связанные правки</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A1%D0%BF%D0%B5%D1%86%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B" title="Список служебных страниц [q]" accesskey="q"><span>Служебные страницы</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=%D0%9D%D0%BE%D0%B2%D0%BE%D0%BD%D1%91%D0%B1%D0%BD%D1%8B%D0%B5&amp;oldid=125178062" title="Постоянная ссылка на эту версию страницы"><span>Постоянная ссылка</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=%D0%9D%D0%BE%D0%B2%D0%BE%D0%BD%D1%91%D0%B1%D0%BD%D1%8B%D0%B5&amp;action=info" title="Подробнее об этой странице"><span>Сведения о странице</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%9D%D0%BE%D0%B2%D0%BE%D0%BD%D1%91%D0%B1%D0%BD%D1%8B%D0%B5&amp;id=125178062&amp;wpFormIdentifier=titleform" title="Информация о том, как цитировать эту страницу"><span>Цитировать страницу</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q19168" title="Ссылка на связанный элемент репозитория данных [g]" accesskey="g"><span>Элемент Викиданных</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-coll-print_export" class="vector-menu mw-portlet mw-portlet-coll-print_export vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation"  >
+	<h3
+		id="p-coll-print_export-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">Печать/экспорт</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%9A%D0%BE%D0%BB%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3&amp;bookcmd=book_creator&amp;referer=%D0%9D%D0%BE%D0%B2%D0%BE%D0%BD%D1%91%D0%B1%D0%BD%D1%8B%D0%B5" title="Создать книгу или коллекцию статей"><span>Создать книгу</span></a></li><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:DownloadAsPdf&amp;page=%D0%9D%D0%BE%D0%B2%D0%BE%D0%BD%D1%91%D0%B1%D0%BD%D1%8B%D0%B5&amp;action=show-download-screen" title="Скачать эту страницу как файл PDF"><span>Скачать как PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=%D0%9D%D0%BE%D0%B2%D0%BE%D0%BD%D1%91%D0%B1%D0%BD%D1%8B%D0%B5&amp;printable=yes" title="Версия этой страницы для печати [p]" accesskey="p"><span>Версия для печати</span></a></li></ul>
+		
+	</div>
+</nav>
+
+<nav id="p-wikibase-otherprojects" class="vector-menu mw-portlet mw-portlet-wikibase-otherprojects vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation"  >
+	<h3
+		id="p-wikibase-otherprojects-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">В других проектах</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Neognathae" hreflang="en"><span>Викисклад</span></a></li><li class="wb-otherproject-link wb-otherproject-species mw-list-item"><a href="https://species.wikimedia.org/wiki/Neognathae" hreflang="en"><span>Викивиды</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	
+<nav id="p-lang" class="vector-menu mw-portlet mw-portlet-lang vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation"  >
+	<h3
+		id="p-lang-label"
+		
+		class="vector-menu-heading "
+	>
+		<span class="vector-menu-heading-label">На других языках</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-af mw-list-item"><a href="https://af.wikipedia.org/wiki/Neognathae" title="Neognathae — африкаанс" lang="af" hreflang="af" class="interlanguage-link-target"><span>Afrikaans</span></a></li><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%AD%D8%AF%D9%8A%D8%AB%D8%A7%D8%AA_%D8%A7%D9%84%D9%81%D9%83" title="حديثات الفك — арабский" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-arz mw-list-item"><a href="https://arz.wikipedia.org/wiki/%D8%AD%D8%AF%D9%8A%D8%AB%D8%A7%D8%AA_%D8%A7%D9%84%D9%81%D9%83" title="حديثات الفك — Egyptian Arabic" lang="arz" hreflang="arz" class="interlanguage-link-target"><span>مصرى</span></a></li><li class="interlanguage-link interwiki-ast mw-list-item"><a href="https://ast.wikipedia.org/wiki/Neognathae" title="Neognathae — астурийский" lang="ast" hreflang="ast" class="interlanguage-link-target"><span>Asturianu</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/Yenidamaql%C4%B1lar" title="Yenidamaqlılar — азербайджанский" lang="az" hreflang="az" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-azb mw-list-item"><a href="https://azb.wikipedia.org/wiki/%DB%8C%D8%A6%D9%86%DB%8C%E2%80%8C%D8%AF%D8%A7%D9%85%D8%A7%D9%82%D9%84%DB%8C%E2%80%8C%D9%84%D8%A7%D8%B1" title="یئنی‌داماقلی‌لار — South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target"><span>تۆرکجه</span></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%B0%D0%BD%D1%91%D0%B1%D0%BD%D1%8B%D1%8F" title="Нованёбныя — белорусский" lang="be" hreflang="be" class="interlanguage-link-target"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%A1%D1%8A%D1%89%D0%B8%D0%BD%D1%81%D0%BA%D0%B8_%D0%BF%D1%82%D0%B8%D1%86%D0%B8" title="Същински птици — болгарский" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Ne%C3%B2gnats" title="Neògnats — каталанский" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-ceb mw-list-item"><a href="https://ceb.wikipedia.org/wiki/Neognathae" title="Neognathae — себуано" lang="ceb" hreflang="ceb" class="interlanguage-link-target"><span>Cebuano</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Letci" title="Letci — чешский" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-cv mw-list-item"><a href="https://cv.wikipedia.org/wiki/%C3%87%C4%95%D0%BD%C4%95_%C3%A7%C4%83%D0%B2%D0%B0%D1%80_%D0%BC%D0%B0%D1%87%D1%87%D0%B8%D0%BB%D0%BB%D0%B8%D1%81%D0%B5%D0%BC" title="Çĕнĕ çăвар маччиллисем — чувашский" lang="cv" hreflang="cv" class="interlanguage-link-target"><span>Чӑвашла</span></a></li><li class="interlanguage-link interwiki-cy mw-list-item"><a href="https://cy.wikipedia.org/wiki/Neognathae" title="Neognathae — валлийский" lang="cy" hreflang="cy" class="interlanguage-link-target"><span>Cymraeg</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Neukieferv%C3%B6gel" title="Neukiefervögel — немецкий" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Neognathae" title="Neognathae — английский" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-eo mw-list-item"><a href="https://eo.wikipedia.org/wiki/Neognatoj" title="Neognatoj — эсперанто" lang="eo" hreflang="eo" class="interlanguage-link-target"><span>Esperanto</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Neognathae" title="Neognathae — испанский" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Neognathae" title="Neognathae — баскский" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D9%86%D9%88%D8%A2%D8%B1%D9%88%D8%A7%D8%B1%DA%AF%D8%A7%D9%86" title="نوآروارگان — персидский" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Neognathae" title="Neognathae — французский" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-fy mw-list-item"><a href="https://fy.wikipedia.org/wiki/Nijkakigen" title="Nijkakigen — западнофризский" lang="fy" hreflang="fy" class="interlanguage-link-target"><span>Frysk</span></a></li><li class="interlanguage-link interwiki-ga mw-list-item"><a href="https://ga.wikipedia.org/wiki/Neognathae" title="Neognathae — ирландский" lang="ga" hreflang="ga" class="interlanguage-link-target"><span>Gaeilge</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/Neognatos" title="Neognatos — галисийский" lang="gl" hreflang="gl" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%A2%D7%95%D7%A4%D7%95%D7%AA_%D7%9E%D7%A4%D7%95%D7%AA%D7%97%D7%99%D7%9D_%D7%97%D7%A1%D7%A8%D7%99_%D7%A9%D7%99%D7%A0%D7%99%D7%99%D7%9D" title="עופות מפותחים חסרי שיניים — иврит" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/Neognathae" title="Neognathae — хорватский" lang="hr" hreflang="hr" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/%C3%9Ajmad%C3%A1rszab%C3%A1s%C3%BAak" title="Újmadárszabásúak — венгерский" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-id mw-list-item"><a href="https://id.wikipedia.org/wiki/Neognathae" title="Neognathae — индонезийский" lang="id" hreflang="id" class="interlanguage-link-target"><span>Bahasa Indonesia</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Neognathae" title="Neognathae — итальянский" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E6%96%B0%E9%A1%8E%E9%A1%9E" title="新顎類 — японский" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-kk mw-list-item"><a href="https://kk.wikipedia.org/wiki/%D2%9A%D1%8B%D1%80%D0%BB%D1%8B_%D1%82%D3%A9%D1%81%D1%82%D1%96_%D2%9B%D2%B1%D1%81%D1%82%D0%B0%D1%80" title="Қырлы төсті құстар — казахский" lang="kk" hreflang="kk" class="interlanguage-link-target"><span>Қазақша</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EC%8B%A0%EC%95%85%EB%A5%98" title="신악류 — корейский" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-la mw-list-item"><a href="https://la.wikipedia.org/wiki/Neognathae" title="Neognathae — латинский" lang="la" hreflang="la" class="interlanguage-link-target"><span>Latina</span></a></li><li class="interlanguage-link interwiki-lv mw-list-item"><a href="https://lv.wikipedia.org/wiki/Neognati" title="Neognati — латышский" lang="lv" hreflang="lv" class="interlanguage-link-target"><span>Latviešu</span></a></li><li class="interlanguage-link interwiki-mk mw-list-item"><a href="https://mk.wikipedia.org/wiki/%D0%9D%D0%BE%D0%B2%D0%BE%D0%B2%D0%B8%D0%BB%D0%B8%D1%87%D0%BD%D0%B8" title="Нововилични — македонский" lang="mk" hreflang="mk" class="interlanguage-link-target"><span>Македонски</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Neognathae" title="Neognathae — нидерландский" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-nn mw-list-item"><a href="https://nn.wikipedia.org/wiki/Neognathae" title="Neognathae — нюнорск" lang="nn" hreflang="nn" class="interlanguage-link-target"><span>Norsk nynorsk</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Moderne_n%C3%A5tidsfugler" title="Moderne nåtidsfugler — норвежский букмол" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-nv mw-list-item"><a href="https://nv.wikipedia.org/wiki/Ts%C3%ADdii_ndaat%CA%BC%C3%A1%CA%BCii" title="Tsídii ndaatʼáʼii — навахо" lang="nv" hreflang="nv" class="interlanguage-link-target"><span>Diné bizaad</span></a></li><li class="interlanguage-link interwiki-oc mw-list-item"><a href="https://oc.wikipedia.org/wiki/Neognathae" title="Neognathae — окситанский" lang="oc" hreflang="oc" class="interlanguage-link-target"><span>Occitan</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Ptaki_neognatyczne" title="Ptaki neognatyczne — польский" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-ps mw-list-item"><a href="https://ps.wikipedia.org/wiki/%D8%A7%D9%84%D9%88%D8%AA%D9%88%D9%86%DA%A9%DB%8C_%D9%85%D8%B1%D8%BA%D8%A7%D9%86" title="الوتونکی مرغان — пушту" lang="ps" hreflang="ps" class="interlanguage-link-target"><span>پښتو</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Neognatas" title="Neognatas — португальский" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-sco mw-list-item"><a href="https://sco.wikipedia.org/wiki/Neognathae" title="Neognathae — шотландский" lang="sco" hreflang="sco" class="interlanguage-link-target"><span>Scots</span></a></li><li class="interlanguage-link interwiki-sh mw-list-item"><a href="https://sh.wikipedia.org/wiki/Neognathae" title="Neognathae — сербскохорватский" lang="sh" hreflang="sh" class="interlanguage-link-target"><span>Srpskohrvatski / српскохрватски</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Neognathae" title="Neognathae — Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sk mw-list-item"><a href="https://sk.wikipedia.org/wiki/Letce" title="Letce — словацкий" lang="sk" hreflang="sk" class="interlanguage-link-target"><span>Slovenčina</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/%D0%9F%D1%82%D0%B8%D1%86%D0%B5_%D0%BB%D0%B5%D1%82%D0%B0%D1%87%D0%B8%D1%86%D0%B5" title="Птице летачице — сербский" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Neognata_f%C3%A5glar" title="Neognata fåglar — шведский" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-ta mw-list-item"><a href="https://ta.wikipedia.org/wiki/%E0%AE%A8%E0%AE%BF%E0%AE%AF%E0%AF%8B%E0%AE%95%E0%AF%8D%E0%AE%A9%E0%AE%A4%E0%AE%BE%E0%AE%AF%E0%AF%8D" title="நியோக்னதாய் — тамильский" lang="ta" hreflang="ta" class="interlanguage-link-target"><span>தமிழ்</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Neognathae" title="Neognathae — турецкий" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%9A%D1%96%D0%BB%D0%B5%D0%B3%D1%80%D1%83%D0%B4%D1%96" title="Кілегруді — украинский" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-vi mw-list-item"><a href="https://vi.wikipedia.org/wiki/Ph%C3%A2n_th%E1%BB%A9_l%E1%BB%9Bp_Chim_h%C3%A0m_m%E1%BB%9Bi" title="Phân thứ lớp Chim hàm mới — вьетнамский" lang="vi" hreflang="vi" class="interlanguage-link-target"><span>Tiếng Việt</span></a></li><li class="interlanguage-link interwiki-zea mw-list-item"><a href="https://zea.wikipedia.org/wiki/Nieuwkaekveugels" title="Nieuwkaekveugels — Zeelandic" lang="zea" hreflang="zea" class="interlanguage-link-target"><span>Zeêuws</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E4%BB%8A%E9%A2%9A%E7%B1%BB" title="今颚类 — китайский" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q19168#sitelinks-wikipedia" title="Править межъязыковые ссылки" class="wbc-editpage">Править ссылки</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Эта страница в последний раз была отредактирована 30 августа 2022 в 10:36.</li>
+	<li id="footer-info-copyright">Текст доступен по <a rel="license" href="//ru.wikipedia.org/wiki/Википедия:Текст_лицензии_Creative_Commons_Attribution-ShareAlike_3.0_Unported">лицензии Creative Commons Attribution-ShareAlike</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>; в отдельных случаях могут действовать дополнительные условия.
+<span class="noprint">Подробнее см. <a href="//foundation.wikimedia.org/wiki/Terms_of_Use/ru">Условия использования</a>.</span><br>
+Wikipedia® — зарегистрированный товарный знак некоммерческой организации <a href="//wikimediafoundation.org">Wikimedia Foundation, Inc.</a></li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/ru">Политика конфиденциальности</a></li>
+	<li id="footer-places-about"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5">Описание Википедии</a></li>
+	<li id="footer-places-disclaimers"><a href="/wiki/%D0%92%D0%B8%D0%BA%D0%B8%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F:%D0%9E%D1%82%D0%BA%D0%B0%D0%B7_%D0%BE%D1%82_%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8">Отказ от ответственности</a></li>
+	<li id="footer-places-contact"><a href="//ru.wikipedia.org/wiki/Википедия:Контакты">Свяжитесь с нами</a></li>
+	<li id="footer-places-mobileview"><a href="//ru.m.wikipedia.org/w/index.php?title=%D0%9D%D0%BE%D0%B2%D0%BE%D0%BD%D1%91%D0%B1%D0%BD%D1%8B%D0%B5&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобильная версия</a></li>
+	<li id="footer-places-developers"><a href="https://developer.wikimedia.org">Разработчики</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/ru.wikipedia.org">Статистика</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Заявление о куки</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/footer/wikimedia-button.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/footer/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.424","walltime":"0.533","ppvisitednodes":{"value":6168,"limit":1000000},"postexpandincludesize":{"value":176062,"limit":2097152},"templateargumentsize":{"value":15574,"limit":2097152},"expansiondepth":{"value":22,"limit":100},"expensivefunctioncount":{"value":10,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":51717,"limit":5000000},"entityaccesscount":{"value":8,"limit":400},"timingprofile":["100.00%  438.859      1 -total"," 76.33%  334.974     26 Шаблон:Clade"," 58.12%  255.053      1 Шаблон:Таксон"," 50.45%  221.388      1 Шаблон:Карточка"," 35.36%  155.177     26 Шаблон:Wikidata"," 19.18%   84.182      1 Шаблон:Примечания"," 15.82%   69.419      8 Шаблон:If-wikidata","  6.74%   29.569      1 Шаблон:Статья","  3.91%   17.143      1 Шаблон:Бсокр","  3.55%   15.596      1 Шаблон:L6e"]},"scribunto":{"limitreport-timeusage":{"value":"0.232","limit":"10.000"},"limitreport-memusage":{"value":5693843,"limit":52428800},"limitreport-logs":"Loaded datatype string of P225 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype string of P225 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype string of P935 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype string of P935 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype string of P935 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype string of P935 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype string of P935 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P815 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P685 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P685 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P830 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P830 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P962 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P842 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P842 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype string of P935 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P815 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P685 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype external-id of P830 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype string of P225 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\nLoaded datatype string of P225 from wikidata, consider passing datatype argument to formatProperty call or to Wikidata/config\n"},"cachereport":{"origin":"mw1397","timestamp":"20230218141329","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u041d\u043e\u0432\u043e\u043d\u0451\u0431\u043d\u044b\u0435","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%9D%D0%BE%D0%B2%D0%BE%D0%BD%D1%91%D0%B1%D0%BD%D1%8B%D0%B5","sameAs":"http:\/\/www.wikidata.org\/entity\/Q19168","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q19168","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-01-22T05:52:19Z","dateModified":"2022-08-30T10:36:59Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/f\/f5\/Neognathae.jpg","headline":"\u043f\u043e\u0434\u043a\u043b\u0430\u0441\u0441 \u043f\u0442\u0438\u0446"}</script><script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u041d\u043e\u0432\u043e\u043d\u0451\u0431\u043d\u044b\u0435","url":"https:\/\/ru.wikipedia.org\/wiki\/%D0%9D%D0%BE%D0%B2%D0%BE%D0%BD%D1%91%D0%B1%D0%BD%D1%8B%D0%B5","sameAs":"http:\/\/www.wikidata.org\/entity\/Q19168","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q19168","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0438\u043a\u0438\u043c\u0435\u0434\u0438\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2006-01-22T05:52:19Z","dateModified":"2022-08-30T10:36:59Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/f\/f5\/Neognathae.jpg","headline":"\u043f\u043e\u0434\u043a\u043b\u0430\u0441\u0441 \u043f\u0442\u0438\u0446"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":180,"wgHostname":"mw1364"});});</script>
+</body>
+</html>
